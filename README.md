@@ -125,3 +125,4 @@ This will automatically merge any split parts into a single monolithic JSON file
 ## ⚖️ License & Attribution
 
 This dataset is compiled for educational, research, and non-commercial Islamic software development. All Quranic Arabic texts and canonical translations are verified against authenticated open-source corpora.
+
