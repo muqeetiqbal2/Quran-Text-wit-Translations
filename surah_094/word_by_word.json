@@ -1,0 +1,479 @@
+[
+  {
+    "surah_id": 94,
+    "ayah_number": 0,
+    "global_ayah_id": 6183,
+    "urdu_phrase_raw": "بِسۡمِ& ساتھ نام@اللّٰہِ& اللہ کے@الرَّحۡمٰنِ&  جو بڑا مہربان@الرَّحِیۡمِ& بار بار رحم فرمانے والا ہے",
+    "english_phrase_raw": "بِسۡمِ&In (the) name@اللّٰہِ&(of) Allah,@الرَّحۡمٰنِ&the Most Gracious,@الرَّحِیۡمِ&the Most Merciful.",
+    "words": [
+      {
+        "word_id": 1,
+        "arabic": "بِسۡمِ ",
+        "root": "س م و",
+        "urdu_meaning": " ساتھ نام",
+        "english_meaning": "In (the) name",
+        "lemma": "اسْم",
+        "lughat": "",
+        "grammar": [
+          "P",
+          "N"
+        ]
+      },
+      {
+        "word_id": 2,
+        "arabic": "اللّٰہِ ",
+        "root": "ا ل ه",
+        "urdu_meaning": " اللہ کے",
+        "english_meaning": "(of) Allah,",
+        "lemma": "اللّٰہ",
+        "lughat": "",
+        "grammar": [
+          "PN"
+        ]
+      },
+      {
+        "word_id": 3,
+        "arabic": "الرَّحۡمٰنِ ",
+        "root": "ر ح م",
+        "urdu_meaning": "  جو بڑا مہربان",
+        "english_meaning": "the Most Gracious,",
+        "lemma": "رَحْمٰن",
+        "lughat": "",
+        "grammar": [
+          "DET",
+          "N"
+        ]
+      },
+      {
+        "word_id": 4,
+        "arabic": "الرَّحِیۡمِ",
+        "root": "ر ح م",
+        "urdu_meaning": " بار بار رحم فرمانے والا ہے",
+        "english_meaning": "the Most Merciful.",
+        "lemma": "رَحِيم",
+        "lughat": "",
+        "grammar": [
+          "DET",
+          "N"
+        ]
+      }
+    ]
+  },
+  {
+    "surah_id": 94,
+    "ayah_number": 1,
+    "global_ayah_id": 6184,
+    "urdu_phrase_raw": "اَلَمۡ&کیا نہیں@نَشۡرَحۡ&ہم نے کھول دیا@لَکَ&آپ کے لیے@صَدۡرَکَ&سینہ آپ کا",
+    "english_phrase_raw": "اَلَمۡ&Have not@نَشۡرَحۡ&We expanded@لَکَ&for you@صَدۡرَکَ&your breast?",
+    "words": [
+      {
+        "word_id": 1,
+        "arabic": "اَلَمۡ ",
+        "root": "",
+        "urdu_meaning": "کیا نہیں",
+        "english_meaning": "Have not",
+        "lemma": "لَم",
+        "lughat": "",
+        "grammar": [
+          "INTG",
+          "NEG"
+        ]
+      },
+      {
+        "word_id": 2,
+        "arabic": "نَشۡرَحۡ  ",
+        "root": "ش ر ح",
+        "urdu_meaning": "ہم نے کھول دیا",
+        "english_meaning": "We expanded",
+        "lemma": "شَرَحَ",
+        "lughat": "",
+        "grammar": [
+          "V"
+        ]
+      },
+      {
+        "word_id": 3,
+        "arabic": "لَکَ ",
+        "root": "",
+        "urdu_meaning": "آپ کے لیے",
+        "english_meaning": "for you",
+        "lemma": "",
+        "lughat": "",
+        "grammar": [
+          "P",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 4,
+        "arabic": "صَدۡرَکَ ۙ﴿۱﴾",
+        "root": "ص د ر",
+        "urdu_meaning": "سینہ آپ کا",
+        "english_meaning": "your breast?",
+        "lemma": "صَدْر",
+        "lughat": "",
+        "grammar": [
+          "N",
+          "PRON"
+        ]
+      }
+    ]
+  },
+  {
+    "surah_id": 94,
+    "ayah_number": 2,
+    "global_ayah_id": 6185,
+    "urdu_phrase_raw": "وَوَضَعۡنَا&اور اتاردیا ہم نے@عَنۡکَ&آپ سے@وِزۡرَکَ&بوجھ آپ کا",
+    "english_phrase_raw": "وَوَضَعۡنَا&And We removed@عَنۡکَ&from you@وِزۡرَکَ&your burden",
+    "words": [
+      {
+        "word_id": 1,
+        "arabic": "وَ وَضَعۡنَا ",
+        "root": "و ض ع",
+        "urdu_meaning": "اور اتاردیا ہم نے",
+        "english_meaning": "And We removed",
+        "lemma": "وَضَعَ",
+        "lughat": "",
+        "grammar": [
+          "CONJ",
+          "V",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 2,
+        "arabic": "عَنۡکَ ",
+        "root": "",
+        "urdu_meaning": "آپ سے",
+        "english_meaning": "from you",
+        "lemma": "عَن",
+        "lughat": "",
+        "grammar": [
+          "P",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 3,
+        "arabic": "وِزۡرَکَ ۙ﴿۲﴾",
+        "root": "و ز ر",
+        "urdu_meaning": "بوجھ آپ کا",
+        "english_meaning": "your burden",
+        "lemma": "وِزْر",
+        "lughat": "",
+        "grammar": [
+          "N",
+          "PRON"
+        ]
+      }
+    ]
+  },
+  {
+    "surah_id": 94,
+    "ayah_number": 3,
+    "global_ayah_id": 6186,
+    "urdu_phrase_raw": "الَّذِیۡۤ&وہ جس نے@اَنۡقَضَ&توڑ دی تھی@ظَہۡرَکَ&کمر آپ کی",
+    "english_phrase_raw": "الَّذِیۡۤ&Which@اَنۡقَضَ&weighed upon@ظَہۡرَکَ&your back,",
+    "words": [
+      {
+        "word_id": 1,
+        "arabic": "الَّذِیۡۤ  ",
+        "root": "ٱلَّذِى",
+        "urdu_meaning": "وہ جس نے",
+        "english_meaning": "Which",
+        "lemma": "الَّذِي",
+        "lughat": "",
+        "grammar": [
+          "REL"
+        ]
+      },
+      {
+        "word_id": 2,
+        "arabic": "اَنۡقَضَ ",
+        "root": "ن ق ض",
+        "urdu_meaning": "توڑ دی تھی",
+        "english_meaning": "weighed upon",
+        "lemma": "أَنقَضَ",
+        "lughat": "",
+        "grammar": [
+          "V"
+        ]
+      },
+      {
+        "word_id": 3,
+        "arabic": "ظَہۡرَکَ ۙ﴿۳﴾",
+        "root": "ظ ه ر",
+        "urdu_meaning": "کمر آپ کی",
+        "english_meaning": "your back,",
+        "lemma": "ظَهْر",
+        "lughat": "",
+        "grammar": [
+          "N",
+          "PRON"
+        ]
+      }
+    ]
+  },
+  {
+    "surah_id": 94,
+    "ayah_number": 4,
+    "global_ayah_id": 6187,
+    "urdu_phrase_raw": "وَرَفَعۡنَا&اور بلند کیا ہم نے@لَکَ&آپ کے لیے@ذِکۡرَکَ&ذکر آپ کا",
+    "english_phrase_raw": "وَرَفَعۡنَا&And We raised high@لَکَ&for you@ذِکۡرَکَ&your esteem",
+    "words": [
+      {
+        "word_id": 1,
+        "arabic": "وَ رَفَعۡنَا ",
+        "root": "ر ف ع",
+        "urdu_meaning": "اور بلند کیا ہم نے",
+        "english_meaning": "And We raised high",
+        "lemma": "رَفَعَ",
+        "lughat": "",
+        "grammar": [
+          "CONJ",
+          "V",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 2,
+        "arabic": "لَکَ ",
+        "root": "",
+        "urdu_meaning": "آپ کے لیے",
+        "english_meaning": "for you",
+        "lemma": "",
+        "lughat": "",
+        "grammar": [
+          "P",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 3,
+        "arabic": "ذِکۡرَکَ ؕ﴿۴﴾",
+        "root": "ذ ك ر",
+        "urdu_meaning": "ذکر آپ کا",
+        "english_meaning": "your esteem",
+        "lemma": "ذِكْر",
+        "lughat": "",
+        "grammar": [
+          "N",
+          "PRON"
+        ]
+      }
+    ]
+  },
+  {
+    "surah_id": 94,
+    "ayah_number": 5,
+    "global_ayah_id": 6188,
+    "urdu_phrase_raw": "فَاِنَّ& پس یقیناً@مَعَ&ساتھ@الۡعُسۡرِ&تنگی کے@یُسۡرًا& آسانی ہے",
+    "english_phrase_raw": "فَاِنَّ&So indeed,@مَعَ&with@الۡعُسۡرِ&the hardship@یُسۡرًا&(is) ease.",
+    "words": [
+      {
+        "word_id": 1,
+        "arabic": "فَاِنَّ ",
+        "root": "اِنَّ",
+        "urdu_meaning": " پس یقیناً",
+        "english_meaning": "So indeed,",
+        "lemma": "إِنّ",
+        "lughat": "",
+        "grammar": [
+          "CONJ",
+          "ACC"
+        ]
+      },
+      {
+        "word_id": 2,
+        "arabic": "مَعَ ",
+        "root": "",
+        "urdu_meaning": "ساتھ",
+        "english_meaning": "with",
+        "lemma": "مَع",
+        "lughat": "",
+        "grammar": [
+          "P"
+        ]
+      },
+      {
+        "word_id": 3,
+        "arabic": "الۡعُسۡرِ  ",
+        "root": "ع س ر",
+        "urdu_meaning": "تنگی کے",
+        "english_meaning": "the hardship",
+        "lemma": "عُسْر",
+        "lughat": "",
+        "grammar": [
+          "DET",
+          "N"
+        ]
+      },
+      {
+        "word_id": 4,
+        "arabic": "یُسۡرًا ۙ﴿۵﴾",
+        "root": "ي س ر",
+        "urdu_meaning": " آسانی ہے",
+        "english_meaning": "(is) ease.",
+        "lemma": "يُسْر",
+        "lughat": "",
+        "grammar": [
+          "N"
+        ]
+      }
+    ]
+  },
+  {
+    "surah_id": 94,
+    "ayah_number": 6,
+    "global_ayah_id": 6189,
+    "urdu_phrase_raw": "اِنَّ&یقیناً@مَعَ&ساتھ@الۡعُسۡرِ&تنگی کے@یُسۡرًا& آسانی ہے",
+    "english_phrase_raw": "اِنَّ&Indeed,@مَعَ&with@الۡعُسۡرِ&the hardship@یُسۡرًا&(is) ease.",
+    "words": [
+      {
+        "word_id": 1,
+        "arabic": "اِنَّ ",
+        "root": "اِنَّ",
+        "urdu_meaning": "یقیناً",
+        "english_meaning": "Indeed,",
+        "lemma": "إِنّ",
+        "lughat": "",
+        "grammar": [
+          "ACC"
+        ]
+      },
+      {
+        "word_id": 2,
+        "arabic": "مَعَ ",
+        "root": "",
+        "urdu_meaning": "ساتھ",
+        "english_meaning": "with",
+        "lemma": "مَع",
+        "lughat": "",
+        "grammar": [
+          "P"
+        ]
+      },
+      {
+        "word_id": 3,
+        "arabic": "الۡعُسۡرِ  ",
+        "root": "ع س ر",
+        "urdu_meaning": "تنگی کے",
+        "english_meaning": "the hardship",
+        "lemma": "عُسْر",
+        "lughat": "",
+        "grammar": [
+          "DET",
+          "N"
+        ]
+      },
+      {
+        "word_id": 4,
+        "arabic": "یُسۡرًا ؕ﴿۶﴾",
+        "root": "ي س ر",
+        "urdu_meaning": " آسانی ہے",
+        "english_meaning": "(is) ease.",
+        "lemma": "يُسْر",
+        "lughat": "",
+        "grammar": [
+          "N"
+        ]
+      }
+    ]
+  },
+  {
+    "surah_id": 94,
+    "ayah_number": 7,
+    "global_ayah_id": 6190,
+    "urdu_phrase_raw": "فَاِذَا& پس جب@فَرَغۡتَ&فارغ ہو جائیں آپ@فَانۡصَبۡ&تو محنت کیجیے",
+    "english_phrase_raw": "فَاِذَا&So when@فَرَغۡتَ&you have finished@فَانۡصَبۡ&then labor hard.",
+    "words": [
+      {
+        "word_id": 1,
+        "arabic": "فَاِذَا  ",
+        "root": "اِذَا",
+        "urdu_meaning": " پس جب",
+        "english_meaning": "So when",
+        "lemma": "إِذا",
+        "lughat": "",
+        "grammar": [
+          "REM",
+          "T"
+        ]
+      },
+      {
+        "word_id": 2,
+        "arabic": "فَرَغۡتَ ",
+        "root": "ف ر غ",
+        "urdu_meaning": "فارغ ہو جائیں آپ",
+        "english_meaning": "you have finished",
+        "lemma": "فَرَغْ",
+        "lughat": "",
+        "grammar": [
+          "V",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 3,
+        "arabic": "فَانۡصَبۡ ۙ﴿۷﴾",
+        "root": "ن ص ب",
+        "urdu_meaning": "تو محنت کیجیے",
+        "english_meaning": "then labor hard.",
+        "lemma": "نُصِبَتْ",
+        "lughat": "",
+        "grammar": [
+          "RSLT",
+          "V"
+        ]
+      }
+    ]
+  },
+  {
+    "surah_id": 94,
+    "ayah_number": 8,
+    "global_ayah_id": 6191,
+    "urdu_phrase_raw": "وَاِلٰی رَبِّکَ&اور طرف اپنے رب کے@فَارۡغَبۡ&پس رغبت کیجیے",
+    "english_phrase_raw": "وَاِلٰی &And to@رَبِّکَ&your Lord@فَارۡغَبۡ&turn your attention.",
+    "words": [
+      {
+        "word_id": 1,
+        "arabic": "وَ اِلٰی  ",
+        "root": "إِلَىٰ",
+        "urdu_meaning": "اور طرف",
+        "english_meaning": "And to",
+        "lemma": "إِلَى",
+        "lughat": "",
+        "grammar": [
+          "CONJ",
+          "P"
+        ]
+      },
+      {
+        "word_id": 2,
+        "arabic": "رَبِّکَ ",
+        "root": "ر ب ب",
+        "urdu_meaning": "اپنے رب کے",
+        "english_meaning": "your Lord",
+        "lemma": "رَبّ",
+        "lughat": "",
+        "grammar": [
+          "N",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 3,
+        "arabic": "فَارۡغَبۡ ٪﴿۸﴾                 19",
+        "root": "ر غ ب",
+        "urdu_meaning": "پس رغبت کیجیے",
+        "english_meaning": "turn your attention.",
+        "lemma": "يَرْغَبُ",
+        "lughat": "",
+        "grammar": [
+          "CONJ",
+          "V"
+        ]
+      }
+    ]
+  }
+]
