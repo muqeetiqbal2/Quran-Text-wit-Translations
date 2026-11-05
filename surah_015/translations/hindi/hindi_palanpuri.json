@@ -1,0 +1,602 @@
+[
+  {
+    "surah_id": 15,
+    "ayah_number": 0,
+    "global_ayah_id": 1816,
+    "translation": "अल्लाह के नाम से शुरू करता हूँ जो बड़ा मेहरबान निहायत रहम करने वाला है।"
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 1,
+    "global_ayah_id": 1817,
+    "translation": "अलिफ़-लाम-रा, ये आयतें हैं किताब की और एक वाज़ेह क़ुरआन की।"
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 2,
+    "global_ayah_id": 1818,
+    "translation": "वह वक़्त आएगा जब इनकार करने वाले लोग तमन्ना करेंगे कि काश वे मानने वाले बने होते।"
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 3,
+    "global_ayah_id": 1819,
+    "translation": "उनको छोड़ दीजिए कि वे खाएं और फ़ायदा उठाएं और ख़्याली उम्मीद उनको भुलावे में डाले रखे पस आइंदा वे जान लेंगे।"
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 4,
+    "global_ayah_id": 1820,
+    "translation": "और हमने इससे पहले जिस बस्ती को भी हलाक किया है उसका एक मुक़र्रर वक़्त लिखा हुआ था।"
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 5,
+    "global_ayah_id": 1821,
+    "translation": "कोई क़ौम न अपने मुक़र्रर वक़्त से आगे बढ़ती है और न पीछे हटती है।"
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 6,
+    "global_ayah_id": 1822,
+    "translation": "और यह लोग कहते हैं कि ऐ वह शख़्स जिस पर नसीहत उतरी है तू बेशक दीवाना है।"
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 7,
+    "global_ayah_id": 1823,
+    "translation": "अगर तू सच्चा है तो हमारे पास फ़रिश्तों को क्यों नहीं ले आता।"
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 8,
+    "global_ayah_id": 1824,
+    "translation": "हम फ़रिश्तों को सिर्फ़ फ़ैसले के लिए उतारते हैं और उस वक़्त लोगों को मोहलत नहीं दी जाती।"
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 9,
+    "global_ayah_id": 1825,
+    "translation": "हमने ही इस क़ुरआन को नाज़िल किया है और हम ही इसके मुहाफ़िज़ हैं।"
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 10,
+    "global_ayah_id": 1826,
+    "translation": "और हम आपसे पहले गुज़री हुई क़ौमों में रसूल भेज चुके हैं।"
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 11,
+    "global_ayah_id": 1827,
+    "translation": "और जो रसूल भी उनके पास आया वह उसका मज़ाक़ उड़ाते रहे।"
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 12,
+    "global_ayah_id": 1828,
+    "translation": "इसी तरह हम यह (मज़ाक़) मुजरिमों के दिलों में डाल देते हैं।"
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 13,
+    "global_ayah_id": 1829,
+    "translation": "वे उस पर ईमान नहीं लाएंगे और यह दस्तूर अगलों से होता आया है।"
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 14,
+    "global_ayah_id": 1830,
+    "translation": "और अगर हम उन पर आसमान का कोई दरवाज़ा खोल देते जिस पर वे चढ़ने लगते।"
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 15,
+    "global_ayah_id": 1831,
+    "translation": "तब भी वे कह देते कि हमारी आँखों को धोखा हो रहा हैबल्कि हम पर तो जादू कर दिया गया है।"
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 16,
+    "global_ayah_id": 1832,
+    "translation": "और हमने आसमान में बुर्ज बनाए और देखने वालों के लिए उसे रौनक़ दी।"
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 17,
+    "global_ayah_id": 1833,
+    "translation": "और हमने उसको हर शैतान मरदूद से महफ़ूज़ किया।"
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 18,
+    "global_ayah_id": 1834,
+    "translation": "कोई चोरी-छुपे सुनने के लिए कान लगाता है तो एक रौशन शोला उसका पीछा करता है।"
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 19,
+    "global_ayah_id": 1835,
+    "translation": "और हमने ज़मीन को फैलाया और उस पर हमने पहाड़ रख दिए और उसमें हर चीज़ एक अंदाज़े से उगाई।"
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 20,
+    "global_ayah_id": 1836,
+    "translation": "और उसी में हमने तुम्हारी रोज़ियाँ बना दी हैं और जिन्हें तुम रोज़ी देने वाले नहीं हो।"
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 21,
+    "global_ayah_id": 1837,
+    "translation": "और कोई चीज़ ऐसी नहीं जिसके ख़ज़ाने हमारे पास न हों, और हम उसको एक मुअय्यन अंदाज़े के साथ ही उतारते हैं।"
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 22,
+    "global_ayah_id": 1838,
+    "translation": "और हम ही हवाओं को बोझल बनाकर चलाते हैं फिर हम आसमान से पानी बरसाते हैं फिर उस पानी से तुमको सैराब करते हैं, और तुम्हारे बस में न था कि तुम उसका ज़ख़ीरा करके रखते।"
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 23,
+    "global_ayah_id": 1839,
+    "translation": "और बेशक हम ही ज़िंदा करते हैं और हम ही मारते हैं और हम ही बाक़ी रह जाएंगे।"
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 24,
+    "global_ayah_id": 1840,
+    "translation": "और हम तुम्हारे अगलों को भी जानते हैं और तुम्हारे पिछलों को भी जानते हैं।"
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 25,
+    "global_ayah_id": 1841,
+    "translation": "और बेशक आपका रब उन सबको इकट्ठा करेगा, वह इल्म वाला, हिकमत वाला है।"
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 26,
+    "global_ayah_id": 1842,
+    "translation": "यक़ीनन हमने इंसान को काली और सड़ी हुई खनखनाती हुई मिट्टी से पैदा किया है।"
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 27,
+    "global_ayah_id": 1843,
+    "translation": "और इससे पहले जिन्नात को हमने आग की लपट से पैदा किया।"
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 28,
+    "global_ayah_id": 1844,
+    "translation": "और जब आपके रब ने फ़रिश्तों से कहा कि मैं काली और सड़ी हुई खनखनाती हुई मिट्टी से एक इंसान पैदा करने वाला हूँ।"
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 29,
+    "global_ayah_id": 1845,
+    "translation": "जब मैं उसको पूरा बना लूँ और उसमें अपनी रूह में से फूँक दूँ तो तुम उसके लिए सज्दे में गिर पड़ना।"
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 30,
+    "global_ayah_id": 1846,
+    "translation": "पस तमाम फ़रिश्तों ने सज्दा किया।"
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 31,
+    "global_ayah_id": 1847,
+    "translation": "मगर इबलीस कि उसने सज्दा करने वालों का साथ देने से इनकार कर दिया।"
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 32,
+    "global_ayah_id": 1848,
+    "translation": "अल्लाह ने कहाः ऐ इबलीस! तुझको क्या हुआ कि तू सज्दा करने वालों में शामिल न हुआ।"
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 33,
+    "global_ayah_id": 1849,
+    "translation": "वह बोला कि मैं ऐसा नहीं कि उस इंसान को सज्दा करूँ जिसे तूने काली और सड़ी हुई खनखनाती हुई मिट्टी से पैदा किया है।"
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 34,
+    "global_ayah_id": 1850,
+    "translation": "अल्लाह ने कहाः तू यहाँ से निकल जाक्योंकि तू मरदूद है।"
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 35,
+    "global_ayah_id": 1851,
+    "translation": "और तुझ पर मेरी फटकार है क़यामत के दिन तक।"
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 36,
+    "global_ayah_id": 1852,
+    "translation": "इबलीस ने कहाः ऐ मेरे रब! तू मुझे उस दिन तक के लिए मोहलत दे जिस दिन लोग उठाए जाएंगे।"
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 37,
+    "global_ayah_id": 1853,
+    "translation": "अल्लाह ने कहा कि तुझे मोहलत है।"
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 38,
+    "global_ayah_id": 1854,
+    "translation": "उस मुक़र्रर वक़्त के दिन तक।"
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 39,
+    "global_ayah_id": 1855,
+    "translation": "इबलीस ने कहाः ऐ मेरे रब! जैसा तूने मुझको गुमराह किया उसी तरह मैं ज़मीन में उनके लिए मुज़य्यन करूँगा और सबको गुमराह कर दूँगा।"
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 40,
+    "global_ayah_id": 1856,
+    "translation": "सिवाए उनके जो तेरे चुने हुए बंदे हैं।"
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 41,
+    "global_ayah_id": 1857,
+    "translation": "अल्लाह ने फ़रमायाः यह एक सीधा रास्ता है जो मुझ तक पहुँचता है।"
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 42,
+    "global_ayah_id": 1858,
+    "translation": "बेशक जो मेरे बंदे हैं उन पर तेरा ज़ोर नहीं चलेगा सिवाए उनके जो गुमराहों में से तेरी पैरवी करें।"
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 43,
+    "global_ayah_id": 1859,
+    "translation": "और उन सबके लिए जहन्नम का वादा है।"
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 44,
+    "global_ayah_id": 1860,
+    "translation": "उसके सात दरवाज़े हैं, हर दरवाज़े के लिए उन लोगों के अलग-अलग हिस्से हैं।"
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 45,
+    "global_ayah_id": 1861,
+    "translation": "बेशक डरने वाले बाग़ों और चश्मों में होंगे।"
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 46,
+    "global_ayah_id": 1862,
+    "translation": "दाख़िल हो जाओ उनमें सलामती और अमन के साथ।"
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 47,
+    "global_ayah_id": 1863,
+    "translation": "और उनके दिलों में जो कुछ रंजिश व कीना था हम सब कुछ निकाल देंगे, वह भाई-भाई बने हुए एक-दूसरे के आमने-सामने तख़्तों पर बैठे होंगे।"
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 48,
+    "global_ayah_id": 1864,
+    "translation": "वहाँ उनको कोई तकलीफ़ नहीं पहुँचेगी और न वे वहाँ से निकाले जाएंगे।"
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 49,
+    "global_ayah_id": 1865,
+    "translation": "मेरे बंदों को ख़बर दे दीजिए कि मैं बख़्शने वाला, रहमत वाला हूँ।"
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 50,
+    "global_ayah_id": 1866,
+    "translation": "और मेरी सज़ा दर्दनाक सज़ा है।"
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 51,
+    "global_ayah_id": 1867,
+    "translation": "और उनको इब्राहीम (अलै॰) के मेहमानों से आगाह कीजिए।"
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 52,
+    "global_ayah_id": 1868,
+    "translation": "जब वे उसके पास आए फिर उन्होंने सलाम किया, इब्राहीम (अलै॰) ने कहा कि हमें तो तुम से डर लग रहा है।"
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 53,
+    "global_ayah_id": 1869,
+    "translation": "उन्होंने कहाः डरिए मत, हम तो आपको एक लड़के की बशारत देते हैं, जो बड़ा आलिम होगा।"
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 54,
+    "global_ayah_id": 1870,
+    "translation": "इब्राहीम (अलै॰) ने कहाः क्या तुम इस बुढ़ापे में मुझको औलाद की बशारत देते हो, पस तुम किस चीज़ की बशारत मुझको दे रहे हो?"
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 55,
+    "global_ayah_id": 1871,
+    "translation": "उन्होंने कहाः हम आपको हक़ के साथ बशारत देते हैं, पस आप ना-उम्मीद होने वालों में से न बनें।"
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 56,
+    "global_ayah_id": 1872,
+    "translation": "इब्राहीम (अलै॰) ने कहा कि अपने रब की रहमत से गुमराहों के सिवा और कौन ना-उम्मीद हो सकता है।"
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 57,
+    "global_ayah_id": 1873,
+    "translation": "कहा कि ऐ भेजे हुए फ़रिश्तो! अब तुम्हारा क्या काम है?"
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 58,
+    "global_ayah_id": 1874,
+    "translation": "उन्होंने कहा कि हम एक मुजरिम क़ौम की तरफ़ भेजे गए हैं।"
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 59,
+    "global_ayah_id": 1875,
+    "translation": "मगर लूत (अलै॰) के घर वाले कि हम उन सबको बचा लेंगे।"
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 60,
+    "global_ayah_id": 1876,
+    "translation": "सिवाए उनकी बीवी के कि हमने अंदाज़ा कर लिया है कि वह ज़रूर मुजरिम लोगों में रह जाएगी।"
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 61,
+    "global_ayah_id": 1877,
+    "translation": "फिर जब भेजे हुए फ़रिश्ते लूत (अलै॰) के ख़ानदान वालों के पास आए।"
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 62,
+    "global_ayah_id": 1878,
+    "translation": "उन्होंने कहा कि तुम लोग अजनबी मालूम होते हो।"
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 63,
+    "global_ayah_id": 1879,
+    "translation": "उन्होंने कहाः नहींबल्कि हम आपके पास वह चीज़ लेकर आए हैं जिसमें ये लोग शक करते हैं।"
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 64,
+    "global_ayah_id": 1880,
+    "translation": "और हम आपके पास हक़ के साथ आए हैं और हम बिल्कुल सच्चे हैं।"
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 65,
+    "global_ayah_id": 1881,
+    "translation": "अब आप अपने ख़ानदान समेत इस रात के किसी हिस्से में चल दीजिए और आप उनके पीछे रहना, और (ख़बरदार) तुम में कोई पीछे मुड़ कर न देखे और जहाँ का तुम्हें हुक्म किया जा रहा है वहाँ चले जाना।"
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 66,
+    "global_ayah_id": 1882,
+    "translation": "और हमने लूत (अलै॰) के पास यह हुक्म भेजा कि सुबह होते ही उन लोगों की जड़ कट जाएगी।"
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 67,
+    "global_ayah_id": 1883,
+    "translation": "और शहर के लोग ख़ुश होकर आए।"
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 68,
+    "global_ayah_id": 1884,
+    "translation": "लूत (अलै॰) ने कहाः ये लोग मेरे मेहमान हैं पस तुम लोग मुझको रुसवा न करो।"
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 69,
+    "global_ayah_id": 1885,
+    "translation": "और तुम अल्लाह से डरो और मुझको ज़लील न करो।"
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 70,
+    "global_ayah_id": 1886,
+    "translation": "उन्होंने कहाः क्या हमने तुमको दुनिया भर के लोगों से मना नहीं कर दिया।"
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 71,
+    "global_ayah_id": 1887,
+    "translation": "उसने कहाः ये मेरी बेटियाँ हैं अगर तुमको करना ही है।"
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 72,
+    "global_ayah_id": 1888,
+    "translation": "आपकी जान की क़सम! वे तो अपने नशे में मस्त थे।"
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 73,
+    "global_ayah_id": 1889,
+    "translation": "पस सूरज निकलते उन्हें एक बड़े ज़ोर की आवाज़ ने पकड़ लिया।"
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 74,
+    "global_ayah_id": 1890,
+    "translation": "बिल-आख़िर हमने उस शहर को उलट-पलट कर दिया और उन लोगों पर कंकर वाले पत्थर बरसाए।"
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 75,
+    "global_ayah_id": 1891,
+    "translation": "बेशक इसमें निशानियाँ हैं ध्यान करने वालों के लिए।"
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 76,
+    "global_ayah_id": 1892,
+    "translation": "और यह बस्ती एक सीधी राह पर वाक़े है।"
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 77,
+    "global_ayah_id": 1893,
+    "translation": "बेशक इसमें निशानी है ईमान वालों के लिए।"
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 78,
+    "global_ayah_id": 1894,
+    "translation": "और ऐका वाले यक़ीनन ज़ालिम लोग थे।"
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 79,
+    "global_ayah_id": 1895,
+    "translation": "पस हमने उनसे (भी) इंतिक़ाम लिया, और ये दोनों बस्तियाँ खुले रास्ते पर वाक़े हैं।"
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 80,
+    "global_ayah_id": 1896,
+    "translation": "और हिज्र वालों ने भी रसूलों को झुठलाया।"
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 81,
+    "global_ayah_id": 1897,
+    "translation": "और हमने उनको अपनी निशानियाँ दीं मगर वे उनसे मुँह फेरते रहे।"
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 82,
+    "global_ayah_id": 1898,
+    "translation": "और वे पहाड़ों को काट कर उनमें घर बनाते थे कि अमन में रहें।"
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 83,
+    "global_ayah_id": 1899,
+    "translation": "पस उनको सुबह के वक़्त सख़्त आवाज़ ने पकड़ लिया।"
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 84,
+    "global_ayah_id": 1900,
+    "translation": "पस उनका किया हुआ उनके कुछ काम न आया।"
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 85,
+    "global_ayah_id": 1901,
+    "translation": "और हमने आसमानों और ज़मीन को और जो कुछ उनके दरमियान है हिकमत के बग़ैर नहीं बनाया, और यक़ीनन क़यामत आने वाली है पस आप ख़ूबी के साथ दरगुज़र कीजिए।"
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 86,
+    "global_ayah_id": 1902,
+    "translation": "बेशक आपका रब ही सबका ख़ालिक़ है, जानने वाला है।"
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 87,
+    "global_ayah_id": 1903,
+    "translation": "और यक़ीनन हमने आपको सात आयतें दे रखी हैं कि दोहराई जाती हैं और अज़मत वाला क़ुरआन भी दे रखा है।"
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 88,
+    "global_ayah_id": 1904,
+    "translation": "उस दुनियावी सामान की तरफ़ आँख उठाकर न देखें जो हमने उनमें से मुख़्तलिफ़ लोगों को दिया है और उन पर ग़म न करें, और ईमान वालों पर अपनी शफ़क़त के बाज़ू झुका दीजिए।"
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 89,
+    "global_ayah_id": 1905,
+    "translation": "और कहिए कि मैं एक खुला हुआ डराने वाला हूँ।"
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 90,
+    "global_ayah_id": 1906,
+    "translation": "इसी तरह हमने तक़सीम करने वालों पर भी उतारा था।"
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 91,
+    "global_ayah_id": 1907,
+    "translation": "जिन्होंने (अपने) क़ुरआन के टुकड़े-टुकड़े कर दिए।"
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 92,
+    "global_ayah_id": 1908,
+    "translation": "पस आपके रब की क़सम! हम उन सब से ज़रूर पूछेंगे।"
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 93,
+    "global_ayah_id": 1909,
+    "translation": "जो कुछ वे करते थे।"
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 94,
+    "global_ayah_id": 1910,
+    "translation": "पस जिस चीज़ का आपको हुक्म मिला है उसको खोल कर सुना दीजिए और मुशरिकों से एराज़ कीजिए।"
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 95,
+    "global_ayah_id": 1911,
+    "translation": "हम आपकी तरफ़ से इन मज़ाक़ उड़ाने वालों के लिए काफ़ी हैं।"
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 96,
+    "global_ayah_id": 1912,
+    "translation": "जो अल्लाह के साथ दूसरे माबूद को शरीक करते हैं पस जल्द ही वे जान लेंगे।"
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 97,
+    "global_ayah_id": 1913,
+    "translation": "और हम जानते हैं कि जो कुछ वे कहते हैं उससे आपका दिल तंग होता है।"
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 98,
+    "global_ayah_id": 1914,
+    "translation": "पस आप अपने रब की हम्द के साथ उसकी तस्बीह कीजिए और सज्दा करने वालों में से बन जाइए।"
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 99,
+    "global_ayah_id": 1915,
+    "translation": "और अपने रब की इबादत करते रहिए यहाँ तक कि आपको मौत आजाए।"
+  }
+]

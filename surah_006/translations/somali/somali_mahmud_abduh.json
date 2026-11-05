@@ -1,0 +1,992 @@
+[
+  {
+    "surah_id": 6,
+    "ayah_number": 1,
+    "global_ayah_id": 790,
+    "translation": "Mahad Eebaa iska leh ahna kan Abuuray Samooyinka iyo Dhulka, Yeelayna Mugdiya iyo Nuurka, Kuwa Gallobayse Eebahood yey wax la simi (la Caabudi)"
+  },
+  {
+    "surah_id": 6,
+    "ayah_number": 2,
+    "global_ayah_id": 791,
+    "translation": "Eebe waa kan idinka Abuuray Dhoobo Markaas Xukumay Ajal (Muddo) Ajal Magacaaban Yaana Agtiisa ah, idinkuse Gaalooy waad Shakisantihiin."
+  },
+  {
+    "surah_id": 6,
+    "ayah_number": 3,
+    "global_ayah_id": 792,
+    "translation": "Eebe waa ILaaha Samooyinka waxa ku Sugan iyo waxa Dhulka ku Sugan wuxuuna Ogyahay Qarsoodigiinna iyo Muujiskiinna, wuxuuna Ogyahay, waxaad kasbanaysaan."
+  },
+  {
+    "surah_id": 6,
+    "ayah_number": 4,
+    "global_ayah_id": 793,
+    "translation": "Aayaddii u Timaadda oo Aayadaha Eebahaa ka mid ah way ka Jeedsadaan."
+  },
+  {
+    "surah_id": 6,
+    "ayah_number": 5,
+    "global_ayah_id": 794,
+    "translation": "Waxayna Dhab u Beeniyeen Xaqii Markuu u yimid Waxaase u Imaan Doona (Cidhibta) warkay ku Jees jeesayeen."
+  },
+  {
+    "surah_id": 6,
+    "ayah_number": 6,
+    "global_ayah_id": 795,
+    "translation": "Miyeyna Arkayn intaan Halaagnay Hortood (wax badan) oo Qarniyo ah, oon ku Makaninay (siinay) Dhulka waxaanaan idin Makanin (Siinin) waxaan uga soo deeynay Samada (Roob) Darar ah, Waxaana ka Yeelay Wabiyada kuwo Socda Dhexdooda waanse Halaagnay Dambigooda Dartiis waxaana Ahaysiinay Gadaashood Qarni Kale."
+  },
+  {
+    "surah_id": 6,
+    "ayah_number": 7,
+    "global_ayah_id": 796,
+    "translation": "Haddaan kugu soo Dejino Nabiyow Kitaab Qoran oo ay ku Taabtaan Gaemahooda waxay odhan kuwii Gaaloobay kani waxaan Sixir Cad aan ahayn ma aha."
+  },
+  {
+    "surah_id": 6,
+    "ayah_number": 8,
+    "global_ayah_id": 797,
+    "translation": "Waxayna Dhihi maa lagu so Dejiyo Malag, Haddaan soo Dejinno Malagna waxaa la Dhamaynlahaa Amarka (Halaagga) lamana Sugeen."
+  },
+  {
+    "surah_id": 6,
+    "ayah_number": 9,
+    "global_ayah_id": 798,
+    "translation": "Haddaan ka Yeello Malagna waxaan ka Yeeli lahayn Nin, Markaasaan Iskaga Dari lahaydeen Xaalka siday isaga Dari Jireen."
+  },
+  {
+    "surah_id": 6,
+    "ayah_number": 10,
+    "global_ayah_id": 799,
+    "translation": "Waxaa Dhab ahaan loogu Jeesjeesay Rasuullo kaa Horreeyey Waxaana kuwii Jees jeesay ku dhacay (Ciqaabti) waxay ku Jees jeeseen."
+  },
+  {
+    "surah_id": 6,
+    "ayah_number": 11,
+    "global_ayah_id": 800,
+    "translation": "Waxaad Dhahdaa ku Socda Dhulka oo Eega Siday Noqotay Cidhibtii Beeniyeyaasha Xaqa."
+  },
+  {
+    "surah_id": 6,
+    "ayah_number": 12,
+    "global_ayah_id": 801,
+    "translation": "Waxaad Dhahdaa yaa leh waxa ku Sugan Samooyinka iyo Dhulka, Dheh Eebe, wuxuuna Isasaaray Naxariis, wuxuuna idin kulmin Maalinta Qiyaame Shakina ma lch, kuwa Khasaariyey Naftoodase ma Rumaynayaan."
+  },
+  {
+    "surah_id": 6,
+    "ayah_number": 13,
+    "global_ayah_id": 802,
+    "translation": "Eebe waxaa u Sugnaaday waxa Xasila Habeenkii iyo Maalintiiba waana Maqle Oge ah."
+  },
+  {
+    "surah_id": 6,
+    "ayah_number": 14,
+    "global_ayah_id": 803,
+    "translation": "Waxaad Dhahdaa ma wax Eebe ka soo Hadhay yaan ka yeelan wali (la Caabudo) Eebaana ah kan Abuuray Samooyinka iyo Dhulka Isagaana wax Quudiya Lamase quudiyo, waxaad Dhahdaa waxaa lay Faray inaan Noqdo kan ugu Horreeya Cid Islaanta (Hogaansanta Ummaddan) oonan ka Midnoqoninna Mushrikiinta."
+  },
+  {
+    "surah_id": 6,
+    "ayah_number": 15,
+    "global_ayah_id": 804,
+    "translation": "Waxaad dhahdaa anigu waxaan ka Cabsan Haddaan Caasiyo Eebehay Cadaab Maalin wayn."
+  },
+  {
+    "surah_id": 6,
+    "ayah_number": 16,
+    "global_ayah_id": 805,
+    "translation": "Ciuddii laga lilo Cadaabka Maalintaas wuu u Naxariistay Eebe Taasina waa Liibaanta Cad."
+  },
+  {
+    "surah_id": 6,
+    "ayah_number": 17,
+    "global_ayah_id": 806,
+    "translation": "Hadduu ku Taabsiiyo Eebe Dhib wax Faydi ma jiro Isaga mooyee Hadduu ku Taabsiiyo Khayrna Isagaa wax Walba kara."
+  },
+  {
+    "surah_id": 6,
+    "ayah_number": 18,
+    "global_ayah_id": 807,
+    "translation": "Waana ka Adkaadaha Addoomadiisa Korkooda waana Falsame Xeel Dheer."
+  },
+  {
+    "surah_id": 6,
+    "ayah_number": 19,
+    "global_ayah_id": 808,
+    "translation": "Waxaad Dhahdaa yaa ugu Wayn Marag waxaad Dhahdaa Eebaa Maragga Dhexdeena ah, waxaana lay waxyooday Quraankan inaan idiinku Digo Idinka iyo cidduu Gaadho, Idinku ma waxaad Marag Furaysaan Inay Eebe la Jiraan ILaahyo kale, waxaad Dhahdaa ma Marag Furayo (Saas) Waxaad Dhahdaa Eebe waa uun ILaah kaliya Anuguna waxaan ka Bari ahay waxaad la Wadaajinaysaan."
+  },
+  {
+    "surah_id": 6,
+    "ayah_number": 20,
+    "global_ayah_id": 809,
+    "translation": "Kuwaan Siinnay Kitaabka Waxay u Yaqaannaan Nabiga (Xaqnimadiisa) Siday u Yaqaanaan Caruurtooda kuwa Khasaariyey Naftoodana ma Rumeeyaan (Xaqa)."
+  },
+  {
+    "surah_id": 6,
+    "ayah_number": 21,
+    "global_ayah_id": 810,
+    "translation": "Wax ka Dulmi Badanna ma jirto cid ku Abuuray Eebe Been ama beeniyey Aayaadkiisa mana Liibaanto Daalimiintu."
+  },
+  {
+    "surah_id": 6,
+    "ayah_number": 22,
+    "global_ayah_id": 811,
+    "translation": "Ka Warran Maalintaan Kulmineyno (Dadka) Dhammaan Markaas aan ku Dhahayno Kuwii la Wadaajiyey Aaway kuwaad la Wadaajiseen (Eebe Cibaadada) aadna ahaydeen kuwo Sheegan (Inay wax tari)."
+  },
+  {
+    "surah_id": 6,
+    "ayah_number": 23,
+    "global_ayah_id": 812,
+    "translation": "Markaas Xujadoodii ma ahayn inay Dhahaan Eebaan ku Dhaarannaye Maanaan ahayn Mushrikiin (Wax la wadaajiya)."
+  },
+  {
+    "surah_id": 6,
+    "ayah_number": 24,
+    "global_ayah_id": 813,
+    "translation": "Bal day say ugu beensheegeen Naftooda ugana Dhumay waxay Been Abuuran jireen."
+  },
+  {
+    "surah_id": 6,
+    "ayah_number": 25,
+    "global_ayah_id": 814,
+    "translation": "Waxaa ka mida kuwo ku Dhagaysan waxaana yeellay Quluublooda Dabool inay kasaan (Quraanka) Dhagahoodana waxaan Yeellay Culays, Hadday Arkaan Aayaad kasta ma Rumaynayaan, Markay kuu Yimaaddaanna way kula Murmaan iyagoo dhihi kuwii Gaaloobay kani (Quraanku) ma aha waxaan warkii Kuwii Hore ahayn."
+  },
+  {
+    "surah_id": 6,
+    "ayah_number": 26,
+    "global_ayah_id": 815,
+    "translation": "Waxayna ka Reebi Dadka rumaynta Nabiga iyaguna way ka Fogaan mana halaagayaan waxaan Naftooda ahayn, mase Oga."
+  },
+  {
+    "surah_id": 6,
+    "ayah_number": 27,
+    "global_ayah_id": 816,
+    "translation": "Haddaad aragto Marka la Joojin Gaalada Naarta Korkeeda oy Dhihi Shallaytee Maa nala Celiyo oo aanaan Beenin Aayaadka Eebahanno oo Noqonno Kuwa Rumeeyey (waxaad arki lahayd arrin Wayn)."
+  },
+  {
+    "surah_id": 6,
+    "ayah_number": 28,
+    "global_ayah_id": 817,
+    "translation": "Waxaase U Muuqday waxay Qarinayeen horay haddii la Celiyana waxay ku Noqon lahaayeen wixii laga Reebay waana Beenaalayaal."
+  },
+  {
+    "surah_id": 6,
+    "ayah_number": 29,
+    "global_ayah_id": 818,
+    "translation": "Waxay dhihi wax kale ma jiro ee waannu ku Noolaan Adduunyada Nalamana soo Bixinaayo."
+  },
+  {
+    "surah_id": 6,
+    "ayah_number": 30,
+    "global_ayah_id": 819,
+    "translation": "Haddaad Aragto Marka la hor Joojiyo Eebahood oo ku Dhaho Miyuuna kan Xaq ahayn, oy Dhahaan waa Xaq Eebaan ku Dhaaranaye oo uu ku dhaho Dhadhamiya Cadaabka Gaalnimadiinna Darteed (Waxaad arki arrin wayn)."
+  },
+  {
+    "surah_id": 6,
+    "ayah_number": 31,
+    "global_ayah_id": 820,
+    "translation": "Waxaa Dhab u Khasaaray Kuwa Beeniyey la Kulanka Eebe markay ugu Timaaddo Saacadda (Qiyaame) si kada ahna waxay Dhahaan Shallaytadanno waxaan ku Gabood fallay Dhexdeeda, waxayna ku Xambaari Dambigooda Dhabarkooda waxaana Xumaanbadan waxay Xambaari."
+  },
+  {
+    "surah_id": 6,
+    "ayah_number": 32,
+    "global_ayah_id": 821,
+    "translation": "Nolosha Adduunyana ma aha waxaan Ciyaar iyo Madadaalo ahayn Guriga Aakharaana u Khayr roon kuwa Dhawrsan ee Miyeyydaan wax kasayn."
+  },
+  {
+    "surah_id": 6,
+    "ayah_number": 33,
+    "global_ayah_id": 822,
+    "translation": "Waxaan Ognahay inuu ku Walbahaarin waxay Sheegi Dhab ahaan kuuma Beeninayaan Laakiin Daalimiintu Aayaadka Eebe yey Diidi."
+  },
+  {
+    "surah_id": 6,
+    "ayah_number": 34,
+    "global_ayah_id": 823,
+    "translation": "Waxaa Dhab loo Beeniyey Rasuullo kaa Horreeyey waana ku Samreen wixii lagu Beeniyey waana la Dhibay intuu uga Yimaaddo Gargaarkannagu wax bedeli Hadalka Eebana ma jiro, waxaana ku soo Gaadhay Warkii Rasuuladii."
+  },
+  {
+    "surah_id": 6,
+    "ayah_number": 35,
+    "global_ayah_id": 824,
+    "translation": "Hadday kugu Wanaatay (Cuslaatay) Jeedsigoodu haddaad karto inaad god ka Teelato Dhulka ama Sallaan Samada ood Aayad u keentid (Samee) Hadduu Doono Eebana wuxuu ku kulmin lahaa hanuunka ee ha ka mid noqonin Jaashiliinta."
+  },
+  {
+    "surah_id": 6,
+    "ayah_number": 36,
+    "global_ayah_id": 825,
+    "translation": "Waxaa uun Ajiibi Ogolaan Xaqa kuwa Maqli, kuwa Dhintayse waxaa soo Bixin Eebe Xaggiisaana loo Celin."
+  },
+  {
+    "surah_id": 6,
+    "ayah_number": 37,
+    "global_ayah_id": 826,
+    "translation": "Waxay Dhaheen maxaa loogu soo Dejin waayey «Mucjisad» Aayad Xagga Eebihiis, waxaad Dhahdaa Eebe waa karaa inuu soo Dejiyo Aayad Badankoodse ma Oga."
+  },
+  {
+    "surah_id": 6,
+    "ayah_number": 38,
+    "global_ayah_id": 827,
+    "translation": "Wax ka Socda Dhulka ama Shimbir ku Duuli Garbihiisa oo Dhan waa umado Idinla mid ah, waxba kagama aanan tagin Kitaabka, waxaana loo soo Kulmin Dadka Xagga Eebahood."
+  },
+  {
+    "surah_id": 6,
+    "ayah_number": 39,
+    "global_ayah_id": 828,
+    "translation": "Kuwa Beeniyey Aayadkanaga waa DhagaLa'yihiin oo Af la`yihiin Mugdibayna ku Suganyihiin, cidduu Doono wuu Dhumiyaa Eebe Tuu Doonana wuxuu Yeela Jid Toosan."
+  },
+  {
+    "surah_id": 6,
+    "ayah_number": 40,
+    "global_ayah_id": 829,
+    "translation": "Waxaad Dhahdaa Bal ka warrama hadduu idiin Yimaaddo Cadaabka Eebe ama idiinTimaadda Saacaddu (Qiyaame) wax Eebe kasoo hadhay Miyaad Baryeysaan haddaad Runsheegaysaan."
+  },
+  {
+    "surah_id": 6,
+    "ayah_number": 41,
+    "global_ayah_id": 830,
+    "translation": "Isaga Unbaana Baryeysaan oo Faydi waxaad ka baryeysaan hadduu Doono waadna Halmaamaysaan waxaad la Wadaajinaysaan."
+  },
+  {
+    "surah_id": 6,
+    "ayah_number": 42,
+    "global_ayah_id": 831,
+    "translation": "Waxaan u Dirray (Rasuul) Ummado idinka Horreeyey waxaana ku gabanay Dhibaato iyo Cudur intay Baryaan (Eebe)."
+  },
+  {
+    "surah_id": 6,
+    "ayah_number": 43,
+    "global_ayah_id": 832,
+    "translation": "Maa Markuu u Yimaaddo Dhibku ay baryaan (Eebe) Waxaase ingagtay Quluubtoodii wuxuuna u Qurxiyey Shaydaan waxay Falayeen."
+  },
+  {
+    "surah_id": 6,
+    "ayah_number": 44,
+    "global_ayah_id": 833,
+    "translation": "Markay Halmaameen (Ka Jeedsadeen) wixii lagu Waaniyey Yaan u Furray Korkooda irridaha wax Kasta Markay ku Farxaan waxaa la Siiyey yaan ku qabannaa kado, Markaasay ahaadaan kuwo Quusta."
+  },
+  {
+    "surah_id": 6,
+    "ayah_number": 45,
+    "global_ayah_id": 834,
+    "translation": "Waxaana la Gooyey Cidhibta Qoomkii Dulmiga Falay Mahadna Eebaa iska leh ah Eebaha Caalamka."
+  },
+  {
+    "surah_id": 6,
+    "ayah_number": 46,
+    "global_ayah_id": 835,
+    "translation": "Waxaad Dhahdaa Bal Warrama Hadduu Eebe qabto Maqalkiinna iyo Araggiinna oo Daboolo Quluubtiinna waa ILaahee ka soo Hadhay Eebe ee idiin keeni, Day Sedan u Cel-Celinno Aayaadka Markay say u Jeedsan."
+  },
+  {
+    "surah_id": 6,
+    "ayah_number": 47,
+    "global_ayah_id": 836,
+    "translation": "Waxaad Dhahdaa Bal Warrama hadduu Idiinku Yimaaddo Cadaabka Eebe Kado ama Caddaan miyaa la Halaagaa waxaan Qoomka Daalimiinta Ahayn."
+  },
+  {
+    "surah_id": 6,
+    "ayah_number": 48,
+    "global_ayah_id": 837,
+    "translation": "Rasuulada waxaan u Dirraa inay Bishaareeyaan oo Digaan, Ciddii Rumaysa Xaqa oo Wanaajiya (Camalka) Cabsi iyo Murug midna ma Saarro."
+  },
+  {
+    "surah_id": 6,
+    "ayah_number": 49,
+    "global_ayah_id": 838,
+    "translation": "Kuwa Beeniyey Aayaadkanaga waxaa Taaban Cadaab Faasiq Nimadooda Darteed."
+  },
+  {
+    "surah_id": 6,
+    "ayah_number": 50,
+    "global_ayah_id": 839,
+    "translation": "Waxaad Dhahdaa Ma Dhahayo waxaa Agtayda ah Khasnadaha Eebe, waxy Maqanna ma Ogi, mana Dhahayo waxaan ahay Malag, waxaan uun Raaci wixii lay waxyoodo wwaxaad dhahdaa ma egyihiin Indhoole iyo Arke Miyeydaan Fikirayn."
+  },
+  {
+    "surah_id": 6,
+    "ayah_number": 51,
+    "global_ayah_id": 840,
+    "translation": "Ugu dig Quraanka kuwa ka Cabsan in Ioo soo kulmiyo Eebahood iyagoon lahayn Sokaydiis Qaraabo iyo Shafeece Midna inay Dhawrsadaan Darteed."
+  },
+  {
+    "surah_id": 6,
+    "ayah_number": 52,
+    "global_ayah_id": 841,
+    "translation": "Hana Eryin kuwa Baryi Eebahood aroor iyo Galabba iyagoo dooni Wajigiisa waxba kaama saarra Xisaabtooda iyana Xisaabtaada Waxba kama Saarra ood eridid ood ka mid noqotid daalimiinta."
+  },
+  {
+    "surah_id": 6,
+    "ayah_number": 53,
+    "global_ayah_id": 842,
+    "translation": "Saasaaan isugu Imtixaanay (Dadka) Qaarkood Qaarka kale inay Dhahaan ma kuwanaa Eebe ku Manaystay (Islaamka) Dhexdannada, Miyuusan Eebe ahayn kan og kuwa ku Mahdiya."
+  },
+  {
+    "surah_id": 6,
+    "ayah_number": 54,
+    "global_ayah_id": 843,
+    "translation": "Markay kuu Yimaadaan kuwa Rumeeyey Aayaadkanaga waxaad Dhahdaa Nabadgalyo Korkiinna ha ahaato, wuxuu Eebe Isasaaray Naxariis, oo ah Ciddii idinka mid ah oo Fasha Xumaan isagoo ka Jaahil ah oo Toobad keena nn wanaajiya Eebaa Dhaafi una Naxariisan."
+  },
+  {
+    "surah_id": 6,
+    "ayah_number": 55,
+    "global_ayah_id": 844,
+    "translation": "Saasaanu u Kala Bixinaa Aayaadka si ay u Caddaato Jidka Dambiilayaasha."
+  },
+  {
+    "surah_id": 6,
+    "ayah_number": 56,
+    "global_ayah_id": 845,
+    "translation": "Waxaad Dhahdaa waxaa layga Reebay inaan Caabudo waxaad Caabudaysaan oo Eebe ka soo Hadhay, waxaad Dhahdaa Raaci maayo hawadiinna oon Dhumo markaas Nogoninna kuwaan Hanuunsanayn."
+  },
+  {
+    "surah_id": 6,
+    "ayah_number": 57,
+    "global_ayah_id": 846,
+    "translation": "Waxaad Dhahdaa waxaan ku Sugnahay Xujo Eebahay waadna Beeniseen Xaqaas, agtayda ma aha waxaad Dadajisanaysaan, Xukunkana Eebaa iska leh, Xaquuna Xukumi, waana kuu Xukunkiisu Khayr Leeyahay."
+  },
+  {
+    "surah_id": 6,
+    "ayah_number": 58,
+    "global_ayah_id": 847,
+    "translation": "Waxaad Dhahdaa hadduu Yahay agtayda waxaad Dedejisanaysaan (Cigabta) waxaa Ia kala Xukumi Lahaa Dhexdeenna Eebana waa Ogyahay Daalimiinta."
+  },
+  {
+    "surah_id": 6,
+    "ayah_number": 59,
+    "global_ayah_id": 848,
+    "translation": "Eebe Agtiisa waxaa ah Furaha waxa maqan wax og oon isaga ahayna ma jiro, wuxuuna Ogyahay waxa Barriga iyo Badda ku Sugan, wixii Caleena oo Dhacdana wuu Ogyahay, Xabbad Masaga ah oo Mugdiga Dhulka ku Sugan iyo wixii Qoyan ama Ingagan waxay ku Suganyihiin Kitaab Cad."
+  },
+  {
+    "surah_id": 6,
+    "ayah_number": 60,
+    "global_ayah_id": 849,
+    "translation": "Eebe waa kan idin Oofsada Habeenkii ogna waxaad Fashaan Maalintii Markaasna idin soo Bixiya in la Xukumo Ajal Magacaaban Xaggiisaana laydiin Celin, markaasuu idiinka warami waxaad Falaysaan."
+  },
+  {
+    "surah_id": 6,
+    "ayah_number": 61,
+    "global_ayah_id": 850,
+    "translation": "Eebe waa kan ka Sarreeya Addoomadiisa, wuxuuna idiin soo Diraa ILaaliye markuu u Yimaaddo Midkiin Mawdku waxaa Oofsata «Disha» Malaa'igtanada mana Gabood Falaan."
+  },
+  {
+    "surah_id": 6,
+    "ayah_number": 62,
+    "global_ayah_id": 851,
+    "translation": "Markaasa loo Celin Dadka Xagga Sayidkooda Xaqa ah isagaana leh Xukunka Dedejiyana Xisaabta."
+  },
+  {
+    "surah_id": 6,
+    "ayah_number": 63,
+    "global_ayah_id": 852,
+    "translation": "Waxaad Dhahdaa Yaa idinka koriya Mugdiga Barriga iyo Badda ood u Baridaan Isdullayn iyo Qarsoodi, Idinkoo dhihi Hadduu naga koriyo Tan waxaan ka mid Noqonaynaa kuwa Mahadiya."
+  },
+  {
+    "surah_id": 6,
+    "ayah_number": 64,
+    "global_ayah_id": 853,
+    "translation": "Waxaad Dhahdaa Eebaa idinka Koriya Taas iyo Shiddo Kasta, Markaasaad u Shariigyeeshaan."
+  },
+  {
+    "surah_id": 6,
+    "ayah_number": 65,
+    "global_ayah_id": 854,
+    "translation": "Waxaad Dhahdaa Eebe waa kan kara inuu idinku soo Daayo Cadaab Korkiinna ama Lugihiinna Hoostooda ama idin qaso (idinka yeelo) Kooxo uu Dhadhansiiyo Qaarkood qaarka kale Dhibkiisa, bal day Sidaan ugu Caddaynaynno Aayaadka inay Kasaan."
+  },
+  {
+    "surah_id": 6,
+    "ayah_number": 66,
+    "global_ayah_id": 855,
+    "translation": "Waxaa Beeniyey (Quraanka) Qoomkaagii Isagoo Xaq ah, waxaad Dhahdaa kama ahi Korkiinna Wakiil (ILaaliye)."
+  },
+  {
+    "surah_id": 6,
+    "ayah_number": 67,
+    "global_ayah_id": 856,
+    "translation": "War kasta Meel uu ku Sugnaado yuu leeyahay Waadna Ogaandoontaan."
+  },
+  {
+    "surah_id": 6,
+    "ayah_number": 68,
+    "global_ayah_id": 857,
+    "translation": "Markaad Aragtaan kuwa dhumban Aayaadkanaga, isaga Jeedso intay ka Dhumbadaan Sheeko kale, haddduu ku Halmaansiiyo Shaydaanna ha Fadhiyin Xusuusta ka Dib Daalimiinta Agtooda."
+  },
+  {
+    "surah_id": 6,
+    "ayah_number": 69,
+    "global_ayah_id": 858,
+    "translation": "Kuwa Dhawrsoonna Xisaabtooda waxba kaama Saarra Laakiin waa Waano inay Dhawrsadaan."
+  },
+  {
+    "surah_id": 6,
+    "ayah_number": 70,
+    "global_ayah_id": 859,
+    "translation": "Iskaga tag Kuwa ka Yeeshay Diintooda Ciyaar iyo Madaddaalo kuna Kadsoomay Nolosha Dhaw Xusuusina intaan laga Abaalmarinin (Loa Xabisin) Nafi waxay kasbatay lyadoon Lahayn Eebe ka sokow Wali «Sokeeye» iyo Shafeece midna. Hadday isku Furato Furasho oo Dhanna lagama Qaado, Kuwaasu waa kuwa loo Dhiibay (Ilaag) waxay kasbadeen Dartiis, waxayna Mudan Cabbid KuluI iyo Cadaab daran, Gaalnimadooda Darteed."
+  },
+  {
+    "surah_id": 6,
+    "ayah_number": 71,
+    "global_ayah_id": 860,
+    "translation": "Waxaad Dhahdaa ma Caabudaynaa Eebe ka sokow waxaan na Anfacayn nana Dhibayn oo Dib naloo Celin (Gaalnimo) inta Eebe Hanuuniyey ka Dib, Sida kan ay ku Wareerisay (Dhumisay) Shayaadiintu Dhulka Isagoo Saaxiibbo ugu Yeedhi Hanuunka leh oo ku Leh noo Kaalay, waxaad Dhahdaa Hanuunka Eebe unbaa Hanuun ah, waxaana Nala Faray inaan u Hogaansanno Eebaha Caalamka"
+  },
+  {
+    "surah_id": 6,
+    "ayah_number": 72,
+    "global_ayah_id": 861,
+    "translation": "Oogana Salaadda kana Dhawrsada Eebe waa kan Xaggiisa laydiin soo Kulmine."
+  },
+  {
+    "surah_id": 6,
+    "ayah_number": 73,
+    "global_ayah_id": 862,
+    "translation": "Waana kan Eebe u Abuuray Samooyinka iyo Dhulka Xaq Maalinta uu Dhihi Ahow wuu ahaan (waxaasu) Hadalkiisu waa Xaq, wuxuuna Leeyahay Xukunka Maalinta la Afuufi Suurka, waana Ogyahay wax Maqan (la arkayn) iyo waxa Joogaba, waana Falsame Xeel Dheer."
+  },
+  {
+    "surah_id": 6,
+    "ayah_number": 74,
+    "global_ayah_id": 863,
+    "translation": "Ka Warran markuu ku Yidhi (Nabi) Ibraahim Aabihiis Aazara ma waxaad ka Yeelan Sanamyo ILaahyo, waxaan kugu Arkaa adiga iyo Qoomkaagaba Baadi Cad."
+  },
+  {
+    "surah_id": 6,
+    "ayah_number": 75,
+    "global_ayah_id": 864,
+    "translation": "Saasaan u Tusinnay Ibraahim Xukunka Samooyinka iyo Dhulka inuu ka Mid Noqdo kuwa Yaqiiniya (Xaqa)."
+  },
+  {
+    "surah_id": 6,
+    "ayah_number": 76,
+    "global_ayah_id": 865,
+    "translation": "Markuu ku Maddobaaday Habeenku wuxuu Arkay Xiddig Wuxuuna Yidhi kani ma Eebahaybaa, markuu Dhacay wuxuu Yidhi ma Jedi kuwa Dhaca."
+  },
+  {
+    "surah_id": 6,
+    "ayah_number": 77,
+    "global_ayah_id": 866,
+    "translation": "Markuu Arkay Dayaxa oo soo Muuqda wuxuu yidhi kani ma Eebahaybaa markuu Dhacay wuxuu Yidhi Hadduusan I hanuunin Eebahay waxaan ka mid Noqon kuwa Dhuma."
+  },
+  {
+    "surah_id": 6,
+    "ayah_number": 78,
+    "global_ayah_id": 867,
+    "translation": "Markuu Arkay Qorraxda oo soo Muuqata wuxuu Yidhi kani ma Eebahaybaa kanaa wayne, Markay Dhaeday wuxuu Yidhi Qoomkayow Bari baan ka ahay waxaad la wadaajinaysaan (Eebe)."
+  },
+  {
+    "surah_id": 6,
+    "ayah_number": 79,
+    "global_ayah_id": 868,
+    "translation": "Anugu waxaan u Jeediyey Wajigayga Eebaha Abuuray Samooyinka iyo Dhulka anoo Toosan oon ka mid ahayn Gaalada."
+  },
+  {
+    "surah_id": 6,
+    "ayah_number": 80,
+    "global_ayah_id": 869,
+    "translation": "Way Ladoodeen Nabi Ibraahim Qoomkiisii, wuxuuna yidhi ma waxaad igula Doodaysaan Eebe, Isagoo I hanuuniyey, oonan ka Cabsanayn waxaad la Wadaajinaysaan, in Eebahay wax doono Mooyee, Eebahay waa u Waasac (Awoodleeyahay) wax kasto Ogaansho, niyeydaan Xusuusanayn (wax)."
+  },
+  {
+    "surah_id": 6,
+    "ayah_number": 81,
+    "global_ayah_id": 870,
+    "translation": "Sideen uga Cabsan waxaad la Wadaajiseen, idinkuna aydaan ka Cabsanayn inaad la Wadaajiseen Eebe wuxuusan u soo Dejinen Xujo, ee Labada Kooxood (Muslimka iyo Gaalada) koodee mudan Nabdagalyo Haddaad wax Ogtihiin."
+  },
+  {
+    "surah_id": 6,
+    "ayah_number": 82,
+    "global_ayah_id": 871,
+    "translation": "Kuwa Xaqa Rumeeyey oon ku Dheehin Iimaankooda Dulmi (Gaalimo) kuwaasaa Nabadgalto u Sugnaatay Hanuunsanna."
+  },
+  {
+    "surah_id": 6,
+    "ayah_number": 83,
+    "global_ayah_id": 872,
+    "translation": "Taasina waa Xujadanadii aa u siinnay Ibraahim Qoomkiisa waxaan koryeelaa Darajaadka Ciddaan Doonno Eebahaana waa Falsame Oge ah."
+  },
+  {
+    "surah_id": 6,
+    "ayah_number": 84,
+    "global_ayah_id": 873,
+    "translation": "Waxaan siinay Isxaaq iyo Yacquub Dhammaana waan Hanuuninay, Nabi Nuuxna waan Hanuuninay waqti Hore, waxaana ka mid ah Faraciisii Nabi Daawuud, Sulaymaan, Ayuub, Yuusuf, Muuse iyo Haaruun, Saasaana ku Abaal marinaa Samofalayaasha."
+  },
+  {
+    "surah_id": 6,
+    "ayah_number": 85,
+    "global_ayah_id": 874,
+    "translation": "Iyo Zakariye, Yaxye, Ciise ILYaas, Dhammaana waxay ahaayeen kuwo Suubban,"
+  },
+  {
+    "surah_id": 6,
+    "ayah_number": 86,
+    "global_ayah_id": 875,
+    "translation": "Iyo Ismaaeiil Alyasac, Yuunus, iyo Luudh, Dhammaana waxaad ka Fadilnay Caalamka."
+  },
+  {
+    "surah_id": 6,
+    "ayah_number": 87,
+    "global_ayah_id": 876,
+    "translation": "Iyo Aabayaalkaod iyo Faracoodii iyo Walaalahood waana Dooranny waana ku Hanuuninay Jidka Toosan."
+  },
+  {
+    "surah_id": 6,
+    "ayah_number": 88,
+    "global_ayah_id": 877,
+    "translation": "Kaasi waa Hanuunki Eebc wuxuulla ku Hanuuniyai Cidduu Doono oo ka mid ah Addoomadiisa hadday wax La wadaajiyaari Eebana waxaa ka Bun waxay Fali Jireati."
+  },
+  {
+    "surah_id": 6,
+    "ayah_number": 89,
+    "global_ayah_id": 878,
+    "translation": "Kuwaasu ‘awn kuwaan siinay Kitaabka, Xukunkniiyo Nabixinuada, fladday ka Gaaloabaanna Kuwaasu aCjaalada Makaads waxaan a a’akaalanayQoom ann ka (Jaaloobayn, (Muslimiinta)."
+  },
+  {
+    "surah_id": 6,
+    "ayah_number": 90,
+    "global_ayah_id": 879,
+    "translation": "Kuwuas (Nabiyada) waeye kuwu Eebe hasiuusniyey ee Hanuunkouda kit dayo. waxaadssa Dhahdaa ldirna warsananyc LJjuuro, eewaauunwaanada caalsmka"
+  },
+  {
+    "surah_id": 6,
+    "ayah_number": 91,
+    "global_ayah_id": 880,
+    "translation": "Mayna Waynaynin kebe Waynaantiiia Xaqa ah, Mackay Dhw been Kuma son Dejin hebe Dad waxba, waxtad t}hahdaa yaa 500 Dejiyey Kitaahkii uu Iayimid Nahi M anne Isagoo ftiin Hanuunna u ab Dadka ood YeeIaysecn wurqado and Muujisaan. nodsin qurisuan wan Budun, waxawna laydin Baray waxaydaan Aqoonin idinku iya Aubaynnlkiin, waxaud Dhuhdau Eebaa (sun Dejiyey) markaus saga tag Dhumbaahudusnda lyagon Ciyaari"
+  },
+  {
+    "surah_id": 6,
+    "ayah_number": 92,
+    "global_ayah_id": 881,
+    "translation": "Kanna wan Kitaub aan soo Dejinay oo Barakaysan, oo Runiayn wixii ka Horreeyey iyo inaad ugu Digtid Maka ye Dhinaeyadeeda. kuwa Rumayn Aakhira waxay Rumeyn Quraanka salaaddana way ILaalin."
+  },
+  {
+    "surah_id": 6,
+    "ayah_number": 93,
+    "global_ayah_id": 882,
+    "translation": "Yaa ka Dambi Radon Cid ku Been Abuuratay Eaba ama Yidhi waa Lay Wanyaoday Isagoon Ion Waxyoonin Waxba. iyo Ckldii Dhahda waxaan son Dejin waxa Eebe soo Dejiyey no kale. Haddaad Araglo markay Daalmiintu Sakaraadka Geerida ko Suganyihiin Malaa'igtuna ku E)hihi Iyagoo ku Taogi Gacmaha Bixiya Naftiina Maanta waxaa laydinku Ahaal maria Cadaab Dulli ah waxaad ku Dhahayseen Eebe Xaqdarro ood Ahaydeen kuwu Iska Wayneeya Aayadkiisa (Waxaad as-ki lahayd wax Wayn)."
+  },
+  {
+    "surah_id": 6,
+    "ayah_number": 94,
+    "global_ayah_id": 883,
+    "translation": "Waxaad Noogu Timaaddeen Kali Kali Sidaon idiinku Abuuray Marka hoc waxaadna kaga Timaaddeen waxaan idinku Nicmaynay Gadaashiina mana ku Aragno Agtiina Shafeecayaalkiinnii and Sheegayseen slay Shuruko Yihiia. waxaana Go'ay Xidhiidhkiinnii waxaana Dhumay waxuad Sheeganeyseen."
+  },
+  {
+    "surah_id": 6,
+    "ayah_number": 95,
+    "global_ayah_id": 884,
+    "translation": "Eebaa Jeexa Xabbadda Midhaha ah, iyo Timirta, wuxuuna ka soo Bixiyaa wax Nool wax dhimaad ah, kana soo Bixiyaa wax Dhimaad ah wax Nool, Kaasi waa Eebe ee Xaggee laydiinka lili (Xaqa)."
+  },
+  {
+    "surah_id": 6,
+    "ayah_number": 96,
+    "global_ayah_id": 885,
+    "translation": "Eebe waa kan Abuuray Iftiinka kana Yeelay Habeenka Xasil, Qorraxda iyo Dayaxana Xisaab, Taasina waa Maamulka Eebe Adkaada ee og."
+  },
+  {
+    "surah_id": 6,
+    "ayah_number": 97,
+    "global_ayah_id": 886,
+    "translation": "Eebe waa kati idiin Yeelay Xiddigo inaad ku Toostaan Mugdiga Barriga iyo Badda, waxaan u Caddaynay Aayaadka Ciddii Garan."
+  },
+  {
+    "surah_id": 6,
+    "ayah_number": 98,
+    "global_ayah_id": 887,
+    "translation": "Eebe waa kan Idinka Abuuray Naf kaliya (Nabi Aadam) ldiinna Yeelay Sugnaansho iyo Hoyosho, waan u Caddaynay Aayaadka Ciddi wax kasi."
+  },
+  {
+    "surah_id": 6,
+    "ayah_number": 99,
+    "global_ayah_id": 888,
+    "translation": "Eebe waa kan ka soo Dejiya Samada Biyo kuna soo Bixinno Doog Cagaaran oon ka soo Saarro Midho kala Koreeya, Timirtana Fiiddeeda ah Laamo Dhow, Beerana (waan ku so Bixinaa) oo ah Cinab, Zaytuun, Rummaan (qaar) Isu eg, iyo Qaar aan Isu Ekayn, Daya Midhihiisa markuu Midho Dhalo iyo Bisaylkiisa Taasina Calaamaa ugu Sugan Ciddii wax Rumayn."
+  },
+  {
+    "surah_id": 6,
+    "ayah_number": 100,
+    "global_ayah_id": 889,
+    "translation": "Waxay u Yeeleen Gaalado Eebe Shurako Jinni ah Isagoo Abuuray waxay ku Sheegeen(Been) Eebe Wiilal iyo Gabdho Iyagoon wax Ogayn, waa ka Nasahanyahay Eebe waana ka Sarreeyaa waxay ku Sheegi."
+  },
+  {
+    "surah_id": 6,
+    "ayah_number": 101,
+    "global_ayah_id": 890,
+    "translation": "Eebe waa Kan Abuuray Samooyinka iyo Dhulka sideese Ilmo ugu ahaan Isagoon Haweenay lahayn wax walbana Abuuray wax kastana Og."
+  },
+  {
+    "surah_id": 6,
+    "ayah_number": 102,
+    "global_ayah_id": 891,
+    "translation": "Kaasi waa Eebihiin isaga mooyee ILaah kale ma jiro wax kastana isagaa Abuuray ee Caabuda wax walbana isagaa u Wakiil ah (ILaaliya)."
+  },
+  {
+    "surah_id": 6,
+    "ayah_number": 103,
+    "global_ayah_id": 892,
+    "translation": "Ma haleesho Aragti Isagaase Haleela Aragtida (Wuu arkaa Eebe lamase Arko adduunka) Waana wax Oge Xeeldheer."
+  },
+  {
+    "surah_id": 6,
+    "ayah_number": 104,
+    "global_ayah_id": 893,
+    "translation": "Waxaa idiin Yimid (Idin soo Gaadhay) Xujooyin Eebihiin ka yimid Ciddii Aragta (ku Hanuunta) Naftiisa umbuu wax u taray Cidii ka Indho Beeshana Naftiisuu Dhibay, anna ma ihi mid idin ILaalin."
+  },
+  {
+    "surah_id": 6,
+    "ayah_number": 105,
+    "global_ayah_id": 894,
+    "translation": "Saasaannu u gagadinnaa (Caddaynaa) Aayaadka inay Dhahaan waad Akhrisatay iyo Inaan u Caddayno Ciddii wax Garan."
+  },
+  {
+    "surah_id": 6,
+    "ayah_number": 106,
+    "global_ayah_id": 895,
+    "translation": "Raac nabiyow waxa lagaaga Waxyooday Xagga Eebahaa ILaahay mooyee Eebe kalana ma jiro kana Jeedso Mushrikiinta."
+  },
+  {
+    "surah_id": 6,
+    "ayah_number": 107,
+    "global_ayah_id": 896,
+    "translation": "Hadduu doono Eebe mayna la Wadaajiyeen kaagamana aanaan Yeelin Ilaaliye Wakiilnakama tihid."
+  },
+  {
+    "surah_id": 6,
+    "ayah_number": 108,
+    "global_ayah_id": 897,
+    "translation": "Ha Caayin waxay Caabudi oo Eebe ka soo Hadhay oo Markaas iyana Caayaan Eebe Colnimo iyo Cilmi la'aan, saasaan ugu Qurxinay ummad kasto Camalkeeda Xagga Eebe Umbayna Noqoshadoodu tahay wuxuuna uga Warrami waxay Fali Jireen."
+  },
+  {
+    "surah_id": 6,
+    "ayah_number": 109,
+    "global_ayah_id": 898,
+    "translation": "Waxay ku Dhaarteen Gaaladii Dhaar Adag, Hadday soo Gaadho Aayadi inay Rumaynayaan, waxaad Dhahdaa Aayaadku waxay Jiraan Eebe Agtiisa, Miyeyse Ogyihiin Hadday Aayaddu soo Gaadho inayna Rumaynayn."
+  },
+  {
+    "surah_id": 6,
+    "ayah_number": 110,
+    "global_ayah_id": 899,
+    "translation": "Waxaannu Gaddin Quluubtooda iyo Araggooda Sidayna u rumayn, Markii horaba waxaana ku Daynanaa Iyagoo ku Wareersan Xadguddybkooda."
+  },
+  {
+    "surah_id": 6,
+    "ayah_number": 111,
+    "global_ayah_id": 900,
+    "translation": "Haddaan ku soo Dejinno Malaa'ig oo Dadkii Dhintay la Hadlo oon wax kasta Hortooda ku soo Kulminno, mayna rumeeyeen in Eebe doono mooyee, Hase Yeeshee Badankood waa Jaahiliin."
+  },
+  {
+    "surah_id": 6,
+    "ayah_number": 112,
+    "global_ayah_id": 901,
+    "translation": "Saasaan ugu Yeellay Nabi Kasta Col Shaydaan Insi iyo Jinniba leh, oo Qarkood qaarka kale u Waxyoon (Sheegi) Hadal la Dhoob-Dhoobay Dhumin Darteed. Hadduu Eebe Doonana mayna Faleen ee Iskaga Tag iyaga iyo waxay Been-Abuuran."
+  },
+  {
+    "surah_id": 6,
+    "ayah_number": 113,
+    "global_ayah_id": 902,
+    "translation": "Iyo in ay Maqasho Quluubta Kuwaan Rumayn Aakhiro, iyo Inay ka Raalli Noqdaan, iyo inay Kashadaan waxay Guranayeen."
+  },
+  {
+    "surah_id": 6,
+    "ayah_number": 114,
+    "global_ayah_id": 903,
+    "translation": "Ma Diinta Eebe waxaan ahayn yaan u Dooni Xaakim Isagoo idiin soo Dejiyey Kitaabka oo la Caddeeyey kuwaan Siinay Kitaabka waxay Ogyihiin in Quraanka laga soo Dejiyey Xagga Eebahaa ee ha Noqonin kuwa Shakiya."
+  },
+  {
+    "surah_id": 6,
+    "ayah_number": 115,
+    "global_ayah_id": 904,
+    "translation": "Waxay ku Taam Noqotay Kalimooyinka Eebahaa run iyo Caddaalad wax Badali Kalimooyinka Eebana ma jiro, Eebana waa Maqle og."
+  },
+  {
+    "surah_id": 6,
+    "ayah_number": 116,
+    "global_ayah_id": 905,
+    "translation": "Haddaad Maqashid waxa Dhulka ku Sugan Badankooda waxay kaa Dhumin Jidka Eebe, mana Raacayaan waxaan Malo ahayn waana Beenaalayaal."
+  },
+  {
+    "surah_id": 6,
+    "ayah_number": 117,
+    "global_ayah_id": 906,
+    "translation": "Eebahaa yaa og Cidda ka Dhumi Jidkiisa, Isagaan og Cidda Hanuunsan."
+  },
+  {
+    "surah_id": 6,
+    "ayah_number": 118,
+    "global_ayah_id": 907,
+    "translation": "Ee Cuna waxa Magaca Eebe lagu Xusay Haddaad Aayadkiisa Rumaynasaan."
+  },
+  {
+    "surah_id": 6,
+    "ayah_number": 119,
+    "global_ayah_id": 908,
+    "translation": "Maxaad la cuni waydeen waxa Magaca Eebe lagu Xusi, Isagoo laydiin Caddeeyey waxa Laydinka Reebay inaad Dhibbantihiin Mooyee, wax Badan waxay ku Dhumin (Dadka) Hawadooda Cilmi darro, Eebahaana waa Ogyahay kuwa Xad-gudba."
+  },
+  {
+    "surah_id": 6,
+    "ayah_number": 120,
+    "global_ayah_id": 909,
+    "translation": "Ka Taga Dambiga Muuqda iyo Kan Qarsoonba, kuwa Jasbada Dambigana waxaa laga Abaal marin waxay Kasbanayeen."
+  },
+  {
+    "surah_id": 6,
+    "ayah_number": 121,
+    "global_ayah_id": 910,
+    "translation": "Ha cunina waxaan lagu Xusin Magaca Eebe, illeen waa Xumaane, Shaydaamaduna waxbay u Sheegaan Saaxiibkooda inay idinla murmaan, Haddaad Maqashaanna waxaad Noqonaysaan Gaalo."
+  },
+  {
+    "surah_id": 6,
+    "ayah_number": 122,
+    "global_ayah_id": 911,
+    "translation": "Cid mayd ahayd oon noolaynay oon u Yeellay Nuur uu ku Dhex socdo Dadka ma lamidbaa mid Mugdi ku Sugan oo ka baxayn, Saasaana loogu Qurxiyey Gaalada waxay Falayeen."
+  },
+  {
+    "surah_id": 6,
+    "ayah_number": 123,
+    "global_ayah_id": 912,
+    "translation": "Saasaan ugu Yeellay Magaalo kasto Dambilayaal waawayn, inay wax ku Dhagraan Dhexdeeda, waxaan Naftooda ahayna ma Dhagrayaan masc oge."
+  },
+  {
+    "surah_id": 6,
+    "ayah_number": 124,
+    "global_ayah_id": 913,
+    "translation": "Markay soo Gaadho aayad waxay Dhahaan Rumayn maynno inta nalooga keeno wixii la siiyey Rasuuladii Eebe Ilaahay baana og Meejuu Yeeli Rasuulnimada waxaana ku Dhiei kuwii Dambaabay Dulli Eebe Agtiisa ah iyo Cadaab Daran waxay Dhagrayeen Darteed."
+  },
+  {
+    "surah_id": 6,
+    "ayah_number": 125,
+    "global_ayah_id": 914,
+    "translation": "Cidduu Eebe Hanuuniyo wuxuu u Waasieiyaa Laabtiisa Islaamka, Cidduu Doono inuu Dhumiyana wuxuu ka sidii Isagoo kori Samada saasuuna u Yeelay Eebe Xumaanta korka Kuwaan Rumaynin Xaqa."
+  },
+  {
+    "surah_id": 6,
+    "ayah_number": 126,
+    "global_ayah_id": 915,
+    "translation": "Wakaas Jidkii Eebahaa oo Toosan Aayaadkana waxaan u Caddaynay Ciddii wax Xusuusan."
+  },
+  {
+    "surah_id": 6,
+    "ayah_number": 127,
+    "global_ayah_id": 916,
+    "translation": "Waxayna Mudanyihiin Guri Nabadgalyo oo Eebahood Agtiisa ah Isagaana Gargaarahooda ah waxay Camal falayeen Dartiis."
+  },
+  {
+    "surah_id": 6,
+    "ayah_number": 128,
+    "global_ayah_id": 917,
+    "translation": "Xusuuso Maalintuu Eebe Kulmin Dhammaantood (kuna Dhihi) Kulanka Jinniyow waad badsateen (Baadiyeynta) Insiga waxayna Dhehaan Saaxiibadood oo Insiga ah Eebahannow Qaarkanno qaarbuu ku shaqaystay waxaana Gaadhnay Ajashaad (Mudadaad) noo Samaysay, wuxuuna ku yidhi Naarbaa Iloyaadkiina ah idiinkoo ku Waari Dhexdeeda wuxuu Eebe doono Mooyee, Eebahaana waa Falsame Oge ah."
+  },
+  {
+    "surah_id": 6,
+    "ayah_number": 129,
+    "global_ayah_id": 918,
+    "translation": "Saasaana ugu Dirraa Daalimiinta Qaarkood Qaarka kale waxay Kasbanayeen Darteed."
+  },
+  {
+    "surah_id": 6,
+    "ayah_number": 130,
+    "global_ayah_id": 919,
+    "translation": "Jinni iyo Insiyow Miyuuna idiin Imaanin Rasuuloo Idinka mid ah oo iddinka Warrama Aayaadkayga idiinkana Diga la kulanka Maalintan waxayna Dheheen waan ku Marag furray Naftanada waxaana Dhagartay Nolosha Dhaw, waxayna ku Marag fureen Naftooda inay gaalo ahaayeen."
+  },
+  {
+    "surah_id": 6,
+    "ayah_number": 131,
+    "global_ayah_id": 920,
+    "translation": "Arrintaasna waa Inaan Eebahaa halaagin Magaalo Dulmi Dartiis iyadoo Dadkeedu halmaansanyihiin (aan loo digin)."
+  },
+  {
+    "surah_id": 6,
+    "ayah_number": 132,
+    "global_ayah_id": 921,
+    "translation": "Cid kasta Darajooyin yey Leedahay oo waxay Camal fashay ah Eebahaana ma ah mid halmaansan waxay Camal Faleen."
+  },
+  {
+    "surah_id": 6,
+    "ayah_number": 133,
+    "global_ayah_id": 922,
+    "translation": "Eebhaaana waa Hodan Naxriis badan, Hadduu Doono wuu idin Baabi'in idinkuna Bedali Gadaashiin Ciduu Doono siduu iddinka Abuuray Faracii Qoom kale."
+  },
+  {
+    "surah_id": 6,
+    "ayah_number": 134,
+    "global_ayah_id": 923,
+    "translation": "Waxa laydiin Yaboohi wuu Imaan Eebana ma daalisaan."
+  },
+  {
+    "surah_id": 6,
+    "ayah_number": 135,
+    "global_ayah_id": 924,
+    "translation": "Waxaad Dhahdaa Qommkayow ku Camal Fala Sidiinaas, anna waan Camal faliye, waxaadna Ogaan doontaan Cidday Cidhib Dambe u ahaatee mana Liibano Daalime."
+  },
+  {
+    "surah_id": 6,
+    "ayah_number": 136,
+    "global_ayah_id": 925,
+    "translation": "Waxay uga yeeleen Eebe wuxuu Abuuray oo Beero iyo Xoola ah qayb, waxayna Dheheen kan Eebaa iska leh Sheegashadooda kanna waxaa iska leh Shurukadanada (Sanamyda) waxa Sanamyadu ma Gaadho Eebe, waxa Eebana wuxuu Gaadhaa Sanamyadooda waxaa Xun waxay Xukumeen."
+  },
+  {
+    "surah_id": 6,
+    "ayah_number": 137,
+    "global_ayah_id": 926,
+    "translation": "Saasayna ugu Qurxiyeen in Badan oo Gaalada ah Dilidda Caruurtooda Shurukadoodu, (Shayaadiintu) inay Halaagaan kana Khaldaan Diintooda, hadduu Eebe Doonana mayna Faleen ee Isaga Tag iyaga iyo waxay Been Abuuran."
+  },
+  {
+    "surah_id": 6,
+    "ayah_number": 138,
+    "global_ayah_id": 927,
+    "translation": "Waxay Dheheen Tan waa Niemooleey iyo Beer Reeban oosan ka Quudanayn Cidaan Doonno Mooyee, Sheegashadooda, iyo Niemoolay la Xarrimay Dhabarkeeda (In la rarto) iyo Niemoolay aan Magaca Eebe lagu Xusayn, ku Been abuurasho Darteed wuxuu ka Abaal marin Eebe waxay Been Abuuranayeen."
+  },
+  {
+    "surah_id": 6,
+    "ayah_number": 139,
+    "global_ayah_id": 928,
+    "translation": "Waxay Dheheen Gaaladii waxa ku Jira Uurka Niemoolaydan waxay Gaar u tahay Raggannaga waxayna ka Reebantahay Haweenkannaga hadday Bakhti tahayna way wadaagi wuxuu ka Abaal marin Eebe Tilmaantooda, Illeen waa Falsame Oge."
+  },
+  {
+    "surah_id": 6,
+    "ayah_number": 140,
+    "global_ayah_id": 929,
+    "translation": "Waxaa Dhab u Khasaaray kuwa Dilay Caruurtooda Caqli Xumo Darteed iyo Cilmi la'aan oo Reebay wixii Eebe ku Arzuqay Been abuurasho Eebe Darteed way Dhumeen mana Hanuunsana."
+  },
+  {
+    "surah_id": 6,
+    "ayah_number": 141,
+    "global_ayah_id": 930,
+    "translation": "Eebe waa kan soo Bixiyey Beero la Dhisay iyo Kuwaan Dhisnayn, iyo Timir, iyo Tallad kala Duwanyahay Cunidiisu, iyo Saytuun, iyo Rumaan isu eg iyo qaaraan isu ekeyn, ka Cuna Midhihiisa (Sakada) Maalinta la goyn, hana Xad Gudbina Eebe ma Jeela kuwa Cadgudbee."
+  },
+  {
+    "surah_id": 6,
+    "ayah_number": 142,
+    "global_ayah_id": 931,
+    "translation": "Niemoolayda waxaa ka mida mid la Rarto, iyo mid kuwa yar yara, ka Cuna waxa Eebe idinku Arzaaqay hana raacina Tallaabooyinka Shaydaanka Illen waa Colkiinna oo Cade."
+  },
+  {
+    "surah_id": 6,
+    "ayah_number": 143,
+    "global_ayah_id": 932,
+    "translation": "Waa Siddeed Nooc Labo Ido ah iyo Labo Riyo ah (Lab iyo Dhidig) ma Labada lab yuu Reebay Eebe Mise Labada Dhadig Mise waxa Uurka kuwa Dhadig ku Jira, noo Warrama cilmi haddaad Run Sheegaysaan."
+  },
+  {
+    "surah_id": 6,
+    "ayah_number": 144,
+    "global_ayah_id": 933,
+    "translation": "Geelana Labo ka mida Lo'dana labo dheh ma labada Lab yuu Eebe reebay mise kuwa Dhadig mise waxa Uurka kuwa Dhadig ku Jira, mise Maragbaad ka ahaydeen markuu idin Faray Eebe Sidaas, Yaase ka Dulmi badan Cid ku Abuuratay Eebe, inuu Dhumiyo Dadka Cilmi Darro, Eebana ma hanuuniyo Qoom Daalimiina."
+  },
+  {
+    "surah_id": 6,
+    "ayah_number": 145,
+    "global_ayah_id": 934,
+    "translation": "Waxaad Dhahdaa kama helayo waxa laywaxyooday wax ka Reeban Cidda Cuni oon ahayn, Bakhti, Dhiig Butaaci, Hilib Doofaar, Illen waa Nijaase iyo wax Xun oo lagu Gawracay Magaca Eebe waxaan ahayn, Ruuxii Baahda Dulmi iyo cadgudub la'aan, Eebahaa wuu u Dambi Dhaaf una Naxariisan (hadduu baahidaa u Cuno)"
+  },
+  {
+    "surah_id": 6,
+    "ayah_number": 146,
+    "global_ayah_id": 935,
+    "translation": "Kuwa Yuhuudda ah waxaan ka reebnay wax kastoo Ciddi leh, Lo'da iyo Adhigana waxaan ka reebnay Baruurtooda, waxay Dhabarka ku qaadaan (Baruurta Dhabarka) mooyee, ama Uur ku Jirta ama wixii ku Dheehan Laf, saasaana ku Abaal marinay Dulmigooda Dartiis, Runbaana Sheegaynaa."
+  },
+  {
+    "surah_id": 6,
+    "ayah_number": 147,
+    "global_ayah_id": 936,
+    "translation": "Hadday ku Beeniyaan waxaad dhahdaa Eebihiin war Naxariis badane lagamana Celiyo Ciqaabtiisa qoomka Dambiilayaasha ah."
+  },
+  {
+    "surah_id": 6,
+    "ayah_number": 148,
+    "global_ayah_id": 937,
+    "translation": "Waxay Odhan kuwii Gaaloobay Hadduu Eebe Doono, maanaan Gaalowneen Anaga iyo Aabayowganno, waxna maanaan Xarimneen saasayna u Beeniyeen kuwii ka horreeyey intay ka Dhadhamiyaan Ciqaabtanada, waxaad dhahdaa Agtiinna Cilmi mayahay aad noo soo Bixisaan (Muujisaan) waxaan malo ahayn ma Raacaysaan waxaadna uun tihiin Beenaalayaal,"
+  },
+  {
+    "surah_id": 6,
+    "ayah_number": 149,
+    "global_ayah_id": 938,
+    "translation": "Waxaad Dhahdaa Eebaa iska leh Xujada Wayn, hadduu doonana wuu idin Hanuunin Dhammaan."
+  },
+  {
+    "surah_id": 6,
+    "ayah_number": 150,
+    "global_ayah_id": 939,
+    "translation": "Waxaad Dhadaa keena Markhaatgiina idiin Marag Furi in Eebe Reebay kan (aad Reebteen) hadday Marag Furaan ha marag furina la Jirkooda, hana raacina hawada kuwa Beeniyey aayaadkanaga, kuwaan Rumaynin Aakhiro Iyaguna Eebahood waxbay la simman."
+  },
+  {
+    "surah_id": 6,
+    "ayah_number": 151,
+    "global_ayah_id": 940,
+    "translation": "Waxaad Dhahdaa Kaalaya aan idiin Akhriyo waxa Eebe idinka reebaye, waa inaydaan wax la Wadaajin, Labada waalidna waa inaad u samo Fashaan (Oydaan Caasiyin) oydaan laynna Caruurtiinna Saboolnimo (Baahi) Anagaa idinka iyo Iyagaba Arzaaqi, hana u Dhawaanina Xumaanta teeda muuqata iyo Teeda Qarsoonba, hana dilina Naftii Eebe Reebay in Xaq darro lagu Dilo, saasuuna Eebe idin fari inaad wax kastaan."
+  },
+  {
+    "surah_id": 6,
+    "ayah_number": 152,
+    "global_ayah_id": 941,
+    "translation": "hana u Dhawaanina Xoolaha Agoonta si Fiican mooyee intay ka Gaadhaan Xoogooda, Dhammaystirana Miisidda iyo Miisaanka, si Caddaalada, laguma kalifo Nafi waxayna karin haddaad hadlaysaanna Caddaalad fala, Qaraababa ha ahaadee, oofiyana Ballanka Eebe, Sidaasaana Eebe idin faray inaad waantoowdaan."
+  },
+  {
+    "surah_id": 6,
+    "ayah_number": 153,
+    "global_ayah_id": 942,
+    "translation": "Kaasinawaa Jidkayga toosan ee Raaca, hana Raacina Wadiiqaha oo idin la kala Tago (Idinka leexiyo Jidka Eebe) Saasaana Eebe idin faray inaad Dhawrsataan."
+  },
+  {
+    "surah_id": 6,
+    "ayah_number": 154,
+    "global_ayah_id": 943,
+    "translation": "Waxaana Siinnay Nabi Muuse Kitaabkii (Towreed) Annagoo Dhammaystiri waxa wanaagsan, wax walbana Caddayn, Isagoo hanuun iyo Naxariis ah, inay la kulanka Eebahood Rumeeyaan."
+  },
+  {
+    "surah_id": 6,
+    "ayah_number": 155,
+    "global_ayah_id": 944,
+    "translation": "Kanna (Quraanku) waa Kitaab aan soo Dejinnay oo Barkaysan, ee Raaca Dhawrsadana in laydiin Naxariisto."
+  },
+  {
+    "surah_id": 6,
+    "ayah_number": 156,
+    "global_ayah_id": 945,
+    "translation": "Oydaan Dhihin waxaa uun Kitaab lagu soo Dejiyey Labadii qolo ee naga horreeyey, anaguna ma naqaanno Cilmigoodii."
+  },
+  {
+    "surah_id": 6,
+    "ayah_number": 157,
+    "global_ayah_id": 946,
+    "translation": "Ama aydaan dhihin haddii Nalagu soo Dejiyo Kitaab waxaan ahaan lahayn kuwo ka hanuunsan iyaga, waxaa idiinka yimid Xujo (Cad) xagga Eebihiin, iyo Hanuun, iyo Naxariis, cid ka dulmi badanna ma jirto mid beenisay Aayaadka Eebe oo ka Jeedsatay, waxaannu ku Abaal marin kuwa ka Jeedsada aayaadkanaga Cadaab Xun Jeedsigooda dartiis."
+  },
+  {
+    "surah_id": 6,
+    "ayah_number": 158,
+    "global_ayah_id": 947,
+    "translation": "Ma waxay Sugayaan inay Eebe iyo Malaa'igta la Kumaan ama u Yimaaddaan Aayadaha Eebahaa Qaarkood Maalintay u Imaan Aayadaha Eebahaa qarkood wax uma tarto Naf rumayn iyadoon horay u Rumayn ama aan ku Kasban iimankeeda Khayr, waxaad Dhahdaa suga Anaguna waanu Sugaynaa."
+  },
+  {
+    "surah_id": 6,
+    "ayah_number": 159,
+    "global_ayah_id": 948,
+    "translation": "Kuwa ku kala tagay Diintooda oo noqday Kooxo, ka mid ma tahid, Amarkoodana Eebe umbaa iska leh markaasuu uga warrami waxay Falayeen."
+  },
+  {
+    "surah_id": 6,
+    "ayah_number": 160,
+    "global_ayah_id": 949,
+    "translation": "Ciddii la Timaadda Wanaag wuxuu mudan Toban la mid ah Ciddii la Timaadda Xumaanna waxaa laga abaal mariyaa mid la mid ah lamana Dulmiyo."
+  },
+  {
+    "surah_id": 6,
+    "ayah_number": 161,
+    "global_ayah_id": 950,
+    "translation": "Waxaad Dhahdaa wuxuu Igu Hanuuniyey Eebahay Jid Toosan Diin Sugan oo Diinti (Nabi) Ibraahim isagoo toosan oon gaalada ka mid ahayn."
+  },
+  {
+    "surah_id": 6,
+    "ayah_number": 162,
+    "global_ayah_id": 951,
+    "translation": "Waxaad Dhadaa Salaaddayda, waxaan Gawriei, Noloshayda iyo Geeridaydaba Eebaa iska leh Eebaha Caalamka ah."
+  },
+  {
+    "surah_id": 6,
+    "ayah_number": 163,
+    "global_ayah_id": 952,
+    "translation": "Wax la Wadaagana ma jiro, Saasaana lay faray Anigaana ugu Horreeya Muslimiinta (Ummaddan)."
+  },
+  {
+    "surah_id": 6,
+    "ayah_number": 164,
+    "global_ayah_id": 953,
+    "translation": "Waxaad Dhadaa ma wax ilaah ka soo hadhay yaan Eebe ka dooni (Dhigan) Isagoo ILaahay wax walba Eebe u ah, naf kastana waxay kasbato waa uun Korkkeda, Nafna Dambi naf kale ma Qaaddo, Xagga Eebihiin umbaana laydiin Celin, wuxuuna idiinka warrami waxaad isku Diidanaydeen."
+  },
+  {
+    "surah_id": 6,
+    "ayah_number": 165,
+    "global_ayah_id": 954,
+    "translation": "Eebana waa kan idinka Yeelay kuwo Dhulka u Hadhay, Qaarkiinna qaar ka sara mariyey Darajooyin, inuu idinku Imtixaamo wuxuu idin siiyay, Eebana waa Deg degtaa Ciqaabtiisu waana Dambi Dhaafe Naxariista."
+  }
+]

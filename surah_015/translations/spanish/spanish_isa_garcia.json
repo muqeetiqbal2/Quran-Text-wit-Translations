@@ -1,0 +1,602 @@
+[
+  {
+    "surah_id": 15,
+    "ayah_number": 0,
+    "global_ayah_id": 1816,
+    "translation": "En el nombre de Dios, el Compasivo con toda la creación, el Misericordioso con los creyentes."
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 1,
+    "global_ayah_id": 1817,
+    "translation": "Álif. Lam. Ra’. Éstos son los versículos del Libro, una recitación clara."
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 2,
+    "global_ayah_id": 1818,
+    "translation": "Llegará el momento en que quienes se negaron a creer desearán haber sido musulmanes entregados a la voluntad de Dios."
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 3,
+    "global_ayah_id": 1819,
+    "translation": "Déjalos que coman, que disfruten y sean seducidos por el apego a esta vida mundanal, que ya sabrán."
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 4,
+    "global_ayah_id": 1820,
+    "translation": "No he destruido una ciudad [que estuviera condenada] hasta que le llegara su término prefijado."
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 5,
+    "global_ayah_id": 1821,
+    "translation": "Ninguna nación puede adelantar ni retrasar su final."
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 6,
+    "global_ayah_id": 1822,
+    "translation": "Y dicen: \"¡Oh, tú [Mujámmad]! A quien se le ha descendido la revelación, eres un demente."
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 7,
+    "global_ayah_id": 1823,
+    "translation": "¿Por qué no te presentas acompañado por los ángeles, si es verdad lo que dices?\""
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 8,
+    "global_ayah_id": 1824,
+    "translation": "Pero cuando envío a los ángeles es con el castigo, y si los hubiera enviado [en respuesta a sus desafíos] ya no les quedaría tiempo."
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 9,
+    "global_ayah_id": 1825,
+    "translation": "Yo he revelado el Corán y Yo soy su custodio."
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 10,
+    "global_ayah_id": 1826,
+    "translation": "Envié antes de ti [otros Mensajeros] a los pueblos antiguos,"
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 11,
+    "global_ayah_id": 1827,
+    "translation": "pero cada vez que se les presentaba un Mensajero se burlaban de él."
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 12,
+    "global_ayah_id": 1828,
+    "translation": "Así es como [la burla] se adueña del corazón de los pecadores."
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 13,
+    "global_ayah_id": 1829,
+    "translation": "No creerán en él a pesar del ejemplo de lo que les aconteció a los pueblos anteriores."
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 14,
+    "global_ayah_id": 1830,
+    "translation": "Y aunque les abriera una puerta en el cielo por la que pudieran ascender [y contemplar a los ángeles] no creerían."
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 15,
+    "global_ayah_id": 1831,
+    "translation": "Dirían: \"Nuestros ojos ven visiones, nos han hechizado\"."
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 16,
+    "global_ayah_id": 1832,
+    "translation": "He dispuesto constelaciones en el cielo, y las he embellecido para quienes las contemplan."
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 17,
+    "global_ayah_id": 1833,
+    "translation": "He protegido al cielo de todo demonio maldito."
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 18,
+    "global_ayah_id": 1834,
+    "translation": "Si intenta escuchar, le arrojaré una bola de fuego visible."
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 19,
+    "global_ayah_id": 1835,
+    "translation": "He extendido la Tierra, he dispuesto en ella montañas firmes y he hecho crecer en ella de todo en forma equilibrada."
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 20,
+    "global_ayah_id": 1836,
+    "translation": "Facilité los medios para que puedan vivir en ella ustedes y el resto de las criaturas."
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 21,
+    "global_ayah_id": 1837,
+    "translation": "En Mi poder están las reservas de su sustento y les proveo de él en la medida que he determinado."
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 22,
+    "global_ayah_id": 1838,
+    "translation": "Envié los vientos fecundadores y hago descender del cielo agua con la que les doy de beber, y no son ustedes los dueños de sus reservas."
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 23,
+    "global_ayah_id": 1839,
+    "translation": "Yo doy la vida y doy la muerte, y Yo soy el heredero [a quien todo lo creado ha de retornar]."
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 24,
+    "global_ayah_id": 1840,
+    "translation": "Conozco a quienes los precedieron y también a quienes los sucederán."
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 25,
+    "global_ayah_id": 1841,
+    "translation": "Tu Señor los congregará. Él es Sabio, lo sabe todo."
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 26,
+    "global_ayah_id": 1842,
+    "translation": "He creado al ser humano de arcilla, un barro maleable."
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 27,
+    "global_ayah_id": 1843,
+    "translation": "Y al yinn lo había creado ya antes de fuego."
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 28,
+    "global_ayah_id": 1844,
+    "translation": "[Recuerda] cuando tu Señor dijo a los ángeles: \"Voy a crear un ser humano de arcilla, de barro maleable."
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 29,
+    "global_ayah_id": 1845,
+    "translation": "Cuando lo haya completado e insuflado en él el espíritu que he creado para él, hagan una reverencia [en honor a Mí] ante él\"."
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 30,
+    "global_ayah_id": 1846,
+    "translation": "Todos los ángeles hicieron la reverencia,"
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 31,
+    "global_ayah_id": 1847,
+    "translation": "excepto Iblís, que se negó a ser de quienes hicieron la reverencia."
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 32,
+    "global_ayah_id": 1848,
+    "translation": "Dijo [Dios]: \"¡Oh, Iblís! ¿Por qué no te cuentas entre quienes hicieron la reverencia?\""
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 33,
+    "global_ayah_id": 1849,
+    "translation": "Dijo: \"No he de hacerla ante un ser humano [que es inferior a mí], al que has creado de arcilla, de barro maleable\"."
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 34,
+    "global_ayah_id": 1850,
+    "translation": "Dijo [Dios]: \"Sal de aquí, pues te maldigo."
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 35,
+    "global_ayah_id": 1851,
+    "translation": "Serás maldito hasta el Día del Juicio\"."
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 36,
+    "global_ayah_id": 1852,
+    "translation": "Dijo: \"¡Oh, Señor mío! Tolérame hasta el Día de la Resurrección\"."
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 37,
+    "global_ayah_id": 1853,
+    "translation": "Dijo: \"Te concedo la prórroga que me pides,"
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 38,
+    "global_ayah_id": 1854,
+    "translation": "hasta el día cuyo término está definido\"."
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 39,
+    "global_ayah_id": 1855,
+    "translation": "Dijo: \"¡Oh, Señor mío! Por haber dejado que me extravíe, los seduciré y descarriaré a todos,"
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 40,
+    "global_ayah_id": 1856,
+    "translation": "excepto a quienes de Tus siervos hayas protegido\"."
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 41,
+    "global_ayah_id": 1857,
+    "translation": "Dijo [Dios]: \"A quien siga Mi camino recto lo protegeré."
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 42,
+    "global_ayah_id": 1858,
+    "translation": "No tendrás poder alguno sobre Mis siervos, salvo los que se extravíen siguiéndote\"."
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 43,
+    "global_ayah_id": 1859,
+    "translation": "El Infierno es el lugar donde se reunirán todos ellos."
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 44,
+    "global_ayah_id": 1860,
+    "translation": "El Infierno posee siete puertas y cada una está destinada para un grupo determinado [de pecadores]."
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 45,
+    "global_ayah_id": 1861,
+    "translation": "Mientras que los piadosos serán retribuidos con jardines y manantiales."
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 46,
+    "global_ayah_id": 1862,
+    "translation": "[Se les dirá:] Ingresen a ellos en paz, y estén seguros de que no se les privará de nada."
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 47,
+    "global_ayah_id": 1863,
+    "translation": "Purificaremos sus corazones de todo rencor. Serán todos como hermanos y se sentarán unos enfrente de otros."
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 48,
+    "global_ayah_id": 1864,
+    "translation": "Allí no volverán a sufrir, y vivirán por toda la eternidad."
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 49,
+    "global_ayah_id": 1865,
+    "translation": "Anúnciales a Mis siervos [oh, Mujámmad] que soy el Absolvedor, el Misericordioso,"
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 50,
+    "global_ayah_id": 1866,
+    "translation": "y que Mi castigo es el verdadero castigo doloroso."
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 51,
+    "global_ayah_id": 1867,
+    "translation": "Relátales sobre los huéspedes de Abraham."
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 52,
+    "global_ayah_id": 1868,
+    "translation": "Cuando se presentaron ante él, dijeron: \"¡La paz sea contigo!\" [Abraham y su esposa, luego de haberles ofrecido comida y observar que no comían, dijeron]: \"Ustedes nos infunden temor\"."
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 53,
+    "global_ayah_id": 1869,
+    "translation": "Le dijeron: \"No temas, te anunciamos el nacimiento de un hijo sabio\"."
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 54,
+    "global_ayah_id": 1870,
+    "translation": "Dijo: \"¿Me dan ahora la albricia [de un hijo] siendo que me ha alcanzado la vejez?\""
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 55,
+    "global_ayah_id": 1871,
+    "translation": "Dijeron: \"Te albriciamos con la verdad. No seas de quienes han perdido la esperanza\"."
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 56,
+    "global_ayah_id": 1872,
+    "translation": "Dijo: \"Solo desesperan de la misericordia de su Señor los extraviados\"."
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 57,
+    "global_ayah_id": 1873,
+    "translation": "Preguntó: \"¿Cuál es su misión? ¡Oh, emisarios [de Dios]!\""
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 58,
+    "global_ayah_id": 1874,
+    "translation": "Dijeron: \"Hemos sido enviados [para castigar] a un pueblo de pecadores,"
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 59,
+    "global_ayah_id": 1875,
+    "translation": "salvo a la familia de Lot, a quienes salvaremos,"
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 60,
+    "global_ayah_id": 1876,
+    "translation": "pero no a su mujer, a quien Dios decretó que fuese de los condenados\"."
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 61,
+    "global_ayah_id": 1877,
+    "translation": "Los emisarios se presentaron ante la casa de Lot."
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 62,
+    "global_ayah_id": 1878,
+    "translation": "Dijo [Lot]: \"Me son desconocidos\"."
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 63,
+    "global_ayah_id": 1879,
+    "translation": "Dijeron: \"Hemos sido enviados para ejecutar el castigo del cual tu pueblo dudaba."
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 64,
+    "global_ayah_id": 1880,
+    "translation": "Venimos a ti con la Verdad. Siempre decimos la verdad."
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 65,
+    "global_ayah_id": 1881,
+    "translation": "Sal por la noche con tu familia [y tus seguidores]. Marcha detrás de ellos [para protegerlos] y que ninguno de ustedes mire hacia atrás. Diríjanse hacia donde se les ha ordenado\"."
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 66,
+    "global_ayah_id": 1882,
+    "translation": "Entonces le revelé [a Lot Mi decreto]: \"Todos ellos [los pecadores] serán destruidos al amanecer\"."
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 67,
+    "global_ayah_id": 1883,
+    "translation": "Pero se presentaron los habitantes de la ciudad contentos."
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 68,
+    "global_ayah_id": 1884,
+    "translation": "Les dijo [Lot]: \"Ellos son mis huéspedes. No me avergüencen."
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 69,
+    "global_ayah_id": 1885,
+    "translation": "Tengan temor de Dios y no me humillen\"."
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 70,
+    "global_ayah_id": 1886,
+    "translation": "Dijeron: \"¿No te habíamos prohibido que protegieras gente [en tu casa de nuestras perversiones]?\""
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 71,
+    "global_ayah_id": 1887,
+    "translation": "Les respondió: \"Cásense con las mujeres del pueblo si quieren\"."
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 72,
+    "global_ayah_id": 1888,
+    "translation": "[Dice Dios:] ¡Juro por tu vida! [¡oh, Mujámmad!], que la aberración embriagaba sus mentes."
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 73,
+    "global_ayah_id": 1889,
+    "translation": "Les sorprendió el castigo al amanecer."
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 74,
+    "global_ayah_id": 1890,
+    "translation": "Puse al pueblo de cabeza y les envié una lluvia de piedras de arcilla."
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 75,
+    "global_ayah_id": 1891,
+    "translation": "En eso hay signos para quienes reflexionan."
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 76,
+    "global_ayah_id": 1892,
+    "translation": "[Esta ciudad arrasada] está aún en una ruta [a la vista de los viajeros]."
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 77,
+    "global_ayah_id": 1893,
+    "translation": "En eso hay un signo para los creyentes."
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 78,
+    "global_ayah_id": 1894,
+    "translation": "Los habitantes del pueblo de Jetró cometían injusticias,"
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 79,
+    "global_ayah_id": 1895,
+    "translation": "por lo que los castigué. Ambas [ciudades, la de Lot y la de Jetró] son visibles desde una ruta."
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 80,
+    "global_ayah_id": 1896,
+    "translation": "Los habitantes de Al Hiyr desmintieron a los Mensajeros."
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 81,
+    "global_ayah_id": 1897,
+    "translation": "Les presenté Mis signos, pero los rechazaron."
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 82,
+    "global_ayah_id": 1898,
+    "translation": "Construían sus casas esculpiendo las montañas y allí se sentían seguros."
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 83,
+    "global_ayah_id": 1899,
+    "translation": "Pero los sorprendió el castigo al amanecer,"
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 84,
+    "global_ayah_id": 1900,
+    "translation": "y no los benefició en nada la riqueza que poseían."
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 85,
+    "global_ayah_id": 1901,
+    "translation": "No he creado los cielos, la Tierra y cuanto hay entre ambos sino con un fin justo y verdadero. La Hora se aproxima, así que tú disculpa [a los que niegan el Mensaje] y trátalos de buena manera."
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 86,
+    "global_ayah_id": 1902,
+    "translation": "Tu Señor es el Creador, el que todo lo sabe."
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 87,
+    "global_ayah_id": 1903,
+    "translation": "Te he distinguido con la revelación de los siete versículos que se reiteran como parte del grandioso Corán."
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 88,
+    "global_ayah_id": 1904,
+    "translation": "No codicies aquello conque he agraciado a algunos de los ricos [de los que desmienten el Mensaje] y no sientas pena por ellos [a causa de su incredulidad]. Y baja tu ala protegiendo a los creyentes."
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 89,
+    "global_ayah_id": 1905,
+    "translation": "Di: \"He sido enviado para advertirles claramente [sobre un castigo]\","
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 90,
+    "global_ayah_id": 1906,
+    "translation": "como el que le envié a los que rechazaron [el Mensaje de Dios]."
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 91,
+    "global_ayah_id": 1907,
+    "translation": "Como los que creen en una parte del Corán y en otra no."
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 92,
+    "global_ayah_id": 1908,
+    "translation": "¡Por tu Señor! Que haré rendir cuentas a todos ellos"
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 93,
+    "global_ayah_id": 1909,
+    "translation": "por todo lo que hicieron."
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 94,
+    "global_ayah_id": 1910,
+    "translation": "Divulga lo que se te ordena [públicamente] y no te preocupes por los idólatras."
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 95,
+    "global_ayah_id": 1911,
+    "translation": "Yo te protegeré de quienes se burlen,"
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 96,
+    "global_ayah_id": 1912,
+    "translation": "de quienes ponen junto a Dios otras deidades, ellos ya pronto sabrán [el castigo que les espera]."
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 97,
+    "global_ayah_id": 1913,
+    "translation": "Sé que te apenas por cuanto dicen,"
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 98,
+    "global_ayah_id": 1914,
+    "translation": "pero glorifica con alabanzas a tu Señor y cuéntate entre quienes se prosternan [en oración para aliviar su angustia],"
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 99,
+    "global_ayah_id": 1915,
+    "translation": "y adora a tu Señor hasta que te llegue la certeza."
+  }
+]

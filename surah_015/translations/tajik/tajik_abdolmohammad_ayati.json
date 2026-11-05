@@ -1,0 +1,596 @@
+[
+  {
+    "surah_id": 15,
+    "ayah_number": 1,
+    "global_ayah_id": 1803,
+    "translation": "Алиф, лом, ро. Ин аст-оёти китоб ва Қуръони равшангар."
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 2,
+    "global_ayah_id": 1804,
+    "translation": "Бисёр вақт кофирон орзу кунанд, ки эй кош мусалмон мебуданд,"
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 3,
+    "global_ayah_id": 1805,
+    "translation": "Бигузорашон, то бихӯранд ва баҳравар шаванд ва орзу ба худ машғулашон дорад, ба зуди хоҳанд донист."
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 4,
+    "global_ayah_id": 1806,
+    "translation": "Ҳар деҳаеро ҳалок кардем, албатта замоне маълум дошт."
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 5,
+    "global_ayah_id": 1807,
+    "translation": "Ҳеҷ уммате аз аҷали худ на пеш меафтад ва на пас мемонад."
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 6,
+    "global_ayah_id": 1808,
+    "translation": "Ва гуфтанд: «Эй марде, ки Қуръон ба ту нозил шуда, ҳаққо, ки ту девонаӣ!"
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 7,
+    "global_ayah_id": 1809,
+    "translation": "Агар рост мегӯӣ, чаро фариштагонро барои мо намеоварӣ?»"
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 8,
+    "global_ayah_id": 1810,
+    "translation": "Мо фариштагонро ғайри ба ҳақ нозил намекунем ва дар он ҳангом дигар мӯҳлаташон надиҳанд."
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 9,
+    "global_ayah_id": 1811,
+    "translation": "Мо Қуръонро худ нозил кардаем ва худ нигаҳбонаш ҳастем."
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 10,
+    "global_ayah_id": 1812,
+    "translation": "Ва Мо расулони худро пеш аз ту ба миёни қавмҳои пешин фиристодаем."
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 11,
+    "global_ayah_id": 1813,
+    "translation": "Ҳар паёмбаре бар онҳо фиристода шуд, албатта масхарааш карданд."
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 12,
+    "global_ayah_id": 1814,
+    "translation": "Роҳашро дар дили гунаҳгорон инчунин мекушоем!"
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 13,
+    "global_ayah_id": 1815,
+    "translation": "Ба он имон намеоваранд ва суннати пешиниён чунин будааст."
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 14,
+    "global_ayah_id": 1816,
+    "translation": "Агар барояшон аз осмон даре бикушоем, ки аз он боло раванд,"
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 15,
+    "global_ayah_id": 1817,
+    "translation": "гӯянд: «Чашмони моро ҷоду кардаанд, балки мо мардуме ҷодузада ҳастем!»"
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 16,
+    "global_ayah_id": 1818,
+    "translation": "Ва албатта дар осмон бурҷҳое офаридем ва барон бинандагонашон биёростем."
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 17,
+    "global_ayah_id": 1819,
+    "translation": "Ва аз ҳар шайтони раҷиме ҳифзашон кардем."
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 18,
+    "global_ayah_id": 1820,
+    "translation": "Ғайри он ки дуздона гӯш медод ва шарорае равшан таъқибаш кард."
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 19,
+    "global_ayah_id": 1821,
+    "translation": "Ва заминро густурдем ва дар он кӯҳҳое азим афкандем. Ва аз ҳар чиз ба шевае санҷида дар он рӯёнидем."
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 20,
+    "global_ayah_id": 1822,
+    "translation": "Ва маъишати шумо ва касонеро, ки шумо рӯзидеҳашон нестед, дар он ҷо қарор додем."
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 21,
+    "global_ayah_id": 1823,
+    "translation": "Ҳар чӣ ҳаст, хазинаҳои он назди Мост ва Мо ҷуз ба андозае муъайян онро намефиристем."
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 22,
+    "global_ayah_id": 1824,
+    "translation": "Ва бодҳои обистанкунандаро фиристодем ва аз осмон обе нозил кардем ва шуморо ба он сероб сохтем ва шуморо нарасад, ки хазинадори он, бошед."
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 23,
+    "global_ayah_id": 1825,
+    "translation": "Албатта Мо ҳастем, ки зинда мекунем ва мемиронем ва баъд аз ҳама боқӣ мемонем."
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 24,
+    "global_ayah_id": 1826,
+    "translation": "Ва медонем чӣ касоне аз шумо аз ин пеш рафтаанд ва чӣ касоне боқӣ мондаанд."
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 25,
+    "global_ayah_id": 1827,
+    "translation": "Ва Парвардигори ту ҳамаро зинда карда ҷамъ мегардонад, зеро Ӯст, ки ҳакиму доност!"
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 26,
+    "global_ayah_id": 1828,
+    "translation": "Мо одамиро аз гили хушк, аз лаҷани (лойи) бӯйнок офаридем."
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 27,
+    "global_ayah_id": 1829,
+    "translation": "Ва ҷинро пеш аз он аз оташи сӯзандаи бедуд офарида будем."
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 28,
+    "global_ayah_id": 1830,
+    "translation": "Ва Парвардигорат ба фариштагон гуфт: «Мехоҳам башаре аз гили хушк, аз лои бӯйнок биёфаринам."
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 29,
+    "global_ayah_id": 1831,
+    "translation": "Чун офаринишамро ба поён бурдам ва аз рӯҳи Худ дар он дамидам, дар баробари ӯ ба саҷда бияфтед»."
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 30,
+    "global_ayah_id": 1832,
+    "translation": "Фариштагон ҳамагӣ саҷда карданд,"
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 31,
+    "global_ayah_id": 1833,
+    "translation": "ғайри Иблис, ки сар боззад, ки бо саҷдакунандагон бошад."
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 32,
+    "global_ayah_id": 1834,
+    "translation": "Гуфт: «Эй Иблис, чаро ту аз саҷдакунандагон Набудӣ?»"
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 33,
+    "global_ayah_id": 1835,
+    "translation": "Гуфт: «Ман барои башаре, ки аз гили хушк, аз лойи бӯйнок офаридаӣ, саҷда намекунам»."
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 34,
+    "global_ayah_id": 1836,
+    "translation": "Гуфт: «Аз он ҷо берун шав, ки рондашуда ҳастӣ."
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 35,
+    "global_ayah_id": 1837,
+    "translation": "То рӯзи қиёмат бар ту лаънат аст!»"
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 36,
+    "global_ayah_id": 1838,
+    "translation": "Гуфт: «Эй Парвардигори ман, маро то рӯзе, ки дубора зинда мешаванд, мӯҳлат деҳ»."
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 37,
+    "global_ayah_id": 1839,
+    "translation": "Гуфт: «Ту дар шумори мӯҳлатёфтагонӣ,"
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 38,
+    "global_ayah_id": 1840,
+    "translation": "то он рӯзе, ки вақташ маълум аст»."
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 39,
+    "global_ayah_id": 1841,
+    "translation": "Гуфт: «Эй Парвардигори ман, чун маро ноумед кардӣ, дар рӯи замин бадиҳоро дар назарашон биёроям ва ҳамагонро гумроҳ кунам,"
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 40,
+    "global_ayah_id": 1842,
+    "translation": "ғайри онҳо, ки бандагони боихлоси Ту бошанд»."
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 41,
+    "global_ayah_id": 1843,
+    "translation": "Гуфт: «Роҳи ихлос роҳи ростест, ки ба Ман мерасад."
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 42,
+    "global_ayah_id": 1844,
+    "translation": "Туро бар бандагони Ман ғолибияте нест, магар бар он гумроҳоне, ки туро пайравӣ кунанд."
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 43,
+    "global_ayah_id": 1845,
+    "translation": "Ва ҷаҳаннам ваъдагоҳи ҳама аст."
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 44,
+    "global_ayah_id": 1846,
+    "translation": "Ҳафт дар дорад ва барои хар дар гурӯҳе аз онон муъайян шудаанд."
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 45,
+    "global_ayah_id": 1847,
+    "translation": "Парҳезгорон дар биҳиштҳо, канори чашмасоронанд."
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 46,
+    "global_ayah_id": 1848,
+    "translation": "Ба саломату эминӣ дохил шавед»."
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 47,
+    "global_ayah_id": 1849,
+    "translation": "Ҳар кинаеро аз дилашон баркандаем, ҳама бародаранд, бар тахтҳо рӯбарӯи ҳаманд."
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 48,
+    "global_ayah_id": 1850,
+    "translation": "Ҳеҷ ранҷе ба онҳо намерасад ва аз он ҷо берунашон наронанд."
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 49,
+    "global_ayah_id": 1851,
+    "translation": "Ба бандагонам хабар деҳ, ки ман бахшояндаву меҳрубонам."
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 50,
+    "global_ayah_id": 1852,
+    "translation": "Ва азоби Ман азобе дардовар аст!"
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 51,
+    "global_ayah_id": 1853,
+    "translation": "Ва аз меҳмонони Иброҳим хабардорашон кун»."
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 52,
+    "global_ayah_id": 1854,
+    "translation": "Он гоҳ, ки бар ӯ дохил шуданд ва гуфтанд: «Салом!» Иброҳим гуфт: «Мо аз шумо метарсем!»"
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 53,
+    "global_ayah_id": 1855,
+    "translation": "Гуфтанд: «Матарс, мо туро ба писаре доно мужда (хушхабар) медиҳем»."
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 54,
+    "global_ayah_id": 1856,
+    "translation": "Гуфт: «Оё маро мужда медиҳед, бо он ки пир шудаам? Ба чӣ чиз муждаам медиҳед?»"
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 55,
+    "global_ayah_id": 1857,
+    "translation": "Гуфтанд: «Ба ҳақ хушхабарат додем, аз ноумедон мабош!»"
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 56,
+    "global_ayah_id": 1858,
+    "translation": "Гуфт: «Ҷуз гумроҳон чӣ касе аз раҳмати Парвардигораш ноумед мешавад?»"
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 57,
+    "global_ayah_id": 1859,
+    "translation": "Гуфт: «Эй расулон, кори шумо чист?»"
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 58,
+    "global_ayah_id": 1860,
+    "translation": "Гуфтанд: «Мо ба сари мардуме гунаҳкор фиристода шудаем,"
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 59,
+    "global_ayah_id": 1861,
+    "translation": "ғайри хонадони Лут, ки ҳамаро наҷот медиҳем,"
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 60,
+    "global_ayah_id": 1862,
+    "translation": "ҷуз занашро, ки муқаррар кардаем, ки аз боқимондагон бошад»."
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 61,
+    "global_ayah_id": 1863,
+    "translation": "Чун расулон назди хонадони Лут омаданд,"
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 62,
+    "global_ayah_id": 1864,
+    "translation": "Лут гуфт: «Шумо бегонаед»."
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 63,
+    "global_ayah_id": 1865,
+    "translation": "Гуфтанд: «На, чизеро, ки дар он шак мекарданд, овардаем."
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 64,
+    "global_ayah_id": 1866,
+    "translation": "Мо туро хабари рост овардаем ва мо ростгӯёнем."
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 65,
+    "global_ayah_id": 1867,
+    "translation": "Чун посе аз шаб бигзарад, хонадони худро берун бубар ва худ аз паи онҳо рав ва набояд ҳеҷ як аз шумо ба ақиб бингарад. Ва ҳар ҷо, ки фармонатон додаанд, биравед»."
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 66,
+    "global_ayah_id": 1868,
+    "translation": "Ва барои ӯ ҳодисаро ҳикоят кардем, ки чун субҳ фаро расад, решаи онҳо барканда шавад."
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 67,
+    "global_ayah_id": 1869,
+    "translation": "Аҳли шаҳр шодикунон омаданд."
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 68,
+    "global_ayah_id": 1870,
+    "translation": "Гуфт: «Инҳо меҳмонони мананд, маро расво макунед."
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 69,
+    "global_ayah_id": 1871,
+    "translation": "Аз Худованд битарсед ва маро шармсор масозед»."
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 70,
+    "global_ayah_id": 1872,
+    "translation": "Гуфтанд: «Магар туро аз мардум манъ накарда будем?»"
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 71,
+    "global_ayah_id": 1873,
+    "translation": "Гуфт: «Агар қасде доред, инак духтарони ман ҳастанд»."
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 72,
+    "global_ayah_id": 1874,
+    "translation": "Ба ҷони ту савганд, ки онҳо дар мастии худ саргашта буданд."
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 73,
+    "global_ayah_id": 1875,
+    "translation": "Чун субҳ бидамид, ононро фарёд фурӯ гирифт."
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 74,
+    "global_ayah_id": 1876,
+    "translation": "Шаҳрро зеру забар кардем ва бороне аз сиҷҷил бар онон боронидем."
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 75,
+    "global_ayah_id": 1877,
+    "translation": "Дар ин ибратҳост барои ибратгирандагон."
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 76,
+    "global_ayah_id": 1878,
+    "translation": "Ва он шаҳр акнун дар сари роҳи корвониён аст."
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 77,
+    "global_ayah_id": 1879,
+    "translation": "Ва мӯъминонро дар он ибратест."
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 78,
+    "global_ayah_id": 1880,
+    "translation": "Ва мардуми Айка низ ситамкор буданд."
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 79,
+    "global_ayah_id": 1881,
+    "translation": "Аз онҳо интиқом гирифтем ва шаҳрҳои он ду қавм ошкоро бар сари роҳанд."
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 80,
+    "global_ayah_id": 1882,
+    "translation": "Мардуми Ҳиҷр низ паёмбаронро ба дурӯғ нисбат доданд."
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 81,
+    "global_ayah_id": 1883,
+    "translation": "Оёти Худро бар онон расонидем, вале аз он рӯй мегардонданд."
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 82,
+    "global_ayah_id": 1884,
+    "translation": "Хонаҳои худро, то тинҷ бошанд, дар куҳҳо меканданд."
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 83,
+    "global_ayah_id": 1885,
+    "translation": "Субҳгоҳон ононро фарёд фурӯ гирифт."
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 84,
+    "global_ayah_id": 1886,
+    "translation": "Кирдорашон аз онҳо дафъи бало накард."
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 85,
+    "global_ayah_id": 1887,
+    "translation": "Осмонҳову замин ва он чиро, ки миёни онҳост, ба ғайри ҳақ наёфаридаем. Ва бешак қиёмат фаро мерасад. Пас гузашт кун, гузаште некӯ."
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 86,
+    "global_ayah_id": 1888,
+    "translation": "Албатта Парвардигори ту офаринандае доност!"
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 87,
+    "global_ayah_id": 1889,
+    "translation": "Мо сабъаммасонӣ ва Қуръони бузургро ба ту додем."
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 88,
+    "global_ayah_id": 1890,
+    "translation": "Агар баъзе аз мардону занонашонро ба чизе баҳравар сохтаем, ту ба он нигоҳ макун. Ва ғами онҳоро махӯр. Ва дар баробари мӯъминон фурӯтан (хоксор) бош."
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 89,
+    "global_ayah_id": 1891,
+    "translation": "Ва бигӯ: «Ман бимдиҳандае равшангарам»."
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 90,
+    "global_ayah_id": 1892,
+    "translation": "Ҳамонанди азобе, ки бар тақсимкунандагон нозил кардем:"
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 91,
+    "global_ayah_id": 1893,
+    "translation": "онол, ки Қуръонрю ба қисмҳо тақсим карда буданд."
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 92,
+    "global_ayah_id": 1894,
+    "translation": "Ба Парвардигорат савганд, ки ҳамаро бозхост кунем,"
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 93,
+    "global_ayah_id": 1895,
+    "translation": "ба хотири корҳое, ки мекардаанд!"
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 94,
+    "global_ayah_id": 1896,
+    "translation": "Ба ҳар чӣ амр шудаӣ, сареҳу баланд бигӯ ва аз мушрикон рӯйгардон бош!"
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 95,
+    "global_ayah_id": 1897,
+    "translation": "Мо масхаракунандагонро аз ту бозмедорем,"
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 96,
+    "global_ayah_id": 1898,
+    "translation": "онҳо, ки бо Оллоҳ худое дигар қоил мешаванд. Пас ба зудӣ хоҳанд донист."
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 97,
+    "global_ayah_id": 1899,
+    "translation": "Ва медонем, ки ту аз гуфторашон дилтанг мешавӣ."
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 98,
+    "global_ayah_id": 1900,
+    "translation": "Ба ситоиши Парвардигорат тасбеҳ кун ва аз саҷдакунандагон бош!"
+  },
+  {
+    "surah_id": 15,
+    "ayah_number": 99,
+    "global_ayah_id": 1901,
+    "translation": "Ва Парвардигоратро бипараст, то лаҳзаи маргат фаро расад!"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "surah_id": 1,
+    "ayah_number": 1,
+    "global_ayah_id": 1,
+    "translation": "Во имя Аллаха, Милостивого, Милосердного!"
+  },
+  {
+    "surah_id": 1,
+    "ayah_number": 2,
+    "global_ayah_id": 2,
+    "translation": "Хвала Аллаху, Господу миров,"
+  },
+  {
+    "surah_id": 1,
+    "ayah_number": 3,
+    "global_ayah_id": 3,
+    "translation": "Милостивому, Милосердному,"
+  },
+  {
+    "surah_id": 1,
+    "ayah_number": 4,
+    "global_ayah_id": 4,
+    "translation": "Властелину Дня воздаяния!"
+  },
+  {
+    "surah_id": 1,
+    "ayah_number": 5,
+    "global_ayah_id": 5,
+    "translation": "Тебе одному мы поклоняемся и Тебя одного молим о помощи."
+  },
+  {
+    "surah_id": 1,
+    "ayah_number": 6,
+    "global_ayah_id": 6,
+    "translation": "Веди нас прямым путем,"
+  },
+  {
+    "surah_id": 1,
+    "ayah_number": 7,
+    "global_ayah_id": 7,
+    "translation": "путем тех, кого Ты облагодетельствовал, не тех, на кого пал гнев, и не заблудших."
+  }
+]
