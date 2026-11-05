@@ -1,0 +1,390 @@
+[
+  {
+    "surah_id": 113,
+    "ayah_number": 0,
+    "global_ayah_id": 6337,
+    "urdu_phrase_raw": "بِسۡمِ& ساتھ نام@اللّٰہِ& اللہ کے@الرَّحۡمٰنِ&  جو بڑا مہربان@الرَّحِیۡمِ& بار بار رحم فرمانے والا ہے",
+    "english_phrase_raw": "بِسۡمِ&In (the) name@اللّٰہِ&(of) Allah,@الرَّحۡمٰنِ&the Most Gracious,@الرَّحِیۡمِ&the Most Merciful.",
+    "words": [
+      {
+        "word_id": 1,
+        "arabic": "بِسۡمِ ",
+        "root": "س م و",
+        "urdu_meaning": " ساتھ نام",
+        "english_meaning": "In (the) name",
+        "lemma": "اسْم",
+        "lughat": "",
+        "grammar": [
+          "P",
+          "N"
+        ]
+      },
+      {
+        "word_id": 2,
+        "arabic": "اللّٰہِ ",
+        "root": "ا ل ه",
+        "urdu_meaning": " اللہ کے",
+        "english_meaning": "(of) Allah,",
+        "lemma": "اللّٰہ",
+        "lughat": "",
+        "grammar": [
+          "PN"
+        ]
+      },
+      {
+        "word_id": 3,
+        "arabic": "الرَّحۡمٰنِ ",
+        "root": "ر ح م",
+        "urdu_meaning": "  جو بڑا مہربان",
+        "english_meaning": "the Most Gracious,",
+        "lemma": "رَحْمٰن",
+        "lughat": "",
+        "grammar": [
+          "DET",
+          "N"
+        ]
+      },
+      {
+        "word_id": 4,
+        "arabic": "الرَّحِیۡمِ",
+        "root": "ر ح م",
+        "urdu_meaning": " بار بار رحم فرمانے والا ہے",
+        "english_meaning": "the Most Merciful.",
+        "lemma": "رَحِيم",
+        "lughat": "",
+        "grammar": [
+          "DET",
+          "N"
+        ]
+      }
+    ]
+  },
+  {
+    "surah_id": 113,
+    "ayah_number": 1,
+    "global_ayah_id": 6338,
+    "urdu_phrase_raw": "قُلۡ& کہہ دیجئے@اَعُوۡذُ&میں پناہ لیتا ہوں@بِرَبِّ&رب کی@الۡفَلَقِ&صبح کے",
+    "english_phrase_raw": "قُلۡ&Say,@اَعُوۡذُ&I seek refuge@بِرَبِّ&in (the) Lord@الۡفَلَقِ&(of) the dawn,",
+    "words": [
+      {
+        "word_id": 1,
+        "arabic": "قُلۡ ",
+        "root": "ق و ل",
+        "urdu_meaning": " کہہ دیجئے",
+        "english_meaning": "Say,",
+        "lemma": "قالَ",
+        "lughat": "",
+        "grammar": [
+          "V"
+        ]
+      },
+      {
+        "word_id": 2,
+        "arabic": "اَعُوۡذُ  ",
+        "root": "ع و ذ",
+        "urdu_meaning": "میں پناہ لیتا ہوں",
+        "english_meaning": "I seek refuge",
+        "lemma": "عُذْ",
+        "lughat": "",
+        "grammar": [
+          "V"
+        ]
+      },
+      {
+        "word_id": 3,
+        "arabic": "بِرَبِّ ",
+        "root": "ر ب ب",
+        "urdu_meaning": "رب کی",
+        "english_meaning": "in (the) Lord",
+        "lemma": "رَبّ",
+        "lughat": "",
+        "grammar": [
+          "P",
+          "N"
+        ]
+      },
+      {
+        "word_id": 4,
+        "arabic": "الۡفَلَقِ ۙ﴿۱﴾",
+        "root": "ف ل ق",
+        "urdu_meaning": "صبح کے",
+        "english_meaning": "(of) the dawn,",
+        "lemma": "فَلَق",
+        "lughat": "",
+        "grammar": [
+          "DET",
+          "N"
+        ]
+      }
+    ]
+  },
+  {
+    "surah_id": 113,
+    "ayah_number": 2,
+    "global_ayah_id": 6339,
+    "urdu_phrase_raw": "مِنۡ شَرِّ& ہر اس چیز کے شر سے@مَا&جو@خَلَقَ&اس نے پیدا کی",
+    "english_phrase_raw": "مِنۡ &From@شَرِّ&(the) evil@مَا&(of) what@خَلَقَ&He created,",
+    "words": [
+      {
+        "word_id": 1,
+        "arabic": "مِنۡ  ",
+        "root": "",
+        "urdu_meaning": "سے",
+        "english_meaning": "From",
+        "lemma": "مِن",
+        "lughat": "",
+        "grammar": [
+          "P"
+        ]
+      },
+      {
+        "word_id": 2,
+        "arabic": "شَرِّ ",
+        "root": "ش ر ر",
+        "urdu_meaning": "شر",
+        "english_meaning": "(the) evil",
+        "lemma": "شَرّ",
+        "lughat": "",
+        "grammar": [
+          "N"
+        ]
+      },
+      {
+        "word_id": 3,
+        "arabic": "مَا ",
+        "root": "",
+        "urdu_meaning": "جو",
+        "english_meaning": "(of) what",
+        "lemma": "ما",
+        "lughat": "",
+        "grammar": [
+          "REL"
+        ]
+      },
+      {
+        "word_id": 4,
+        "arabic": "خَلَقَ ۙ﴿۲﴾",
+        "root": "خ ل ق",
+        "urdu_meaning": "اس نے پیدا کی",
+        "english_meaning": "He created,",
+        "lemma": "خَلَقَ",
+        "lughat": "",
+        "grammar": [
+          "V"
+        ]
+      }
+    ]
+  },
+  {
+    "surah_id": 113,
+    "ayah_number": 3,
+    "global_ayah_id": 6340,
+    "urdu_phrase_raw": "وَمِنۡ شَرِّ& اور شر سے@غَاسِقٍ&اندھیری رات کے@اِذَا&جب@وَقَبَ&وہ پھیل جائے",
+    "english_phrase_raw": "وَمِنۡ &And from@شَرِّ&(the) evil@غَاسِقٍ&(of) darkness@اِذَا&when@وَقَبَ&it spreads",
+    "words": [
+      {
+        "word_id": 1,
+        "arabic": "وَ مِنۡ  ",
+        "root": "",
+        "urdu_meaning": "اور سے",
+        "english_meaning": "And from",
+        "lemma": "مِن",
+        "lughat": "",
+        "grammar": [
+          "CONJ",
+          "P"
+        ]
+      },
+      {
+        "word_id": 2,
+        "arabic": "شَرِّ ",
+        "root": "ش ر ر",
+        "urdu_meaning": "شر",
+        "english_meaning": "(the) evil",
+        "lemma": "شَرّ",
+        "lughat": "",
+        "grammar": [
+          "N"
+        ]
+      },
+      {
+        "word_id": 3,
+        "arabic": "غَاسِقٍ  ",
+        "root": "غ س ق",
+        "urdu_meaning": "اندھیری رات کے",
+        "english_meaning": "(of) darkness",
+        "lemma": "غاسِق",
+        "lughat": "",
+        "grammar": [
+          "N"
+        ]
+      },
+      {
+        "word_id": 4,
+        "arabic": "اِذَا ",
+        "root": "اِذَا",
+        "urdu_meaning": "جب",
+        "english_meaning": "when",
+        "lemma": "إِذا",
+        "lughat": "",
+        "grammar": [
+          "T"
+        ]
+      },
+      {
+        "word_id": 5,
+        "arabic": "وَقَبَ ۙ﴿۳﴾",
+        "root": "و ق ب",
+        "urdu_meaning": "وہ پھیل جائے",
+        "english_meaning": "it spreads",
+        "lemma": "وَقَبَ",
+        "lughat": "<<اَلْوَقْبُ>> کے اصل معنی چٹان، پتھر وغیرہ میں گڑھا کے ہیں اور<<وَقَبَ>>(ض)کے معنی گڑھے وغیرہ میں داخل ہوکر غائب ہوجانے کے ہیں اسی سے <<وَقَبَتِ الشَّمْسُ>> ہے جس کے معنی آفتاب غروب ہونے کے ہیں اور <<وَقَبَ الظَّلَامَ>> کے معنی تاریکی چھاگئی اور اشیاء اس کے اندر غائب ہوگئیں۔قرآن پاک میں ہے:۔<<(وَ مِنۡ  شَرِّ غَاسِقٍ  اِذَا وَقَبَ )(۱۱۳۔۳)>>اور شب تاریک کی برائی سے جب اس کا اندھیرا چھاجائے۔ <<اَلْوَقِیْبُ>>:گھوڑے کے ذکر کے ایستادہ ہونے کی آواز۔<<وَقَبَہ‘ وَقْبَۃَ>>:اس نے اسے اکٹھا کرلیا۔\r\n\r\n",
+        "grammar": [
+          "V"
+        ]
+      }
+    ]
+  },
+  {
+    "surah_id": 113,
+    "ayah_number": 4,
+    "global_ayah_id": 6341,
+    "urdu_phrase_raw": "وَمِنۡ شَرِّ&اور شر سے@النَّفّٰثٰتِ&پھونکنے والیوں کے@فِی الۡعُقَدِ& گرہوں میں",
+    "english_phrase_raw": "وَمِنۡ &And from@شَرِّ&(the) evil@النَّفّٰثٰتِ&(of) the blowers@فِی &in@الۡعُقَدِ&the knots,",
+    "words": [
+      {
+        "word_id": 1,
+        "arabic": "وَ مِنۡ  ",
+        "root": "",
+        "urdu_meaning": "اور سے",
+        "english_meaning": "And from",
+        "lemma": "مِن",
+        "lughat": "",
+        "grammar": [
+          "CONJ",
+          "P"
+        ]
+      },
+      {
+        "word_id": 2,
+        "arabic": "شَرِّ ",
+        "root": "ش ر ر",
+        "urdu_meaning": "شر",
+        "english_meaning": "(the) evil",
+        "lemma": "شَرّ",
+        "lughat": "",
+        "grammar": [
+          "N"
+        ]
+      },
+      {
+        "word_id": 3,
+        "arabic": "النَّفّٰثٰتِ ",
+        "root": "ن ف ث",
+        "urdu_meaning": "پھونکنے والیوں کے",
+        "english_meaning": "(of) the blowers",
+        "lemma": "نَفّاثَة",
+        "lughat": ". << اَلنَّفَثُ:>>کے معنی تھوڑا سا تھوکنے یا تھتکارنے کے ہیں۔اور یہ تفل (تھوکنا) سے کم درجہ ہوتا ہے اور افسوس یا جادو کرنے والے گنڈوں پر پڑھ کر پھونکنے کو بھی <<نَفَثٌ>> کہا جاتا ہے۔چنانچہ فرمایا: <<(وَ مِنۡ  شَرِّ النَّفّٰثٰتِ فِی الۡعُقَدِ )  (۱۱۳۔۴)>> اور گنڈوں پر پڑھ پڑھ کر پھونکنے والیوں کی برائی سے اور اسی سے <<اَلْحَیَّۃُ تَنْفُثُ السُّمَّ>> (سانپ زہراگلتا ہے) کا محاورہ ہے مثل مشہور ہے (1)  <<(لَوْ سَألتَہ نُفَائَۃَ سِوَاکٍ مَا اَعْطَاکَ>> اگر تو اس سے مسواک کا ایک ریزہ بھی طلب کرے تو نہ دے  (یعنی وہ نہایت بخیل ہے) اور <<نُفَاثَۃ سِوَاکِ>> اس ریزہ کو کہا جاتا ہے جو مسواک کرنے سے دانتوں میں رہ جاتا ہے اور اسے پھینک دیا جاتا ہے۔<<دَمٌ نَفِیْثٌ>>:خون جو زخم سے بہہ نکلے۔مثل مشہور ہے <<(2)   لَا بُدَّ لِلْمَصْدُوْرِ اَنْ یَّنْفُثَ)>> درد سینہ کے مریض کو تھوکنے سے چارہ نہیں۔",
+        "grammar": [
+          "DET",
+          "N"
+        ]
+      },
+      {
+        "word_id": 4,
+        "arabic": "فِی ",
+        "root": "",
+        "urdu_meaning": "میں",
+        "english_meaning": "in",
+        "lemma": "فِي",
+        "lughat": "",
+        "grammar": [
+          "P"
+        ]
+      },
+      {
+        "word_id": 5,
+        "arabic": "الۡعُقَدِ ۙ﴿۴﴾",
+        "root": "ع ق د",
+        "urdu_meaning": "گرہوں",
+        "english_meaning": "the knots,",
+        "lemma": "عُقْدَة",
+        "lughat": "",
+        "grammar": [
+          "DET",
+          "N"
+        ]
+      }
+    ]
+  },
+  {
+    "surah_id": 113,
+    "ayah_number": 5,
+    "global_ayah_id": 6342,
+    "urdu_phrase_raw": "وَمِنۡ شَرِّ& اور شر سے@حَاسِدٍ& حاسد کے@اِذَا&جب@حَسَدَ&وہ حسد کرے",
+    "english_phrase_raw": "وَمِنۡ &And from@شَرِّ&(the) evil@حَاسِدٍ&(of) an envier@اِذَا&when@حَسَدَ&he envies.",
+    "words": [
+      {
+        "word_id": 1,
+        "arabic": "وَ مِنۡ  ",
+        "root": "",
+        "urdu_meaning": "اور سے",
+        "english_meaning": "And from",
+        "lemma": "مِن",
+        "lughat": "",
+        "grammar": [
+          "CONJ",
+          "P"
+        ]
+      },
+      {
+        "word_id": 2,
+        "arabic": "شَرِّ ",
+        "root": "ش ر ر",
+        "urdu_meaning": "شر",
+        "english_meaning": "(the) evil",
+        "lemma": "شَرّ",
+        "lughat": "",
+        "grammar": [
+          "N"
+        ]
+      },
+      {
+        "word_id": 3,
+        "arabic": "حَاسِدٍ  ",
+        "root": "ح س د",
+        "urdu_meaning": " حاسد کے",
+        "english_meaning": "(of) an envier",
+        "lemma": "حاسِد",
+        "lughat": "",
+        "grammar": [
+          "N"
+        ]
+      },
+      {
+        "word_id": 4,
+        "arabic": "اِذَا ",
+        "root": "اِذَا",
+        "urdu_meaning": "جب",
+        "english_meaning": "when",
+        "lemma": "إِذا",
+        "lughat": "",
+        "grammar": [
+          "T"
+        ]
+      },
+      {
+        "word_id": 5,
+        "arabic": "حَسَدَ ٪﴿۵﴾              38",
+        "root": "ح س د",
+        "urdu_meaning": "وہ حسد کرے",
+        "english_meaning": "he envies.",
+        "lemma": "حَسَدَ",
+        "lughat": "",
+        "grammar": [
+          "V"
+        ]
+      }
+    ]
+  }
+]

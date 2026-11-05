@@ -1,0 +1,678 @@
+[
+  {
+    "surah_id": 114,
+    "ayah_number": 0,
+    "global_ayah_id": 6343,
+    "juz": 30,
+    "ruku_surah": 1,
+    "ruku_juz": 39,
+    "page_15_line": 610,
+    "page_16_line": "549",
+    "arabic": {
+      "uthmani": "بِسۡمِ اللّٰہِ الرَّحۡمٰنِ الرَّحِیۡمِ",
+      "tajweed": "بِسۡمِ اللّٰہِ الرَّحۡمٰنِ الرَّحِیۡمِ   "
+    },
+    "translations": {
+      "english": {
+        "mustafa_khattab": "In the Name of Allah—the Most Compassionate, Most Merciful.",
+        "saheeh_international": " In the name of Allah , the Entirely Merciful, the Especially Merciful. ",
+        "taqi_usmani": "In the name of Allah, the Most Gracious, the Most Merciful.",
+        "maududi": "In the name of Allah the Most Merciful the Most Compassionate"
+      },
+      "urdu": {
+        "fateh_jalandhari": " «<a href=416> شروع </a>» خدائے رحمٰن ورحیم کے «<a href=614> نام </a>» سے ",
+        "tahir_ul_qadri": " اللہ کے «<a href=614> نام </a>» سے «<a href=416> شروع </a>» جو نہایت «<a href=600>\n  مہربان </a>» «<a href=652> ہمیشہ </a>» رحم فرمانے والا ہے ۔ ",
+        "maududi": "الله کے «<a href=614> نام </a>» سے جو بے انتہا «<a href=600> مہربان </a>» اور\nرحم فرمانے والا ہے",
+        "kanzul_iman": "اللہ کے «<a href=614> نام </a>» سے «<a href=416> شروع </a>» جو نہایت «<a href=600> مہربان </a>» رحم والا",
+        "junagarhi": " «<a href=416> شروع </a>» کرتا ہوں اللہ تعا لٰی کے «<a href=614> نام\n</a>» سے جو بڑا «<a href=600> مہربان </a>» نہایت رحم والا ہے ۔ ",
+        "taqi_usmani": " شروع اللہ کے «<a href=614> نام </a>» سے جو سب پر «<a href=600>\n  مہربان </a>» ہے ، بہت «<a href=600> مہربان </a>» ہے "
+      },
+      "roman_urdu": {
+        "roman_urdu": "shuroo Allah kay naam say jo sabb per meharban hai , boht meharban hai "
+      },
+      "hindi": {}
+    },
+    "tafsir": {
+      "urdu": {
+        "ahsan_ul_bayan": "اس کی فضیلت گزشتہ سورت کے ساتھ بیان ہو چکی ہے ۔ ایک اور حدیث ہے جس میں آتا ہے کہ نبی ﷺ کو نماز میں بچھو ڈس گیا ۔ نماز سے فراغت کے بعد آپ ﷺ نے پانی اور نمک منگوا کر اوپر ملا اور ساتھ ساتھ «قُلۡ یٰۤاَیُّہَا الۡکٰفِرُوۡنَ  ۔  قُلۡ اَعُوۡذُ  بِرَبِّ الۡفَلَقِ» اور «قُلۡ  اَعُوۡذُ  بِرَبِّ النَّاسِ» پڑھتے رہے ۔ ( المعجم الصغير للطبراني ، حديث : 830 ، و مجمع الزوائد 5 / 191 ۔ امام ہیثمی نے اس کی سند کو حسن قرار دیا ہے ۔ )",
+        "ibn_kathir": "",
+        "maududi": ""
+      },
+      "english": {},
+      "arabic": {}
+    },
+    "word_by_word": [
+      {
+        "word_id": 1,
+        "arabic": "بِسۡمِ ",
+        "root": "س م و",
+        "urdu_meaning": " ساتھ نام",
+        "english_meaning": "In (the) name",
+        "lemma": "اسْم",
+        "lughat": "",
+        "grammar": [
+          "P",
+          "N"
+        ]
+      },
+      {
+        "word_id": 2,
+        "arabic": "اللّٰہِ ",
+        "root": "ا ل ه",
+        "urdu_meaning": " اللہ کے",
+        "english_meaning": "(of) Allah,",
+        "lemma": "اللّٰہ",
+        "lughat": "",
+        "grammar": [
+          "PN"
+        ]
+      },
+      {
+        "word_id": 3,
+        "arabic": "الرَّحۡمٰنِ ",
+        "root": "ر ح م",
+        "urdu_meaning": "  جو بڑا مہربان",
+        "english_meaning": "the Most Gracious,",
+        "lemma": "رَحْمٰن",
+        "lughat": "",
+        "grammar": [
+          "DET",
+          "N"
+        ]
+      },
+      {
+        "word_id": 4,
+        "arabic": "الرَّحِیۡمِ",
+        "root": "ر ح م",
+        "urdu_meaning": " بار بار رحم فرمانے والا ہے",
+        "english_meaning": "the Most Merciful.",
+        "lemma": "رَحِيم",
+        "lughat": "",
+        "grammar": [
+          "DET",
+          "N"
+        ]
+      }
+    ]
+  },
+  {
+    "surah_id": 114,
+    "ayah_number": 1,
+    "global_ayah_id": 6344,
+    "juz": 30,
+    "ruku_surah": 1,
+    "ruku_juz": 39,
+    "page_15_line": 610,
+    "page_16_line": "549",
+    "arabic": {
+      "uthmani": "قُلۡ  اَعُوۡذُ  بِرَبِّ النَّاسِ ۙ﴿۱﴾",
+      "tajweed": "قُلۡ اَعُوۡذُ بِرَبِّ النَّاسِ  ۙ﴿۱﴾"
+    },
+    "translations": {
+      "english": {
+        "mustafa_khattab": "Say, ˹O Prophet,˺ “I seek refuge in the Lord of humankind",
+        "saheeh_international": " Say, \"I seek refuge in the Lord of mankind, ",
+        "yusuf_ali": "Say: I seek refuge with the Lord and Cherisher of Mankind,",
+        "pickthall": "Say: I seek refuge in the Lord of mankind,",
+        "taqi_usmani": "Say, “I seek refuge with the Lord of mankind,",
+        "maududi": "Say:  I seek refuge with the Lord of mankind;"
+      },
+      "urdu": {
+        "fateh_jalandhari": " کہہ دو: میں «<a href=156> پناہ </a>» مانگتا ہوں لوگوں کے رب کی! ",
+        "tahir_ul_qadri": " آپ عرض کیجئے کہ میں ( سب ) انسانوں کے رب کی «<a href=156> پناہ </a>» مانگتا ہوں ",
+        "maududi": "کہو ، میں «<a href=156> پناہ </a>» مانگتا ہوں انسانوں کے رب ،",
+        "kanzul_iman": "تم کہو میں اس کی «<a href=156> پناہ </a>» میں آیا جو سب لوگوں کا رب",
+        "junagarhi": " آپ کہہ دیجئے! کہ میں لوگوں کے پروردگار کی «<a href=156> پناہ </a>» میں\nآتا ہوں ۔ ",
+        "taqi_usmani": " کہو ( ١ ) کہ : میں «<a href=156> پناہ </a>» مانگتا ہوں سب لوگوں\nکے پروردگار کی ، "
+      },
+      "roman_urdu": {
+        "roman_urdu": "kaho   kay :  mein panah maangta hun sabb logon  kay perwerdigar ki , "
+      },
+      "hindi": {}
+    },
+    "tafsir": {
+      "urdu": {
+        "bayan_ul_quran_dr_israr": "آیت 1{ قُلْ اَعُوْذُ بِرَبِّ النَّاسِ۔ } ”کہیے کہ میں پناہ میں آتا ہوں تمام انسانوں کے رب کی۔“ یہاں سب سے پہلے ”رَبّ الناس“ لوگوں کا پروردگار کے کلمات سے اللہ تعالیٰ کا تعارف کرایا گیا ہے کہ تمہیں ایسی ذات سے پناہ مانگنے کا حکم دیا جا رہا ہے جو تمہاری جملہ ضروریات کا کفیل ہے۔",
+        "ahsan_ul_bayan": "( 1 ) «رَبٌّ» ( پروردگار ) کا مطلب ہے جو ابتدا ہی سے جبکہ انسان ابھی ماں کے پیٹ ہی میں ہوتا ہے ، اس کی تدبیر و اصلاح کرتا ہے حتیٰ کہ وہ بالغ عاقل ہو جاتا ہے ، پھر وہ یہ تدبیر چند مخصوص افراد کے لیے نہیں بلکہ تمام انسانوں کے لیے کرتا ہے اور تمام انسانوں ہی کے لیے نہیں بلکہ اپنی تمام مخلوقات کے لیے کرتا ہے ، یہاں صرف انسانوں کا ذکر انسان کے اس شرف و فضل کے اظہار کے لیے ہے جو تمام مخلوقات پر اس کو حاصل ہے ۔",
+        "ibn_kathir": "",
+        "maududi": ""
+      },
+      "english": {
+        "ibn_kathir": "Which was revealed in Makkahبِسْمِ اللَّهِ الرَّحْمَـنِ الرَّحِيمِIn the Name of Allah, the Most Gracious, the Most Merciful.These are three attributes from the attributes of the Lord, the Mighty and Majestic. They are lordship, sovereignty and divinity. Thus, He is the Lord of everything, the King of everything and the God of everything. All things are created by Him, owned by Him, and subservient to Him. Therefore, He commands whoever is seeking protection to seek refuge with the One Who has these attributes from the evil of the whisperer who withdraws. This (the whisperer) is the devil that is assigned to man. For verily, there is not any of the Children of Adam except that he has a companion that beautifies wicked deeds for him. This devil will go to any lengths to confuse and confound him. The only person who is safe is He Whom Allah protects.It is confirmed in the Sahih that he (the Prophet ) said,«مَا مِنْكُمْ مِنْ أَحَدٍ إِلَّا قَدْ وُكِّلَ بِهِ قَرِينُهُ»(There is not a single one of you except that his companion (a devil) has been assigned to him.) They (the Companions) said, \"What about you, O Messenger of Allah\" He replied,«نَعَمْ، إِلَّا أَنَّ اللهَ أَعَانَنِي عَلَيْهِ فَأَسْلَمَ، فَلَا يَأْمُرُنِي إِلَّا بِخَيْرٍ»(Yes. However, Allah has helped me against him and he has accepted Islam. Thus, he only commands me to do good.) It is also confirmed in the Two Sahihs from Anas, who reported the story of Safiyyah when she came to visit the Prophet while he was performing I`tikaf, that he went out with her during the night to walk her back to her house. So, two men from the Ansar met him (on the way). When they saw the Prophet , they began walking swiftly. So, the Messenger of Allah ﷺ said,«عَلَى رِسْلِكُمَا، إِنَّهَا صَفِيَّةُ بِنْتُ حُيَيَ»(Slow down! This is Safiyyah bint Huyay!) They said, \"Glory be to Allah, O Messenger of Allah!\" He said,«إِنَّ الشَّيْطَانَ يَجْرِي مِنِ ابْنِ آدَمَ مَجْرَى الدَّم، وَإِنِّي خَشِيتُ أَنْ يَقْذِفَ فِي قُلُوبِكُمَا شَيْئًا، أَوْ قَالَ: شَرًّا»(Verily, Shaytan runs in the Son of Adam like the running of the blood. And verily, I feared that he might cast something into your hearts -- or he said -- evil.) Sa`id bin Jubayr reported that Ibn `Abbas said concerning Allah's statement,الْوَسْوَاسِ الْخَنَّاسِ(The whisperer (Al-Waswas) who withdraws.) \"The devil who is squatting (perched) upon the heart of the Son of Adam. So when he becomes absentminded and heedless he whispers. Then, when he remembers Allah he withdraws.\" Mujahid and Qatadah also said this.Al-Mu`tamir bin Sulayman reported that his father said, \"It has been mentioned to me that Shaytan is Al-Waswas. He blows into the heart of the Son of Adam when he is sad and when he is happy. But when he (man) remembers Allah, Shaytan withdraws.\" Al-`Awfi reported from Ibn `Abbas;الْوَسْوَاسِ(The whisperer.) \"He is Shaytan. He whispers and then when he is obeyed, he withdraws.\" As for Allah's saying;الَّذِى يُوَسْوِسُ فِى صُدُورِ النَّاسِ(Who whispers in the breasts of An-Nas.) Is this specific for the Children of Adam as is apparent, or is it general, including both mankind and JinnsThere are two views concerning this. This is because they (the Jinns) are also included in the usage of the word An-Nas (the people) in most cases.Ibn Jarir said, \"The phrase Rijalun min Al-Jinn (Men from the Jinns) has been used in reference to them, so it is not strange for the word An-Nas to be applied to them also.\" Then Allah says,مِنَ الْجِنَّةِ وَالنَّاسِ(Of Jinn and An-Nas.) Is this explanatory of Allah's statement,الَّذِى يُوَسْوِسُ فِى صُدُورِ النَّاسِ(Who whispers in the breasts of An-Nas.) Then, Allah explains this by saying,مِنَ الْجِنَّةِ وَالنَّاسِ(Of Jinn and An-Nas.) This is supportive of the second view. It has also been said that Allah's saying,مِنَ الْجِنَّةِ وَالنَّاسِ(Of Jinn and An-Nas) is an explanation of who is it that whispers into the breasts of mankind from the devils of mankind and Jinns. This is similar to Allah's saying,وَكَذَلِكَ جَعَلْنَا لِكُلِّ نِبِىٍّ عَدُوّاً شَيَـطِينَ الإِنْسِ وَالْجِنِّ يُوحِى بَعْضُهُمْ إِلَى بَعْضٍ زُخْرُفَ الْقَوْلِ غُرُوراًo(And so We have appointed for every Prophet enemies -- Shayatin among mankind and Jinn, inspiring one another with adorned speech as a delusion.) (6:112) Imam Ahmad recorded that Ibn `Abbas said, \"A man came to the Prophet and said, `O Messenger of Allah! Sometimes I say things to myself that I would rather fall from the sky than say (aloud openly). ' The Prophet said,«اللهُ أَكْبَرُ، اللهُ أَكْبَرٌ الْحَمْدُ للهِ الَّذِي رَدَّ كَيْدَهُ إِلَى الْوَسْوَسَةِ»(Allah is Most Great! Allah is Most Great! All praise is due to Allah Who sent his (Shaytan's) plot back as only a whisper.)\" Abu Dawud and An-Nasa'i also recorded this Hadith.",
+        "maarif_ul_quran": "Introductory RemarksThis Surah, the second of the Mu'awwadhatain, constitutes an extension of its predecessor and is in a way complementary to it, in that in Surah Al-Falaq the believers were enjoined to seek refuge with Allah against the hardships and privations of life in this world, while in the current Surah protection is sought from the trials and tribulations of the Hereafter. It was explained in Surah Al-Falaq that the word sharr could stand for 'evil' or 'harm' or even 'that which causes harm, anguish or distress'. In the present Surah, we are to seek refuge from the evil that is the cause of all sins, namely, the whisperings and insinuations of Shaitan. As the anguish and distress of the Hereafter is most severe, the Qur'an appropriately emphasizes at the end to seek Allah's protection against these evil powers.Verse [ 114:1] قُلْ أَعُوذُ بِرَ‌بِّ النَّاسِ Say, (I seek refuge with the Lord of mankind,) The attributive name of Allah rabb stands for 'one who nurtures', and implies that the Supreme Nurturer takes care of everything under all circumstances. In the present verse, He is referred to as 'the Lord of mankind', while in the previous Surah He was referred to as 'the Lord of the daybreak', because in the foregoing Surah the purpose was to seek protection against the outer bodily hardships and privations of life, and they are not confined to human beings. Animals also suffer bodily hardships and difficulties, unlike the Shaitanic instigations which are restricted to man, and the Jinn are subjoined to him. [ Mazhari from Baidawi ]"
+      },
+      "arabic": {
+        "al_muyassar": "قل -أيها الرسول-: أعوذ وأعتصم برب الناس، القادر وحده على ردِّ شر الوسواس.",
+        "al_jalalayn": "«قل أعوذ برب الناس» خالقهم ومالكهم خُصُّوا بالذكر تشريفا لهم ومناسبة للاستفادة من شر الموسوس في صدورهم.",
+        "as_saadi": "وهذه السورة مشتملة على الاستعاذة برب الناس ومالكهم وإلههم، من الشيطان الذي هو أصل الشرور كلها ومادتها، الذي من فتنته وشره، أنه يوسوس في صدور الناس، فيحسن لهم الشر، ويريهم إياه في صورة حسنة، وينشط إرادتهم لفعله، ويقبح لهم الخير ويثبطهم عنه، ويريهم إياه في صورة غير صورته، وهو دائمًا بهذه الحال يوسوس ويخنس أي: يتأخر إذا ذكر العبد ربه واستعان على دفعه.فينبغي له أن [يستعين و] يستعيذ ويعتصم بربوبية الله للناس كلهم.وأن الخلق كلهم، داخلون تحت الربوبية والملك، فكل دابة هو آخذ بناصيتها.وبألوهيته التي خلقهم لأجلها، فلا تتم لهم إلا بدفع شر عدوهم، الذي يريد أن يقتطعهم عنها ويحول بينهم وبينها، ويريد أن يجعلهم من حزبه ليكونوا من أصحاب السعير، والوسواس كما يكون من الجن يكون من الإنس، ولهذا قال: { مِنَ الْجِنَّةِ وَالنَّاسِ } ."
+      }
+    },
+    "word_by_word": [
+      {
+        "word_id": 1,
+        "arabic": "قُلۡ  ",
+        "root": "ق و ل",
+        "urdu_meaning": " کہہ دیجئے",
+        "english_meaning": "Say,",
+        "lemma": "قالَ",
+        "lughat": "",
+        "grammar": [
+          "V"
+        ]
+      },
+      {
+        "word_id": 2,
+        "arabic": "اَعُوۡذُ  ",
+        "root": "ع و ذ",
+        "urdu_meaning": "میں پناہ لیتا ہوں",
+        "english_meaning": "I seek refuge",
+        "lemma": "عُذْ",
+        "lughat": "",
+        "grammar": [
+          "V"
+        ]
+      },
+      {
+        "word_id": 3,
+        "arabic": "بِرَبِّ ",
+        "root": "ر ب ب",
+        "urdu_meaning": "رب کی",
+        "english_meaning": "in (the) Lord",
+        "lemma": "رَبّ",
+        "lughat": "",
+        "grammar": [
+          "P",
+          "N"
+        ]
+      },
+      {
+        "word_id": 4,
+        "arabic": "النَّاسِ ۙ﴿۱﴾",
+        "root": "ن و س",
+        "urdu_meaning": "انسانوں کے",
+        "english_meaning": "(of) mankind,",
+        "lemma": "ناس",
+        "lughat": "",
+        "grammar": [
+          "DET",
+          "N"
+        ]
+      }
+    ]
+  },
+  {
+    "surah_id": 114,
+    "ayah_number": 2,
+    "global_ayah_id": 6345,
+    "juz": 30,
+    "ruku_surah": 1,
+    "ruku_juz": 39,
+    "page_15_line": 610,
+    "page_16_line": "549",
+    "arabic": {
+      "uthmani": "مَلِکِ النَّاسِ ۙ﴿۲﴾",
+      "tajweed": "مَلِکِ النَّاسِ  ۙ﴿۲﴾"
+    },
+    "translations": {
+      "english": {
+        "mustafa_khattab": "the Master of humankind",
+        "saheeh_international": " The Sovereign of mankind. ",
+        "yusuf_ali": "The King (or Ruler) of Mankind,",
+        "pickthall": "The King of mankind,",
+        "taqi_usmani": "the King of mankind,",
+        "maududi": "the King of mankind"
+      },
+      "urdu": {
+        "fateh_jalandhari": " لوگوں کے بادشاہ کی! ",
+        "tahir_ul_qadri": " جو ( سب ) لوگوں کا بادشاہ ہے ",
+        "maududi": "انسانوں کے بادشاہ ،",
+        "kanzul_iman": "سب لوگوں کا بادشاہ",
+        "junagarhi": " لوگوں کے «<a href=564> مالک </a>» کی ( اور ) ",
+        "taqi_usmani": " سب لوگوں کے بادشاہ کی ، "
+      },
+      "roman_urdu": {
+        "roman_urdu": "sabb logon  kay badshah ki , "
+      },
+      "hindi": {}
+    },
+    "tafsir": {
+      "urdu": {
+        "bayan_ul_quran_dr_israr": "آیت 2{ مَلِکِ النَّاسِ۔ } ”تمام انسانوں کے بادشاہ کی۔“ وہ تمام انسانوں کا صرف پروردگار ہی نہیں ‘ ان کا بادشاہ اور فرماں روا بھی ہے۔ اس کا حکم ہر وقت ‘ ہر جگہ اور ہرچیز پر نافذ ہے۔",
+        "ahsan_ul_bayan": "( 2 ) جو ذات تمام انسانوں کی پرورش اور دیکھ بھال کرنے والی ہے ، وہی اس لائق ہے کہ کائنات کی حکمرانی اور بادشاہی بھی اس کے پاس ہو ۔",
+        "ibn_kathir": "",
+        "maududi": ""
+      },
+      "english": {
+        "ibn_kathir": "",
+        "maarif_ul_quran": ""
+      },
+      "arabic": {
+        "al_muyassar": "ملك الناس المتصرف في كل شؤونهم، الغنيِّ عنهم.",
+        "al_jalalayn": "«ملك الناس».",
+        "as_saadi": "وهذه السورة مشتملة على الاستعاذة برب الناس ومالكهم وإلههم، من الشيطان الذي هو أصل الشرور كلها ومادتها، الذي من فتنته وشره، أنه يوسوس في صدور الناس، فيحسن لهم الشر، ويريهم إياه في صورة حسنة، وينشط إرادتهم لفعله، ويقبح لهم الخير ويثبطهم عنه، ويريهم إياه في صورة غير صورته، وهو دائمًا بهذه الحال يوسوس ويخنس أي: يتأخر إذا ذكر العبد ربه واستعان على دفعه.فينبغي له أن يستعين و يستعيذ ويعتصم بربوبية الله للناس كلهم.وأن الخلق كلهم، داخلون تحت الربوبية والملك، فكل دابة هو آخذ بناصيتها.وبألوهيته التي خلقهم لأجلها، فلا تتم لهم إلا بدفع شر عدوهم، الذي يريد أن يقتطعهم عنها ويحول بينهم وبينها، ويريد أن يجعلهم من حزبه ليكونوا من أصحاب السعير، والوسواس كما يكون من الجن يكون من الإنس، ولهذا قال: { مِنَ الْجِنَّةِ وَالنَّاسِ } ."
+      }
+    },
+    "word_by_word": [
+      {
+        "word_id": 1,
+        "arabic": "مَلِکِ ",
+        "root": "م ل ك",
+        "urdu_meaning": "بادشاہ کی",
+        "english_meaning": "(The) King",
+        "lemma": "مَلِك",
+        "lughat": "",
+        "grammar": [
+          "N"
+        ]
+      },
+      {
+        "word_id": 2,
+        "arabic": "النَّاسِ ۙ﴿۲﴾",
+        "root": "ن و س",
+        "urdu_meaning": "انسانوں کے",
+        "english_meaning": "(of) mankind,",
+        "lemma": "ناس",
+        "lughat": "",
+        "grammar": [
+          "DET",
+          "N"
+        ]
+      }
+    ]
+  },
+  {
+    "surah_id": 114,
+    "ayah_number": 3,
+    "global_ayah_id": 6346,
+    "juz": 30,
+    "ruku_surah": 1,
+    "ruku_juz": 39,
+    "page_15_line": 610,
+    "page_16_line": "549",
+    "arabic": {
+      "uthmani": "اِلٰہِ  النَّاسِ ۙ﴿۳﴾",
+      "tajweed": "اِلٰہِ النَّاسِ  ۙ﴿۳﴾"
+    },
+    "translations": {
+      "english": {
+        "mustafa_khattab": "the God of humankind",
+        "saheeh_international": " The God of mankind, ",
+        "yusuf_ali": "The god (or judge) of Mankind,-",
+        "pickthall": "The god of mankind,",
+        "taqi_usmani": "the God of mankind,",
+        "maududi": "the True God of mankind"
+      },
+      "urdu": {
+        "fateh_jalandhari": " لوگوں کے معبود کی! ",
+        "tahir_ul_qadri": " جو ( ساری ) نسلِ انسانی کا معبود ہے ",
+        "maududi": "انسانوں کے حقیقی معبود کی 1",
+        "kanzul_iman": "سب لوگوں کا خدا",
+        "junagarhi": " لوگوں کے معبود کی ( «<a href=156> پناہ </a>» میں ) ",
+        "taqi_usmani": " سب لوگوں کے معبود کی ، ( ٢ ) "
+      },
+      "roman_urdu": {
+        "roman_urdu": "sabb logon  kay mabood ki ,   "
+      },
+      "hindi": {}
+    },
+    "tafsir": {
+      "urdu": {
+        "bayan_ul_quran_dr_israr": "آیت 3{ اِلٰـہِ النَّاسِ۔ } ”تمام انسانوں کے معبود کی۔“ انسانوں کا رب اور بادشاہ ہونے کے علاوہ وہ ان کا معبود بھی ہے ‘ چناچہ وہ ان پر کامل اقتدار اور اختیار رکھتا ہے اور ان کی حفاظت پر پوری طرح قادر ہے۔",
+        "ahsan_ul_bayan": "( 3 ) اور جو تمام کائنات کا پروردگار ہو ، پوری کائنات پر اسی کی بادشاہی ہو ، وہی ذات اس بات کی مستحق ہے کہ اس کی عبادت کی جائے اور وہی تمام لوگوں کا معبود ہو ، چنانچہ میں اسی عظیم و برتر ہستی کی پناہ حاصل کرتا ہوں ۔",
+        "ibn_kathir": "",
+        "maududi": "«سورة الناس» حاشیہ نمبر : 1\nیہاں بھی سورۂ فَلَق کی طرح اعوذ باللہ کہنے کے بجائے اللہ تعالی کو اس کی تین صفات سے یاد کر کے اس کی پناہ مانگنے کی تلقین کی گئی ہے ۔ ایک ، اُس کا ربُّ الناس ، یعنی تمام انسانوں کا پروردگار و مُرَبّی اور مالک و آقا ہونا ۔ دوسرے ، اُس کا مَلِکُ الناس ، یعنی تمام انسانوں کا بادشاہ اور حاکم و فرمانروا ہونا ۔ تیسرے اُس کا اِلٰہُ الناس ، یعنی انسانوں کا حقیقی معبُود ہونا ۔ ( یہاں یہ بات واضح رہنی چاہیے کہ اِلٰہ کا لفظ قرآنِ مجید میں دو معنوں میں اِستعمال ہوا ہے : ایک ، وہ شے یا شخص جس کو عبادت کا کوئی اِستحقاق نہ پہنچتا ہو مگر عملاً اس کی عبادت کی جا رہی ہو ۔ دوسرا ، وہ جسے عبادت کا اِستحقاق پہنچتا ہو اور جو حقیقت میں معبُود ہو ، خواہ لوگ اس کی عبادت کر رہے ہوں یا نہ کر رہے ہوں ۔ اللہ کے لیے جہاں یہ لفظ اِستعمال ہوا ہے ، اِسی دوسرے معنٰی میں ہوا ہے ) اِن تین صفات سے اِستعاذہ کا مطلب یہ ہوا کہ میں اُس خدا کی پناہ مانگتا ہوں جو انسانوں کا رب ، بادشاہ اور معبُود ہونے کی حیثیت سے اُن پر کامل اِقتدار رکھتا ہے ، جو اپنے بندوں کی حفاظت پر پوری طرح قادر ہے ، اور جو واقعی اُس شر سے انسانوں کو بچا سکتا ہے جس سے خود بچنے اور دوسرے انسانوں کو بچانے کے لیے میں اُس کی پناہ مانگ رہا ہوں ۔ یہی نہیں بلکہ چونکہ وہی رب اور بادشاہ اور اِلٰہ ہے ، اس لیے اُس کے سوا اور کوئی ہے ہی نہیں جس سے میں پناہ مانگوں اور جو حقیقت میں پناہ دے بھی سکتا ہو ۔"
+      },
+      "english": {
+        "ibn_kathir": "",
+        "maarif_ul_quran": "Verses [ 114:2 3] مَلِكِ النَّاسِ إِلَـٰهِ النَّاسِ (the King of mankind, the God of mankind.) The reason for adding these two attributes is that the word rabb, attributed to a particular thing, could refer to someone other than Allah also, as for instance rabb-ud-dar [ land-lord ] or رَبُّ المال rabb-ul-mal [ owner of wealth ]. But not every master or owner is a king. That is why the attributive name malik [ King ] has been added to indicate that He is not only the 'Lord of mankind' but also the 'King of mankind'. Furthermore, not every king is worthy of worship. Thus the third attributive name ilah [ God ] has been added to nas [ people ]. The Divine wisdom in combining all three Divine attributes is that each attribute motivates protection. Every master has servants and takes care of them. Likewise, every king has subjects and looks after them. That the worshipped God protects His worshipper is even more obvious. Only Allah, and no other being, is characterized by these three attributes simultaneously. Therefore, seeking Allah's protection by invoking these attributes is the greatest protection, and the invocation is readily acceptable.Since the first sentence contains the word nas (people), the second and the third verses should apparently refer to them with the pronouns by saying, مَلِکِھِم malikihim [ their king ] rather than repeating the word nas (people). However, this is an occasion of supplication and praise, and as such repetition needs to be employed by deliberate design to add force and clarity to the sublime emotion by creating natural rhyme, rhythm and melodic sequence. Some scholars have explained the repetition of the word 'nas' differently. They say that the word nas occurs five times in this Surah. In its first occurrence, it refers to the children. The word rabb that refers to nurturer-ship of Allah is a hint to this, because children need nurturing the most. Its second occurrence refers to youth, and the hint in the context is the word malik which refers to kingship of Allah. It bears political connotation and is appropriate to the youth. Its third occurrence refers to old age. Old people cut themselves off from the world and look up to Allah alone as the real support of life, and render Him alone true and unconditional obedience and to make Him alone the real object of his love and adoration. The context for this is ilah [ God ] which points to the Divine worship. Its fourth occurrence refers to the righteous servants of Allah. The contextual hint for this is the word waswasah [ evil whisperings ] because the devil is the enemy of the righteous servants of Allah. His work is to cast evil prompting into the hearts of such people. Its fifth occurrence refers to mischief-makers because protection is sought from their mischief."
+      },
+      "arabic": {
+        "al_muyassar": "إله الناس الذي لا معبود بحق سواه.",
+        "al_jalalayn": "«إله الناس» بدلان أو صفتان أو عطفا بيان وأظهر المضاف إليه فيهما زيادة للبيان.",
+        "as_saadi": "وهذه السورة مشتملة على الاستعاذة برب الناس ومالكهم وإلههم، من الشيطان الذي هو أصل الشرور كلها ومادتها، الذي من فتنته وشره، أنه يوسوس في صدور الناس، فيحسن لهم الشر، ويريهم إياه في صورة حسنة، وينشط إرادتهم لفعله، ويقبح لهم الخير ويثبطهم عنه، ويريهم إياه في صورة غير صورته، وهو دائمًا بهذه الحال يوسوس ويخنس أي: يتأخر إذا ذكر العبد ربه واستعان على دفعه.فينبغي له أن يستعين و يستعيذ ويعتصم بربوبية الله للناس كلهم.وأن الخلق كلهم، داخلون تحت الربوبية والملك، فكل دابة هو آخذ بناصيتها.وبألوهيته التي خلقهم لأجلها، فلا تتم لهم إلا بدفع شر عدوهم، الذي يريد أن يقتطعهم عنها ويحول بينهم وبينها، ويريد أن يجعلهم من حزبه ليكونوا من أصحاب السعير، والوسواس كما يكون من الجن يكون من الإنس، ولهذا قال: { مِنَ الْجِنَّةِ وَالنَّاسِ } ."
+      }
+    },
+    "word_by_word": [
+      {
+        "word_id": 1,
+        "arabic": "اِلٰہِ  ",
+        "root": "ا ل ه",
+        "urdu_meaning": "الٰہ کی",
+        "english_meaning": "(The) God",
+        "lemma": "إِلٰه",
+        "lughat": "",
+        "grammar": [
+          "N"
+        ]
+      },
+      {
+        "word_id": 2,
+        "arabic": "النَّاسِ ۙ﴿۳﴾",
+        "root": "ن و س",
+        "urdu_meaning": " انسانوں کے",
+        "english_meaning": "(of) mankind,",
+        "lemma": "ناس",
+        "lughat": "",
+        "grammar": [
+          "DET",
+          "N"
+        ]
+      }
+    ]
+  },
+  {
+    "surah_id": 114,
+    "ayah_number": 4,
+    "global_ayah_id": 6347,
+    "juz": 30,
+    "ruku_surah": 1,
+    "ruku_juz": 39,
+    "page_15_line": 610,
+    "page_16_line": "549",
+    "arabic": {
+      "uthmani": "مِنۡ  شَرِّ الۡوَسۡوَاسِ   ۬ ۙ  الۡخَنَّاسِ ۪ۙ﴿۴﴾",
+      "tajweed": "مِنۡ شَرِّ الۡوَسۡوَاسِ ۬ۙ  الۡخَنَّاسِ  ۪ۙ﴿۴﴾"
+    },
+    "translations": {
+      "english": {
+        "mustafa_khattab": "from the evil of the lurking whisperer—",
+        "saheeh_international": " From the evil of the retreating whisperer - ",
+        "yusuf_ali": "From the mischief of the Whisperer (of Evil), who withdraws (after his whisper),-",
+        "pickthall": "From the evil of the sneaking whisperer,",
+        "taqi_usmani": "from the evil of the whisperer who withdraws (when Allah’s name is pronounced),",
+        "maududi": "from the mischief of the whispering elusive prompter who returns again and again"
+      },
+      "urdu": {
+        "fateh_jalandhari": " وسوسہ ڈالنے والے ، دبک جانے والے کی آفت سے! ",
+        "tahir_ul_qadri": " وسوسہ انداز ( شیطان ) کے شر سے جو ( اللہ کے ذکر کے اثر سے ) «<a href=179> پیچھے\n</a>» ہٹ کر چھپ جانے والا ہے ",
+        "maududi": "اُس وسوسہ ڈالنے والے کے شر سے جو بار بار پلٹ کر آتا ہے ، 2",
+        "kanzul_iman": "اس کے شر سے جو «<a href=324> دل </a>» میں برے خطرے ڈالے اور دبک رہے",
+        "junagarhi": " وسوسہ ڈالنے والے «<a href=179> پیچھے </a>» ہٹ جانے والے کے شر سے ۔ ",
+        "taqi_usmani": " اس وسوسہ ڈالنے والے کے شر سے جو «<a href=179> پیچھے </a>» کو چھپ\nجاتا ہے ( ٣ ) "
+      },
+      "roman_urdu": {
+        "roman_urdu": "uss waswasa daalney walay kay sharr say jo peechay ko chup jata hai   "
+      },
+      "hindi": {}
+    },
+    "tafsir": {
+      "urdu": {
+        "bayan_ul_quran_dr_israr": "آیت 4{ مِنْ شَرِّ الْوَسْوَاسِلا الْخَنَّاسِ۔ } ”اس بار بار وسوسہ ڈالنے والے ‘ پیچھے ہٹ جانے والے کے شر سے۔“ شیطان کی وسوسہ اندازی کا طریق کار یہ ہے کہ وہ لگاتار اپنی کوشش جاری رکھتا ہے اور انسان کو گمراہ کرنے کی کوششوں سے تھکتا نہیں۔ کبھی حملہ کرتا ہے ‘ کبھی دفاعی پسپائی اختیار کرتا ہے اور پھر پلٹ کر حملہ آور ہوتا ہے۔",
+        "ahsan_ul_bayan": "( 4 ) «الۡوَسۡوَاسِ» ، بعض کے نزدیک اسم فاعل «المُوَسْوِسُ» کے معنی میں ہے اور بعض کے نزدیک یہ «ذِی الْوَسْوَاسِ» ہے ۔ وسوسہ مخفی آواز کو کہتے ہیں ۔ شیطان بھی نہایت غیر محسوس طریقوں سے انسان کے دل میں بری باتیں ڈال دیتا ہے ، اسی کو وسوسہ کہا جاتا ہے ۔ «الۡخَنَّاسِ» ( کھسک جانے والا ) یہ شیطان کی صفت ہے ۔ جب اللہ کا ذکر کیا جائے تو یہ کھسک جاتا ہے اور اللہ کی یاد سے غفلت برتی جائے تو دل پر چھا جاتا ہے ۔",
+        "ibn_kathir": "",
+        "maududi": "«سورة الناس» حاشیہ نمبر : 2\nاصل میں «الۡوَسۡوَاسِ  الۡخَنَّاسِ» کے الفاظ اِستعمال ہوئے ہیں ۔ وَسْواس کے معنٰی ہیں : بار بار وسوسہ ڈالنے والا ۔ اور وَسْوَسے کے معنٰی ہیں : پے در پے ایسے طریقے یا طریقوں سے کسی کے دل میں کوئی بُری بات ڈالنا کہ جس کے دل میں وہ ڈالی جا رہی ہو ، اُسے یہ محسوس نہ ہو سکے کہ وسوسہ انداز اُس کے دل میں ایک بُری بات ڈال رہا ہے ۔ وَسْوسے کے لفظ میں خود تکرار کا مفہُوم شامل ہے ، جیسے زلزلے میں حرکت کی تکرار کا مفہُوم شامل ہے ۔ چونکہ انسان صرف ایک دفعہ بہکانے سے نہیں بہکتا بلکہ اسے بہکانے کی پے در پے کوشش کرنی ہوتی ہے ، اس لیے ایسی کوشش کو وَسْوَسہ اور کوشش کرنے والے کو وَسْواس کہا جاتا ہے ۔ رہا لفظ خَنَّاس ، تو یہ خُنوس سے ہے ، جس کے معنٰی ظاہر ہونے کے بعد چُھپنے یا آنے کے بعد پیچھے ہٹ جانے کے ہیں ، اور خَنّاس چونکہ مبالغے کا صیغہ ہے ، اس لیے اس کے معنٰی یہ فعل بکثرت کرنے والے کے ہوئے ۔ اب یہ ظاہر بات ہے کہ وسوسہ ڈالنے والے کو بار بار وسوسہ اندازی کے لیے آدمی کے پاس آنا پڑتا ہے ، اور ساتھ ساتھ جب اسے خَنّاس بھی کہا گیا تو دونوں الفاظ کے ملنے سے خود بخود یہ مفہُوم پیدا ہو گیا کہ وسوسہ ڈال ڈال کر وہ پیچھے ہٹ جاتا ہے اور پھر پے در پے وسوسہ اندازی کے لیے پلٹ کر آتا ہے ۔ بالفاظِ دیگر ، ایک مرتبہ اس کی وسوسہ اندازی کی کوشش جب ناکام ہوتی ہے تو وہ چلا جاتا ہے ، پھر وہی کوشش کرنے کے لیے دوبارہ ، سہ بارہ اور بار بار آتا رہتا ہے ۔\nوَسْوَاسِ الْخَنَّاسِ کا مطلب سمجھ لینے کے بعد اب اس بات پر غور کرنا چاہیے کہ اس کے شر سے پناہ مانگنے کا مطلب کیا ہے ؟ اس کا ایک مطلب تو یہ ہے کہ پناہ مانگنے والا خود اُس کے شر سے خدا کی پناہ مانگتا ہے ، یعنی اِس شر سے کہ وہ کہیں اُس کے اپنے دل میں کوئی وسوسہ نہ ڈال دے ۔ دوسرا مطلب یہ ہے کہ اللہ کے راستے کی طرف دعوت دینے والے کے خلاف جو شخص بھی لوگوں کے دلوں میں وسوسے ڈالتا پھرے ، اُس کے شر سے داعیِ حق خدا کی پناہ مانگتا ہے ۔ داعی الی الحق کے بس کا یہ کام نہیں ہے کہ اُس کی ذات کے خلاف جن جن لوگوں کے دلوں میں وسوسے ڈالے جا رہے ہوں ، ان سب تک خود پہنچے اور ایک ایک شخص کی غلط فہمیوں کو صاف کرے ۔ اُس کے لیے یہ بھی مناسب نہیں ہے کہ اپنی دعوت الی اللہ کا کام چھوڑ چھاڑ کر وسوسہ اندازوں کی پیدا کردہ غلط فہمیوں کو صاف کرنے اور اُن کے اِلزامات کی جواب دہی کرنے میں لگ جائے ۔ اُس کے مَقام سے یہ بات بھی فَروتَر ہے کہ جس سطح پر اس کے مخالفین اُترے ہوئے ہیں اسی پر خود بھی اتر آئے ۔ اس لیے اللہ تعالی نے دعوتِ حق دینے والے کو ہدایت فرمائی کہ ایسے اشرار کے شر سے بس خدا کی پناہ مانگ لے اور پھر بے فکری کے ساتھ اپنی دعوت کے کام میں لگا رہ ۔ اِس کے بعد اُن سے نمٹنا تیرا کام نہیں بلکہ ربُّ الناس ، مَلِکُ الناس اور اِلٰہُ الناس کا کام ہے ۔\nاِس مقام پر یہ بھی سمجھ لینا چاہیے کہ وسوسہ عملِ شر کا نقطۂ آغاز ہے ۔ وہ جب ایک غافل یا خالی الذہن آدمی کے اندر اثر انداز ہو جاتا ہے تو پہلے اُس میں برائی کی خواہش پیدا ہوتی ہے ، پھر مزید وسوسہ اندازی اُس بُری خواہش کو بری نیت اور بُرے ارادے میں تبدیل کر دیتی ہے ۔ پھر اس سے آگے جب وسوسے کی تاثیر بڑھتی ہے تو ارادہ عزم بن جاتا ہے اور آخری قدم پھر عملِ شر ہے ۔ اس لیے وسوسہ انداز کے شر سے خدا کی پناہ مانگنے کا مطلب یہ ہے کہ شر کا آغاز جس مقام سے ہوتا ہے ، اللہ تعالی اُسی مَقام پر اس کا قلع قمع فرما دے ۔\nدوسرے لحاظ سے اگر دیکھا جائے تو وسوسہ اندازوں کے شر کی ترتیب یہ نظر آتی ہے کہ پہلے وہ کُھلے کُھلے کفر ، شرک ، دہریّت ، یا اللہ اور رسول سے بغاوت اور اللہ والوں کی عداوت پر اُکساتے ہیں ۔ اس میں ناکامی ہو اور آدمی دینُ اللہ میں داخل ہی ہو جائے تو وہ اسے کسی نہ کسی بدعت کی راہ سُجھاتے ہیں ۔:: یہ بھی نہ ہو سکے تو معصیت کی رغبت دلاتے ہیں ۔ اس میں بھی کامیابی نہ ہو سکے تو آدمی کے دل میں یہ خیال ڈالتے ہیں کہ چھوٹے چھوٹے گناہ کر لینے میں تو کوئی مُضائقہ نہیں ، تاکہ یہی اگر کثرت سے صادر ہو جائیں تو گناہوں کا بارِ عظیم انسان پر لَد جائے ۔ اِس سے بھی اگر آدمی بچ نکلے تو بدرجۂ آخر وہ کوشش کرتے ہیں کہ آدمی دینِ حق کو بس اپنے آپ تک ہی محدود رکھے ، اُسے غالب کرنے کی فکر نہ کرے ، لیکن اگر کوئی شخص اِن تمام چالوں کو ناکام کر دے تو پھر شیاطینِ جِنّ و اِنس کی پوری پارٹی ایسے آدمی پر پل پڑتی ہے ، اس کے خلاف لوگوں کو اُکساتی اور بھڑکاتی ہے ، اُس پر گالیوں اور الزامات کی بوچھاڑ کراتی ہے ، اسے ہر طرف بدنام اور رسوا کرنے کی کوشش کرتی ہے ۔ پھر شیطان اُس مردِ مومن کو آ کر غصہ دلاتا ہے اور کہتا ہے کہ یہ سب کچھ برداشت کر لینا تو بڑی بزدلی کی بات ہے ، اُٹھ اور اِن حملہ آوروں سے بِھڑ جا ۔ یہ شیطان کا آخری حربہ ہے جس سے وہ دعوتِ حق کی راہ کھوٹی کرانے اور داعیِ حق کو راہ کے کانٹوں سے الجھا دینے کی کوشش کرتا ہے ۔ اِس سے بھی اگر داعیِ حق بچ نکلے تو شیطان اُس کے آگے بے بس ہو جاتا ہے ۔ یہی وہ چیز ہے جس کے متعلق قرآنِ مجید میں اِرشاد ہوا ہے : «وَ اِمَّا یَنۡزَغَنَّکَ مِنَ الشَّیۡطٰنِ نَزۡغٌ فَاسۡتَعِذۡ  بِاللّٰہِ» ’’ اور اگر شیطان کی طرف سے تمہیں کوئی اُکساہٹ محسوس ہو تو اللہ کی پناہ مانگو ۔‘‘ ( الاَعراف : 200 ۔ حٰمٓ السجدہ : 36 ) ۔ «وَ قُلۡ رَّبِّ اَعُوۡذُ بِکَ مِنۡ ہَمَزٰتِ الشَّیٰطِیۡنِ» ،’’ کہو : میرے پروردگار ! میں شیاطین کی اُکساہٹوں سے تیری پناہ مانگتا ہوں ۔‘‘ ( المؤمنون : 97 ) «اِنَّ الَّذِیۡنَ اتَّقَوۡا اِذَا مَسَّہُمۡ طٰٓئِفٌ مِّنَ الشَّیۡطٰنِ تَذَکَّرُوۡا فَاِذَا ہُمۡ مُّبۡصِرُوۡنَ» ’’ جو لوگ پرہیزگار ہیں ، اُن کا حال تو یہ ہوتا ہے کہ کبھی شیطان کے اثر سے کوئی بُرا خیال انہیں چُھو بھی جائے تو وہ فوراً چَونک جاتے ہیں اور پھر انہیں ( صحیح راستہ ) صاف نظر آنے لگتا ہے ۔‘‘ ( الاعراف : 201 ) ۔ اور اسی بنا پر جو لوگ شیطان کے اِس آخری حربے سے بچ نکلیں ان کے بارے میں اللہ تعالی کا اِرشاد ہے : «وَ مَا یُلَقّٰہَاۤ  اِلَّا  ذُوۡحَظٍّ  عَظِیۡمٍ» ’’ یہ چیز بڑے نصیبے والے کے سوا کسی کو حاصل نہیں ہوتی ۔‘‘ ( حٰمٓ السجدہ : 35 ) ۔\nاس سلسلے میں ایک بات اور بھی نگاہ میں رہنی چاہیے ۔ وہ یہ کہ انسان کے دل میں وسوسہ اندازی صرف باہر سے شیاطینِ جِنّ و اِنس ہی نہیں کرتے بلکہ اندر سے خود انسان کا اپنا نفس بھی کرتا ہے ۔ اُس کے اپنے غلط نظریّات اُس کی عقل کو گمراہ کرتے ہیں ۔ اُس کی اپنی ناجائز اغراض و خواہشات اُس کی قوتِ تمیز اور قوتِ ارادی اور قوتِ فیصلہ کو بد راہ کرتی ہیں ۔ اور باہر کے شیاطین ہی نہیں ، انسان کے اندر اس کے اپنے نفس کا شیطان بھی اُس کو بہکاتا ہے ۔ یہی بات ہے جو قرآن میں ایک جگہ فرمائی گئی ہے کہ «وَ نَعۡلَمُ مَا تُوَسۡوِسُ بِہٖ  نَفۡسُہٗ» ( قٓ ، 16 ) ’’ اور ہم اُس کے اپنے نفس سے اُبھرنے والے وسوسوں کو جانتے ہیں ۔‘‘ ( قٓ : 16 ) اسی بنا پر رسول اللہ ﷺ نے اپنے مشہور خطبۂ مسنونہ میں فرمایا ہے : «نعوذ باللّٰہِ من شرور انفسنا» ’’ ہم اللہ کی پناہ مانگتے ہیں اپنے نفس کی شرارتوں سے ۔‘‘"
+      },
+      "english": {
+        "ibn_kathir": "",
+        "maarif_ul_quran": "Verse [ 114:4] مِن شَرِّ‌ الْوَسْوَاسِ الْخَنَّاسِ (from the evil of the whisperer who withdraws [ when Allah's name is pronounced ].) After invoking three attributes of Allah, the present verse describes the one from whom protection is sought. He is 'the whisperer who withdraws'. The word waswas is originally an infinitive in the sense of waswasah 'to whisper [ that is, to use breath instead of voice, when saying something in barely audible way ] '. But here it is used as an hyperbolic expression to refer to 'Shaitan' in the sense that 'he is an embodiment of whisper'. Whispering of the Shaitan means that he invites people to his obedience by a superstitious discourse in a way that its subject is cast into man's heart, but no voice is heard. [ Qurtubi ].The word خَنَّاسِ khannas is derived from khanasa which means 'to sneak, recede or withdraw furtively'. The Shaitan is so named because he puts himself in a squatting [ perched ] position on the heart of man. So, when the latter becomes heedless, the former whispers, but when he remembers Allah, he withdraws furtively. When man becomes unmindful of Allah again, the Shaitan returns. Whenever man remembers Allah, he withdraws. This practice continues persistently. The Messenger of Allah ﷺ is reported to have said:\"Allah has built two houses in the heart of man, in one of which an angel resides and in the other the Shaitan. The angel urges him to do good works and the Shaitan induces him to do evil works. When man remembers Allah, the Shaitan withdraws. And when he stops remembering Allah, the Shaitan perches on the heart of man and pecks with his beak to whisper into it to do evil things.\" [ Transmitted by Abu Ya` la on the authority of Anas ؓ ، as quoted by Mazhari ]."
+      },
+      "arabic": {
+        "al_muyassar": "من أذى الشيطان الذي يوسوس عند الغفلة، ويختفي عند ذكر الله.",
+        "al_jalalayn": "«من شر الوسواس» الشيطان سمي بالحدث لكثرة ملابسته له «الخناس» لأنه يخنس ويتأخر عن القلب كلما ذكر الله.",
+        "as_saadi": "وهذه السورة مشتملة على الاستعاذة برب الناس ومالكهم وإلههم، من الشيطان الذي هو أصل الشرور كلها ومادتها، الذي من فتنته وشره، أنه يوسوس في صدور الناس، فيحسن لهم الشر، ويريهم إياه في صورة حسنة، وينشط إرادتهم لفعله، ويقبح لهم الخير ويثبطهم عنه، ويريهم إياه في صورة غير صورته، وهو دائمًا بهذه الحال يوسوس ويخنس أي: يتأخر إذا ذكر العبد ربه واستعان على دفعه.فينبغي له أن يستعين و يستعيذ ويعتصم بربوبية الله للناس كلهم.وأن الخلق كلهم، داخلون تحت الربوبية والملك، فكل دابة هو آخذ بناصيتها.وبألوهيته التي خلقهم لأجلها، فلا تتم لهم إلا بدفع شر عدوهم، الذي يريد أن يقتطعهم عنها ويحول بينهم وبينها، ويريد أن يجعلهم من حزبه ليكونوا من أصحاب السعير، والوسواس كما يكون من الجن يكون من الإنس، ولهذا قال: { مِنَ الْجِنَّةِ وَالنَّاسِ } ."
+      }
+    },
+    "word_by_word": [
+      {
+        "word_id": 1,
+        "arabic": "مِنۡ  ",
+        "root": "",
+        "urdu_meaning": "سے",
+        "english_meaning": "From",
+        "lemma": "مِن",
+        "lughat": "",
+        "grammar": [
+          "P"
+        ]
+      },
+      {
+        "word_id": 2,
+        "arabic": "شَرِّ ",
+        "root": "ش ر ر",
+        "urdu_meaning": "شر",
+        "english_meaning": "(the) evil",
+        "lemma": "شَرّ",
+        "lughat": "",
+        "grammar": [
+          "N"
+        ]
+      },
+      {
+        "word_id": 3,
+        "arabic": "الۡوَسۡوَاسِ   ۬ ۙ  ",
+        "root": "و س و س",
+        "urdu_meaning": "وسوسہ ڈالنے والے کے",
+        "english_meaning": "(of) the whisperer,",
+        "lemma": "وَسْواس",
+        "lughat": "",
+        "grammar": [
+          "DET",
+          "N"
+        ]
+      },
+      {
+        "word_id": 4,
+        "arabic": "الۡخَنَّاسِ ۪ۙ﴿۴﴾",
+        "root": "خ ن س",
+        "urdu_meaning": " بار بار پلٹ کر آنے والے کے",
+        "english_meaning": "the one who withdraws,",
+        "lemma": "خَنّاس",
+        "lughat": "",
+        "grammar": [
+          "DET",
+          "ADJ"
+        ]
+      }
+    ]
+  },
+  {
+    "surah_id": 114,
+    "ayah_number": 5,
+    "global_ayah_id": 6348,
+    "juz": 30,
+    "ruku_surah": 1,
+    "ruku_juz": 39,
+    "page_15_line": 610,
+    "page_16_line": "549",
+    "arabic": {
+      "uthmani": "الَّذِیۡ یُوَسۡوِسُ فِیۡ صُدُوۡرِ النَّاسِ ۙ﴿۵﴾",
+      "tajweed": "الَّذِیۡ یُوَسۡوِسُ فِیۡ صُدُوۡرِ النَّاسِ  ۙ﴿۵﴾"
+    },
+    "translations": {
+      "english": {
+        "mustafa_khattab": "who whispers into the hearts of humankind—",
+        "saheeh_international": " Who whispers [evil] into the breasts of mankind - ",
+        "yusuf_ali": "(The same) who whispers into the hearts of Mankind,-",
+        "pickthall": "Who whispereth in the hearts of mankind,",
+        "taqi_usmani": "the one who whispers in the hearts of people,",
+        "maududi": "who whispers in the hearts of people;"
+      },
+      "urdu": {
+        "fateh_jalandhari": " جو لوگوں کے دلوں میں وسوسہ ڈالتا ہے ۔ ",
+        "tahir_ul_qadri": " جو لوگوں کے دلوں میں وسوسہ ڈالتا ہے ",
+        "maududi": "جو لوگوں کے دلوں میں وسوسے ڈالتا ہے",
+        "kanzul_iman": "وہ جو لوگوں کے دلوں میں وسوسے ڈالتے ہیں ،",
+        "junagarhi": " جو لوگوں کے سینوں میں وسوسہ ڈالتا ہے ۔ ",
+        "taqi_usmani": " جو لوگوں کے دلوں میں وسوسہ ڈالتا ہے ، "
+      },
+      "roman_urdu": {
+        "roman_urdu": "jo logon  kay dilon mein waswasay daalta hai , "
+      },
+      "hindi": {}
+    },
+    "tafsir": {
+      "urdu": {
+        "bayan_ul_quran_dr_israr": "",
+        "ahsan_ul_bayan": "",
+        "ibn_kathir": "",
+        "maududi": ""
+      },
+      "english": {
+        "ibn_kathir": "",
+        "maarif_ul_quran": ""
+      },
+      "arabic": {
+        "al_muyassar": "الذي يبثُّ الشر والشكوك في صدور الناس.",
+        "al_jalalayn": "«الذي يوسوس في صدور الناس» قلوبهم إذا غفلوا عن ذكر الله.",
+        "as_saadi": "وهذه السورة مشتملة على الاستعاذة برب الناس ومالكهم وإلههم، من الشيطان الذي هو أصل الشرور كلها ومادتها، الذي من فتنته وشره، أنه يوسوس في صدور الناس، فيحسن لهم الشر، ويريهم إياه في صورة حسنة، وينشط إرادتهم لفعله، ويقبح لهم الخير ويثبطهم عنه، ويريهم إياه في صورة غير صورته، وهو دائمًا بهذه الحال يوسوس ويخنس أي: يتأخر إذا ذكر العبد ربه واستعان على دفعه.فينبغي له أن يستعين و يستعيذ ويعتصم بربوبية الله للناس كلهم.وأن الخلق كلهم، داخلون تحت الربوبية والملك، فكل دابة هو آخذ بناصيتها.وبألوهيته التي خلقهم لأجلها، فلا تتم لهم إلا بدفع شر عدوهم، الذي يريد أن يقتطعهم عنها ويحول بينهم وبينها، ويريد أن يجعلهم من حزبه ليكونوا من أصحاب السعير، والوسواس كما يكون من الجن يكون من الإنس، ولهذا قال: { مِنَ الْجِنَّةِ وَالنَّاسِ } ."
+      }
+    },
+    "word_by_word": [
+      {
+        "word_id": 1,
+        "arabic": "الَّذِیۡ ",
+        "root": "ٱلَّذِى",
+        "urdu_meaning": " وہ جو",
+        "english_meaning": "The one who",
+        "lemma": "الَّذِي",
+        "lughat": "",
+        "grammar": [
+          "REL"
+        ]
+      },
+      {
+        "word_id": 2,
+        "arabic": "یُوَسۡوِسُ ",
+        "root": "و س و س",
+        "urdu_meaning": " وسوسہ ڈالتا ہے",
+        "english_meaning": "whispers",
+        "lemma": "وَسْوَسَ",
+        "lughat": "",
+        "grammar": [
+          "V"
+        ]
+      },
+      {
+        "word_id": 3,
+        "arabic": "فِیۡ ",
+        "root": "",
+        "urdu_meaning": "میں",
+        "english_meaning": "in",
+        "lemma": "فِي",
+        "lughat": "",
+        "grammar": [
+          "P"
+        ]
+      },
+      {
+        "word_id": 4,
+        "arabic": "صُدُوۡرِ ",
+        "root": "ص د ر",
+        "urdu_meaning": "سینوں",
+        "english_meaning": "(the) breasts",
+        "lemma": "صَدْر",
+        "lughat": "",
+        "grammar": [
+          "N"
+        ]
+      },
+      {
+        "word_id": 5,
+        "arabic": "النَّاسِ ۙ﴿۵﴾",
+        "root": "ن و س",
+        "urdu_meaning": "لوگوں کے",
+        "english_meaning": "(of) mankind,",
+        "lemma": "ناس",
+        "lughat": "",
+        "grammar": [
+          "DET",
+          "N"
+        ]
+      }
+    ]
+  },
+  {
+    "surah_id": 114,
+    "ayah_number": 6,
+    "global_ayah_id": 6349,
+    "juz": 30,
+    "ruku_surah": 1,
+    "ruku_juz": 39,
+    "page_15_line": 610,
+    "page_16_line": "549",
+    "arabic": {
+      "uthmani": "مِنَ الۡجِنَّۃِ وَ النَّاسِ ٪﴿۶﴾            39",
+      "tajweed": "مِنَ الۡجِنَّۃِ وَالنَّاسِ  ٪﴿۶﴾            39"
+    },
+    "translations": {
+      "english": {
+        "mustafa_khattab": "from among jinn and humankind.”",
+        "saheeh_international": " From among the jinn and mankind.\" ",
+        "yusuf_ali": "Among Jinns and among men.",
+        "pickthall": "Of the jinn and of mankind.",
+        "taqi_usmani": "whether from among the Jinn or Mankind.",
+        "maududi": "whether he be from the jinn or humans."
+      },
+      "urdu": {
+        "fateh_jalandhari": " جنوں میں سے اور انسانوں میں سے! ",
+        "tahir_ul_qadri": " خواہ وہ ( وسوسہ انداز شیطان ) جنات میں سے ہو یا انسانوں میں سے ",
+        "maududi": "خواہ وہ جِنّوں میں سے ہو یا انسانوں میں سے ۔ 3 ؏١",
+        "kanzul_iman": "«<a href=236> جن </a>» اور آدمی",
+        "junagarhi": " ۔ ( خواہ ) وہ «<a href=236> جن </a>» میں سے ہو یا «<a href=3> انسان\n</a>» میں سے ۔ ",
+        "taqi_usmani": " چاہے وہ جنات میں سے ہو ، یا انسانوں میں سے ۔ ( ٤ ) "
+      },
+      "roman_urdu": {
+        "roman_urdu": "chahye woh jinnaat mein say ho , ya insanon mein say .    "
+      },
+      "hindi": {}
+    },
+    "tafsir": {
+      "urdu": {
+        "bayan_ul_quran_dr_israr": "آیت 6{ مِنَ الْجِنَّۃِ وَالنَّاسِ۔ } ”خواہ وہ جنوں میں سے ہو یا انسانوں میں سے۔“ انسان کے دل و دماغ پر شیطانی وساوس کس طرح اثر انداز ہوتے ہیں اس کی وضاحت حضور ﷺ کے اس فرمان سے ملتی ہے۔ اُمّ المومنین حضرت صفیہ رض بیان کرتی ہیں کہ رسول اللہ ﷺ نے ارشاد فرمایا : اِنَّ الشَّیْطَانَ یَجْرِیْ مِنَ الْاِنْسَانِ مَجْرَی الدَّمِ 1 ”شیطان انسان کے وجود میں خون کی مانند گردش کرتا ہے“۔ گویا شیطان نفس انسانی کے اندر موجود حیوانی شہوات اور سفلی داعیات فرائیڈ اسے id یا libido کا نام دیتا ہے کو بھڑکاتا ہے۔ حضور ﷺ کا فرمان ہے کہ شیطان اپنی تھوتھنی انسان کے دل پر رکھ کر پھونکیں مارتا ہے اور اس طرح اس کے جذبات و شہوات میں اشتعال پیدا کرنے کی کوشش کرتا ہے۔ اللہ تعالیٰ نے شیطان کو انسان کے دل میں وسوسے پیدا کرنے اور اس کے جذبات کو انگیخت دینے کی حد تک اختیار دیا ہے۔ اس سے بڑھ کر انسان سے زبردستی کوئی عمل کرانے کا اختیار اسے نہیں دیا گیا۔ بہرحال نفس انسانی بعض اوقات شیطان کے بہکاوے میں آکر متعلقہ انسان کے لیے شیطان کا نمائندہ بن جاتا ہے اور پھر بالکل شیطان ہی کی طرح اس کے دل میں وسوسہ اندازی شروع کردیتا ہے۔ جیسا کہ اللہ تعالیٰ نے سورة قٓ میں ارشاد فرمایا ہے : { وَلَقَدْ خَلَقْنَا الْاِنْسَانَ وَنَعْلَمُ مَا تُوَسْوِسُ بِہٖ نَفْسُہٗ } آیت 16 ”اور ہم نے ہی انسان کو پیدا کیا ہے اور ہم خوب جانتے ہیں جو اس کا نفس وسوسے ڈالتا ہے“۔ ایسے نفس انسانی کو سورة یوسف علیہ السلام کی آیت 53 میں ”نفس امارہ“ کا نام دیا گیا ہے۔ اس حوالے سے اہم اور بنیادی بات سمجھنے کی یہ ہے کہ شیطان اسی دل پر اپنی تھوتھنی رکھ کر پھونکیں مارتا ہے اور اس پر اثر انداز ہونے کی کوشش کرتا ہے جو دل اللہ کی یاد سے خالی ہوتا ہے۔ اس کے برعکس جو دل اللہ کی یاد میں مشغول اور اس کے ذکر سے معمور ہوتا ہے شیطان اس سے دور رہتا ہے۔ بہرحال شیطان کے تمام وسوسے اور حربے انسان کے اپنے نفس کے ذریعے سے ہی اس پر اثر انداز ہوتے ہیں اور یہ سورت خصوصی طور پر شیطانی وساوس کے توڑ کے لیے نازل ہوئی ہے۔بارک اللّٰہ لی ولکم فی القرآن العظیم ونفعنی وایّاکم بالآیات والذّکر الحکیم oo",
+        "ahsan_ul_bayan": "( 5 ) وسوسہ ڈالنے والوں کی دو قسمیں ہیں ۔ شیاطین جو جنات میں سے ہوتے ہیں اور جن کو اللہ تعالیٰ نے انسانوں کو گمراہ کرنے کی قدرت دی ہے ۔ اس کے علاوہ ہر انسان کے ساتھ ایک شیطان اس کا ساتھی ہوتا ہے جو اس کو گمراہ کرنے کی کوشش کرتا رہتا ہے ، چنانچہ حدیث میں آتا ہے کہ جب نبی ﷺ نے یہ بات فرمائی تو صحابہ نے پوچھا کہ اے اللہ کے رسول ! کیا وہ آپ کے ساتھ بھی ہے ؟ آپ ﷺ نے فرمایا :’’ ہاں ! میرے ساتھ بھی ہے لیکن اللہ نے اس پر میری مدد فرمائی ہے اور وہ فرمانبردار ہو گیا ہے ۔ مجھے خیر کے علاوہ کسی بات کا حکم نہیں دیتا ۔‘‘ ( صحیح مسلم حدیث : 2814 ) اسی طرح حدیث میں آتا ہے کہ نبی ﷺ اعتکاف فرما تھے کہ آپ کی زوجۂ مطہرہ حضرت صفیہ رضی اللہ عنہا آپ ﷺ سے ملنے کے لیے آئیں ۔ رات کا وقت تھا ۔ آپ انھیں چھوڑنے کے لیے ان کے ساتھ نکلے ۔ راستے میں دو انصاری صحابی وہاں سے گزرے تو آپ ﷺ نے انھیں بلا کر فرمایا کہ ’’ یہ میری اہلیہ ، صفیہ بنت حیی ہیں ۔‘‘ انھوں نے عرض کیا : اے اللہ کے رسول ! آپ کے متعلق ہمیں کیا بدگمانی ہو سکتی تھی ۔ آپ نے فرمایا :’’ یہ تو ٹھیک ہے لیکن شیطان انسان کی رگوں میں خون کی طرح دوڑتا ہے ۔ مجھے خطرہ محسوس ہوا کہ کہیں وہ تمھارے دلوں میں کچھ شبہ نہ ڈال دے ۔‘‘ ( صحيح البخاري ، حدیث : 7171 ) دوسرے وہ شیطان جو انسانوں میں سے ہوتے ہیں جو اپنی ہی جنس ( انسانوں ) کو گمراہی کی ترغیب دیتے ہیں ۔ اس تفصیل کی روشنی میں «مِنَ الۡجِنَّۃِ وَ النَّاسِ» کا تعلق «الَّذِیۡ یُوَسۡوِسُ» سے ہے ، جبکہ بعض علماء کہتے ہیں کہ «مِنَ الۡجِنَّۃِ وَ النَّاسِ» کا تعلق «فِیۡ صُدُوۡرِ النَّاسِ» میں «النَّاسِ» سے ہے ، اس صورت میں مطلب یہ بنتا ہے کہ شیطان جن کو گمراہ کرتا ہے ان کی دو قسمیں ہیں ، یعنی شیطان انسانوں کو بھی گمراہ کرتا ہے اور جنات کو بھی ۔ صرف انسانوں کا ذکر غلبے کے طور پر ہے ، ورنہ جنات بھی شیطان کے وسوسوں سے گمراہ ہونے والوں میں شامل ہیں اور بعض کہتے ہیں کہ جنوں پر بھی قرآن میں «رِجَالٌ» کا لفظ بولا گیا ہے ( الجن : 72 : 6 ) اس لیے وہ بھی «الناس» کا مصداق ہیں ۔",
+        "ibn_kathir": "خالق ‘پرورش کنندہ ‘ مالک‘حکمران‘ معبود حقیقی اور پناہ دہندہ  :  ٭٭    (آیت:۱-۶) اس میں اللہ تعالیٰ نے عز و جل کی تین صفتیں بیان ہوئی ہیں‘ پالنے اور پرورش کرنے کی ‘مالک اور شہنشاہ ہونے کی‘ معبود اور لائق عبادت ہونے کی- تمام چیزیں اسی کی پیدا کی ہوئی ہیں‘ اسی کی ملکیت میں ہیں اور اسی کی غلامی میں مشغول ہیں‘ پس وہ حکم دیتا ہے کہ ان پاک اور برتر صفات والے خدا کی پناہ میں آجائے جو بھی پناہ اور بچائو کا طلب ہو- شیطان جو انسان پر مقرر ہے‘ اس کے وسوسوں سے وہی بچانے والا ہے‘ ہر انسان کے ساتھ یہ ہے ‘برائیوں اور بدکاریوں کو خوب زینت دار کر کر کے لوگوں کے سامنے وہ پیش کرتا رہتا ہے اور بہکانے میں‘ راہ راست سے ہٹانے میں کوئی کمی نہیں کرتا‘ اس کے شر سے وہی محفوظ رہ سکتا ہے جسے خدا بچا لے- صحیح حدیث شریف میں ہے تم میں سے ہر شخص کے ساتھ ایک شیطان ہے- لوگوں نے کہا کیا آپ کے ساتھ بھی؟ آپ نے فرمایا ہاں‘ لیکن اللہ تعالیٰ نے اس پر میری مدد فرمائی ہے‘ پس میں سلامت رہتا ہوں وہ مجھے صرف نیکی اور اچھائی کی بات ہی کہتا ہے- \n بخاری مسلم کی اور حدیث میں حضرت انس رضی اللہ تعالیٰ عنہ کی زبانی ایک واقعہ منقول ہے جس میں بیان ہے کہ حضرت صلی اللہ علیہ وآلہ وسلم جب اعتکاف میں تھے تو ام المومنین حضرت صفیہ رضی اللہ تعالیٰ عنہا آپ کے پاس رات کے وقت آئیں جب واپس جانے لگیں تو حضورؐ بھی پہنچانے کے لئے ساتھ چلے‘ راستے میں دو انصاری صحابی مل گئے جو آپ کو بیوی صاحبہ کے ساتھ دیکھ کر جلدی چل دئیے‘ حضور نے انہیں آواز\nدے کر ٹھہرایا اور فرمایا سنو  میرے ساتھ میری بیوی صفیہ بنت حیی (رضی اللہ تعالیٰ عنہا) ہیں انہوں نے کہا سبحان اللہ یا رسول اللہ اس فرمان کی ضرورت ہی کیا تھی؟ آپ نے فرمایا انسان کے خون کے جاری ہونے کی جگہ شیطان گھومتا پھرتا رہتا ہے‘ مجھے خیال ہوا کہ کہیں تمہارے دلوں میں وہ کوئی بدگمانی نہ ڈال دے- \n  حافظ ابو یعلی موصلی رحمہ اللہ نے ایک حدیث وارد کی ہے جس میں ہے نبی صلی اللہ علیہ وآلہ وسلم فرماتے ہیں کہ شیطان اپنا ہاتھ انسان کے دل پر رکھے ہوئے ہے‘ اگر یہ اللہ کا ذکر کرتا ہے تب تو اس کا ہاتھ ہٹ جاتا ہے اور اگر یہ ذکر اللہ بھول جاتا ہے تو وہ اس کے دل پر پورا قبضہ کر لیتا ہے‘ یہی وسواس الخناس ہے‘ یہ حدیث غریب ہے- مسند احمد میں ہے کہ رسول اللہ صلی اللہ علیہ وآلہ وسلم اپنے گدھے پر سوار ہو کر کہیں جا رہے تھے‘ ایک صحابی آپ کے پیچھے بیٹھے ہوئے تھے‘ گدھے نے ٹھوکر کھائی تو ان کے منہ سے نکلا شیطان برباد ہو‘ آنحضرت صلی اللہ علیہ وآلہ وسلم نے فرمایا یوں نہ کہو اس سے شیطان بڑھ جاتا ہے اور کہتا ہے کہ میں نے اپنی قوت سے گرا دیا اور جب تم بسم اللہ کہو تو وہ گھٹ جاتا ہے یہاں تک کہ مکھی کے برابر ہو جاتا ہے‘ ‚اس سے ثابت ہوا کہ ذکر اللہ سے شیطان پست اور مغلوب ہو جاتا ہے اور اس کے چھوڑ دینے سے وہ بڑا ہو جاتا ہے اور غالب آجاتا ہے- مسند احمد میں ہے رسول اللہ صلی اللہ علیہ وآلہ وسلم فرماتے ہیں جب تم میں سے کوئی مسجد میں ہوتا ہے اس کے پاس شیطان آتا ہے اور اسے تھپکتا اور بہلاتا ہے جیسے کوئی شخص اپنے جانور کو بہلاتا ہو‘ پھر اگر وہ خاموش رہا تو وہ ناک میں نکیل یا منہ میں لگام چڑھا دیتا ہے- \n حضرت ابو ہریرہ رضی اللہ تعالیٰ عنہ نے یہ حدیث بیان فرما کر فرمایا تم خود اسے دیکھتے ہو نکیل والا تو وہ ہے جو ایک طرف جھکا کھڑا ہو اور اللہ کا ذکر نہ کرتا ہو اور لگام والا وہ ہے جو منہ کھولے ہوئے ہو اور اللہ کا ذکر نہ کرتا ہو- حضرت ابن عباس رضی اللہ تعالیٰ عنہ اس آیت کی تفسیر میں فرماتے ہیں شیطان ابن آدم کے دل پر جنگل مارے ::ہوئے ہے‘ جہاں یہ بھولا اور غفلت کی کہ اس نے وسوسے ڈالنے شروع کئے اور جہاں اس نے ذکر اللہ کیا اوریہ پیچھے ہٹا-„ سلیمانؒ فرماتے ہیں مجھ سے یہ بیان کیا گیا ہے کہ شیطان راحت و رنج کے وقت انسان کے دل میں سوراخ کرنا چاہتا ہے یعنی اسے بہکانا چاہتا ہے‘ اگر یہ خدا کا ذکر کرے تو یہ بھاگ کھڑا ہوتا ہے-… حضرت ابن عباس رضی احللہ تعالیٰ عنہ سے یہ بھی مروی ہے کہ شیطان برائی سکھاتا ہے جہاں انسان نے اس کی مان لی پھر ہٹ جاتا ہے‘  پھر فرمایا جو وسوسے ڈالتا لوگوں کے سینے میں‘ لفظ ناس جو انسان کے معنی میں ہے اس کا اطلاق جنوں پر بھی بطور غلبہ کے آجاتا ہے- قرآن میں اور جگہ ہے  بِرِجَالٍ مِّنَ الْجِنِّ  کہا گیا ہے تو جنات کو لفظ ناس میں داخل کر لینے میں کوئی قباحت نہیں‘ غرض یہ ہے کہ شیطان جنات کے اور انسان کے سینے میں وسوسے ڈالتا رہتا ہے-\n  اس کے بعد کے جملے  مِنَ الْجِنَّتِہ وَالنَّاسِ  کا ایک مطلب تو یہ ہے کہ جن کے سینوں میں شیطان وسوسے ڈالتا ہے وہ جن بھی ہیں اور انسان بھی‘ اور دوسرا مطلب یہ ہے کہ وہ وسواس ڈالنے والا خواہ کوئی جن ہو خواہ کوئی انسان جیسے اور جگہ ہے  وَکَذَالِکَ جَعَلْنَا لِکُلِّ نَبِیٍّ عَدُوًّا شَیَاطِیْنَ الْاِنْسِ وَالْجِنِّ یُوْحِیْ بَعْضُھُمْ اِلٰی بَعْضٍ زُخْرُفَ الْقَوْلِ غُرُوْرًاˆ یعنی اسی طرح ہم نے ہر نبی کے دشمن \nانسانی اور جناتی شیطان بنائے ہیں‘ ایک دوسرے کے کان میں دھوکے کی باتیں بنا سنور کر ڈالتے رہتے ہیں-\n مسند احمد میں ہے حضرت ابو ذر رضی اللہ تعالیٰ عنہ فرماتے ہیں میں رسول اللہ صلی اللہ علیہ وآلہ وسلم کے پاس مسجد میں آیا اور بیٹھ گیا آپ نے فرمایا نماز بھی پڑھی؟ میں نے کہا نہیں‘ فرمایا کھڑے ہو جائو اور دو رکعتیں ادا کر لو‘ میں اٹھا اور دو رکعتیں پڑھ کر بیٹھ گیا- آپ نے فرمایا اے ابو ذر! اللہ تعالیٰ کی پناہ مانگو انسان شیطانوں اور جن شیطانوں سے ‘میں نے کہا یا رسول اللہ کیا انسانی شیطان بھی ہوتے ہیں؟ آپ نے فرمایا ہاں‘ میں نے کہا یا رسول اللہ نماز کیسی چیز ہے؟ آپ نے ارشاد فرمایا بہترین چیز ہے‘ جو چاہے کم کرے جو چاہے  زیادتی کرے میں نے پوچھا روزہ؟ فرمایا کافی ہونے والا فرض ہے اور خدا کے پاس زیادتی ہے ‘اس نے پھر پوچھا صدقہ؟ حضورؐ نے فرمایا بہت ہی بڑھا چڑھا کر کئی کئی گنا کر کے بدلہ دیا جائے گا ‘میں نے پھر عرض کی حضور کون سا صدقہ افضل ہے؟ فرمایا باوجود مال کی کمی کے صدقہ کرنا یا چپکے سے چھپا کر کسی مسکین فقیر کے ساتھ سلوک کرنا‘ میں نے سوال کیا حضور سب سے پہلے نبی کون تھے؟ آپ نے فرمایا ہاں نبی اور وہ بھی وہ جن سے خدائے تعالیٰ نے بات چیت کی‘ میں نے کیا یا رسول اللہ رسول کتنے ہوئے؟ فرمایا تین سو کچھ اوپر دس بہت بڑی جماعت‘ اور کبھی فرمایا تین سو پندرہ میں نے کہا یا رسول اللہ جو کچھ آپ پر نازل کیا گیا ان سب سے بڑی عظمت والی آیت کون سی ہے؟ حضور نے ارشاد فرمایا آیت الکرسی  اَللّٰہُ لَآ اِلٰہَ اِلَّا ھُوَ الْحَیُّ الْقَیُّوْمُ  الخ‘ یہ حدیث نسائی میں بھی ہے‚ اور ابو حام بن حبان کی صحیح ابن حبان میں تو دوسری سند سے دوسرے الفاظ کے ساتھ یہ حدیث بہت بڑی ہے فاللہ اعلم- \n مسند احمد کی ایک اور حدیث شریف میں ہے کہ ایک شخص نے نبی صلی اللہ علیہ وآلہ وسلم کی خدمت میں حاضر ہو کر عرض کی کہ یا رسول اللہ(صلی اللہ علیہ وآلہ وسلم ) میرے دل میں تو ایسے ایسے خیالات آتے ہیں کہ ان کا زبان سے نکالنا مجھ پر آسمان پر سے گر پڑنے سے بھی زیادہ برا ہے‘ نبی صلی اللہ علیہ وآلہ وسلم نے فرمایا  اَللّٰہُ اَکْبَرُ اللّٰہُ اَکْبَرُ  اللہ ہی کے لئے حمد و ثنا ہے جس نے شیطان کے مکر و فریب کو وسوسے میں ہی لوٹا دیا‘  یہ حدیث ابو دائود اور نسائی میں بھی ہے-„ الحمد للہ اللہ تعالیٰ کے احسان سے یہ تفسیر ختم ہوئی- \nوالحمد للہ رب العالمین \n اللہ کے فضل و کرم سے تیسویں پارے کی تفسیر بھی ختم ہوئی اور تفسیر ابن کثیر کا ترجمہ تفسیر محمدی بالکل کامل ہو گیا- اللہ تعالیٰ ہم سب کو اپنے پاک کلام کی صحیح سمجھ دے اور اس پر عمل نصیب فرمائے اور پھر قبول کرے- آمین  الہ الحق امین  والحمد للہ رب العالمین والصلوۃ والسلام علی جمیع المرسلین ۔",
+        "maududi": "«سورة الناس» حاشیہ نمبر : 3\nبعض اہلِ علم کے نزدیک اِن الفاظ کا مطلب یہ ہے کہ وسوسہ ڈالنے والا دو قسم کے لوگوں کے دلوں میں وسوسہ ڈالتا ہے : ایک جِنّ ، دوسرے انسان ۔ اس بات کو اگر تسلیم کیا جائے تو لفظِ ناس کا اطلاق جِنّ اور انسان دونوں پر ہو گا ۔ وہ کہتے ہیں کہ ایسا ہو سکتا ہے ، کیونکہ قرآن میں جب «رِجَالٌ» ( مَردوں ) کا لفظ جِنّوں کے لیے اِستعمال ہوا ہے ، جیسا کہ سورۂ جن ، آیت 6 میں ہم دیکھتے ہیں ، اور جب نَفَر کا اِستعمال جِنّوں کے گروہ پر ہو سکتا ہے ، جیسا کہ سورۂ اَحقاف آیت 29 میں ہوا ہے ، تو مجازاً ناس کے لفظ میں بھی انسان اور جِنّ دونوں شامل ہو سکتے ہیں ۔ لیکن یہ رائے اس لیے غلط ہے کہ ناس اور اِنس اور انسان کے الفاظ لغت ہی کے اعتبار سے لفظِ جِنّ کی ضد ہیں ۔ جِنّ کے اصل معنٰی پوشیدہ مخلوق کے ہیں ، اور جِن کو جِن اِسی بنا پر کہا جاتا ہے کہ وہ انسانی آنکھ سے مخفی ہے ۔ اس کے برعکس ناس اور اِنس کے الفاظ انسان کے لیے بولے ہی اس بنا پر جاتے ہیں کہ وہ ظاہر اور مَرْئی اور محسوس ہے ۔ سورۂ قَصَص ، آیت 29 میں ہے : «اٰنَسَ مِنۡ جَانِبِ الطُّوۡرِ نَارًا» ۔ یہاں «اٰنَسَ» کے معنٰی «رَاَی» ہیں ، یعنی حضرت موسٰی علیہ السلام نے ’’ کوہِ طور کے کنارے آگ دیکھی ۔‘‘ سورۂ نساء آیت 6 میں ہے : «فَاِنۡ اٰنَسۡتُمۡ مِّنۡہُمۡ رُشۡدًا» ۔’’ اگر تم محسوس کرو کہ یتیم بچے اب ہوشمند ہو گئے ہیں ۔‘‘ یہاں «اٰنَسۡتُمۡ» کے معنٰی «اَحْسَسْتُمْ» یا «رَاَیْتُمْ» ہیں ۔ پس ناس کا اطلاق لغتِ عرب کی رُو سے جِنّوں پر نہیں ہو سکتا ، اور آیت کے صحیح معنٰی یہ ہیں کہ ’’ اُس وسوسہ انداز کے شر سے جو انسانوں کے دلوں میں وسوسے ڈالتا ہے ، خواہ وہ جِنّوں میں سے ہو یا خود انسانوں میں سے ۔‘‘ یعنی دوسرے الفاظ میں وسوسہ اندازی کا کام شیاطینِ جن بھی کرتے ہیں اور شیاطینِ اِنس بھی ، اور دونوں کے شر سے پناہ مانگنے کی اِس سورہ میں تلقین کی گئی ہے ۔ اس معنٰی کی تائید قرآن سے بھی ہوتی ہے اور حدیث سے بھی ۔ قرآن میں فرمایا :\n«وَ کَذٰلِکَ جَعَلۡنَا لِکُلِّ نَبِیٍّ عَدُوًّا شَیٰطِیۡنَ الۡاِنۡسِ وَ  الۡجِنِّ  یُوۡحِیۡ بَعۡضُہُمۡ اِلٰی بَعۡضٍ زُخۡرُفَ الۡقَوۡلِ غُرُوۡرًا» ( الانعام ، 112 ) ’’ اور اِسی طرح ہم نے ہر نبی کے لیے شیطان جِنّوں اور شیطان انسانوں کو دُشمن بنا دیا ہے ، جو ایک دوسرے پر خوش آیند باتیں دھوکے اور فریب کے طور پر القا کرتے ہیں ۔\nاور حدیث میں امام احمد ، نَسائی اور اِبنِ حِبّان حضرت ابوذَر رضی اللہ عنہ کی روایت نقل کرتے ہیں کہ میں نبی ﷺ کی خدمت میں حاضر ہوا ۔ آپ ﷺ مسجد میں تشریف فرما تھے ۔ فرمایا : ابوذَر رضی اللہ عنہ ! تم نے نماز پڑھی ؟ میں نے عرض کیا : نہیں ۔ فرمایا : اُٹھو اور نماز پڑھو ۔ چنانچہ میں نے نماز پڑھی اور پھر آ کر بیٹھ گیا ۔ حضور ﷺ نے فرمایا : یا «ابا ذرّ ، تَعَوَّذْ بِاللّٰہِ من شَرِّ شیاطینِ الانس والجن ،» ’’ اے ابوذر ! شیاطینِ اِنس اور شیاطینِ جِن کے شر سے اللہ کی پناہ مانگو ۔‘‘ میں نے عرض کیا : یا رسول اللہ ﷺ ! کیا انسانوں میں بھی شیطان ہوتے ہیں ؟ فرمایا : ہاں ۔"
+      },
+      "english": {
+        "ibn_kathir": "",
+        "maarif_ul_quran": "Verse [ 114:6] مِنَ الْجِنَّةِ وَالنَّاسِ (whether from among the Jinn or Mankind.) This is explicative of the expression waswas occurring in verse [ 4], meaning that the devils from amongst mankind and the Jinn whisper into the breasts of mankind. Thus the Messenger of Allah ﷺ has been enjoined to constantly seek protection against the mischief of sneaking devils, whether from amongst the Jinn or from amongst human devils.A question may arise here. It is obvious that the Shaitans can cast a voiceless evil prompting furtively into the hearts of people, but how the human devils can cast evil whisperings? They come forward publicly and use their voice, which is not waswasah [ whisper ]. The answer is that human beings too often cast doubts in the minds of people in an indirect way without uttering them explicitly. Shaikh ` Izzuddin Ibn ` Abdus-Salam states, in his monograph 'al-Fawa'id fi Mushkilat-il-Qur'an', that the 'whisperer from mankind' refers to the whispering of one's own nafs (base faculties of the man himself). Just as the Shaitan casts evil thoughts into man's mind, likewise the base self of man urges him to do evil works. That is why the Messenger of Allah ﷺ has directed us to seek protection in Allah from the evil of our own self in the following supplication:اللَّھُمَّ اَعُوذُ بِکَ مِن شَرِّ نَفسِی وَ شَرِّ الشَّیطَانِ وَ شِرکِہٖ\"0 Allah! I seek asylum in You from the evil of myself, from the evil of the Shaitan and from the evil of idolatry.\"The Importance of Seeking Protection against Shaitanic WhisperingsIbn Kathir states that Allah invokes three of His attributive names in this Surah, rabb [ Lord ], malik [ King ] and ilah [ God ], and instructs man to seek refuge with Him against diabolical whisperings, because a Shaitanic companion is attached to every man, and at every step of the way, the latter's attempt is to destroy the former in different ways. First of all, he induces him to commit sins, and paves the way for him to willfully violate the Divine laws and injunctions. If he does not succeed in this, he tries to contaminate and destroy his acts of obedience and worship by casting the thoughts of dissimulation, hypocrisy, pride and arrogance. He attempts to create doubts about authentic beliefs and doctrines of Islam in the minds of the learned scholars. The only one who can be saved from the evil of such Shaitanic pranks is the one whom Allah gives His protection.The Messenger of Allah ﷺ is reported to have said: \"There is not a single one of you, but his companion [ a devil ] has been assigned to him.\" The Companions enquired: 'Is such a devil companion joined to you also, O Messenger of Allah?' He replied: 'Yes. However, Allah has helped me against him and he has become submissive to me. As a result, he only commands me to do good.'It is also confirmed in the two Sahihs from Sayyidna Anas ؓ ، who reported the story of Sayyidah Safiyyah ؓ . Once while the Messenger of Allah ﷺ was performing I'tikaf in the mosque, one of his wives Sayyidah Safiyyah ؓ paid him a visit. When she decided to leave, he gave her company to the boundaries of the mosque. On the way, two men of the Ansar saw them together, The Holy Prophet ﷺ said: \"Wait! This is Safiyyah bint Huyayy [ my wife ]!\" The two Companions exclaimed: سُبحَانَ اللہ \"Pure is Allah, 0 Messenger of Allah, [ how can we have ill thoughts about you?] \" The Messenger of Allah ﷺ replied: \"Indeed, the devil runs through man's veins like the blood circulates. I feared that he might whisper evil thoughts in your minds. [ That is why I had to call you and clarify that the lady with me was no other than my own wife.] \"Special NoteJust as it is necessary for man to avoid evil deeds, it is essential for Muslims to avoid occasions that may cause others to have ill thoughts about them. Should there arise an occasion which may give rise to such bad thoughts, they should immediately clarify the situation, and put an end to it then and there. In sum: This Tradition indicates that Shaitanic pranks are highly dangerous. It is not easy to avoid them unless we seek refuge with Allah.A ClarificationThere are two types of evil thoughts: [ 1] voluntary; and [ 2] involuntary. Here we are warned against voluntary thoughts that proceed from the will or from one's own free choice. The involuntary thoughts are thoughts that occur without one's will or free choice. Such thoughts come to mind involuntarily and pass away. They are not harmful, nor are they sinful as long as they do not act upon them or speak about them.A subtle difference between the two Surahs of Mu'awwadhatainIn the present Surah, rabb [ Lord ], malik [ King ] and ilah [ God ], three Divine attributes have been invoked, while the evil from which protection is sought is only one, that is, the whispering. Conversely, in the previous Surah, only one attribute of Allah is mentioned, that is, rabb-il-falaq [ Lord of the daybreak ], but the evils from which protection is sought are many which are mentioned in three verses. This goes to show that the mischief of the Shaitan is the worst type of evil. The hardships and calamities that befall man in this world, affect his body and mundane affairs, unlike the Shaitanic pranks which affect man's mundane affairs as well his affairs of the Hereafter. The Shaitan is always after destroying man's after-life, and that is the most dangerous situation. If man suffers from physical injury or harm, he can find cure or remedy for it; but because the Shaitan lurks or lies hidden in ambush in every nook and corner of man's life to assault him unnoticed and pull him downwards, away from the Divine, it is not possible to resist him except with the protection granted by Allah. (Therefore, protection from him is sought by invoking three attributes of Allah.)Human and Shaitanic Enemies: their differential treatmentsOne may have some enemies from mankind, and some from Shaitanic origin. The Holy Qur'an has directed us to deal with these two kinds of enemies in different ways.Ibn Kathir in the preface of his commentary of the Holy Qur'an has cited three verses of the Holy Qur'an pertaining to this subject. All three of them have two parts. In the first part, Allah has instructed man to treat his human enemy with kindness, politeness, patience, mercy and compassion. If he does not desist from his evil ways, then jihad is prescribed in other verses. We need to wage armed struggle against the devilish elements of human society. But the only way to resist the Shaitanic enemy is to seek refuge with Allah. The first verse to this effect is in Surah Al-A` raf [ 7:199]:خُذِ الْعَفْوَ وَأْمُرْ‌ بِالْعُرْ‌فِ وَأَعْرِ‌ضْ عَنِ الْجَاهِلِينَ(Take to forbearance, and bid the Fair and ignore the ignorant.)This pertains to defense against human enemy: In other words we need to grant courteous allowance for his offence, bid him to do good and forego revenge against injustice he might have committed. We must be easy in dealing with him and avoid causing him difficulty. This injunction is defence against human enemy and must be carried out in the first instance. But the next verse [ 7:200] of the same Surah pertains to the Shaitanic enemy as follows:وَإِمَّا يَنزَغَنَّكَ مِنَ الشَّيْطَانِ نَزْغٌ فَاسْتَعِذْ بِاللَّـهِ إِنَّهُ سَمِيعٌ عَلِيمٌ\"And if you are stricken with a strike from the Shaitan, seek refuge with Allah. Surely He is All-hearing, All-knowing.\"In other words, if an evil suggestion comes to us from the Shaitanic enemy, then we need to seek refuge in Allah.The second verse is in Surah Al-Mu'minun [ 23:96-98]:ادْفَعْ بِالَّتِي هِيَ أَحْسَنُ السَّيِّئَةَ\"Repel evil with that which is best.وَقُل رَّ‌بِّ أَعُوذُ بِكَ مِنْ هَمَزَاتِ الشَّيَاطِينِ وَأَعُوذُ بِكَ رَ‌بِّ أَن يَحْضُرُ‌ونِAnd say: '0 my Lord, I seek Your refuge from the strokes of the Shaitans, and I seek Your refuge from that they come to me\".In the first sentence of these verses, the direction is given to repel the evil caused by human beings with good behavior. But, when it comes to repel the evil caused by Shaitan, the direction given is to seek refuge in Allah.The third verse dealing with the same subject is:[ 41:34]ادْفَعْ بِالَّتِي هِيَ أَحْسَنُ فَإِذَا الَّذِي بَيْنَكَ وَبَيْنَهُ عَدَاوَةٌ كَأَنَّهُ وَلِيٌّ حَمِيمٌRepel (evi) with what is best, and you will see that the one you had mutual enmity with him will turn as if he were a close friend.\" [ 34] \"This part of the verse directs how to repel the evil caused by human enemy. If we repel evil deed with a better deed, it would be possible for us to win over our human enemies and they would become our most devoted friends. As opposed to a human enemy, the other part of the situation is contained in the next verse [ 36]. It deals with the slinking devil who is invisible, but effective in his attack. The verse reads:وَإِمَّا يَنزَغَنَّكَ مِنَ الشَّيْطَانِ نَزْغٌ فَاسْتَعِذْ بِاللَّـهِ إِنَّهُ هُوَ السَّمِيعُ الْعَلِيمُ\"And should a stroke from Shaitan (Shaitan) strikes you, seek refuge with Allah. Surely, He is the All-Hearing, the All-Knowing.\" [ 41:36]The wordings of this verse are more or less the same as they occur in Surah Al-A` raf. In other words, if an evil suggestion comes to us from the Shaitan, we are required to seek refuge in Allah, because that is the only defensive weapon against the invisible slinking, sly and cunning enemy. [ Ibn Kathir ]In sum, all three sets of verses discussed above enjoin that a human enemy needs to be treated at first kindly, politely, patiently and compassionately, because human nature was in the primordial state created uncorrupted, and as such kindness, politeness, mercy and pardon could subdue him. However, human beings who have lost their primordial state of innocence, and are deeply sunk in the ocean of ignorance, the passions and the vices of the lower self or base self drag man downwards away from Allah. Some have become infidels, unbelievers and tyrants. They have thus become frontal enemies and come out armed with weapons of war to wage a frontal combat against the believers. The Qur'an prescribes in other verses that such human enemies should be repelled by force of arms. Unlike the accursed Shaitan, he is evil in his primal nature, and as such kindness, compassion and pardon does not bring a good effect on him. It is also impossible to have an armed conflict with him. So, the only defence against such an enemy is the celestial weapon of dhikrullah [ Allah's Remembrance ] and ta'awwudh [ seeking refuge with Allah ], with which the entire Qur'an is replete and the Qur'an appropriately ends with it.Moreover, while dealing with a human enemy, a believer is never a loser. If he overcomes the enemy and prevails upon him, his victory is obvious. If the enemy overcomes him or even kills him, then too he will attain high rewards, and a high degree of martyrdom in the Hereafter which is far better than any worldly attainments. In other words, if a believer is defeated by a human enemy he has not lost anything nor is he harmed in anyway. But the case of the Shaitanic enemy is totally different. It is sinful to flatter him or please him; and if someone is defeated by him, it is to destroy his entire future in the Hereafter. This is the reason why the best defensive weapon against him is to seek refuge in Allah. This celestial weapon is so powerful and potent that all Shaitanic guile and treacherous cunning or craft are rendered weak and ineffective.The Guile of Shaitan is FeebleOn account of the reasons given above, it may not be misunderstood that fighting the Shaitan is difficult. To dispel this misunderstanding, Allah has said:إِنَّ كَيْدَ الشَّيْطَانِ كَانَ ضَعِيفًا\"...No doubt, the guile of the Shaitan is feeble.\" (4:76)It is further clarified in Surah An-Nahl:فَإِذَا قَرَ‌أْتَ الْقُرْ‌آنَ فَاسْتَعِذْ بِاللَّـهِ مِنَ الشَّيْطَانِ الرَّ‌جِيمِ ﴿98﴾ إِنَّهُ لَيْسَ لَهُ سُلْطَانٌ عَلَى الَّذِينَ آمَنُوا وَعَلَىٰ رَ‌بِّهِمْ يَتَوَكَّلُونَ ﴿99﴾ إِنَّمَا سُلْطَانُهُ عَلَى الَّذِينَ يَتَوَلَّوْنَهُ وَالَّذِينَ هُم بِهِ مُشْرِ‌كُونَ ﴿100﴾\"So, when you recite the Qur'an, seek the protection of Allah against Shaitan, the accursed. He is such that he has no power over those who believe in Allah and place trust in their Lord. His power is only over those who befriend him and those who associate partners with Him. [ 16:98-1001\"Please see Ma’ ariful Qur'an, Vol. 5/pp 412-415 for concise commentary and fuller details of related rulings.Relationship between the Prologue and the Epilogue of the Qur’ anAllah prefaced the Qur'an with Surah Al-Fatihah which began with His Personal name. It further described His predominant attributes as being Rabb or Maintainer of the universe; as being the All-Merciful and Very Merciful and the Sole Judge of rights and wrongs. It defined religion as being His worship alone and imploring Him alone for help - all else being powerless in comparison. It further taught man to pray for true guidance so that he is able to find the right path, and be established in it. He is taught to pray to be saved from being among those who are condemned and those who have lost the right path after having received it. These factors serve the purpose of man's success and prosperity in this world and in the next world that is the Hereafter. However, in the process of achieving this purpose man is obstructed by the accursed Shaitan. He lays various traps inconspicuously utilizing people's different weak points, their sensual and unhealthy desires which he detects and exploits. The Shaitanic traps or snares need to be shattered or broken to pieces. Seeking refuge in Allah is the only effective protection against these evil powers. That is why the Qur'an most fittingly ends on this.ConclusionAll Thanks are due to Allah that the tafsir of the noble Qur'an has ended with the grace of Allah, and His kindness and help. Praise be to Allah from the beginning to the end, outwardly and inwardly non-manifestly and manifestly. We would not have found the way, had Allah not guided us. May Allah shower His blessings upon the best of creation, Muhammad ﷺ ، His chosen Messenger, the Seal and the leader of the Prophets and Messengers (علیہم السلام) . Upon him and the other Messengers be His blessings and peace, upon his family and his Companions, all of them. 0 'Our Lord, accept from us! Indeed, You - and You alone - are the All-Hearing, the All-Knowing! This work completed on Saturday morning 21st of Sha` ban 1392 AH. Co-incidentally, this is the day I was born. I completed 77th year of my life and turned 78 years old. I pray to Allah and hope that the last days of my life would be the best part of my life, doing the best deeds; and that the best days of my life would be the day when I meet my Lord with the blessing of His clear Book and His trustworthy Prophet ﷺ and that the efforts of this humble servant would be accepted, whose soul was exhausted by ailments, grief, distress and anxieties, and lack of strength; and that He would pardon my errors and shortcomings if the obligations toward His noble Book were not fulfilled; and that the Muslims would benefit by it for aeons of time; and that He makes this work a treasure-trove for the Day when there will be no trading and no friendship, when neither wealth nor family will be of any help. My ability and help to do things come from Him. Pure is Allah; praise be to Him; Pure is Allah, the Great!The 8th volume of Tafsir of Ma’ ariful Qur'an was revised between 3rd of Ramadan 1392 AH and Friday 10th of Shawwal 1392 AH, taking about forty days. Praise be to Allah!Alhamdulillah, the revision of the English version is completed on the night of 29 Ramadan 1424 A.H. corresponding to 25 November, 2003. May Allah bless this humble effort with His approval and pleasure, and make it beneficial for the readers. 'Aminصَدَقَ اللہ العَظِیمSadaq Allah-u1-` Azimوَ صَلَّی اللہُ عَلَی النَّبِیِّینَا ، مُحَمَّدِ وَ عَلَیٰ آلِہٖ وَ صَحبِہٖ وَ سَلَّمWa sallallahu ` ala nabiyyina Muhammadin wa ` ala ` Alihi wa sahbihi wa sallam.Alhamdulillahil-ladhi Ibni'matihi tatimmussalihatThe translation of the text of the Holy Qur'an completed on 16 Rabi` ul-Awwal 1424 A.H. corresponding to 19 May 2003 at Karachi on 11:25 forenoon.Muhammad Taqi Usmani, May Allah forgive him, and accept this humble effort in the service of the Holy Qur'an, His eternal book of guidance. May Allah give us tawfiq to recite it, understand.AlhamdulillahThe Commentary onSurah An-NasEnds he"
+      },
+      "arabic": {
+        "al_muyassar": "من شياطين الجن والإنس.",
+        "al_jalalayn": "(من الجنة والناس) بيان للشيطان الموسوس أنه جني وإنسي، كقوله تعالى: \"\" شياطين الإنس والجن \"\" أو من الجنة بيان له والناس عطف على الوسواس وعلى كل يشتمل شر لبيد وبناته المذكورين، واعترض الأول بأن الناس لا يوسوس في صدورهم الناس إنما يوسوس في صدورهم الجن، وأجيب بأن الناس يوسوسون أيضاً بمعنى يليق بهم في الظاهر ثم تصل وسوستهم إلى القلب وتثبت فيه بالطريق المؤدي إلى ذلك والله تعالى أعلم.",
+        "as_saadi": "وهذه السورة مشتملة على الاستعاذة برب الناس ومالكهم وإلههم، من الشيطان الذي هو أصل الشرور كلها ومادتها، الذي من فتنته وشره، أنه يوسوس في صدور الناس، فيحسن لهم الشر، ويريهم إياه في صورة حسنة، وينشط إرادتهم لفعله، ويقبح لهم الخير ويثبطهم عنه، ويريهم إياه في صورة غير صورته، وهو دائمًا بهذه الحال يوسوس ويخنس أي: يتأخر إذا ذكر العبد ربه واستعان على دفعه.فينبغي له أن يستعين و يستعيذ ويعتصم بربوبية الله للناس كلهم.وأن الخلق كلهم، داخلون تحت الربوبية والملك، فكل دابة هو آخذ بناصيتها.وبألوهيته التي خلقهم لأجلها، فلا تتم لهم إلا بدفع شر عدوهم، الذي يريد أن يقتطعهم عنها ويحول بينهم وبينها، ويريد أن يجعلهم من حزبه ليكونوا من أصحاب السعير، والوسواس كما يكون من الجن يكون من الإنس، ولهذا قال: { مِنَ الْجِنَّةِ وَالنَّاسِ } . والحمد لله رب العالمين أولًا وآخرًا، وظاهرًا وباطنًا.ونسأله تعالى أن يتم نعمته، وأن يعفو عنا ذنوبًا لنا حالت بيننا وبين كثير من بركاته، وخطايا وشهوات ذهبت بقلوبنا عن تدبر آياته.ونرجوه ونأمل منه أن لا يحرمنا خير ما عنده بشر ما عندنا، فإنه لا ييأس من روح الله إلا القوم الكافرون، ولا يقنط من رحمته إلا القوم الضالون.وصلى الله وسلم على رسوله محمد وعلى آله وصحبه أجمعين، صلاة وسلامًا دائمين متواصلين أبد الأوقات، والحمد لله الذي بنعمته تتم الصالحات.تم تفسير كتاب الله بعونه وحسن توفيقه، على يد جامعه وكاتبه، عبد الرحمن بن ناصر بن عبد الله المعروف بابن سعدي، غفر الله له ولوالديه وجميع المسلمين، وذلك في غرة ربيع الأول من سنة أربع وأربعين وثلثمائة وألف من هجرة محمدً صلى الله عليه وسلم تم بحمد الله لاتنسونا من دعوه بظهر الغيب"
+      }
+    },
+    "word_by_word": [
+      {
+        "word_id": 1,
+        "arabic": "مِنَ ",
+        "root": "",
+        "urdu_meaning": "میں سے",
+        "english_meaning": " From",
+        "lemma": "مِن",
+        "lughat": "",
+        "grammar": [
+          "P"
+        ]
+      },
+      {
+        "word_id": 2,
+        "arabic": "الۡجِنَّۃِ ",
+        "root": "ج ن ن",
+        "urdu_meaning": "جنوں",
+        "english_meaning": "the jinn",
+        "lemma": "جِنَّة",
+        "lughat": "",
+        "grammar": [
+          "DET",
+          "N"
+        ]
+      },
+      {
+        "word_id": 3,
+        "arabic": "وَ النَّاسِ ٪﴿۶﴾            39",
+        "root": "ن و س",
+        "urdu_meaning": "  اور انسانوں میں سے",
+        "english_meaning": "and men",
+        "lemma": "ناس",
+        "lughat": "",
+        "grammar": [
+          "CONJ",
+          "DET",
+          "N"
+        ]
+      }
+    ]
+  }
+]

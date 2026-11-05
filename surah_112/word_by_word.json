@@ -1,0 +1,282 @@
+[
+  {
+    "surah_id": 112,
+    "ayah_number": 0,
+    "global_ayah_id": 6332,
+    "urdu_phrase_raw": "بِسۡمِ& ساتھ نام@اللّٰہِ& اللہ کے@الرَّحۡمٰنِ&  جو بڑا مہربان@الرَّحِیۡمِ& بار بار رحم فرمانے والا ہے",
+    "english_phrase_raw": "بِسۡمِ&In (the) name@اللّٰہِ&(of) Allah,@الرَّحۡمٰنِ&the Most Gracious,@الرَّحِیۡمِ&the Most Merciful.",
+    "words": [
+      {
+        "word_id": 1,
+        "arabic": "بِسۡمِ ",
+        "root": "س م و",
+        "urdu_meaning": " ساتھ نام",
+        "english_meaning": "In (the) name",
+        "lemma": "اسْم",
+        "lughat": "",
+        "grammar": [
+          "P",
+          "N"
+        ]
+      },
+      {
+        "word_id": 2,
+        "arabic": "اللّٰہِ ",
+        "root": "ا ل ه",
+        "urdu_meaning": " اللہ کے",
+        "english_meaning": "(of) Allah,",
+        "lemma": "اللّٰہ",
+        "lughat": "",
+        "grammar": [
+          "PN"
+        ]
+      },
+      {
+        "word_id": 3,
+        "arabic": "الرَّحۡمٰنِ ",
+        "root": "ر ح م",
+        "urdu_meaning": "  جو بڑا مہربان",
+        "english_meaning": "the Most Gracious,",
+        "lemma": "رَحْمٰن",
+        "lughat": "",
+        "grammar": [
+          "DET",
+          "N"
+        ]
+      },
+      {
+        "word_id": 4,
+        "arabic": "الرَّحِیۡمِ",
+        "root": "ر ح م",
+        "urdu_meaning": " بار بار رحم فرمانے والا ہے",
+        "english_meaning": "the Most Merciful.",
+        "lemma": "رَحِيم",
+        "lughat": "",
+        "grammar": [
+          "DET",
+          "N"
+        ]
+      }
+    ]
+  },
+  {
+    "surah_id": 112,
+    "ayah_number": 1,
+    "global_ayah_id": 6333,
+    "urdu_phrase_raw": "قُلۡ& کہہ دیجئے@ہُوَ&وہ@اللّٰہُ&اللہ@اَحَدٌ& ایک ہے",
+    "english_phrase_raw": "قُلۡ&Say,@ہُوَ&He@اللّٰہُ&(is) Allah,@اَحَدٌ&the One.",
+    "words": [
+      {
+        "word_id": 1,
+        "arabic": "قُلۡ ",
+        "root": "ق و ل",
+        "urdu_meaning": " کہہ دیجئے",
+        "english_meaning": "Say,",
+        "lemma": "قالَ",
+        "lughat": "",
+        "grammar": [
+          "V"
+        ]
+      },
+      {
+        "word_id": 2,
+        "arabic": "ہُوَ  ",
+        "root": "",
+        "urdu_meaning": "وہ",
+        "english_meaning": "He",
+        "lemma": "",
+        "lughat": "",
+        "grammar": [
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 3,
+        "arabic": "اللّٰہُ  ",
+        "root": "ا ل ه",
+        "urdu_meaning": "اللہ",
+        "english_meaning": "(is) Allah,",
+        "lemma": "اللّٰہ",
+        "lughat": "",
+        "grammar": [
+          "PN"
+        ]
+      },
+      {
+        "word_id": 4,
+        "arabic": "اَحَدٌ  ۚ﴿۱﴾",
+        "root": "ا ح د",
+        "urdu_meaning": " ایک ہے",
+        "english_meaning": "the One.",
+        "lemma": "أَحَد",
+        "lughat": "",
+        "grammar": [
+          "N"
+        ]
+      }
+    ]
+  },
+  {
+    "surah_id": 112,
+    "ayah_number": 2,
+    "global_ayah_id": 6334,
+    "urdu_phrase_raw": "اَللّٰہُ&اللہ@الصَّمَدُ&بےنیاز ہے",
+    "english_phrase_raw": "اَللّٰہُ&Allah,@الصَّمَدُ&the Eternal, the Absolute.",
+    "words": [
+      {
+        "word_id": 1,
+        "arabic": "اَللّٰہُ  ",
+        "root": "ا ل ه",
+        "urdu_meaning": "اللہ",
+        "english_meaning": "Allah,",
+        "lemma": "اللّٰہ",
+        "lughat": "",
+        "grammar": [
+          "PN"
+        ]
+      },
+      {
+        "word_id": 2,
+        "arabic": "الصَّمَدُ ۚ﴿۲﴾",
+        "root": "ص م د",
+        "urdu_meaning": "بےنیاز ہے",
+        "english_meaning": "the Eternal, the Absolute.",
+        "lemma": "صَمَد",
+        "lughat": "<<اَ لصَّمَدُ>> : وہ سر دار جس کی طرف ہر معا ملہ میں رجو ع کیا جا ئے ۔ <<صَمَدَ صَمْدَہٗ>> کسی کو معتمد سمجھ کر اس کی جا نب قصد کر نا ۔ بعض نے کہا ہے ۔ (1) <<لَہٗ صَمَدٌ>> ٹھو س اور بے جو ف چیز کو کہتے ہیں ۔ اور بے جو ف چیزیں دو قسم پر ہیں ایک وہ جو انسا ن سے کم در جہ کی ہیں ،جیسے جما دا ت اور دو م وہ جو انسا ن سے اعلیٰ در جہ کی ہیں ، جیسے با ری تعالیٰ اور فر شتے اور آیت کریمہ :  <<(اَللّٰہُ  الصَّمَدُ ) (۱۱۲۔۲)>> اللہ بے نیا ز ہے ۔ میں اللہ تعالیٰ کو صمہ کہہ کہہ کر اس حقیقت سے آ گا ہ کر دیا ہے کہ مشرکین نے جن چیزوں کو معبو د بنا رکھا ہے ۔ ذ ات الہٰی ان سب کے بر عکس ہے چنانچہ آیت کریمہ :  <<( وَ اُمُّہٗ صِدِّیۡقَۃٌ ؕ کَانَا یَاۡکُلٰنِ الطَّعَامَ) (۵۔۷۵)>> اور ان کی والدہ (مریم خدا کی ولی اور) سچی فر ما نبردا ر تھیں دو نوں ( انسا ن تھے اور )کھا نا کھا تے تھے ۔ میں بھی اسی حقیقت کی طرف اشا رہ ہے ۔\r\n\r\n",
+        "grammar": [
+          "DET",
+          "N"
+        ]
+      }
+    ]
+  },
+  {
+    "surah_id": 112,
+    "ayah_number": 3,
+    "global_ayah_id": 6335,
+    "urdu_phrase_raw": "لَمۡ&نہ@یَلِدۡ&اس نے جنا@وَلَمۡ& اور نہ@یُوۡلَدۡ& وہ جنا گیا",
+    "english_phrase_raw": "لَمۡ &Not@یَلِدۡ&He begets@وَلَمۡ &and not@یُوۡلَدۡ&He is begotten.",
+    "words": [
+      {
+        "word_id": 1,
+        "arabic": "لَمۡ  ",
+        "root": "",
+        "urdu_meaning": "نہ",
+        "english_meaning": "Not",
+        "lemma": "لَم",
+        "lughat": "",
+        "grammar": [
+          "NEG"
+        ]
+      },
+      {
+        "word_id": 2,
+        "arabic": "یَلِدۡ   ۬ ۙ  ",
+        "root": "و ل د",
+        "urdu_meaning": "اس نے جنا",
+        "english_meaning": "He begets",
+        "lemma": "وَلَدَ",
+        "lughat": "",
+        "grammar": [
+          "V"
+        ]
+      },
+      {
+        "word_id": 3,
+        "arabic": "وَ  لَمۡ  ",
+        "root": "",
+        "urdu_meaning": " اور نہ",
+        "english_meaning": "and not",
+        "lemma": "لَم",
+        "lughat": "",
+        "grammar": [
+          "CONJ",
+          "NEG"
+        ]
+      },
+      {
+        "word_id": 4,
+        "arabic": "یُوۡلَدۡ    ۙ﴿۳ ﴾   ",
+        "root": "و ل د",
+        "urdu_meaning": " وہ جنا گیا",
+        "english_meaning": "He is begotten.",
+        "lemma": "وَلَدَ",
+        "lughat": "",
+        "grammar": [
+          "V"
+        ]
+      }
+    ]
+  },
+  {
+    "surah_id": 112,
+    "ayah_number": 4,
+    "global_ayah_id": 6336,
+    "urdu_phrase_raw": "وَلَمۡ&اور نہیں@یَکُنۡ&ہے@لَّہٗ&اس کے لیے@کُفُوًا& برابر کا@اَحَدٌ& کوئی ایک بھی",
+    "english_phrase_raw": "وَلَمۡ&And not@یَکُنۡ&is@لَّہٗ&for Him@کُفُوًا اَحَدٌ&any one equivalent.",
+    "words": [
+      {
+        "word_id": 1,
+        "arabic": "وَ لَمۡ  ",
+        "root": "",
+        "urdu_meaning": "اور نہیں",
+        "english_meaning": "And not",
+        "lemma": "لَم",
+        "lughat": "",
+        "grammar": [
+          "CONJ",
+          "NEG"
+        ]
+      },
+      {
+        "word_id": 2,
+        "arabic": "یَکُنۡ  ",
+        "root": "ك و ن",
+        "urdu_meaning": "ہے",
+        "english_meaning": "is",
+        "lemma": "كانَ",
+        "lughat": "",
+        "grammar": [
+          "V"
+        ]
+      },
+      {
+        "word_id": 3,
+        "arabic": "لَّہٗ   ",
+        "root": "",
+        "urdu_meaning": "اس کے لیے",
+        "english_meaning": "for Him",
+        "lemma": "",
+        "lughat": "",
+        "grammar": [
+          "P",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 4,
+        "arabic": "کُفُوًا  ",
+        "root": "ك ف ا",
+        "urdu_meaning": " برابر کا",
+        "english_meaning": "any one equivalent.",
+        "lemma": "كُفُو",
+        "lughat": "<<اَلْکُفْؤُ>> کے معنیہ مرتبہ اور منزلت میں دوسرے کا ہم پلہ ہونے کے ہیں اسی سے<< کِفَائٌ>> کپڑے کے اس ٹکڑے کو کہتے ہیں جو اس جیسے دوسرے ٹکڑے کے ساتھ ملاکر خیمہ کے پچھلی طرف ڈال دیا جاتا ہے اور اسی سے نکاح یا لڑائی میں ہمسروں کے متعلق کہا جاتا ہے  <<(فُلَانٌ کُفْوٌلِفُلَان>> فلاں اس کا ہمسر ہے قرآن پاک میں ہے: <<(وَ  لَمۡ  یَکُنۡ  لَّہٗ   کُفُوًا  اَحَدٌ )  (۱۱۲۔۴)>> اور کوئی اس کا ہمسر نہیں۔اسی سے <<مُکَافَائَ ۃٌ>> ہے جس کے معنی کسی کام میں دوسرے کے بالمقابل ہونے کے ہیں۔نیز محاورہ ہے:<<فُلَانٌ کُفُوٌّلَکَ>>:فلاں دشمنی میں تیرا ہم پلہ ہے۔<<اَلْاِکْفَائُ>> کے معنی کسی چیز کو الٹا کردینے کے ہیں گویا اس میں مساوات کو دور کرنے کے معنی پائے جاتے ہیں اور اسی سے <<اِکْفَائٌ فِی الشِّعْرِ>> ہے جس کے معنی قصیدہ میں حرف روی کے مختلف ہونے کے ہیں۔ <<(مُکْفَائُ الْوَجْہِ اَذْ کَفِیُ الْوَجْہِ:متغیررو آدمی۔کَفَأَۃٌ۔>>اونٹوں کی ناقص پیدائش محاورہ ہے۔ <<(جَعَلَ فُلَانٌ اِبِلَہ کَفْاتَیْنِ>> :اس نے اپنے اونٹوں کو دو حصوں میں تقسیم کردیا۔یعنی ایک سال ایک حصہ سے نسل لیتا ہے اور دوسرے سال دوسرے سے۔\r\n\r\n",
+        "grammar": [
+          "N"
+        ]
+      },
+      {
+        "word_id": 5,
+        "arabic": "اَحَدٌ ٪﴿۴﴾             37",
+        "root": "ا ح د",
+        "urdu_meaning": " کوئی ایک بھی",
+        "english_meaning": "",
+        "lemma": "أَحَد",
+        "lughat": "",
+        "grammar": [
+          "N"
+        ]
+      }
+    ]
+  }
+]

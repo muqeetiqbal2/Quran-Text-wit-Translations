@@ -1,0 +1,447 @@
+[
+  {
+    "surah_id": 103,
+    "ayah_number": 0,
+    "global_ayah_id": 6278,
+    "juz": 30,
+    "ruku_surah": 1,
+    "ruku_juz": 28,
+    "page_15_line": 608,
+    "page_16_line": "546",
+    "arabic": {
+      "uthmani": "بِسۡمِ اللّٰہِ الرَّحۡمٰنِ الرَّحِیۡمِ",
+      "tajweed": "بِسۡمِ اللّٰہِ الرَّحۡمٰنِ الرَّحِیۡمِ   "
+    },
+    "translations": {
+      "english": {
+        "mustafa_khattab": "In the Name of Allah—the Most Compassionate, Most Merciful.",
+        "saheeh_international": " In the name of Allah , the Entirely Merciful, the Especially Merciful. ",
+        "taqi_usmani": "In the name of Allah, the Most Gracious, the Most Merciful.",
+        "maududi": "In the name of Allah the Most Merciful the Most Compassionate"
+      },
+      "urdu": {
+        "fateh_jalandhari": " «<a href=416> شروع </a>» خدائے رحمٰن ورحیم کے «<a href=614> نام </a>» سے ",
+        "tahir_ul_qadri": " اللہ کے «<a href=614> نام </a>» سے «<a href=416> شروع </a>» جو نہایت «<a href=600>\n  مہربان </a>» «<a href=652> ہمیشہ </a>» رحم فرمانے والا ہے ۔ ",
+        "maududi": "الله کے «<a href=614> نام </a>» سے جو بے انتہا «<a href=600> مہربان </a>» اور\nرحم فرمانے والا ہے",
+        "kanzul_iman": "اللہ کے «<a href=614> نام </a>» سے «<a href=416> شروع </a>» جو نہایت «<a href=600> مہربان </a>» رحم والا",
+        "junagarhi": " «<a href=416> شروع </a>» کرتا ہوں اللہ تعا لٰی کے «<a href=614> نام\n</a>» سے جو بڑا «<a href=600> مہربان </a>» نہایت رحم والا ہے ۔ ",
+        "taqi_usmani": " شروع اللہ کے «<a href=614> نام </a>» سے جو سب پر «<a href=600>\n  مہربان </a>» ہے ، بہت «<a href=600> مہربان </a>» ہے "
+      },
+      "roman_urdu": {
+        "roman_urdu": "shuroo Allah kay naam say jo sabb per meharban hai , boht meharban hai "
+      },
+      "hindi": {}
+    },
+    "tafsir": {
+      "urdu": {
+        "ahsan_ul_bayan": "",
+        "ibn_kathir": "",
+        "maududi": "سورة العصر\nنام :\nپہلی آیت کے لفظ الْعَصْرِ کو اس سورہ کا نام قرار دیا گیا ہے ۔\nزمانۂ نزول :\nاگرچہ مجاہد ، قَتَادَہ اور مُقاتِل نے اِسے مدنی کہا ہے ، لیکن مفسرین کی عظیم اکثریت اسے مکی قرار دیتی ہے ۔ اور اِس کا مضمون یہ شہادت دیتا ہے کہ یہ مکہ کے بھی اِبتدائی دَور میں نازل ہوئی ہو گی جب اسلام کی تعلیم کو مختصر اور اِنتہائی دل نشین فقروں میں بیان کیا جاتا تھا ، تاکہ سننے والے ایک دفعہ اُن کو سن کر بھولنا بھی چاہیں تو نہ بھول سکیں ، اور وہ آپ سے آپ لوگوں کی زبانوں پر چڑھ جائیں ۔\nموضوع اور مضمون :\nیہ سورت جامع اور مُختصر کلام کا بے نظیر نمونہ ہے ۔ اِس کے اندر چند جَچے تُلے الفاظ میں معنٰی کی ایک دنیا بھر دی گئی ہے ، جس کو بیان کرنے کا حق ایک پوری کتاب میں بھی مشکل سے ادا کیا جا سکتا ہے ۔ اِس میں بالکل دو ٹوک طریقے سے بتا دیا گیا ہے کہ انسان کی فلاح کا راستہ کون سا ہے اور اس کی تباہی و بربادی کا راستہ کون سا ۔ اِمام شافعی رحمہ اللہ نے بہت صحیح کہا ہے کہ اگر لوگ اِس سورت پر غور کریں تو یہی ان کی ہدایت کے لیے کافی ہے ۔ صحابۂ کِرام رضی اللہ عنہم کی نگاہ میں اِس کی اہمیّت کیا تھی ، اُس کا اندازہ اِس بات سے کیا جا سکتا ہے کہ حضرت عبداللہ بن حِصْن الدّارِمی ابومَدِیْنَہ کی رِوایَت کے مطابق اصحابِ رسول ﷺ میں سے جب دو آدمی ایک دوسرے سے ملتے تو اس وقت تک جدا نہ ہوتے ، جب تک ایک دوسرے کو سورۂ عصر نہ سنا لیتے ( طَبَرانی ) ۔"
+      },
+      "english": {},
+      "arabic": {}
+    },
+    "word_by_word": [
+      {
+        "word_id": 1,
+        "arabic": "بِسۡمِ ",
+        "root": "س م و",
+        "urdu_meaning": " ساتھ نام",
+        "english_meaning": "In (the) name",
+        "lemma": "اسْم",
+        "lughat": "",
+        "grammar": [
+          "P",
+          "N"
+        ]
+      },
+      {
+        "word_id": 2,
+        "arabic": "اللّٰہِ ",
+        "root": "ا ل ه",
+        "urdu_meaning": " اللہ کے",
+        "english_meaning": "(of) Allah,",
+        "lemma": "اللّٰہ",
+        "lughat": "",
+        "grammar": [
+          "PN"
+        ]
+      },
+      {
+        "word_id": 3,
+        "arabic": "الرَّحۡمٰنِ ",
+        "root": "ر ح م",
+        "urdu_meaning": "  جو بڑا مہربان",
+        "english_meaning": "the Most Gracious,",
+        "lemma": "رَحْمٰن",
+        "lughat": "",
+        "grammar": [
+          "DET",
+          "N"
+        ]
+      },
+      {
+        "word_id": 4,
+        "arabic": "الرَّحِیۡمِ",
+        "root": "ر ح م",
+        "urdu_meaning": " بار بار رحم فرمانے والا ہے",
+        "english_meaning": "the Most Merciful.",
+        "lemma": "رَحِيم",
+        "lughat": "",
+        "grammar": [
+          "DET",
+          "N"
+        ]
+      }
+    ]
+  },
+  {
+    "surah_id": 103,
+    "ayah_number": 1,
+    "global_ayah_id": 6279,
+    "juz": 30,
+    "ruku_surah": 1,
+    "ruku_juz": 28,
+    "page_15_line": 608,
+    "page_16_line": "546",
+    "arabic": {
+      "uthmani": "وَ الۡعَصۡرِ ۙ﴿۱﴾",
+      "tajweed": "وَالۡعَصۡرِ  ۙ﴿۱﴾"
+    },
+    "translations": {
+      "english": {
+        "mustafa_khattab": "By the ˹passage of˺ time",
+        "saheeh_international": " By time, ",
+        "yusuf_ali": "By (the Token of) Time (through the ages),",
+        "pickthall": "By the declining day,",
+        "taqi_usmani": "(I swear) by the Time,",
+        "maududi": "By the time!"
+      },
+      "urdu": {
+        "fateh_jalandhari": " «<a href=378> زمانہ </a>» شاہد ہے ",
+        "tahir_ul_qadri": " «<a href=378> زمانہ </a>» کی قَسم ( جس کی گردش انسانی حالات پر گواہ ہے ) ",
+        "maududi": "زمانے کی «<a href=472> قسم </a>» !",
+        "kanzul_iman": "اس «<a href=378> زمانہ </a>» محبوب کی «<a href=472> قسم </a>»",
+        "junagarhi": " زمانے کی «<a href=472> قسم </a>» ۔ ",
+        "taqi_usmani": " زمانے کی «<a href=472> قسم </a>» ، ( ١ ) "
+      },
+      "roman_urdu": {
+        "roman_urdu": "zamaney ki qasam ,   "
+      },
+      "hindi": {}
+    },
+    "tafsir": {
+      "urdu": {
+        "bayan_ul_quran_dr_israr": "آیت 1{ وَالْعَصْرِ۔ } ”زمانے کی قسم ہے۔“ یعنی اس حقیقت پر زمانہ گواہ ہے یا پوری تاریخ انسانی شاہد ہے کہ :",
+        "ahsan_ul_bayan": "( 2 ) زمانے سے مراد شب و روز کی یہ گردش اور ان کا اَدل بدل کر آنا ہے ۔ رات آتی ہے تو اندھیرا چھا جاتا ہے اور دن طلوع ہوتا ہے تو ہر چیز روشن ہو جاتی ہے ۔ اس کے علاوہ کبھی رات لمبی ، دن چھوٹا اور کبھی دن لمبا ، رات چھوٹی ہو جاتی ہے ۔ یہی ایام کی گردش ، زمانہ ہے جو اللہ تعالیٰ کی قدرت اور کاریگری پر دلالت کرتا ہے ۔ اسی لیے رب نے اس کی قسم کھائی ہے ۔ یہ پہلے بتلایا جا چکا ہے کہ اللہ تعالیٰ تو اپنی مخلوق میں سے جس کی چاہے قسم کھا سکتا ہے لیکن انسانوں کے لیے صرف اللہ کی قسم کے علاوہ کسی چیز کی قسم کھانا جائز نہیں ۔",
+        "ibn_kathir": "",
+        "maududi": ""
+      },
+      "english": {
+        "ibn_kathir": "Which was revealed in MakkahHow `Amr bin Al-`As was aware of the Qur'an's Miracle due to this SurahThey have mentioned that `Amr bin Al-`As went to visit Musaylimah Al-Kadhdhab after the Messenger of Allah ﷺ was commissioned (as a Prophet) and before `Amr had accepted Islam. Upon his arrival, Musaylimah said to him, \"What has been revealed to your friend (Muhammad ﷺ ) during this time\" `Amr said, \"A short and concise Surah has been revealed to him.\" Musaylimah then said, \"What is it\" `Amr replied;وَالْعَصْرِ - إِنَّ الإِنسَـنَ لَفِى خُسْرٍ - إِلاَّ الَّذِينَ ءَامَنُواْ وَعَمِلُواْ الصَّـلِحَـتِ وَتَوَاصَوْاْ بِالْحَقِّ وَتَوَاصَوْاْ بِالصَّبْرِ(By Al-`Asr. Verily, man is in loss. Except those who believe and do righteous deeds, and recommend one another to the truth, and recommend one another to patience.) So Musaylimah thought for a while. Then he said, \"Indeed something similar has also been revealed to me.\" `Amr asked him, \"What is it\" He replied, \"O Wabr (a small, furry mammal; hyrax), O Wabr! You are only two ears and a chest, and the rest of you is digging and burrowing.\" Then he said, \"What do you think, O `Amr\" So `Amr said to him, \"By Allah! Verily, you know that I know you are lying.\" I saw that Abu Bakr Al-Khara'iti mentioned a chain of narration for part of this story, or what was close to its meaning, in volume two of his famous book Masawi' ul-Akhlaq. The Wabr is a small animal that resembles a cat, and the largest thing on it is its ears and its torso, while the rest of it is ugly. Musayli- mah intended by the composition of these nonsensical verses to produce something which would oppose the Qur'an. Yet, it was not even convin- cing to the idol wor- shipper of that time. At-Tabarani recorded from `Abdullah bin Hisn Abi Madinah that he said, \"Whenever two men from the Companions of the Messenger of Allah ﷺ used to meet, they would not part until one of them had recited Surat Al-`Asr in its entirety to the other, and one of them had given the greetings of peace to the other.\" Ash-Shafi`i said, \"If the people were to ponder on this Surah, it would be sufficient for them.\"بِسْمِ اللَّهِ الرَّحْمَـنِ الرَّحِيمِIn the Name of Allah, the Most Gracious, the Most Merciful.Al-`Asr is the time in which the movements of the Children of Adam occur, whether good or evil.Malik narrated from Zayd bin Aslam that he said, \"It is the evening.\" However, the first view is the popular opinion. Thus, Allah swears by this, that man is in Khusr, which means in loss and destruction.إِلاَّ الَّذِينَ ءَامَنُواْ وَعَمِلُواْ الصَّـلِحَـتِ(Except those who believe and do righteous good deeds) So Allah makes an exception, among the species of man being in loss, for those who believe in their hearts and work righteous deeds with their limbs.وَتَوَاصَوْاْ بِالْحَقِّ(And recommend one another to the truth,) This is to perform acts of obedience and avoid the forbidden things.وَتَوَاصَوْاْ بِالصَّبْرِ(And recommend one another to patience.) meaning, with the plots, the evils, and the harms of those who harm people due to their commanding them to do good and forbidding them from evil. This is the end of the Tafsir of Surat Al-`Asr, and all praise and thanks are due to Allah.",
+        "maarif_ul_quran": "Virtue of [ Studying ] Surah al-` AsrSayyidna ` Ubaidullah Ibn Hisn ؓ reports that whenever two Companions of the Holy Prophet ﷺ met, they would not part company until one of them had recited Surah Al-` Asr in its entirety to the other. [ Transmitted by At-Tabarni ]. Imam Shafi` i (رح) says that if people thought about Surah Al-` Asr carefully, it would be enough for their guidance. It is a concise but comprehensive Surah, which in three verses, outlines a complete way of human life based on the Islamic worldview.In this Surah, Allah swears an oath by the 'Time' and says that mankind is in a state of loss; exception, however, is made of people who are characterized by four qualities: [ 1] faith; [ 2] righteous deeds; [ 3] advising each other for Truth; and [ 4] advising each other for patience. This is the only path to salvation in this world, as well as in the next world. The Qur'anic prescription comprises, as we have just seen, of four elements. The first two of them relate to man's own personal betterment, and the other two relate to other people's guidance and reform. [ Ibn Kathir ].Relationship between 'Time' and 'Human Loss'The first point we need to analyze here is the relationship between the 'oath of time' and 'its subject' because there needs to be a relationship between an 'oath' and its 'subject' The commentators, generally, state that all conditions of man, his growth and development, his movements, his actions and morality - all take place within the space of 'Time'. Man will lose the capital of his existence. Hours, days, months, and years of life pass quickly, spiritual and material potentialities decline, and abilities fade. Man is like a person who possesses great capital and, without his permission and will, every day, a portion of that capital is taken away. This is the nature of life in this world; the nature of continual loss. How well this has been put poetically:حَیَاتُک اَنفَاسُ تُعَدُّ فَکُلَّمَا مَضیٰ نَفَسٌ مِنھَا انتَقَصتَ بِہٖ جُزءًا\"Your life comprises a few breaths that can be counted; when one of them is sent out, a part of your life has diminished.\"Allah has granted man the invaluable capital of his life, so that he may invest it in profitable business venture. If he invests his capital of life sensibly in good works, there will be no limit to the profitable returns; but if he invests it unwisely in evil works, then, let alone attracting profitable returns, he will even lose his capital, and. In addition, he will incur the dreadful scourge of committing numerous sins. If however a person did not invest his life-capital in good deeds or in evil deeds, then he, at least, loses both the profit. as well as the capital. This is not merely a poetic imagery, but is supported by a Prophetic Hadith, according to which the Messenger of Allah k is reported to have said:کُلٌ یَّغدُو فَبَایٔعٌ نَفسَہ، فَمُعتِقُھَا اَو مُوبِقُھَا\"When a person wakes up in the morning, he invests his soul or life in a business enterprise: some of the investors free or save the capital from loss and others destroy it.\"The Qur'an itself has used the word tijarah in relation to 'faith' and 'righteous deed', thus:هَلْ أَدُلُّكُمْ عَلَىٰ تِجَارَ‌ةٍ تُنجِيكُم مِّنْ عَذَابٍ أَلِيمٍ \"...shall I tell you about a trade that saves you from a painful punishment? [ 61:10] \"Since 'Time' is man's capital of life, the man himself is the trader. Under normal circumstances, his capital is not a frozen thing that may be kept for a while and used up later when the need arises. The capital is fluid or flowing all the time, every minute and every second. The man who invests it needs to be very wise, intelligent and agile, so that he is able to swiftly and readily reap the profit from a flowing capital. One of the old scholars said that he had learnt the meaning of this verse from an ice-seller whose trade required utmost diligence, and if he were neglectful for a moment, his entire capital would melt away. That is why this verse has sworn an oath by the 'time' to indicate that it is a melting capital, and the only way to escape loss is to take every moment of his life as valuable, and use it for the four acts mentioned in the Surah.Another possible reason for swearing by 'Time' may be that the 'Time' (in the sense of history) bears testimony to the fact mentioned in the Surah. If one thinks on the causes of the rise and decline of individuals and nations, he would certainly believe that it is only these four acts (mentioned in the forthcoming verses) that may ensure the real success and betterment of mankind. Whoever has ever abandoned them has suffered a great loss, as is evident from numerous events recorded by history.Let us now study the 'four principles' mentioned in the Surah. As pointed out earlier, faith and righteous deeds are related to man's moral and spiritual growth and development. They are not in need of elaboration. However, the last two principles ['advising each other for truth'] and ['advising each other for patience'] require some elaboration.The infinitive tawasi is derived from wasiyyah which means 'to advise somebody strongly and effectively about the best thing to do in a particular situation'. The term wasiyyah also refers to a 'will or testament' where a testator advises his executor regarding the disposal of his estate on his death.The two parts are in fact two chapters of the same testament: [ 1] advice to truth; and [ 2] advice to patience and fortitude. These two concepts may be explained in different ways. One way to explain them is that haqq ('truth' ) refers to the package of 'correct faith' and 'good deeds', and sabr ('patience' ) refers to abstinence from all sins and evil deeds. Thus the first concept refers to 'enjoining good actions' and the second concept refers to 'forbidding evil actions'. The cumulative sense of the Surah is that believers have been enjoined not only to adopt right faith and good deeds themselves, but to advise others strongly and effectively to adopt them, and thus help in the creation of a healthy atmosphere around them.It is also possible to interpret 'Truth' as referring to articles of faith, and to interpret 'patience' as referring to all good actions and abstinence from evil deeds. The word sabr, originally meaning 'to withhold oneself and to bind oneself ', encompasses binding oneself down to the performance of righteous deeds and abstaining from sins.Hafiz Ibn Taimiyyah has stated in one of his monographs that there are normally two factors that restrain a person from faith and righteous deeds: The first cause is some doubts about the true faith. When such doubts arise in the mind of people, it destroys their faith and leaves them confused and confounded. As a result, it adversely affects their righteous deeds. The second cause is the selfish desires that stop man from doing good, and involve him in evil deeds. In this situation, he theoretically believes that he should do good and abstain from sins, but his selfish desires lead him to stray from the right path. The current verse indicates to remove both causes of one's distraction. By stressing upon 'advice of truth' it has catered to the first cause, and that it should be removed by reforming others on theoretical and academic level, and by emphasizing on 'advice of patience' it has taken care of the second cause by enjoining upon the Muslims to advise others to give up the base desires and remain firm against their evil demands. Put differently, 'enjoining the truth' means 'improving the knowledge of Muslims or their intellectual development' and 'enjoining patience' means 'improving the practical life of Muslims'.Need to Salvage the Entire Muslim SocietyThis Surah lays down the important principle of guidance for the Muslims that inviting other Muslims to keep to the true faith and good deeds is as much necessary as their own submission to the Holy Qur'an and Sunnah. Without sincere efforts, to the best of one's ability, to invite others to the right path, one's own good deeds are not enough to one's salvation. Especially, if a person does not take care of the spiritual and moral welfare of his wife, children and family and turns a blind eye to their unrighteous deeds, he is blocking his way to salvation - no matter how pious he himself might be. Therefore, the Qur'an and the Sunnah make it obligatory upon every Muslim to do his best to invite others to the good deeds, and warn them against the evil acts. Unfortunately, let alone the general public, many learned people are lax in this matter. They think it is sufficient for them to be concerned about their own moral and spiritual well-being. They are not concerned about the well-being of their family and children. May Allah grant us the ability to act upon this verse.Al-HamdulillahThe Commentary onSurah Al-` AsrEnds here"
+      },
+      "arabic": {
+        "al_muyassar": "أقسم الله بالدهر على أن بني آدم لفي هلكة ونقصان. ولا يجوز للعبد أن يقسم إلا بالله، فإن القسم بغير الله شرك.",
+        "al_jalalayn": "«والعصر» الدهر أو ما بعد الزوال إلى الغروب أو صلاة العصر.",
+        "as_saadi": "أقسم تعالى بالعصر، الذي هو الليل والنهار، محل أفعال العباد وأعمالهم"
+      }
+    },
+    "word_by_word": [
+      {
+        "word_id": 1,
+        "arabic": "وَ الۡعَصۡرِ ۙ﴿۱﴾",
+        "root": "ع ص ر",
+        "urdu_meaning": " قسم ہے زمانے کی",
+        "english_meaning": "By the time,",
+        "lemma": "عَصْر",
+        "lughat": "",
+        "grammar": [
+          "P",
+          "DET",
+          "N"
+        ]
+      }
+    ]
+  },
+  {
+    "surah_id": 103,
+    "ayah_number": 2,
+    "global_ayah_id": 6280,
+    "juz": 30,
+    "ruku_surah": 1,
+    "ruku_juz": 28,
+    "page_15_line": 608,
+    "page_16_line": "546",
+    "arabic": {
+      "uthmani": "اِنَّ  الۡاِنۡسَانَ لَفِیۡ خُسۡرٍ ۙ﴿۲﴾",
+      "tajweed": "اِنَّ الۡاِنۡسَانَ لَفِیۡ خُسۡرٍ  ۙ﴿۲﴾"
+    },
+    "translations": {
+      "english": {
+        "mustafa_khattab": "Surely humanity is in ˹grave˺ loss",
+        "saheeh_international": " Indeed, mankind is in loss, ",
+        "yusuf_ali": "Verily Man is in loss,",
+        "pickthall": "Lo! man is a state of loss,",
+        "taqi_usmani": "man is in a state of loss indeed,",
+        "maududi": "Lo! Man is in a state of loss;"
+      },
+      "urdu": {
+        "fateh_jalandhari": " کہ «<a href=3> انسان </a>» یقیناً گھاٹے میں ہے! ",
+        "tahir_ul_qadri": " بیشک «<a href=3> انسان </a>» خسارے میں ہے ( کہ وہ عمرِ عزیز گنوا رہا ہے ) ",
+        "maududi": "«<a href=3> انسان </a>» درحقیقت بڑے خسارے میں ہے ،",
+        "kanzul_iman": "بے «<a href=420> شک </a>» آدمی ضرور «<a href=624> نقصان </a>» میں ہے",
+        "junagarhi": " بیشک ( بالیقین ) «<a href=3> انسان </a>» سرتا «<a href=393> سر </a>»\n«<a href=624> نقصان </a>» میں ہے ۔ ",
+        "taqi_usmani": " انسان درحقیقت بڑے گھاٹے میں ہے ، "
+      },
+      "roman_urdu": {
+        "roman_urdu": "insan dar-haqeeqat baray ghatay mein hai , "
+      },
+      "hindi": {}
+    },
+    "tafsir": {
+      "urdu": {
+        "bayan_ul_quran_dr_israr": "آیت 2{ اِنَّ الْاِنْسَانَ لَفِیْ خُسْرٍ۔ } ”یقینا انسان خسارے میں ہے۔“ اگلی آیت میں اس نقصان اور خسارے سے بچائو کے لیے چارشرائط بتائی گئی ہیں ‘ لیکن ان میں سے کوئی ایک یا دو یا تین شرائط پوری کردینے سے مذکورہ خسارے سے بچنے کی امید نہیں کی جاسکتی۔ کامیابی کے لیے بہرحال چاروں شرائط پر عمل درآمد ضروری ہے۔",
+        "ahsan_ul_bayan": "( 3 ) یہ جوابِ قسم ہے ۔ انسان کا خسارہ اور ہلاکت واضح ہے کہ جب تک وہ زندہ رہتا ہے ، اس کے شب و روز سخت محنت کرتے ہوئے گزرتے ہیں ، پھر جب موت سے ہم کنار ہوتا ہے تو موت کے بعد بھی آرام و راحت نصیب نہیں ہوتی بلکہ وہ جہنم کا ایندھن بنتا ہے ۔",
+        "ibn_kathir": "",
+        "maududi": ""
+      },
+      "english": {
+        "ibn_kathir": "",
+        "maarif_ul_quran": ""
+      },
+      "arabic": {
+        "al_muyassar": "أقسم الله بالدهر على أن بني آدم لفي هلكة ونقصان. ولا يجوز للعبد أن يقسم إلا بالله، فإن القسم بغير الله شرك.",
+        "al_jalalayn": "«إنَّ الإنسان» الجنس «لفي خُسر» في تجارته.",
+        "as_saadi": "أن كل إنسان خاسر، والخاسر ضد الرابح.والخسار مراتب متعددة متفاوتة:قد يكون خسارًا مطلقًا، كحال من خسر الدنيا والآخرة، وفاته النعيم، واستحق الجحيم."
+      }
+    },
+    "word_by_word": [
+      {
+        "word_id": 1,
+        "arabic": "اِنَّ  ",
+        "root": "اِنَّ",
+        "urdu_meaning": "بےشک",
+        "english_meaning": "Indeed,",
+        "lemma": "إِنّ",
+        "lughat": "",
+        "grammar": [
+          "ACC"
+        ]
+      },
+      {
+        "word_id": 2,
+        "arabic": "الۡاِنۡسَانَ ",
+        "root": "ا ن س",
+        "urdu_meaning": "انسان",
+        "english_meaning": "mankind",
+        "lemma": "إِنسان",
+        "lughat": "",
+        "grammar": [
+          "DET",
+          "N"
+        ]
+      },
+      {
+        "word_id": 3,
+        "arabic": "لَفِیۡ ",
+        "root": "",
+        "urdu_meaning": "یقیناً میں ہے",
+        "english_meaning": "(is) surely, in",
+        "lemma": "فِي",
+        "lughat": "",
+        "grammar": [
+          "EMPH",
+          "P"
+        ]
+      },
+      {
+        "word_id": 4,
+        "arabic": "خُسۡرٍ ۙ﴿۲﴾",
+        "root": "خ س ر",
+        "urdu_meaning": "خسارے",
+        "english_meaning": "loss,",
+        "lemma": "خُسْر",
+        "lughat": "",
+        "grammar": [
+          "N"
+        ]
+      }
+    ]
+  },
+  {
+    "surah_id": 103,
+    "ayah_number": 3,
+    "global_ayah_id": 6281,
+    "juz": 30,
+    "ruku_surah": 1,
+    "ruku_juz": 28,
+    "page_15_line": 608,
+    "page_16_line": "546",
+    "arabic": {
+      "uthmani": "اِلَّا  الَّذِیۡنَ  اٰمَنُوۡا وَ عَمِلُوا الصّٰلِحٰتِ وَ تَوَاصَوۡا بِالۡحَقِّ   ۬ ۙ  وَ تَوَاصَوۡا بِالصَّبۡرِ ٪﴿۳﴾               28",
+      "tajweed": "اِلَّا الَّذِیۡنَ اٰمَنُوۡا وَعَمِلُوا الصّٰلِحٰتِ وَتَوَاصَوۡا بِالۡحَقِّ ۬ۙ  وَتَوَاصَوۡا بِالصَّبۡرِ  ٪﴿۳﴾               28"
+    },
+    "translations": {
+      "english": {
+        "mustafa_khattab": "except those who have faith, do good, and urge each other to the truth, and urge each other to perseverance",
+        "saheeh_international": " Except for those who have believed and done righteous deeds and advised each other to truth and advised each other to patience. ",
+        "yusuf_ali": "Except such as have Faith, and do righteous deeds, and (join together) in the mutual teaching of Truth, and of Patience and Constancy.",
+        "pickthall": "Save those who believe and do good works, and exhort one another to truth and exhort one another to endurance.",
+        "taqi_usmani": "except those who believed and did righteous deeds, and exhorted each other to follow truth, and exhorted each other to observe patience.",
+        "maududi": "save those who have faith and do righteous deeds and counsel each other to hold on to truth and counsel each other to be steadfast."
+      },
+      "urdu": {
+        "fateh_jalandhari": " بجز ان کے جو ایمان لائے اور انہوں نے «<a href=634> نیک </a>» «<a href=42> اعمال\n</a>» کیے اور ایک دوسرے کو حق کی «<a href=622> نصیحت </a>» کی اور ایک دوسرے کو «<a href=426> صبر </a>» کی «<a href=622>\n  نصیحت </a>» کی ۔ ",
+        "tahir_ul_qadri": " سوائے ان لوگوں کے جو ایمان لے آئے اور «<a href=634> نیک </a>» عمل کرتے رہے اور (\nمعاشرے میں ) ایک دوسرے کو حق کی تلقین کرتے رہے اور ( تبلیغِ حق کے نتیجے میں «<a href=181> پیش </a>» آمدہ مصائب و آلام\nمیں ) باہم «<a href=426> صبر </a>» کی تاکید کرتے رہے ",
+        "maududi": "سوائے اُن لوگوں کے جو ایمان لائے ، اور «<a href=634> نیک </a>» «<a href=42>\nاعمال </a>» کرتے رہے ، اور ایک دوسرے کو حق کی «<a href=622> نصیحت </a>» اور «<a href=426> صبر </a>» کی تلقین کرتے رہے\n۔ 1 ؏١",
+        "kanzul_iman": "مگر جو ایمان لائے اور اچھے «<a href=481> کام </a>» کیے اور ایک دوسرے کو حق کی تاکید کی اور ایک دوسرے کو «<a href=426> صبر </a>» کی وصیت کی",
+        "junagarhi": " سوائے ان لوگوں کے جو ایمان لائے اور «<a href=634> نیک </a>» عمل کئے\nاور ( جنہوں نے ) آپس میں حق کی وصیت کی اور ایک دوسرے کو «<a href=426> صبر </a>» کی «<a href=622> نصیحت </a>» کی ۔ ",
+        "taqi_usmani": " سوائے ان لوگوں کے جو ایمان لائیں ، اور «<a href=634> نیک </a>»\nعمل کریں ، اور ایک دوسرے کو حق «<a href=71> بات </a>» کی «<a href=622> نصیحت </a>» کریں ، اور ایک دوسرے کو «<a href=426>\n  صبر </a>» کی «<a href=622> نصیحت </a>» کریں ۔ ( ٢ ) "
+      },
+      "roman_urdu": {
+        "roman_urdu": "siwaye unn logon  kay jo emaan layen , aur naik amal keren , aur aik doosray ko haq baat ki naseehat keren , aur aik doosray ko sabar ki naseehat keren .   "
+      },
+      "hindi": {}
+    },
+    "tafsir": {
+      "urdu": {
+        "bayan_ul_quran_dr_israr": "آیت 3{ اِلَّا الَّذِیْنَ اٰمَنُوْا وَعَمِلُوا الصّٰلِحٰتِ وَتَوَاصَوْا بِالْحَقِّ لا وَتَوَاصَوْا بِالصَّبْرِ۔ } ”سوائے ان کے جو ایمان لائے اور انہوں نے نیک عمل کیے اور انہوں نے ایک دوسرے کو حق کی نصیحت کی اور انہوں نے باہم ایک دوسرے کو صبر کی تلقین کی۔“ ان شرائط میں پہلی اور بنیادی شرط یہ ہے کہ انسان ایمان لائے۔ اس میں ایمان باللہ ‘ ایمان بالرسالت اور ایمان بالآخرت سمیت تمام ایمانیات شامل ہیں۔ یعنی انسان اس کائنات کے مخفی اور غیبی حقائق کو سمجھے ‘ ان کا شعور حاصل کرے اور ان کی تصدیق کرے۔ ایمان لانے کے بعد دوسری شرط اس ایمان کے عملی تقاضوں کو پورا کرنے سے متعلق ہے۔ یعنی اگر انسان اللہ پر ایمان رکھتا ہے تو اس کے عمل اور کردار سے ثابت ہونا چاہیے کہ وہ اللہ کا فرمانبردار بندہ ہے اور اس کی نافرمانی سے ڈرتا ہے۔ غرض وہ ہر اس عمل کو اپنے شب و روز کے معمول کا حصہ بنانے پر کمربستہ ہوجائے جس کا اللہ اور اس کے رسول ﷺ نے حکم دیا ہے اور ہر اس فعل سے اجتناب کرنے کی فکر میں رہے جس سے اللہ اور اس کے رسول ﷺ نے منع کیا ہے۔ تیسری شرط ”تواصی بالحق“ کی ہے۔ یعنی جس حق کو انسان نے خود قبول کیا ہے اور اپنی عملی زندگی کو اس کے مطابق ڈھالا ہے اس حق کی تبلیغ و اشاعت کے لیے وہ امر بالمعروف اور نہی عن المنکر کا علمبردار بن جائے۔ اس کے بعد چوتھی اور آخری شرط ”تواصی بالصبر“ کی ہے اور یہ ”تواصی بالحق“ کا لازمی اور منطقی نتیجہ بھی ہے۔ اس کا مطلب یہ ہے کہ اللہ تعالیٰ کا جو بندہ ”تواصی بالحق“ کا َعلم اٹھائے گا اسے شیطانی قوتوں کی مخالفت مول لے کر آزمائش و ابتلا کی مشکل گھاٹیوں سے بھی گزرنا ہوگا اور اس راستے پر چلتے ہوئے نہ صرف اسے خود صبر و استقامت کا دامن مضبوطی سے تھامے رکھنا ہوگا بلکہ اسے اپنے ہمراہیوں اور ساتھیوں کو بھی اس کی تلقین و نصیحت کرنا ہوگی۔ اسی لیے حضرت لقمان نے اپنے بیٹے کو جب امر بالمعروف کی نصیحت کی تو ساتھ ہی صبر کی تلقین بھی کی تھی : { یٰـبُنَیَّ اَقِمِ الصَّلٰوۃَ وَاْمُرْ بِالْمَعْرُوْفِ وَانْہَ عَنِ الْمُنْکَرِ وَاصْبِرْ عَلٰی مَـآ اَصَابَکَط } لقمٰن : 17 ”اے میرے بچے ! نماز قائم کرو اور نیکی کا حکم دو اور برائی سے روکو اور جو بھی تکلیف تمہیں پہنچے اس پر صبر کرو !“ بہرحال راہ حق کے مسافروں کو پہلے سے معلوم ہونا چاہیے کہ یہ راستہ آزمائش و ابتلا کے خارزاروں سے ہو کر گزرتا ہے : { وَلَـنَـبْلُوَنَّــکُمْ بِشَیْئٍ مِّنَ الْخَوْفِ وَالْجُوْعِ وَنَقْصٍ مِّنَ الْاَمْوَالِ وَالْاَنْفُسِ وَالثَّمَرٰتِط وَبَشِّرِ الصّٰبِرِیْنَ۔ } البقرۃ ”اور ہم تمہیں لازماً آزمائیں گے کسی قدر خوف اور بھوک سے اور مالوں اور جانوں اور ثمرات کے نقصان سے۔ اور اے نبی ﷺ ! بشارت دیجیے ان صبر کرنے والوں کو۔“ ؎ یہ شہادت گہ الفت میں قدم رکھنا ہے لوگ آسان سمجھتے ہیں مسلماں ہونا ! اَللّٰھُمَّ رَبَّـنَا اجْعَلْنَا مِنْھُمْ ! اَللّٰھُمَّ رَبَّـنَا اجْعَلْنَا مِنْھُمْ ! آمین !",
+        "ahsan_ul_bayan": "( 4 ) ہاں اس خسارے سے وہ لوگ محفوظ ہیں جو ایمان اور عمل صالح کے جامع ہیں کیونکہ ان کی زندگی چاہے جیسی بھی گزری ہو ، موت کے بعد وہ بہرحال ابدی نعمتوں اور جنت کی پُر آسائش زندگی سے فائدہ اٹھائیں گے ۔ آگے اہلِ ایمان کی مزید صفات کا تذکرہ ہے ۔\n( 5 ) یعنی اللہ کی شریعت کی پابندی اور حرام چیزوں اور گناہوں سے بچنے کی تلقین ۔\n( 6 ) یعنی مصائب و آلام پر صبر ، شریعت کے احکام و فرائض پر عمل کرنے میں صبر ، گناہوں سے بچنے پر صبر ، لذات و خواہشات کی قربانی پر صبر ، صبر بھی اگرچہ ایک دوسرے کو حق کی وصیت کرنے میں شامل ہے ، تاہم اسے خصوصیت سے الگ ذکر کیا گیا جس سے اس کا شرف و فضل اور حق کی خصلتوں میں اس کا ممتاز ہونا واضح ہے ۔",
+        "ibn_kathir": "مسیلمہ کذاب اور عمرو بن عاص میں مکالمہ  : ٭٭   (آیت:۱-۳) حضرت عمرو بن عاص رضی اللہ تعالیٰ عنہ اپنے مسلمان ہونے سے پہلے ایک مرتبہ مسیلمہ کذاب سے ملے- اس نے نبوت کا جھوٹا دعوی کر رکھا تھا‘ عمرو کو دیکھ کر پوچھنے لگا کہو اس مدت میں تمہارے نبی پر بھی کوئی وحی نازل ہوئی ہے- حضرت عمرو نے جواب دیا ایک مختصر سی نہایت فصاحت والی سورت اتری ہے‘ پوچھا وہ کیا ہے؟ حضرت عمرو نے سورۂ والعصر  پڑھ کر سنا دی- مسیلمہ ذرا دیر تو سوچتا رہا پھر کہنے لگا- عمرو  دیکھو مجھ پر بھی اسی جیسی سورت اتری ہے عمرو نے کہا وہ کیا؟ کہا یہ   یَاوَبَرُیَا وَبَرُ  اِنَّمَا اَنْتَ اُذْنَانِ وَصَدْرٌ  وَسَائِرُ حَصرٍ نَقَرٍ پھر کہنے لگا عمرو کہو تمہارا کیا خیال ہے؟ عمرو نے کہا میرا خیال تو تو خود ہی جانتا ہے کہ مجھے تیرے جھوٹا ہونے کا علم ہے- وبر بلی جیسا ایک جانور ہے اس کے دونوں کان ذرا بڑے ہوتے ہیں اور سینہ بھی باقی جسم بالکل حقیر اور واہیات ہوتا ہے‘ اس کذاب نے ایسی فضول گوئی اور بکواس کے ساتھ اللہ کے کلام کا معارضہ کرنا چاہا جسے سن کر عرب کے بت پرست لوگوں نے بھی اس کا کاذب اور مفتری ہونا سمجھ لیا- طبرانی میں ہے کہ دو صحابیوں کا یہ دستور تھا کہ جب ملتے ایک اس سورت کو پڑھتا دوسرا سنتا پھر سلام کر کے رخصت ہو جاتے‘ حضرت امام شافعی رحمۃ اللہ علیہ فرماتے ہیں کہ اگر لوگ اس سورت کو غور و تدبر سے پڑھیں اور سمجھیں تو صرف یہی ایک سورت کافی ہے- \nمختصر نقصان اور اصحاب فلاح ونجات  : ٭٭   عصر سے مراد زمانہ ہے جس میں انسان نیکی بدی کے کام کرتا ہے‘ حضرت زید بن اسلم نے اس سے مراد عصر کی نماز یا عصر کی نماز کا وقت بیان کیا ہے لیکن مشہور پہلا قول ہی ہے‘ اس قسم کے بعد بیان فرماتا ہے کہ انسان نقصان میں‘ ٹوٹے میں اور ہلاکت میں ہے‘ ہاں اس نقصان سے بچنے والے وہ لوگ ہیں جن کے دلوں میں ایمان ہو‘ اعمال میں نیکیاں ہوں حق کی وصیتیں کرنے والے ہوں‘ یعنی نیکی کے کام کرنے کی ‘حرام کاموں سے رکنے کی ایک دوسرے کو تاکید کرتے ہوں‘ قسمت کے لکھے پر‘ مصیبتوں کی برداشت پر صبر کرتے ہوں اور دوسروں کو بھی اسی کی تلقین کرتے ہوں‘ ساتھ ہی بھلی باتوں کا حکم کرنے اور بری باتوں سے روکنے میں لوگوں کی طرف سے جو بلائیں اور تکلیفیں پہنچیں ان کی بھی سہار کرتے ہوں اور اسی کی تلقین اپنے ساتھیوں کو بھی کرتے ہوں‘ یہ ہیں جو اس صریح نقصان سے مستثنیٰ ہیں- \n سورۂ والعصر کی تفسیر بحمدللہ ختم ہوئی-",
+        "maududi": "سورة العصر حاشیہ نمبر : 1\nاِس سورت میں زمانے کی قَسم اِس بات پر کھائی گئی ہے کہ انسان بڑے خسارے میں ہے ، اور اِس خسارے سے صرف وہی لوگ بچے ہوئے ہیں جن کے اندر چار صفتیں پائی جاتی ہیں ۔ ( 1 ) ایمان ( 2 ) عملِ صالح ( 3 ) ایک دوسرے کو حق کی نصیحت کرنا ۔ ( 4 ) ایک دوسرے کو صبر کی تلقین کرنا ۔ اب اِس کے ایک ایک جُز کو الگ لے کر اس پر غور کرنا چاہیے ، تاکہ اس اِرشاد کا پورا مطلب واضح ہو جائے ۔\nجہاں تک قَسم کا تعلق ہے ، اِس سے پہلے بارہا ہم اِس بات کی وضاحت کر چُکے ہیں کہ اللہ تعالی نے مخلوقات میں سے کسی چیز کی قَسم اُس کی عظمت یا اُس کے کمالات و عجائب کی بنا پر نہیں کھائی ہے ، بلکہ اِس بنا پر کھائی ہے کہ وہ اُس بات پر دلالت کرتی ہے جسے ثابت کرنا مقصود ہے ۔ پس زمانے کی قَسم کا مطلب یہ ہے کہ زمانہ اِس حقیقت پر گواہ ہے کہ انسان بڑے خسارے میں ہے ، سوائے اُن لوگوں کے جن میں یہ چار صفتیں پائی جاتی ہوں ۔\nزمانے کا لفظ گُزرے ہوئے زمانے کے لیے بھی اِستعمال ہوتا ہے ، اور گزرتے ہوئے زمانے کے لیے بھی ، جس میں حال درحقیقت کسی لمبی مدّت کا نام نہیں ہے ۔ ہر آن گزر کر ماضی بنتی چلی جا رہی ہے ، اور ہر آن آ کر مستقبل کو حال ، اور جا کر حال کو ماضی بنا رہی ہے ۔ یہاں چونکہ مطلقاً زمانے کی قسم کھائی گئی ہے ، اس لیے دونوں طرح کے زمانے اُس کے مفہُوم میں شامل ہیں ۔ گُزرے ہوئے زمانے کی قَسم کھانے کا مطلب یہ ہے کہ انسانی تاریخ اِس بات پر شہادت دے رہی ہے کہ جو لوگ بھی ان صفات سے خالی تھے ، وہ بالآخر خسارے میں پڑ کر رہے ۔ اور گُزرتے ہوئے زمانے کی قَسم کھانے کا مطلب سمجھنے کے لیے پہلے یہ بات اچھی طرح سمجھ لیجیے کہ جو زمانہ اب گُزر رہا ہے وہ دراصل وہ وقت ہے جو ایک ایک شخص اور ایک ایک قوم کو دُنیا میں کام کرنے کے لیے دیا گیا ہے ۔ اُس کی مثال اُس وقت کی سی ہے جو اِمتحان گاہ میں طالبِ علم کو پرچے حل کرنے کے لیے دیا جاتا ہے ۔ یہ وقت جس تیز رفتاری کے ساتھ گزر رہا ہے ، اس کا اندازہ تھوڑی دیر کے لیے اپنی گھڑی میں سیکنڈ کی سُوئی کو حرکت کرتے ہوئے دیکھنے سے آپ کو ہو جائے گا ۔ حالانکہ ایک سیکنڈ بھی وقت کی بہت بڑی مقدار ہے ۔ اِسی ایک سیکنڈ میں روشنی ایک لاکھ چھیاسی ہزار میل کا راستہ طے کر لیتی ہے ، اور خدا کی خدائی میں بہت سی چیزیں ایسی بھی ہو سکتی ہیں جو اس سے بھی زیادہ تیز رفتار ہوں ، خواہ وہ ابھی تک ہمارے علم میں نہ آئی ہوں ۔ تاہم اگر وقت کے گزرنے کی رفتار وہی سمجھ لی جائے جو گھڑی میں سیکنڈ کی سُوئی کے چلنے سے ہم کو نظر آتی ہے ، اور اِس بات پر غور کیا جائے کہ ہم جو کچھ بھی اچھا یا بُرا فعل کرتے ہیں اور جن کاموں میں بھی ہم مشغول رہتے ہیں ، سب کچھ اُس محدود مدّتِ عمر ہی میں وقوع پذیر ہوتا ہے جو دنیا میں ہم کو کام کرنے کے لیے دی گئی ہے ، تو ہمیں محسوس ہوتا ہے کہ ہمارا اصل سرمایہ تو یہی وقت ہے جو تیزی سے گزر رہا ہے ۔ امام رازی رحمہ اللہ نے کسی بزرگ کا قول نقل کیا ہے کہ ’’ میں نے سورۂ عصر کا مطلب ایک برف فروش سے سمجھا جو بازار میں آواز لگا رہا تھا کہ رحم کرو اُس شخص پر جس کا سرمایہ گُھلا جا رہا ہے ، رحم کرو اُس شخص پر جس کا سرمایہ گُھلا جا رہا ہے ، اُس کی یہ بات سُن کر میں نے کہا : یہ ہے «وَ الۡعَصۡرِ ۔ اِنَّ  الۡاِنۡسَانَ لَفِیۡ خُسۡرٍ» کا مطلب ۔ عُمر کی جو مدّت انسان کو دی گئی ہے ، وہ برف کے گُھلنے کی طرح تیزی سے گُزر رہی ہے ۔ اِس کو اگر ضائع کیا جائے ، یا غلط کاموں میں صَرف کر ڈالا جائے تو یہی انسان کا خسارہ ہے ۔‘‘ پس گُزرتے ہوئے زمانے کی قَسم کھا کر جو بات اِس سورہ میں کہی گئی ہے ، اس کے معنٰی یہ ہیں کہ یہ تیز رفتار زمانہ شہادت دے رہا ہے کہ اِن چار صفات سے خالی ہو کر انسان جن کاموں میں بھی اپنی مُہلتِ عمر کو صَرف کر رہا ہے ، وہ سب کے سب خسارے کے سودے ہیں ۔:: نفع میں صرف وہ لوگ ہیں جو اِن چاروں صفات سے مُتَّصِف ہو کر دنیا میں کام کریں ۔ یہ ایسی ہی بات ہے جیسے ہم اُس طالبِ علم سے ، جو اِمتحان کے مقررہ وقت کو اپنا پرچہ حل کرنے کے بجائے کسی اور کام میں گُزار رہا ہو ، کمرے کے اندر لگے ہوئے گھنٹے کی طرف اِشارہ کر کے کہیں کہ یہ گُزرتا ہوا وقت بتا رہا ہے کہ تم اپنا نقصان کر رہے ہو ، نفع میں صرف وہ طالبِ علم ہے جو اس وقت کا ہر لمحہ اپنا پرچہ حل کرنے میں صرف کر رہا ہے ۔\nانسان کا لفظ اگرچہ واحد ہے ، لیکن بعد کے فِقرے میں اُس سے اُن لوگوں کو مُستثنٰی کیا گیا ہے جو چار صفات سے مُتّصف ہوں ، اس لیے لامحالہ یہ ماننا پڑے گا کہ یہاں لفظ انسان اِسمِ جنس کے طور پر اِستعمال کیا گیا ہے اور اُس کا اطلاق افراد ، گروہوں ، اقوام ، اور پوری نوعِ انسانی پر یکساں ہوتا ہے ۔ پس یہ حکم کہ مذکورہ چار صفات سے جو بھی خالی ہو وہ خسارے میں ہے ، ہر حالت میں ثابت ہو گا ، خواہ اُن سے خالی کوئی شخص ہو ، یا کوئی قوم ، یا دُنیا بھر کے اِنسان ۔ یہ بالکل ایسا ہی ہے جیسے ہم اگر یہ حکم لگائیں کہ زہر انسان کے لیے مُہلک ہے ، تو اس کا مطلب یہ ہو گا کہ زہر بہرحال مہلک ہے ، خواہ ایک فرد اس کو کھائے ، یا ایک پوری قوم ، یا ساری دُنیا کے انسان مل کر اسے کھا جائیں ۔ زہر کی مُہلک خاصیّت اپنی جگہ اٹل ہے ، اُس میں اِس لحاظ سے کوئی فرق نہیں پڑتا کہ ایک شخص نے اس کو کھایا ہے ، یا ایک قوم نے اسے کھانے کا فیصلہ کیا ہے ، یا دُنیا بھر کے انسانوں کا اِجماع اس پر ہو گیا ہے کہ زہر کھانا چاہیے ۔ ٹھیک اِسی طرح یہ بات اپنی جگہ اٹل ہے کہ چار مذکورہ بالا صفات سے خالی ہونا انسان کے لیے خسارے کا موجب ہے ۔ اِس قاعدہ کُلّیِّہ میں اِس بات سے کوئی فرق نہیں پڑتا کہ کوئی ایک شخص اُن سے خالی ہے ، یا کسی قوم نے ، یا دُنیا بھر کے انسانوں نے کفر ، بد عملی ، اور ایک دوسرے کو باطل کی ترغیب دینے اور بندگیِ نفس کی تلقین کرنے پر اِتفاق کر لیا ہے ۔\nاب یہ دیکھیے کہ خسارے کا لفظ قرآنِ مجید کس معنٰی میں اِستعمال کرتا ہے ۔ لُغت کے اعتبار سے خَسارہ نفع کی ضد ہے ، اور تجارت میں اِس لفظ کا اِستعمال اُس حالت میں بھی ہوتا ہے جب کسی ایک سودے میں گھاٹا آئے ، اور اُس حالت میں بھی جب سارا کاروبار گھاٹے میں جا رہا ہو ، اور اُس حالت میں بھی جب اپنا سارا سرمایہ کھو کر آدمی دیوالیہ ہو جائے ۔ قرآنِ مجید اسی لفظ کو اپنی خاص اِصطلاح بنا کر فلاح کے مقابلے میں اِستعمال کرتا ہے ، اور جس طرح اُس کا تصوّرِ فلاح محض دنیوی خوشحالی کا ہم معنٰی نہیں ہے ، بلکہ دُنیا سے لے کر آخرت تک انسان کی حقیقی کامیابی پر حاوی ہے ، اسی طرح اُس کا تصوّرِ خُسران بھی محض دنیوی ناکامی یا خستہ حالی کا ہم معنٰی نہیں ہے ، بلکہ دنیا سے لے کر آخرت تک انسان کی حقیقی ناکامی و نامُرادی پر حاوی ہے ۔:: فلاح اور خُسران ، دونوں کے قرآنی تصور کی تشریح اِس سے پہلے ہم متعّدِد مقامات پر کر چُکے ہیں ، اس لیے اُن کے اعادے کی حاجت نہیں ہے ۔ ( مُلاحَظہ ہو : تفہیم القُرآن ، جلد دوم ، الاعراف حاشیہ 9 ۔ الانفال حاشیہ 30 ۔ یونُس حاشیہ 23 ۔ بنی اِسرائیل ، حاشیہ 102 ۔ جلد سوم ، الحج حاشیہ 17 ۔ المومنون حواشی ، 1 ۔ 2 ۔ 11 ۔ 50 ۔ جلد چہارم ، لُقمان حاشیہ 4 ۔ الزُّمَر حاشیہ 34 ) اس کے ساتھ یہ بات بھی اچھی طرح سمجھ لینی چاہیے کہ اگرچہ قرآن کے نزدیک حقیقی فلاح آخرت میں انسان کی کامیابی ، اور حقیقی خسارہ وہاں اُس کی ناکامی ہے ، لیکن اِس دُنیا میں بھی جس چیز کا نام لوگوں نے فلاح رکھ چھوڑا ہے وہ دراصل فلاح نہیں ہے بلکہ اُس کا انجام خود اِسی دُنیا میں خسارہ ہے ، اور جس چیز کو لوگ خسارہ سمجھتے ہیں وہ دراصل خسارہ نہیں ہے بلکہ اِس دُنیا میں بھی وہی فلاح کا ذریعہ ہے ۔ اِس حقیقت کو قرآنِ مجید میں کئی مَقامات پر بیان کیا گیا ہے اور ہر جگہ ہم نے اس کی تشریح کر دی ہے ۔ ( مُلاحَظہ ہو : تفہیم القرآن ، جلد دوم ، النحل حاشیہ 99 ۔:: جلد سوم ، مریم ، حاشیہ 53 ۔ طٰہٰ حاشیہ ، 105 ۔ جلد ششم ، اللَّیل ، حواشی 3 ۔ 5 ) پس جب قرآن پورے زور اور قطعیّت کے ساتھ کہتا ہے کہ ’’ درحقیقت انسان بڑے خسارے میں ہے ‘‘ تو اس کا مطلب دنیا اور آخرت دونوں کا خسارہ ہے ، اور جب وہ کہتا ہے کہ اِس خسارے سے صرف وہ لوگ بچے ہوئے ہیں جن کے اندر حسبِ ذیل چار صفات پائی جاتی ہیں ، تو اِس کا مطلب دونوں جہانوں میں خسارے سے بچنا اور فلاح پانا ہے ۔::\nاب ہمیں اُن چاروں صفات کو دیکھنا چاہیے جن کے پائے جانے پر اِس سورت کی رُو سے انسان کا خسارے سے محفوظ رہنا موقوف ہے ۔\nان میں پہلی صفت ایمان ہے ۔ یہ لفظ اگرچہ بعض مقامات پر قرآنِ مجید میں محض زبانی اقرارِ ایمان کے معنٰی میں بھی اِستعمال کیا گیا ہے ۔ ( مثلا النساء ، آیت 137 ۔ المائدہ ، آیت 54 ۔ الاَنفال ، آیت 20 ۔ 27 ۔ التوبہ آیت 38 ۔ الصَّف ، آیت 2 میں ) ، لیکن اس کا اصل استعمال سچّے دل سے ماننے اور یقین کرنے کے معنٰی ہی میں کیا گیا ہے ، اور عربی زبان میں بھی اِس لفظ کے یہی معنٰی ہیں ۔ لُغت میں «اٰمَنَ لَهٗ» کے معنٰی ہیں : «صَدَّقَهٗ وَاعْتَمَدَ عَلَیْهِ» ( اُس کی تصدیق کی اور اُس پر اعتماد کیا ) اور «اٰمَنَ بِهٖ» کے معنٰی ہیں : «اَیْقَنَ بِهٖ» ( اُس پر یقین کیا ) قرآن دراصل جس ایمان کو حقیقی ایمان قرار دیتا ہے ، اُس کو اِن آیات میں پوری طرح واضح کر دیا گیا ہے :\n«اِنَّمَا  الۡمُؤۡمِنُوۡنَ  الَّذِیۡنَ اٰمَنُوۡا بِاللّٰہِ وَ رَسُوۡلِہٖ  ثُمَّ لَمۡ یَرۡتَابُوۡا» ( الحجرات ۔ 15 ) ’’ مومن تو حقیقت میں وہ ہیں جو اللہ اور اس کے رسول پر ایمان لائے اور پھر شک میں نہ پڑے ۔\n«اِنَّ  الَّذِیۡنَ قَالُوۡا رَبُّنَا اللّٰہُ  ثُمَّ اسۡتَقَامُوۡا» ( حٰمٓ السجدہ ۔ آیت 30 ) ’’ جن لوگوں نے کہا کہ ہمارا رب اللہ ہے اور پھر اس پر ڈٹ گئے ۔\n«اِنَّمَا الۡمُؤۡمِنُوۡنَ الَّذِیۡنَ اِذَا ذُکِرَ اللّٰہُ وَجِلَتۡ قُلُوۡبُہُمۡ» ( الانفال 2 ) مومن تو حقیقت میں وہ ہیں کہ جب اللہ کا ذکر کیا جائے تو ان کے دل لرز جاتے ہیں ۔\n«وَ الَّذِیۡنَ اٰمَنُوۡۤا اَشَدُّ حُبًّا  لِّلّٰہِ» ( البقرہ ، 165 ) ’’ اور جو لوگ ایمان لائے ہیں ، وہ سب سے بڑھ کر اللہ سے مَحبّت رکھتے ہیں ۔\n«فَلَا وَ رَبِّکَ لَا یُؤۡمِنُوۡنَ حَتّٰی  یُحَکِّمُوۡکَ فِیۡمَا شَجَرَ  بَیۡنَہُمۡ ثُمَّ  لَا  یَجِدُوۡا فِیۡۤ  اَنۡفُسِہِمۡ حَرَجًا  مِّمَّا قَضَیۡتَ  وَ یُسَلِّمُوۡا  تَسۡلِیۡمًا» ( النساء ، 65 ) پس نہیں ، ( اے نبی ﷺ ! ) تمہارے رب کی قسم ! وہ ہرگز مومن نہیں ہیں جب تک کہ اپنے باہمی اختلاف میں تمہیں فیصلہ کرنے والا نہ مان لیں ، پھر جو کچھ تم فیصلہ کرو اُس پر اپنے دلوں میں بھی کوئی تنگی محسوس نہ کریں ، بلکہ سر بسر تسلیم کر لیں ۔\nاِن سے بھی زیادہ اس آیت میں زبانی اِقرارِ ایمان اور حقیقی ایمان کا فرق ظاہر کیا گیا ہے اور یہ بتایا گیا ہے کہ اصل مطلوب حقیقی ایمان ہے نہ کہ زبانی اِقرارِ :\n«یٰۤاَیُّہَا الَّذِیۡنَ اٰمَنُوۡۤا اٰمِنُوۡا بِاللّٰہِ وَ رَسُوۡلِہٖ» ( النساء ، آیت 136 ) اے لوگو جو ایمان لائے ہو ، ایمان لاؤ اللہ اور اس کے رسول پر ۔\nاب رہا یہ سوال کہ ایمان لانے سے کن چیزوں پر ایمان لانا مُراد ہے ، تو قرآنِ مجید میں پوری طرح اِس بات کو بھی کھول کھول کر بیان کر دیا گیا ہے ۔ اِس سے مُراد اوّلاً ، اللہ کو ماننا ہے ۔ محض اس کے وجود کو ماننا نہیں بلکہ اُسے اِس حیثیت سے ماننا ہے کہ وہی ایک خدا ہے ، خدائی میں کوئی اس کا شریک نہیں ہے ، وہی اِس کا مستحق ہے کہ انسان اُس کی عبادت ، بندگی اور اطاعت بجا لائے ۔ وہی قسمتیں بنانے اور بگاڑنے والا ہے ، بندے کو اسی سے دُعا مانگنی چاہیے اور اسی پر توکُّل کرنا چاہیے ۔ وہی حکم دینے اور منع کرنے والا ہے ۔ بندے کا فرض ہے کہ اُس کے حکم کی اِطاعت کرے اور جس چیز سے اُس نے منع کیا ہے اُس سے رک جائے ۔:: وہ سب کچھ دیکھنے اور سُننے والا ہے ، اُس سے انسان کا کوئی فعل تو درکنار ، وہ مقصد اور نیّت بھی مخفی نہیں ہے جس کے ساتھ اُس نے کوئی فعل کیا ہے ۔ ثانیاً ، رسول کو ماننا ، اُس حیثیت سے کہ وہ اللہ تعالی کا مامور کیا ہوا ھادی اور رہنما ہے ، اور جس چیز کی تعلیم بھی اُس نے دی ہے وہ اللہ تعالی کی طرف سے ہے ، برحق ہے ، اور واجب التسلیم ہے ۔ اِسی ایمان بالرسالت میں ملائکہ ، انبیاء علیہم السلام اور کُتُبِ الٰہیّہ پر ، اور خود قرآن پر بھی ایمان لانا شامل ہے ، کیونکہ یہ اُن تعلیمات میں سے ہے جو اللہ کے رسول ﷺ نے دی ہیں ۔ ثالثاً ، آخرت کو ماننا ، اِس حیثیت سے کہ انسان کی موجودہ زندگی پہلی اور آخری زندگی نہیں ہے ، بلکہ مرنے کے بعد انسان کو دوبارہ زندہ ہو کر اُٹھنا ہے ، اپنے اُن اعمال کا جو اُس نے دنیا کی اِس زندگی میں کیے ہیں ، خدا کو حساب دینا ہے ، اور اِس محاسبے میں جو لوگ نیک قرار پائیں انہیں جزاء ، اور جو بد قرار پائیں اُن کو سزا ملنی ہے ۔ یہ ایمان اخلاق اور سیرت و کردار کے لیے ایک مضبوط بنیاد فراہم کر دیتا ہے ، جس پر ایک پاکیزہ زندگی کی عمارت قائم ہو سکتی ہے ۔ ورنہ جہاں سرے سے یہ ایمان ہی موجود نہ ہو ، وہاں انسان کی زندگی خواہ کتنی ہی خوشنما کیوں نہ ہو ، اُس کا حال ایک بے لنگر کے جہاز کا سا ہوتا ہے ، جو موجوں کے ساتھ بہتا چلا جاتا ہے اور کہیں قرار نہیں پکڑ سکتا ۔::\nایمان کے بعد دوسری صفت جو انسان کو خسارے سے بچانے کے لیے ضروری ہے ، وہ صالحات ( نیک کاموں ) پر عمل کرنا ہے ۔ صالحات کا لفظ تمام نیکیوں کا جامع ہے جس سے نیکی اور بھلائی کی کوئی قسم چُھوٹی نہیں رہ جاتی ۔ لیکن قرآن کی رُو سے کوئی عمل بھی اُس وقت تک عملِ صالح نہیں ہو سکتا جب تک اُس کی جَڑ میں ایمان موجود نہ ہو ، اور وہ اُس ہدایت کی پیروی میں نہ کیا جائے جو اللہ اور اس کے رسول ﷺ نے دی ہے ۔ اسی لیے قرآنِ مجید میں ہر جگہ عملِ صالح سے پہلے ایمان کا ذکر کیا گیا ہے اور اِس سورہ میں بھی اُس کا ذکر ایمان کے بعد ہی آیا ہے ۔ کسی ایک جگہ بھی قرآن میں ایمان کے بغیر کسی عمل کو صالح نہیں کہا گیا ہے اور نہ عملِ بلا ایمان پر کسی اجر کی اُمید دلائی گئی ہے ۔ دوسری طرف یہ بھی ایک حقیقت ہے کہ ایمان وہی معتبر اور مفید ہے جس کے صادق ہونے کا ثبوت انسان اپنے عمل سے پیش کرے ۔ ورنہ ایمان بلا عملِ صالح محض ایک دعویٰ ہے ، جس کی تردید آدمی خود ہی کر دیتا ہے جب وہ اِس دعوے کے باوجود اللہ اور اس کے رسول ﷺ کے بتائے ہوئے طریقے سے ہٹ کر چلتا ہے ۔ ایمان اور عملِ صالح کا تعلّق بیج اور درخت کا سا ہے ۔ جب تک بیج زمین میں نہ ہو ، کوئی درخت پیدا نہیں ہو سکتا ۔ لیکن اگر بیج زمین میں ہو اور کوئی درخت پیدا نہ ہو رہا ہو تو اس کے معنٰی یہ ہیں کہ بیج زمین میں دفن ہو کر رہ گیا ۔ اِسی بنا پر قرآنِ پاک میں جتنی بشارتیں بھی دی گئی ہیں اُنہی لوگوں کو دی گئی ہیں جو ایمان لا کر عملِ صالح کریں ، اور یہی بات اِس سورہ میں بھی کہی گئی ہے کہ انسان کو خسارے سے بچانے کے لیے جو دوسری صفت ضروری ہے وہ ایمان کے بعد صالحات پر عمل کرنا ہے ۔ بالفاظِ دیگر ، عملِ صالح کے بغیر محض ایمان آدمی کو خسارے سے نہیں بچا سکتا ۔\nمذکورہ بالا دو صفتیں تو وہ ہیں جو ایک ایک فرد میں ہونی چاہیئں ۔ اِس کے بعد یہ سورت دو مزید صفتیں بیان کرتی ہے جو خسارے سے بچنے کے لیے ضروری ہیں ، اور وہ یہ ہیں کہ ایمان لانے اور عملِ صالح کرنے والے لوگ ایک دوسرے کو حق کی نصیحت اور صبر کی تلقین کریں ۔ اِس کے معنٰی یہ ہیں کہ اوّل تو ایمان لانے اور نیک عمل کرنے والوں کو فرد فرد بن کر نہیں رہنا چاہیے بلکہ اُن کے اِجتماع سے ایک مومن و صالح معاشرہ وجود میں آنا چاہیے ۔ دوسرے ، اِس معاشرے کے ہر فرد کو اپنی یہ ذمّہ داری محسوس کرنی چاہیے کہ وہ معاشرے کو بگڑنے نہ دے ، اس لیے اُس کے تمام افراد پر یہ فرض عائد ہوتا ہے کہ وہ ایک دوسرے کو حق اور صبر کی تلقین کریں ۔::\nحق کا لفظ باطل کی ضد ہے ، اور بالعُموم یہ دو معنوں میں اِستعمال ہوتا ہے : ایک ، صحیح اور سّچی اور مطابقِ عدل و انصاف اور مطابقِ حقیقت بات ، خواہ وہ عقیدہ و ایمان سے تعلّق رکھتی ہو یا دنیا کے معاملات سے ، دوسرے ، وہ حق جس کا ادا کرنا انسان پر واجب ہو ، خواہ وہ خدا کا حق ہو ، یا بندوں کا حق ، یا خود اپنے نفس کا حق ۔ پس ایک دوسرے کو حق کی نصیحت کرنے کا مطلب یہ ہے کہ اہلِ ایمان کا یہ معاشرہ ایسا بے حس نہ ہو کہ اُس میں باطل سر اُٹھا رہا ہو اور حق کے خلاف کام کیے جا رہے ہوں ، مگر لوگ خاموشی کے ساتھ اس کا تماشا دیکھتے رہیں ، بلکہ اِس معاشرے میں یہ روح جاری و ساری رہے کہ جب اور جہاں بھی باطل سر اُٹھائے ، کلمۂ حق کہنے والے اس کے مقابلے میں اُٹھ کھڑے ہوں ، اور معاشرے کا ہر فرد صرف خود ہی حق پرستی اور راستبازی اور عدل و انصاف پر قائم رہنے اور حق داروں کے حُقوق ادا کرنے پر اِکتفا نہ کرے ، بلکہ دوسروں کو بھی اِس طرزِ عمل کی نصیحت کرے ۔ یہ وہ چیز ہے جو معاشرے کو اخلاقی زوال و انحطاط سے بچانے کی ضامن ہے ۔ اگر یہ روح کسی معاشرے میں موجود نہ رہے تو وہ خُسران سے نہیں بچ سکتا ، اور اِس خُسران میں وہ لوگ بھی آخرِکار مبتلا ہو کر رہتے ہیں جو اپنی جگہ حق پر قائم ہوں مگر اپنے معاشرے میں حق کو پامال ہوتے دیکھتے رہیں ۔ یہی بات ہے جو سورۂ مائدہ میں فرمائی گئی ہے کہ بنی اِسرائیل پر حضرت داوٗد علیہ السلام اور حضرت عیسیٰ علیہ السلام اِبنِ مریم کی زبان سے لعنت کی گئی ، اور اِس لعنت کی وجہ یہ تھی کہ اُن کے معاشرے میں گناہوں اور زیادتیوں کا اِرتکاب عام ہو رہا تھا اور لوگوں نے ایک دوسرے کو بُرے افعال سے روکنا چھوڑ دیا تھا ۔ ( آیات ، 78 ۔ 79 ) ۔ پھر اِسی بات کو سورۂ اَعراف میں اِس طرح بیان فرمایا گیا ہے کہ بنی اِسرائیل نے جب کُھلّم کُھلّا سَبْت کے احکام کی خلاف ورزی کر کے مچھلیاں پکڑنی شروع کر دیں تو اُن پر عذاب نازل کر دیا گیا ، اور اُس عذاب سے صرف وہی لوگ بچائے گئے جو اِس گناہ سے روکنے کی کوشش کرتے تھے ۔ ( آیات ، 163 تا 166 ) ۔ اور اِسی بات کو سورۂ اَنفال میں یوں بیان کیا گیا ہے کہ بچو اُس فتنے سے جس کی شامت مخصوص طور پر صرف اُنہی لوگوں تک محدود نہ رہے گی جنہوں نے تم میں سے گناہ کیا ہو ۔ ( آیت 25 ) ۔ اِسی لیے امر بالمعروف اور نہی عَنِ المنکر کو اُمّتِ مسلمہ کا فریضہ قرار دیا گیا ہے ( آلِ عمران : 104 ) اور اُس امت کو بہترین اُمت کہا گیا ہے جو یہ فریضہ انجام دے ( آلِ عمران : 110 ) ۔\nحق کی نصیحت کے ساتھ دوسری چیز جو اہلِ ایمان اور اُن کے معاشرے کو خسارے سے بچانے کے لیے شرطِ لازم قرار دی گئی ہے ، وہ یہ ہے کہ اِس معاشرے کے افراد ایک دوسرے کو صبر کی تلقین کرتے رہیں ۔ یعنی حق کی پیروی اور اس کی حمایت میں جو مشکلات پیش آتی ہیں ، اور اس راہ میں جن تکالیف سے ، جن مَشَقَّتوں سے ، جن مصائب سے ، اور جن نقصانات اور محرومیوں سے انسان کو سابقہ پیش آتا ہے ، ان کے مقابلے میں وہ ایک دوسرے کو ثابت قدم رہنے کی تلقین کرتے رہیں ۔ اُن کا ہر فرد دوسرے کی ہمّت بندھاتا رہے کہ وہ ان حالات کو صبر کے ساتھ برداشت کرے ۔ ( مزید تشریح کے لیے مُلاحَظہ ہو : تفہیم القُرآن جلد ششم ، الدَّھر ، حاشیہ 16 ۔ البَلَد حاشیہ 14 ) ۔"
+      },
+      "english": {
+        "ibn_kathir": "",
+        "maarif_ul_quran": ""
+      },
+      "arabic": {
+        "al_muyassar": "إلا الذين آمنوا بالله وعملوا عملا صالحًا، وأوصى بعضهم بعضًا بالاستمساك بالحق، والعمل بطاعة الله، والصبر على ذلك.",
+        "al_jalalayn": "«إلا الذين آمنوا وعملوا الصالحات» فليسوا في خسران «وتواصوا» أوصى بعضهم بعضاً «بالحق» الإيمان «وتواصوا بالصبر» على الطاعة وعن المعصية.",
+        "as_saadi": "وقد يكون خاسرًا من بعض الوجوه دون بعض، ولهذا عمم الله الخسار لكل إنسان، إلا من اتصف بأربع صفات:الإيمان بما أمر الله بالإيمان به، ولا يكون الإيمان بدون العلم، فهو فرع عنه لا يتم إلا به.والعمل الصالح، وهذا شامل لأفعال الخير كلها، الظاهرة والباطنة، المتعلقة بحق الله وحق عباده ، الواجبة والمستحبة.والتواصي بالحق، الذي هو الإيمان والعمل الصالح، أي: يوصي بعضهم بعضًا بذلك، ويحثه عليه، ويرغبه فيه.والتواصي بالصبر على طاعة الله، وعن معصية الله، وعلى أقدار الله المؤلمة.فبالأمرين الأولين، يكمل الإنسان نفسه، وبالأمرين الأخيرين يكمل غيره، وبتكميل الأمور الأربعة، يكون الإنسان قد سلم من الخسار، وفاز بالربح [العظيم]."
+      }
+    },
+    "word_by_word": [
+      {
+        "word_id": 1,
+        "arabic": "اِلَّا  ",
+        "root": "اِلَّا",
+        "urdu_meaning": "سوائے",
+        "english_meaning": "Except",
+        "lemma": "إِلّا",
+        "lughat": "",
+        "grammar": [
+          "EXP"
+        ]
+      },
+      {
+        "word_id": 2,
+        "arabic": "الَّذِیۡنَ  ",
+        "root": "ٱلَّذِى",
+        "urdu_meaning": " ان لوگوں کے جو",
+        "english_meaning": "those who",
+        "lemma": "الَّذِي",
+        "lughat": "",
+        "grammar": [
+          "REL"
+        ]
+      },
+      {
+        "word_id": 3,
+        "arabic": "اٰمَنُوۡا ",
+        "root": "ا م ن",
+        "urdu_meaning": " ایمان لائے",
+        "english_meaning": "believe",
+        "lemma": "آمَنَ",
+        "lughat": "",
+        "grammar": [
+          "V",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 4,
+        "arabic": "وَ عَمِلُوا ",
+        "root": "ع م ل",
+        "urdu_meaning": " اور انہوں نے عمل کیے",
+        "english_meaning": "and do",
+        "lemma": "عَمِلَ",
+        "lughat": "",
+        "grammar": [
+          "CONJ",
+          "V",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 5,
+        "arabic": "الصّٰلِحٰتِ ",
+        "root": "ص ل ح",
+        "urdu_meaning": " نیک",
+        "english_meaning": "righteous deeds",
+        "lemma": "صالِحَة",
+        "lughat": "",
+        "grammar": [
+          "DET",
+          "N"
+        ]
+      },
+      {
+        "word_id": 6,
+        "arabic": "وَ تَوَاصَوۡا ",
+        "root": "و ص ي",
+        "urdu_meaning": " اور ایک دوسرے کو تلقین کی",
+        "english_meaning": "and enjoin (each other)",
+        "lemma": "تَواصَ",
+        "lughat": "",
+        "grammar": [
+          "CONJ",
+          "V",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 7,
+        "arabic": "بِالۡحَقِّ   ۬ ۙ  ",
+        "root": "ح ق ق",
+        "urdu_meaning": " حق کی",
+        "english_meaning": "to the truth",
+        "lemma": "حَقّ",
+        "lughat": "",
+        "grammar": [
+          "P",
+          "DET",
+          "N"
+        ]
+      },
+      {
+        "word_id": 8,
+        "arabic": "وَ تَوَاصَوۡا ",
+        "root": "و ص ي",
+        "urdu_meaning": " اور ایک دوسرے کو تلقین کی",
+        "english_meaning": "and enjoin (each other)",
+        "lemma": "تَواصَ",
+        "lughat": "",
+        "grammar": [
+          "CONJ",
+          "V",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 9,
+        "arabic": "بِالصَّبۡرِ ٪﴿۳﴾               28",
+        "root": "ص ب ر",
+        "urdu_meaning": " صبر کی",
+        "english_meaning": "to the patience.",
+        "lemma": "صَبْر",
+        "lughat": "",
+        "grammar": [
+          "P",
+          "DET",
+          "N"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,616 @@
+[
+  {
+    "surah_id": 101,
+    "ayah_number": 0,
+    "global_ayah_id": 6257,
+    "urdu_phrase_raw": "بِسۡمِ& ساتھ نام@اللّٰہِ& اللہ کے@الرَّحۡمٰنِ&  جو بڑا مہربان@الرَّحِیۡمِ& بار بار رحم فرمانے والا ہے",
+    "english_phrase_raw": "بِسۡمِ&In (the) name@اللّٰہِ&(of) Allah,@الرَّحۡمٰنِ&the Most Gracious,@الرَّحِیۡمِ&the Most Merciful.",
+    "words": [
+      {
+        "word_id": 1,
+        "arabic": "بِسۡمِ ",
+        "root": "س م و",
+        "urdu_meaning": " ساتھ نام",
+        "english_meaning": "In (the) name",
+        "lemma": "اسْم",
+        "lughat": "",
+        "grammar": [
+          "P",
+          "N"
+        ]
+      },
+      {
+        "word_id": 2,
+        "arabic": "اللّٰہِ ",
+        "root": "ا ل ه",
+        "urdu_meaning": " اللہ کے",
+        "english_meaning": "(of) Allah,",
+        "lemma": "اللّٰہ",
+        "lughat": "",
+        "grammar": [
+          "PN"
+        ]
+      },
+      {
+        "word_id": 3,
+        "arabic": "الرَّحۡمٰنِ ",
+        "root": "ر ح م",
+        "urdu_meaning": "  جو بڑا مہربان",
+        "english_meaning": "the Most Gracious,",
+        "lemma": "رَحْمٰن",
+        "lughat": "",
+        "grammar": [
+          "DET",
+          "N"
+        ]
+      },
+      {
+        "word_id": 4,
+        "arabic": "الرَّحِیۡمِ",
+        "root": "ر ح م",
+        "urdu_meaning": " بار بار رحم فرمانے والا ہے",
+        "english_meaning": "the Most Merciful.",
+        "lemma": "رَحِيم",
+        "lughat": "",
+        "grammar": [
+          "DET",
+          "N"
+        ]
+      }
+    ]
+  },
+  {
+    "surah_id": 101,
+    "ayah_number": 1,
+    "global_ayah_id": 6258,
+    "urdu_phrase_raw": "اَلۡقَارِعَۃُ&کھٹکھٹانے والی",
+    "english_phrase_raw": "اَلۡقَارِعَۃُ&The Striking Calamity!",
+    "words": [
+      {
+        "word_id": 1,
+        "arabic": "اَلۡقَارِعَۃُ ۙ﴿۱﴾",
+        "root": "ق ر ع",
+        "urdu_meaning": "کھٹکھٹانے والی",
+        "english_meaning": "The Striking Calamity!",
+        "lemma": "قارِعَة",
+        "lughat": "",
+        "grammar": [
+          "DET",
+          "N"
+        ]
+      }
+    ]
+  },
+  {
+    "surah_id": 101,
+    "ayah_number": 2,
+    "global_ayah_id": 6259,
+    "urdu_phrase_raw": "مَا&کیا ہے وہ@الۡقَارِعَۃُ&کھٹکھٹانے والی",
+    "english_phrase_raw": "مَا&What@الۡقَارِعَۃُ&(is) the Striking Calamity?",
+    "words": [
+      {
+        "word_id": 1,
+        "arabic": "مَا ",
+        "root": "",
+        "urdu_meaning": "کیا ہے وہ",
+        "english_meaning": "What",
+        "lemma": "ما",
+        "lughat": "",
+        "grammar": [
+          "INTG"
+        ]
+      },
+      {
+        "word_id": 2,
+        "arabic": "الۡقَارِعَۃُ ۚ﴿۲﴾",
+        "root": "ق ر ع",
+        "urdu_meaning": "کھٹکھٹانے والی",
+        "english_meaning": "(is) the Striking Calamity?",
+        "lemma": "قارِعَة",
+        "lughat": "",
+        "grammar": [
+          "DET",
+          "N"
+        ]
+      }
+    ]
+  },
+  {
+    "surah_id": 101,
+    "ayah_number": 3,
+    "global_ayah_id": 6260,
+    "urdu_phrase_raw": "وَمَاۤ&اور کیا چیز@اَدۡرٰىکَ&بتائے آپ کو@مَا&کہ کیا ہے وہ@الۡقَارِعَۃُ&کھٹکھٹانے والی",
+    "english_phrase_raw": "وَمَاۤ&And what@اَدۡرٰىکَ&will make you know@مَا&what@الۡقَارِعَۃُ&(is) the Striking Calamity?",
+    "words": [
+      {
+        "word_id": 1,
+        "arabic": "وَ  مَاۤ  ",
+        "root": "",
+        "urdu_meaning": "اور کیا چیز",
+        "english_meaning": "And what",
+        "lemma": "ما",
+        "lughat": "",
+        "grammar": [
+          "CONJ",
+          "INTG"
+        ]
+      },
+      {
+        "word_id": 2,
+        "arabic": "اَدۡرٰىکَ ",
+        "root": "د ر ي",
+        "urdu_meaning": "بتائے آپ کو",
+        "english_meaning": "will make you know",
+        "lemma": "أَدْرَى",
+        "lughat": "",
+        "grammar": [
+          "V",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 3,
+        "arabic": "مَا ",
+        "root": "",
+        "urdu_meaning": "کہ کیا ہے وہ",
+        "english_meaning": "what",
+        "lemma": "ما",
+        "lughat": "",
+        "grammar": [
+          "INTG"
+        ]
+      },
+      {
+        "word_id": 4,
+        "arabic": "الۡقَارِعَۃُ ؕ﴿۳﴾",
+        "root": "ق ر ع",
+        "urdu_meaning": "کھٹکھٹانے والی",
+        "english_meaning": "(is) the Striking Calamity?",
+        "lemma": "قارِعَة",
+        "lughat": "",
+        "grammar": [
+          "DET",
+          "N"
+        ]
+      }
+    ]
+  },
+  {
+    "surah_id": 101,
+    "ayah_number": 4,
+    "global_ayah_id": 6261,
+    "urdu_phrase_raw": "یَوۡمَ& جس دن@یَکُوۡنُ&ہو جائیں گے@النَّاسُ&لوگ@کَالۡفَرَاشِ&پروانوں کی طرح@الۡمَبۡثُوۡثِ& بکھرے ہوئے",
+    "english_phrase_raw": "یَوۡمَ&(The) Day@یَکُوۡنُ&will be@النَّاسُ&the mankind@کَالۡفَرَاشِ&like moths,@الۡمَبۡثُوۡثِ&scattered,",
+    "words": [
+      {
+        "word_id": 1,
+        "arabic": "یَوۡمَ ",
+        "root": "ي و م",
+        "urdu_meaning": " جس دن",
+        "english_meaning": "(The) Day",
+        "lemma": "يَوْم",
+        "lughat": "",
+        "grammar": [
+          "T"
+        ]
+      },
+      {
+        "word_id": 2,
+        "arabic": "یَکُوۡنُ  ",
+        "root": "ك و ن",
+        "urdu_meaning": "ہو جائیں گے",
+        "english_meaning": "will be",
+        "lemma": "كانَ",
+        "lughat": "",
+        "grammar": [
+          "V"
+        ]
+      },
+      {
+        "word_id": 3,
+        "arabic": "النَّاسُ ",
+        "root": "ن و س",
+        "urdu_meaning": "لوگ",
+        "english_meaning": "the mankind",
+        "lemma": "ناس",
+        "lughat": "",
+        "grammar": [
+          "DET",
+          "N"
+        ]
+      },
+      {
+        "word_id": 4,
+        "arabic": "کَالۡفَرَاشِ ",
+        "root": "ف ر ش",
+        "urdu_meaning": "پروانوں کی طرح",
+        "english_meaning": "like moths,",
+        "lemma": "فَراش",
+        "lughat": "",
+        "grammar": [
+          "P",
+          "DET",
+          "N"
+        ]
+      },
+      {
+        "word_id": 5,
+        "arabic": "الۡمَبۡثُوۡثِ ۙ﴿۴﴾",
+        "root": "ب ث ث",
+        "urdu_meaning": " بکھرے ہوئے",
+        "english_meaning": "scattered,",
+        "lemma": "مَبْثُوث",
+        "lughat": "",
+        "grammar": [
+          "DET",
+          "ADJ"
+        ]
+      }
+    ]
+  },
+  {
+    "surah_id": 101,
+    "ayah_number": 5,
+    "global_ayah_id": 6262,
+    "urdu_phrase_raw": "وَتَکُوۡنُ&اور ہو جائیں گے@الۡجِبَالُ& پہاڑ@کَالۡعِہۡنِ& رنگین روئی کی طرح@الۡمَنۡفُوۡشِ&دھنکی ہوئی",
+    "english_phrase_raw": "وَتَکُوۡنُ&And will be@الۡجِبَالُ&the mountains@کَالۡعِہۡنِ&like wool,@الۡمَنۡفُوۡشِ&fluffed up.",
+    "words": [
+      {
+        "word_id": 1,
+        "arabic": "وَ تَکُوۡنُ  ",
+        "root": "ك و ن",
+        "urdu_meaning": "اور ہو جائیں گے",
+        "english_meaning": "And will be",
+        "lemma": "كانَ",
+        "lughat": "",
+        "grammar": [
+          "CONJ",
+          "V"
+        ]
+      },
+      {
+        "word_id": 2,
+        "arabic": "الۡجِبَالُ ",
+        "root": "ج ب ل",
+        "urdu_meaning": " پہاڑ",
+        "english_meaning": "the mountains",
+        "lemma": "جَبَل",
+        "lughat": "",
+        "grammar": [
+          "DET",
+          "N"
+        ]
+      },
+      {
+        "word_id": 3,
+        "arabic": "کَالۡعِہۡنِ ",
+        "root": "ع ه ن",
+        "urdu_meaning": " رنگین روئی کی طرح",
+        "english_meaning": "like wool,",
+        "lemma": "عِهْن",
+        "lughat": "",
+        "grammar": [
+          "P",
+          "DET",
+          "N"
+        ]
+      },
+      {
+        "word_id": 4,
+        "arabic": "الۡمَنۡفُوۡشِ ؕ﴿۵﴾",
+        "root": "ن ف ش",
+        "urdu_meaning": "دھنکی ہوئی",
+        "english_meaning": "fluffed up.",
+        "lemma": "مَنفُوش",
+        "lughat": "",
+        "grammar": [
+          "DET",
+          "ADJ"
+        ]
+      }
+    ]
+  },
+  {
+    "surah_id": 101,
+    "ayah_number": 6,
+    "global_ayah_id": 6263,
+    "urdu_phrase_raw": "فَاَمَّا& تو رہا@مَنۡ&وہ جو@ثَقُلَتۡ&بھاری ہوئے@مَوَازِیۡنُہٗ& پلڑے اس کے",
+    "english_phrase_raw": "فَاَمَّا&Then as for@مَنۡ&(him) whose@ثَقُلَتۡ&are heavy@مَوَازِیۡنُہٗ&his scales,",
+    "words": [
+      {
+        "word_id": 1,
+        "arabic": "فَاَمَّا  ",
+        "root": "فَاَمَّا",
+        "urdu_meaning": " تو رہا",
+        "english_meaning": "Then as for",
+        "lemma": "أَمّا",
+        "lughat": "",
+        "grammar": [
+          "REM",
+          "EXL"
+        ]
+      },
+      {
+        "word_id": 2,
+        "arabic": "مَنۡ  ",
+        "root": "",
+        "urdu_meaning": "وہ جو",
+        "english_meaning": "(him) whose",
+        "lemma": "مَن",
+        "lughat": "",
+        "grammar": [
+          "COND"
+        ]
+      },
+      {
+        "word_id": 3,
+        "arabic": "ثَقُلَتۡ ",
+        "root": "ث ق ل",
+        "urdu_meaning": "بھاری ہوئے",
+        "english_meaning": "are heavy",
+        "lemma": "ثَقُلَتْ",
+        "lughat": "",
+        "grammar": [
+          "V"
+        ]
+      },
+      {
+        "word_id": 4,
+        "arabic": "مَوَازِیۡنُہٗ ۙ﴿۶﴾",
+        "root": "و ز ن",
+        "urdu_meaning": " پلڑے اس کے",
+        "english_meaning": "his scales,",
+        "lemma": "مِيزان",
+        "lughat": "",
+        "grammar": [
+          "N",
+          "PRON"
+        ]
+      }
+    ]
+  },
+  {
+    "surah_id": 101,
+    "ayah_number": 7,
+    "global_ayah_id": 6264,
+    "urdu_phrase_raw": "فَہُوَ& تو وہ@فِیۡ عِیۡشَۃٍ& زندگی میں ہوگا@رَّاضِیَۃٍ& پسندیدہ",
+    "english_phrase_raw": "فَہُوَ&Then he@فِیۡ &(will be) in@عِیۡشَۃٍ&a life,@رَّاضِیَۃٍ&pleasant.",
+    "words": [
+      {
+        "word_id": 1,
+        "arabic": "فَہُوَ  ",
+        "root": "",
+        "urdu_meaning": " تو وہ",
+        "english_meaning": "Then he",
+        "lemma": "",
+        "lughat": "",
+        "grammar": [
+          "RSLT",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 2,
+        "arabic": "فِیۡ ",
+        "root": "",
+        "urdu_meaning": "میں ہو گا",
+        "english_meaning": "(will be) in",
+        "lemma": "فِي",
+        "lughat": "",
+        "grammar": [
+          "P"
+        ]
+      },
+      {
+        "word_id": 3,
+        "arabic": "عِیۡشَۃٍ  ",
+        "root": "ع ي ش",
+        "urdu_meaning": "عیش و آرام",
+        "english_meaning": "a life,",
+        "lemma": "عِيشَة",
+        "lughat": "",
+        "grammar": [
+          "N"
+        ]
+      },
+      {
+        "word_id": 4,
+        "arabic": "رَّاضِیَۃٍ ؕ﴿۷﴾",
+        "root": "ر ض و",
+        "urdu_meaning": " پسندیدہ",
+        "english_meaning": "pleasant.",
+        "lemma": "راضِيَة",
+        "lughat": "",
+        "grammar": [
+          "ADJ"
+        ]
+      }
+    ]
+  },
+  {
+    "surah_id": 101,
+    "ayah_number": 8,
+    "global_ayah_id": 6265,
+    "urdu_phrase_raw": "وَاَمَّا& اور رہا@مَنۡ&وہ جو@خَفَّتۡ& ہلکے ہوئے@مَوَازِیۡنُہٗ&پلڑے اس کے",
+    "english_phrase_raw": "وَاَمَّا&But as for@مَنۡ&(him) whose@خَفَّتۡ&(are) light@مَوَازِیۡنُہٗ&his scales,",
+    "words": [
+      {
+        "word_id": 1,
+        "arabic": "وَ اَمَّا ",
+        "root": "أَمَّا",
+        "urdu_meaning": " اور رہا",
+        "english_meaning": "But as for",
+        "lemma": "أَمّا",
+        "lughat": "",
+        "grammar": [
+          "CONJ",
+          "EXL"
+        ]
+      },
+      {
+        "word_id": 2,
+        "arabic": "مَنۡ ",
+        "root": "",
+        "urdu_meaning": "وہ جو",
+        "english_meaning": "(him) whose",
+        "lemma": "مَن",
+        "lughat": "",
+        "grammar": [
+          "COND"
+        ]
+      },
+      {
+        "word_id": 3,
+        "arabic": "خَفَّتۡ ",
+        "root": "خ ف ف",
+        "urdu_meaning": " ہلکے ہوئے",
+        "english_meaning": "(are) light",
+        "lemma": "خَفَّتْ",
+        "lughat": "",
+        "grammar": [
+          "V"
+        ]
+      },
+      {
+        "word_id": 4,
+        "arabic": "مَوَازِیۡنُہٗ ۙ﴿۸﴾",
+        "root": "و ز ن",
+        "urdu_meaning": "پلڑے اس کے",
+        "english_meaning": "his scales,",
+        "lemma": "مِيزان",
+        "lughat": "",
+        "grammar": [
+          "N",
+          "PRON"
+        ]
+      }
+    ]
+  },
+  {
+    "surah_id": 101,
+    "ayah_number": 9,
+    "global_ayah_id": 6266,
+    "urdu_phrase_raw": "فَاُمُّہٗ&تو اس کی ماں(ٹھکانہ)@ہَاوِیَۃٌ&ہاویہ(جہنم) ہو گی",
+    "english_phrase_raw": "فَاُمُّہٗ&His abode@ہَاوِیَۃٌ&(will be the) Pit.",
+    "words": [
+      {
+        "word_id": 1,
+        "arabic": "فَاُمُّہٗ  ",
+        "root": "ا م م",
+        "urdu_meaning": "تو اس کی ماں(ٹھکانہ)",
+        "english_meaning": "His abode",
+        "lemma": "أُمّ",
+        "lughat": "",
+        "grammar": [
+          "RSLT",
+          "N",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 2,
+        "arabic": "ہَاوِیَۃٌ ؕ﴿۹﴾",
+        "root": "ه و ي",
+        "urdu_meaning": "ہاویہ(جہنم) ہو گی",
+        "english_meaning": "(will be the) Pit.",
+        "lemma": "هاوِيَة",
+        "lughat": "",
+        "grammar": [
+          "N"
+        ]
+      }
+    ]
+  },
+  {
+    "surah_id": 101,
+    "ayah_number": 10,
+    "global_ayah_id": 6267,
+    "urdu_phrase_raw": "وَمَاۤ&اور کیا چیز@اَدۡرٰىکَ&بتائے آپ کو@مَاہِیَہۡ&کیا ہے وہ",
+    "english_phrase_raw": "وَمَاۤ&And what@اَدۡرٰىکَ&will make you know@مَا&what@ہِیَہۡ&it is?",
+    "words": [
+      {
+        "word_id": 1,
+        "arabic": "وَ مَاۤ  ",
+        "root": "",
+        "urdu_meaning": "اور کیا چیز",
+        "english_meaning": "And what",
+        "lemma": "ما",
+        "lughat": "",
+        "grammar": [
+          "CONJ",
+          "INTG"
+        ]
+      },
+      {
+        "word_id": 2,
+        "arabic": "اَدۡرٰىکَ ",
+        "root": "د ر ي",
+        "urdu_meaning": "بتائے آپ کو",
+        "english_meaning": "will make you know",
+        "lemma": "أَدْرَى",
+        "lughat": "",
+        "grammar": [
+          "V",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 3,
+        "arabic": "مَا ",
+        "root": "",
+        "urdu_meaning": "کیا ",
+        "english_meaning": "what",
+        "lemma": "ما",
+        "lughat": "",
+        "grammar": [
+          "INTG"
+        ]
+      },
+      {
+        "word_id": 4,
+        "arabic": "ہِیَہۡ ﴿ؕ۱۰﴾",
+        "root": "",
+        "urdu_meaning": "ہے وہ",
+        "english_meaning": "it is?",
+        "lemma": "",
+        "lughat": "",
+        "grammar": [
+          "PRON"
+        ]
+      }
+    ]
+  },
+  {
+    "surah_id": 101,
+    "ayah_number": 11,
+    "global_ayah_id": 6268,
+    "urdu_phrase_raw": "نَارٌ&آگ ہے@حَامِیَۃٌ&بھڑکتی ہوئی",
+    "english_phrase_raw": "نَارٌ&A Fire,@حَامِیَۃٌ&intensely hot.",
+    "words": [
+      {
+        "word_id": 1,
+        "arabic": "نَارٌ ",
+        "root": "ن و ر",
+        "urdu_meaning": "آگ ہے",
+        "english_meaning": "A Fire,",
+        "lemma": "نار",
+        "lughat": "",
+        "grammar": [
+          "N"
+        ]
+      },
+      {
+        "word_id": 2,
+        "arabic": "حَامِیَۃٌ ﴿۱۱﴾٪               26",
+        "root": "ح م ي",
+        "urdu_meaning": "بھڑکتی ہوئی",
+        "english_meaning": "intensely hot.",
+        "lemma": "حامِيَة",
+        "lughat": "",
+        "grammar": [
+          "ADJ"
+        ]
+      }
+    ]
+  }
+]

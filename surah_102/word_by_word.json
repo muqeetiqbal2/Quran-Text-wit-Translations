@@ -1,0 +1,489 @@
+[
+  {
+    "surah_id": 102,
+    "ayah_number": 0,
+    "global_ayah_id": 6269,
+    "urdu_phrase_raw": "بِسۡمِ& ساتھ نام@اللّٰہِ& اللہ کے@الرَّحۡمٰنِ&  جو بڑا مہربان@الرَّحِیۡمِ& بار بار رحم فرمانے والا ہے",
+    "english_phrase_raw": "بِسۡمِ&In (the) name@اللّٰہِ&(of) Allah,@الرَّحۡمٰنِ&the Most Gracious,@الرَّحِیۡمِ&the Most Merciful.",
+    "words": [
+      {
+        "word_id": 1,
+        "arabic": "بِسۡمِ ",
+        "root": "س م و",
+        "urdu_meaning": " ساتھ نام",
+        "english_meaning": "In (the) name",
+        "lemma": "اسْم",
+        "lughat": "",
+        "grammar": [
+          "P",
+          "N"
+        ]
+      },
+      {
+        "word_id": 2,
+        "arabic": "اللّٰہِ ",
+        "root": "ا ل ه",
+        "urdu_meaning": " اللہ کے",
+        "english_meaning": "(of) Allah,",
+        "lemma": "اللّٰہ",
+        "lughat": "",
+        "grammar": [
+          "PN"
+        ]
+      },
+      {
+        "word_id": 3,
+        "arabic": "الرَّحۡمٰنِ ",
+        "root": "ر ح م",
+        "urdu_meaning": "  جو بڑا مہربان",
+        "english_meaning": "the Most Gracious,",
+        "lemma": "رَحْمٰن",
+        "lughat": "",
+        "grammar": [
+          "DET",
+          "N"
+        ]
+      },
+      {
+        "word_id": 4,
+        "arabic": "الرَّحِیۡمِ",
+        "root": "ر ح م",
+        "urdu_meaning": " بار بار رحم فرمانے والا ہے",
+        "english_meaning": "the Most Merciful.",
+        "lemma": "رَحِيم",
+        "lughat": "",
+        "grammar": [
+          "DET",
+          "N"
+        ]
+      }
+    ]
+  },
+  {
+    "surah_id": 102,
+    "ayah_number": 1,
+    "global_ayah_id": 6270,
+    "urdu_phrase_raw": "اَلۡہٰکُمُ&غافل کر دیا تمہیں@التَّکَاثُرُ&کثرت کی طلب نے",
+    "english_phrase_raw": "اَلۡہٰکُمُ&Diverts you@التَّکَاثُرُ&the competition to increase",
+    "words": [
+      {
+        "word_id": 1,
+        "arabic": "اَلۡہٰکُمُ  ",
+        "root": "ل ه و",
+        "urdu_meaning": "غافل کر دیا تمہیں",
+        "english_meaning": "Diverts you",
+        "lemma": "أَلْهَى",
+        "lughat": "",
+        "grammar": [
+          "V",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 2,
+        "arabic": "التَّکَاثُرُ ۙ﴿۱﴾",
+        "root": "ك ث ر",
+        "urdu_meaning": "کثرت کی طلب نے",
+        "english_meaning": "the competition to increase",
+        "lemma": "تَكاثُر",
+        "lughat": "",
+        "grammar": [
+          "DET",
+          "N"
+        ]
+      }
+    ]
+  },
+  {
+    "surah_id": 102,
+    "ayah_number": 2,
+    "global_ayah_id": 6271,
+    "urdu_phrase_raw": "حَتّٰی& یہاں تک کہ@زُرۡتُمُ&جا پہنچے تم@الۡمَقَابِرَ&قبروں کو",
+    "english_phrase_raw": "حَتّٰی&Until@زُرۡتُمُ&you visit@الۡمَقَابِرَ&the graves,",
+    "words": [
+      {
+        "word_id": 1,
+        "arabic": "حَتّٰی ",
+        "root": "",
+        "urdu_meaning": " یہاں تک کہ",
+        "english_meaning": "Until",
+        "lemma": "حَتَّى",
+        "lughat": "",
+        "grammar": [
+          "INC"
+        ]
+      },
+      {
+        "word_id": 2,
+        "arabic": "زُرۡتُمُ  ",
+        "root": "ز و ر",
+        "urdu_meaning": "جا پہنچے تم",
+        "english_meaning": "you visit",
+        "lemma": "زُرْ",
+        "lughat": "",
+        "grammar": [
+          "V",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 3,
+        "arabic": "الۡمَقَابِرَ ؕ﴿۲﴾",
+        "root": "ق ب ر",
+        "urdu_meaning": "قبروں کو",
+        "english_meaning": "the graves,",
+        "lemma": "مَقابِر",
+        "lughat": "",
+        "grammar": [
+          "DET",
+          "N"
+        ]
+      }
+    ]
+  },
+  {
+    "surah_id": 102,
+    "ayah_number": 3,
+    "global_ayah_id": 6272,
+    "urdu_phrase_raw": "کَلَّا& ہرگز نہیں@سَوۡفَ& عنقریب@تَعۡلَمُوۡنَ& تم جان لو گے",
+    "english_phrase_raw": "کَلَّا&Nay!@سَوۡفَ&Soon@تَعۡلَمُوۡنَ&you will know.",
+    "words": [
+      {
+        "word_id": 1,
+        "arabic": "کَلَّا  ",
+        "root": "",
+        "urdu_meaning": " ہرگز نہیں",
+        "english_meaning": "Nay!",
+        "lemma": "كَلّا",
+        "lughat": "",
+        "grammar": [
+          "AVR"
+        ]
+      },
+      {
+        "word_id": 2,
+        "arabic": "سَوۡفَ ",
+        "root": "",
+        "urdu_meaning": " عنقریب",
+        "english_meaning": "Soon",
+        "lemma": "سَوْف",
+        "lughat": "",
+        "grammar": [
+          "FUT"
+        ]
+      },
+      {
+        "word_id": 3,
+        "arabic": "تَعۡلَمُوۡنَ ۙ﴿۳﴾",
+        "root": "ع ل م",
+        "urdu_meaning": " تم جان لو گے",
+        "english_meaning": "you will know.",
+        "lemma": "عَلِمَ",
+        "lughat": "",
+        "grammar": [
+          "V",
+          "PRON"
+        ]
+      }
+    ]
+  },
+  {
+    "surah_id": 102,
+    "ayah_number": 4,
+    "global_ayah_id": 6273,
+    "urdu_phrase_raw": "ثُمَّ& پھر@کَلَّا& ہرگز نہیں@سَوۡفَ&عنقریب@تَعۡلَمُوۡنَ&تم جان لو گے",
+    "english_phrase_raw": "ثُمَّ&Then@کَلَّا&nay!@سَوۡفَ&Soon@تَعۡلَمُوۡنَ&you will know.",
+    "words": [
+      {
+        "word_id": 1,
+        "arabic": "ثُمَّ  ",
+        "root": "",
+        "urdu_meaning": " پھر",
+        "english_meaning": "Then",
+        "lemma": "ثُمّ",
+        "lughat": "",
+        "grammar": [
+          "CONJ"
+        ]
+      },
+      {
+        "word_id": 2,
+        "arabic": "کَلَّا ",
+        "root": "",
+        "urdu_meaning": " ہرگز نہیں",
+        "english_meaning": "nay!",
+        "lemma": "كَلّا",
+        "lughat": "",
+        "grammar": [
+          "AVR"
+        ]
+      },
+      {
+        "word_id": 3,
+        "arabic": "سَوۡفَ ",
+        "root": "",
+        "urdu_meaning": "عنقریب",
+        "english_meaning": "Soon",
+        "lemma": "سَوْف",
+        "lughat": "",
+        "grammar": [
+          "FUT"
+        ]
+      },
+      {
+        "word_id": 4,
+        "arabic": "تَعۡلَمُوۡنَ ؕ﴿۴﴾",
+        "root": "ع ل م",
+        "urdu_meaning": "تم جان لو گے",
+        "english_meaning": "you will know.",
+        "lemma": "عَلِمَ",
+        "lughat": "",
+        "grammar": [
+          "V",
+          "PRON"
+        ]
+      }
+    ]
+  },
+  {
+    "surah_id": 102,
+    "ayah_number": 5,
+    "global_ayah_id": 6274,
+    "urdu_phrase_raw": "کَلَّا& ہرگز نہیں@لَوۡ&کاش@تَعۡلَمُوۡنَ&تم جان لیتے@عِلۡمَ&جاننا@الۡیَقِیۡنِ&یقین کا",
+    "english_phrase_raw": "کَلَّا&Nay!@لَوۡ&If@تَعۡلَمُوۡنَ&you know@عِلۡمَ&(with) a knowledge@الۡیَقِیۡنِ&(of) certainty.",
+    "words": [
+      {
+        "word_id": 1,
+        "arabic": "کَلَّا ",
+        "root": "",
+        "urdu_meaning": " ہرگز نہیں",
+        "english_meaning": "Nay!",
+        "lemma": "كَلّا",
+        "lughat": "",
+        "grammar": [
+          "AVR"
+        ]
+      },
+      {
+        "word_id": 2,
+        "arabic": "لَوۡ ",
+        "root": "",
+        "urdu_meaning": "کاش",
+        "english_meaning": "If",
+        "lemma": "لَو",
+        "lughat": "",
+        "grammar": [
+          "COND"
+        ]
+      },
+      {
+        "word_id": 3,
+        "arabic": "تَعۡلَمُوۡنَ ",
+        "root": "ع ل م",
+        "urdu_meaning": "تم جان لیتے",
+        "english_meaning": "you know",
+        "lemma": "عَلِمَ",
+        "lughat": "",
+        "grammar": [
+          "V",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 4,
+        "arabic": "عِلۡمَ  ",
+        "root": "ع ل م",
+        "urdu_meaning": "جاننا",
+        "english_meaning": "(with) a knowledge",
+        "lemma": "عِلْم",
+        "lughat": "",
+        "grammar": [
+          "N"
+        ]
+      },
+      {
+        "word_id": 5,
+        "arabic": "الۡیَقِیۡنِ ؕ﴿۵﴾",
+        "root": "ي ق ن",
+        "urdu_meaning": "یقین کا",
+        "english_meaning": "(of) certainty.",
+        "lemma": "يَقِين",
+        "lughat": "",
+        "grammar": [
+          "DET",
+          "N"
+        ]
+      }
+    ]
+  },
+  {
+    "surah_id": 102,
+    "ayah_number": 6,
+    "global_ayah_id": 6275,
+    "urdu_phrase_raw": "لَتَرَوُنَّ& البتہ تم ضرور دیکھو گے@الۡجَحِیۡمَ& جہنم کو",
+    "english_phrase_raw": "لَتَرَوُنَّ&Surely you will see@الۡجَحِیۡمَ&the Hellfire.",
+    "words": [
+      {
+        "word_id": 1,
+        "arabic": "لَتَرَوُنَّ  ",
+        "root": "ر ا ي",
+        "urdu_meaning": " البتہ تم ضرور دیکھو گے",
+        "english_meaning": "Surely you will see",
+        "lemma": "رَأَى",
+        "lughat": "",
+        "grammar": [
+          "EMPH",
+          "V",
+          "EMPH"
+        ]
+      },
+      {
+        "word_id": 2,
+        "arabic": "الۡجَحِیۡمَ ۙ﴿۶﴾",
+        "root": "ج ح م",
+        "urdu_meaning": " جہنم کو",
+        "english_meaning": "the Hellfire.",
+        "lemma": "جَحِيم",
+        "lughat": "",
+        "grammar": [
+          "DET",
+          "N"
+        ]
+      }
+    ]
+  },
+  {
+    "surah_id": 102,
+    "ayah_number": 7,
+    "global_ayah_id": 6276,
+    "urdu_phrase_raw": "ثُمَّ& پھر@لَتَرَوُنَّہَا& البتہ تم ضرور دیکھو گے اس کو@عَیۡنَ&آنکھ سے@الۡیَقِیۡنِ&یقین کی",
+    "english_phrase_raw": "ثُمَّ&Then@لَتَرَوُنَّہَا&surely you will see it@عَیۡنَ&(with the) eye@الۡیَقِیۡنِ&(of) certainty.",
+    "words": [
+      {
+        "word_id": 1,
+        "arabic": "ثُمَّ ",
+        "root": "",
+        "urdu_meaning": " پھر",
+        "english_meaning": "Then",
+        "lemma": "ثُمّ",
+        "lughat": "",
+        "grammar": [
+          "CONJ"
+        ]
+      },
+      {
+        "word_id": 2,
+        "arabic": "لَتَرَوُنَّہَا ",
+        "root": "ر ا ي",
+        "urdu_meaning": " البتہ تم ضرور دیکھو گے اس کو",
+        "english_meaning": "surely you will see it",
+        "lemma": "رَأَى",
+        "lughat": "",
+        "grammar": [
+          "EMPH",
+          "V",
+          "EMPH",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 3,
+        "arabic": "عَیۡنَ ",
+        "root": "ع ي ن",
+        "urdu_meaning": "آنکھ سے",
+        "english_meaning": "(with the) eye",
+        "lemma": "عَيْن",
+        "lughat": "",
+        "grammar": [
+          "N"
+        ]
+      },
+      {
+        "word_id": 4,
+        "arabic": "الۡیَقِیۡنِ ۙ﴿۷﴾",
+        "root": "ي ق ن",
+        "urdu_meaning": "یقین کی",
+        "english_meaning": "(of) certainty.",
+        "lemma": "يَقِين",
+        "lughat": "",
+        "grammar": [
+          "DET",
+          "N"
+        ]
+      }
+    ]
+  },
+  {
+    "surah_id": 102,
+    "ayah_number": 8,
+    "global_ayah_id": 6277,
+    "urdu_phrase_raw": "ثُمَّ& پھر@لَتُسۡئَلُنَّ& البتہ تم ضرور پوچھے جاؤ گے@یَوۡمَئِذٍ& اس دن@عَنِ النَّعِیۡمِ& نعمتوں کے بارے میں",
+    "english_phrase_raw": "ثُمَّ&Then,@لَتُسۡئَلُنَّ&surely you will be asked@یَوۡمَئِذٍ&that Day@عَنِ &about@النَّعِیۡمِ&the pleasures.",
+    "words": [
+      {
+        "word_id": 1,
+        "arabic": "ثُمَّ ",
+        "root": "",
+        "urdu_meaning": " پھر",
+        "english_meaning": "Then,",
+        "lemma": "ثُمّ",
+        "lughat": "",
+        "grammar": [
+          "CONJ"
+        ]
+      },
+      {
+        "word_id": 2,
+        "arabic": "لَتُسۡئَلُنَّ ",
+        "root": "س ا ل",
+        "urdu_meaning": " البتہ تم ضرور پوچھے جاؤ گے",
+        "english_meaning": "surely you will be asked",
+        "lemma": "سَأَلَ",
+        "lughat": "",
+        "grammar": [
+          "EMPH",
+          "V",
+          "EMPH"
+        ]
+      },
+      {
+        "word_id": 3,
+        "arabic": "یَوۡمَئِذٍ ",
+        "root": "",
+        "urdu_meaning": " اس دن",
+        "english_meaning": "that Day",
+        "lemma": "إِذ",
+        "lughat": "",
+        "grammar": [
+          "T",
+          "T"
+        ]
+      },
+      {
+        "word_id": 4,
+        "arabic": "عَنِ ",
+        "root": "",
+        "urdu_meaning": "بارے میں",
+        "english_meaning": "about",
+        "lemma": "عَن",
+        "lughat": "",
+        "grammar": [
+          "P"
+        ]
+      },
+      {
+        "word_id": 5,
+        "arabic": "النَّعِیۡمِ ٪﴿۸﴾                27",
+        "root": "ن ع م",
+        "urdu_meaning": "نعمتوں کے",
+        "english_meaning": "the pleasures.",
+        "lemma": "نَعِيم",
+        "lughat": "",
+        "grammar": [
+          "DET",
+          "N"
+        ]
+      }
+    ]
+  }
+]

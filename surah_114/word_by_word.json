@@ -1,0 +1,366 @@
+[
+  {
+    "surah_id": 114,
+    "ayah_number": 0,
+    "global_ayah_id": 6343,
+    "urdu_phrase_raw": "بِسۡمِ& ساتھ نام@اللّٰہِ& اللہ کے@الرَّحۡمٰنِ&  جو بڑا مہربان@الرَّحِیۡمِ& بار بار رحم فرمانے والا ہے",
+    "english_phrase_raw": "بِسۡمِ&In (the) name@اللّٰہِ&(of) Allah,@الرَّحۡمٰنِ&the Most Gracious,@الرَّحِیۡمِ&the Most Merciful.",
+    "words": [
+      {
+        "word_id": 1,
+        "arabic": "بِسۡمِ ",
+        "root": "س م و",
+        "urdu_meaning": " ساتھ نام",
+        "english_meaning": "In (the) name",
+        "lemma": "اسْم",
+        "lughat": "",
+        "grammar": [
+          "P",
+          "N"
+        ]
+      },
+      {
+        "word_id": 2,
+        "arabic": "اللّٰہِ ",
+        "root": "ا ل ه",
+        "urdu_meaning": " اللہ کے",
+        "english_meaning": "(of) Allah,",
+        "lemma": "اللّٰہ",
+        "lughat": "",
+        "grammar": [
+          "PN"
+        ]
+      },
+      {
+        "word_id": 3,
+        "arabic": "الرَّحۡمٰنِ ",
+        "root": "ر ح م",
+        "urdu_meaning": "  جو بڑا مہربان",
+        "english_meaning": "the Most Gracious,",
+        "lemma": "رَحْمٰن",
+        "lughat": "",
+        "grammar": [
+          "DET",
+          "N"
+        ]
+      },
+      {
+        "word_id": 4,
+        "arabic": "الرَّحِیۡمِ",
+        "root": "ر ح م",
+        "urdu_meaning": " بار بار رحم فرمانے والا ہے",
+        "english_meaning": "the Most Merciful.",
+        "lemma": "رَحِيم",
+        "lughat": "",
+        "grammar": [
+          "DET",
+          "N"
+        ]
+      }
+    ]
+  },
+  {
+    "surah_id": 114,
+    "ayah_number": 1,
+    "global_ayah_id": 6344,
+    "urdu_phrase_raw": "قُلۡ& کہہ دیجئے@اَعُوۡذُ&میں پناہ لیتا ہوں@بِرَبِّ&رب کی@النَّاسِ&انسانوں کے",
+    "english_phrase_raw": "قُلۡ&Say,@اَعُوۡذُ&I seek refuge@بِرَبِّ&in (the) Lord@النَّاسِ&(of) mankind,",
+    "words": [
+      {
+        "word_id": 1,
+        "arabic": "قُلۡ  ",
+        "root": "ق و ل",
+        "urdu_meaning": " کہہ دیجئے",
+        "english_meaning": "Say,",
+        "lemma": "قالَ",
+        "lughat": "",
+        "grammar": [
+          "V"
+        ]
+      },
+      {
+        "word_id": 2,
+        "arabic": "اَعُوۡذُ  ",
+        "root": "ع و ذ",
+        "urdu_meaning": "میں پناہ لیتا ہوں",
+        "english_meaning": "I seek refuge",
+        "lemma": "عُذْ",
+        "lughat": "",
+        "grammar": [
+          "V"
+        ]
+      },
+      {
+        "word_id": 3,
+        "arabic": "بِرَبِّ ",
+        "root": "ر ب ب",
+        "urdu_meaning": "رب کی",
+        "english_meaning": "in (the) Lord",
+        "lemma": "رَبّ",
+        "lughat": "",
+        "grammar": [
+          "P",
+          "N"
+        ]
+      },
+      {
+        "word_id": 4,
+        "arabic": "النَّاسِ ۙ﴿۱﴾",
+        "root": "ن و س",
+        "urdu_meaning": "انسانوں کے",
+        "english_meaning": "(of) mankind,",
+        "lemma": "ناس",
+        "lughat": "",
+        "grammar": [
+          "DET",
+          "N"
+        ]
+      }
+    ]
+  },
+  {
+    "surah_id": 114,
+    "ayah_number": 2,
+    "global_ayah_id": 6345,
+    "urdu_phrase_raw": "مَلِکِ&بادشاہ کی@النَّاسِ&انسانوں کے",
+    "english_phrase_raw": "مَلِکِ&(The) King@النَّاسِ&(of) mankind,",
+    "words": [
+      {
+        "word_id": 1,
+        "arabic": "مَلِکِ ",
+        "root": "م ل ك",
+        "urdu_meaning": "بادشاہ کی",
+        "english_meaning": "(The) King",
+        "lemma": "مَلِك",
+        "lughat": "",
+        "grammar": [
+          "N"
+        ]
+      },
+      {
+        "word_id": 2,
+        "arabic": "النَّاسِ ۙ﴿۲﴾",
+        "root": "ن و س",
+        "urdu_meaning": "انسانوں کے",
+        "english_meaning": "(of) mankind,",
+        "lemma": "ناس",
+        "lughat": "",
+        "grammar": [
+          "DET",
+          "N"
+        ]
+      }
+    ]
+  },
+  {
+    "surah_id": 114,
+    "ayah_number": 3,
+    "global_ayah_id": 6346,
+    "urdu_phrase_raw": "اِلٰہِ&الٰہ کی@النَّاسِ& انسانوں کے",
+    "english_phrase_raw": "اِلٰہِ&(The) God@النَّاسِ&(of) mankind,",
+    "words": [
+      {
+        "word_id": 1,
+        "arabic": "اِلٰہِ  ",
+        "root": "ا ل ه",
+        "urdu_meaning": "الٰہ کی",
+        "english_meaning": "(The) God",
+        "lemma": "إِلٰه",
+        "lughat": "",
+        "grammar": [
+          "N"
+        ]
+      },
+      {
+        "word_id": 2,
+        "arabic": "النَّاسِ ۙ﴿۳﴾",
+        "root": "ن و س",
+        "urdu_meaning": " انسانوں کے",
+        "english_meaning": "(of) mankind,",
+        "lemma": "ناس",
+        "lughat": "",
+        "grammar": [
+          "DET",
+          "N"
+        ]
+      }
+    ]
+  },
+  {
+    "surah_id": 114,
+    "ayah_number": 4,
+    "global_ayah_id": 6347,
+    "urdu_phrase_raw": "مِنۡ شَرِّ&شر سے@الۡوَسۡوَاسِ&وسوسہ ڈالنے والے کے@الۡخَنَّاسِ& بار بار پلٹ کر آنے والے کے",
+    "english_phrase_raw": "مِنۡ &From@شَرِّ&(the) evil@الۡوَسۡوَاسِ&(of) the whisperer,@الۡخَنَّاسِ&the one who withdraws,",
+    "words": [
+      {
+        "word_id": 1,
+        "arabic": "مِنۡ  ",
+        "root": "",
+        "urdu_meaning": "سے",
+        "english_meaning": "From",
+        "lemma": "مِن",
+        "lughat": "",
+        "grammar": [
+          "P"
+        ]
+      },
+      {
+        "word_id": 2,
+        "arabic": "شَرِّ ",
+        "root": "ش ر ر",
+        "urdu_meaning": "شر",
+        "english_meaning": "(the) evil",
+        "lemma": "شَرّ",
+        "lughat": "",
+        "grammar": [
+          "N"
+        ]
+      },
+      {
+        "word_id": 3,
+        "arabic": "الۡوَسۡوَاسِ   ۬ ۙ  ",
+        "root": "و س و س",
+        "urdu_meaning": "وسوسہ ڈالنے والے کے",
+        "english_meaning": "(of) the whisperer,",
+        "lemma": "وَسْواس",
+        "lughat": "",
+        "grammar": [
+          "DET",
+          "N"
+        ]
+      },
+      {
+        "word_id": 4,
+        "arabic": "الۡخَنَّاسِ ۪ۙ﴿۴﴾",
+        "root": "خ ن س",
+        "urdu_meaning": " بار بار پلٹ کر آنے والے کے",
+        "english_meaning": "the one who withdraws,",
+        "lemma": "خَنّاس",
+        "lughat": "",
+        "grammar": [
+          "DET",
+          "ADJ"
+        ]
+      }
+    ]
+  },
+  {
+    "surah_id": 114,
+    "ayah_number": 5,
+    "global_ayah_id": 6348,
+    "urdu_phrase_raw": "الَّذِیۡ& وہ جو@یُوَسۡوِسُ& وسوسہ ڈالتا ہے@فِیۡ صُدُوۡرِ&سینوں میں@النَّاسِ&لوگوں کے",
+    "english_phrase_raw": "الَّذِیۡ&The one who@یُوَسۡوِسُ&whispers@فِیۡ &in@صُدُوۡرِ&(the) breasts@النَّاسِ&(of) mankind,",
+    "words": [
+      {
+        "word_id": 1,
+        "arabic": "الَّذِیۡ ",
+        "root": "ٱلَّذِى",
+        "urdu_meaning": " وہ جو",
+        "english_meaning": "The one who",
+        "lemma": "الَّذِي",
+        "lughat": "",
+        "grammar": [
+          "REL"
+        ]
+      },
+      {
+        "word_id": 2,
+        "arabic": "یُوَسۡوِسُ ",
+        "root": "و س و س",
+        "urdu_meaning": " وسوسہ ڈالتا ہے",
+        "english_meaning": "whispers",
+        "lemma": "وَسْوَسَ",
+        "lughat": "",
+        "grammar": [
+          "V"
+        ]
+      },
+      {
+        "word_id": 3,
+        "arabic": "فِیۡ ",
+        "root": "",
+        "urdu_meaning": "میں",
+        "english_meaning": "in",
+        "lemma": "فِي",
+        "lughat": "",
+        "grammar": [
+          "P"
+        ]
+      },
+      {
+        "word_id": 4,
+        "arabic": "صُدُوۡرِ ",
+        "root": "ص د ر",
+        "urdu_meaning": "سینوں",
+        "english_meaning": "(the) breasts",
+        "lemma": "صَدْر",
+        "lughat": "",
+        "grammar": [
+          "N"
+        ]
+      },
+      {
+        "word_id": 5,
+        "arabic": "النَّاسِ ۙ﴿۵﴾",
+        "root": "ن و س",
+        "urdu_meaning": "لوگوں کے",
+        "english_meaning": "(of) mankind,",
+        "lemma": "ناس",
+        "lughat": "",
+        "grammar": [
+          "DET",
+          "N"
+        ]
+      }
+    ]
+  },
+  {
+    "surah_id": 114,
+    "ayah_number": 6,
+    "global_ayah_id": 6349,
+    "urdu_phrase_raw": "مِنَ الۡجِنَّۃِ& جنوں میں سے@ وَالنَّاسِ&  اور انسانوں میں سے",
+    "english_phrase_raw": "مِنَ& From@ الۡجِنَّۃِ&the jinn@ وَالنَّاسِ &and men",
+    "words": [
+      {
+        "word_id": 1,
+        "arabic": "مِنَ ",
+        "root": "",
+        "urdu_meaning": "میں سے",
+        "english_meaning": " From",
+        "lemma": "مِن",
+        "lughat": "",
+        "grammar": [
+          "P"
+        ]
+      },
+      {
+        "word_id": 2,
+        "arabic": "الۡجِنَّۃِ ",
+        "root": "ج ن ن",
+        "urdu_meaning": "جنوں",
+        "english_meaning": "the jinn",
+        "lemma": "جِنَّة",
+        "lughat": "",
+        "grammar": [
+          "DET",
+          "N"
+        ]
+      },
+      {
+        "word_id": 3,
+        "arabic": "وَ النَّاسِ ٪﴿۶﴾            39",
+        "root": "ن و س",
+        "urdu_meaning": "  اور انسانوں میں سے",
+        "english_meaning": "and men",
+        "lemma": "ناس",
+        "lughat": "",
+        "grammar": [
+          "CONJ",
+          "DET",
+          "N"
+        ]
+      }
+    ]
+  }
+]

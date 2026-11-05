@@ -1,0 +1,441 @@
+[
+  {
+    "surah_id": 109,
+    "ayah_number": 0,
+    "global_ayah_id": 6315,
+    "urdu_phrase_raw": "بِسۡمِ& ساتھ نام@اللّٰہِ& اللہ کے@الرَّحۡمٰنِ&  جو بڑا مہربان@الرَّحِیۡمِ& بار بار رحم فرمانے والا ہے",
+    "english_phrase_raw": "بِسۡمِ&In (the) name@اللّٰہِ&(of) Allah,@الرَّحۡمٰنِ&the Most Gracious,@الرَّحِیۡمِ&the Most Merciful.",
+    "words": [
+      {
+        "word_id": 1,
+        "arabic": "بِسۡمِ ",
+        "root": "س م و",
+        "urdu_meaning": " ساتھ نام",
+        "english_meaning": "In (the) name",
+        "lemma": "اسْم",
+        "lughat": "",
+        "grammar": [
+          "P",
+          "N"
+        ]
+      },
+      {
+        "word_id": 2,
+        "arabic": "اللّٰہِ ",
+        "root": "ا ل ه",
+        "urdu_meaning": " اللہ کے",
+        "english_meaning": "(of) Allah,",
+        "lemma": "اللّٰہ",
+        "lughat": "",
+        "grammar": [
+          "PN"
+        ]
+      },
+      {
+        "word_id": 3,
+        "arabic": "الرَّحۡمٰنِ ",
+        "root": "ر ح م",
+        "urdu_meaning": "  جو بڑا مہربان",
+        "english_meaning": "the Most Gracious,",
+        "lemma": "رَحْمٰن",
+        "lughat": "",
+        "grammar": [
+          "DET",
+          "N"
+        ]
+      },
+      {
+        "word_id": 4,
+        "arabic": "الرَّحِیۡمِ",
+        "root": "ر ح م",
+        "urdu_meaning": " بار بار رحم فرمانے والا ہے",
+        "english_meaning": "the Most Merciful.",
+        "lemma": "رَحِيم",
+        "lughat": "",
+        "grammar": [
+          "DET",
+          "N"
+        ]
+      }
+    ]
+  },
+  {
+    "surah_id": 109,
+    "ayah_number": 1,
+    "global_ayah_id": 6316,
+    "urdu_phrase_raw": "قُلۡ& کہہ دیجئے@یٰۤاَیُّہَا&اے@الۡکٰفِرُوۡنَ&کافرو",
+    "english_phrase_raw": "قُلۡ&Say,@یٰۤاَیُّہَا الۡکٰفِرُوۡنَ&O disbelievers!",
+    "words": [
+      {
+        "word_id": 1,
+        "arabic": "قُلۡ ",
+        "root": "ق و ل",
+        "urdu_meaning": " کہہ دیجئے",
+        "english_meaning": "Say,",
+        "lemma": "قالَ",
+        "lughat": "",
+        "grammar": [
+          "V"
+        ]
+      },
+      {
+        "word_id": 2,
+        "arabic": "یٰۤاَیُّہَا ",
+        "root": "",
+        "urdu_meaning": "اے",
+        "english_meaning": "O disbelievers!",
+        "lemma": "أَيّ",
+        "lughat": "",
+        "grammar": [
+          "VOC",
+          "N",
+          "ATT"
+        ]
+      },
+      {
+        "word_id": 3,
+        "arabic": "الۡکٰفِرُوۡنَ ۙ﴿۱﴾",
+        "root": "ك ف ر",
+        "urdu_meaning": "کافرو",
+        "english_meaning": "",
+        "lemma": "كافِر",
+        "lughat": "",
+        "grammar": [
+          "DET",
+          "N"
+        ]
+      }
+    ]
+  },
+  {
+    "surah_id": 109,
+    "ayah_number": 2,
+    "global_ayah_id": 6317,
+    "urdu_phrase_raw": "لَاۤاَعۡبُدُ& نہیں میں عبادت کرتا@مَا&جس کی@تَعۡبُدُوۡنَ&تم عبادت کرتے ہو",
+    "english_phrase_raw": "لَاۤ&Not@اَعۡبُدُ&I worship@مَا&what@تَعۡبُدُوۡنَ&you worship.",
+    "words": [
+      {
+        "word_id": 1,
+        "arabic": "لَاۤ  ",
+        "root": "",
+        "urdu_meaning": "نہیں",
+        "english_meaning": "Not",
+        "lemma": "لا",
+        "lughat": "",
+        "grammar": [
+          "NEG"
+        ]
+      },
+      {
+        "word_id": 2,
+        "arabic": "اَعۡبُدُ ",
+        "root": "ع ب د",
+        "urdu_meaning": "میں عبادت کرتا",
+        "english_meaning": "I worship",
+        "lemma": "عَبَدَ",
+        "lughat": "",
+        "grammar": [
+          "V"
+        ]
+      },
+      {
+        "word_id": 3,
+        "arabic": "مَا ",
+        "root": "",
+        "urdu_meaning": "جس کی",
+        "english_meaning": "what",
+        "lemma": "ما",
+        "lughat": "",
+        "grammar": [
+          "REL"
+        ]
+      },
+      {
+        "word_id": 4,
+        "arabic": "تَعۡبُدُوۡنَ ۙ﴿۲﴾",
+        "root": "ع ب د",
+        "urdu_meaning": "تم عبادت کرتے ہو",
+        "english_meaning": "you worship.",
+        "lemma": "عَبَدَ",
+        "lughat": "",
+        "grammar": [
+          "V",
+          "PRON"
+        ]
+      }
+    ]
+  },
+  {
+    "surah_id": 109,
+    "ayah_number": 3,
+    "global_ayah_id": 6318,
+    "urdu_phrase_raw": "وَلَاۤ& اور نہ@اَنۡتُمۡ& تم@عٰبِدُوۡنَ& عبادت کرنے والے ہو@مَاۤ&جس کی@اَعۡبُدُ&میں عبادت کرتا ہوں",
+    "english_phrase_raw": "وَلَاۤ&And not@اَنۡتُمۡ&you@عٰبِدُوۡنَ&(are) worshippers@مَاۤ&(of) what@اَعۡبُدُ&I worship",
+    "words": [
+      {
+        "word_id": 1,
+        "arabic": "وَ لَاۤ  ",
+        "root": "",
+        "urdu_meaning": " اور نہ",
+        "english_meaning": "And not",
+        "lemma": "لا",
+        "lughat": "",
+        "grammar": [
+          "CONJ",
+          "NEG"
+        ]
+      },
+      {
+        "word_id": 2,
+        "arabic": "اَنۡتُمۡ ",
+        "root": "",
+        "urdu_meaning": " تم",
+        "english_meaning": "you",
+        "lemma": "",
+        "lughat": "",
+        "grammar": [
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 3,
+        "arabic": "عٰبِدُوۡنَ ",
+        "root": "ع ب د",
+        "urdu_meaning": " عبادت کرنے والے ہو",
+        "english_meaning": "(are) worshippers",
+        "lemma": "عابِد",
+        "lughat": "",
+        "grammar": [
+          "N"
+        ]
+      },
+      {
+        "word_id": 4,
+        "arabic": "مَاۤ  ",
+        "root": "",
+        "urdu_meaning": "جس کی",
+        "english_meaning": "(of) what",
+        "lemma": "ما",
+        "lughat": "",
+        "grammar": [
+          "REL"
+        ]
+      },
+      {
+        "word_id": 5,
+        "arabic": "اَعۡبُدُ ۚ﴿۳﴾",
+        "root": "ع ب د",
+        "urdu_meaning": "میں عبادت کرتا ہوں",
+        "english_meaning": "I worship",
+        "lemma": "عَبَدَ",
+        "lughat": "",
+        "grammar": [
+          "V"
+        ]
+      }
+    ]
+  },
+  {
+    "surah_id": 109,
+    "ayah_number": 4,
+    "global_ayah_id": 6319,
+    "urdu_phrase_raw": "وَلَاۤ& اور نہ@اَنَا& میں@عَابِدٌ& عبادت کرنے والا ہوں@مَّا&جس کی@عَبَدۡتُّمۡ&عبادت کی تم نے",
+    "english_phrase_raw": "وَلَاۤ&And not@اَنَا&I am@عَابِدٌ&a worshipper@مَّا&(of) what@عَبَدۡتُّمۡ&you worship.",
+    "words": [
+      {
+        "word_id": 1,
+        "arabic": "وَ لَاۤ  ",
+        "root": "",
+        "urdu_meaning": " اور نہ",
+        "english_meaning": "And not",
+        "lemma": "لا",
+        "lughat": "",
+        "grammar": [
+          "CONJ",
+          "NEG"
+        ]
+      },
+      {
+        "word_id": 2,
+        "arabic": "اَنَا ",
+        "root": "",
+        "urdu_meaning": " میں",
+        "english_meaning": "I am",
+        "lemma": "",
+        "lughat": "",
+        "grammar": [
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 3,
+        "arabic": "عَابِدٌ ",
+        "root": "ع ب د",
+        "urdu_meaning": " عبادت کرنے والا ہوں",
+        "english_meaning": "a worshipper",
+        "lemma": "عابِد",
+        "lughat": "",
+        "grammar": [
+          "N"
+        ]
+      },
+      {
+        "word_id": 4,
+        "arabic": "مَّا ",
+        "root": "",
+        "urdu_meaning": "جس کی",
+        "english_meaning": "(of) what",
+        "lemma": "ما",
+        "lughat": "",
+        "grammar": [
+          "REL"
+        ]
+      },
+      {
+        "word_id": 5,
+        "arabic": "عَبَدۡتُّمۡ ۙ﴿۴﴾",
+        "root": "ع ب د",
+        "urdu_meaning": "عبادت کی تم نے",
+        "english_meaning": "you worship.",
+        "lemma": "عَبَدَ",
+        "lughat": "",
+        "grammar": [
+          "V",
+          "PRON"
+        ]
+      }
+    ]
+  },
+  {
+    "surah_id": 109,
+    "ayah_number": 5,
+    "global_ayah_id": 6320,
+    "urdu_phrase_raw": "وَلَاۤ& اور نہ@اَنۡتُمۡ& تم@عٰبِدُوۡنَ& عبادت کرنے والے ہو@مَاۤ&جس کی@اَعۡبُدُ&میں عبادت کرتا ہوں",
+    "english_phrase_raw": "وَلَاۤ&And not@اَنۡتُمۡ&you @عٰبِدُوۡنَ&(are) worshippers@مَاۤ&(of) what@اَعۡبُدُ&I worship.",
+    "words": [
+      {
+        "word_id": 1,
+        "arabic": "وَ لَاۤ  ",
+        "root": "",
+        "urdu_meaning": " اور نہ",
+        "english_meaning": "And not",
+        "lemma": "لا",
+        "lughat": "",
+        "grammar": [
+          "CONJ",
+          "NEG"
+        ]
+      },
+      {
+        "word_id": 2,
+        "arabic": "اَنۡتُمۡ ",
+        "root": "",
+        "urdu_meaning": " تم",
+        "english_meaning": "you ",
+        "lemma": "",
+        "lughat": "",
+        "grammar": [
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 3,
+        "arabic": "عٰبِدُوۡنَ ",
+        "root": "ع ب د",
+        "urdu_meaning": " عبادت کرنے والے ہو",
+        "english_meaning": "(are) worshippers",
+        "lemma": "عابِد",
+        "lughat": "",
+        "grammar": [
+          "N"
+        ]
+      },
+      {
+        "word_id": 4,
+        "arabic": "مَاۤ  ",
+        "root": "",
+        "urdu_meaning": "جس کی",
+        "english_meaning": "(of) what",
+        "lemma": "ما",
+        "lughat": "",
+        "grammar": [
+          "REL"
+        ]
+      },
+      {
+        "word_id": 5,
+        "arabic": "اَعۡبُدُ ؕ﴿۵﴾",
+        "root": "ع ب د",
+        "urdu_meaning": "میں عبادت کرتا ہوں",
+        "english_meaning": "I worship.",
+        "lemma": "عَبَدَ",
+        "lughat": "",
+        "grammar": [
+          "V"
+        ]
+      }
+    ]
+  },
+  {
+    "surah_id": 109,
+    "ayah_number": 6,
+    "global_ayah_id": 6321,
+    "urdu_phrase_raw": "لَکُمۡ&تمہارے لیے@دِیۡنُکُمۡ&تمہارا دین@وَلِیَ&اور میرے لیے@دِیۡنِ&میرا دین",
+    "english_phrase_raw": "لَکُمۡ&For you@دِیۡنُکُمۡ&(is) your religion,@وَلِیَ&and for me@دِیۡنِ&(is) my religion.",
+    "words": [
+      {
+        "word_id": 1,
+        "arabic": "لَکُمۡ  ",
+        "root": "",
+        "urdu_meaning": "تمہارے لیے",
+        "english_meaning": "For you",
+        "lemma": "",
+        "lughat": "",
+        "grammar": [
+          "P",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 2,
+        "arabic": "دِیۡنُکُمۡ  ",
+        "root": "د ي ن",
+        "urdu_meaning": "تمہارا دین",
+        "english_meaning": "(is) your religion,",
+        "lemma": "دِين",
+        "lughat": "",
+        "grammar": [
+          "N",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 3,
+        "arabic": "وَلِیَ  ",
+        "root": "",
+        "urdu_meaning": "اور میرے لیے",
+        "english_meaning": "and for me",
+        "lemma": "",
+        "lughat": "",
+        "grammar": [
+          "CONJ",
+          "P",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 4,
+        "arabic": "دِیۡنِ ٪﴿۶﴾                34",
+        "root": "د ي ن",
+        "urdu_meaning": "میرا دین",
+        "english_meaning": "(is) my religion.",
+        "lemma": "دِين",
+        "lughat": "",
+        "grammar": [
+          "N",
+          "PRON"
+        ]
+      }
+    ]
+  }
+]

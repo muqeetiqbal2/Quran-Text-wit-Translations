@@ -1,0 +1,329 @@
+[
+  {
+    "surah_id": 110,
+    "ayah_number": 0,
+    "global_ayah_id": 6322,
+    "urdu_phrase_raw": "بِسۡمِ& ساتھ نام@اللّٰہِ& اللہ کے@الرَّحۡمٰنِ&  جو بڑا مہربان@الرَّحِیۡمِ& بار بار رحم فرمانے والا ہے",
+    "english_phrase_raw": "بِسۡمِ&In (the) name@اللّٰہِ&(of) Allah,@الرَّحۡمٰنِ&the Most Gracious,@الرَّحِیۡمِ&the Most Merciful.",
+    "words": [
+      {
+        "word_id": 1,
+        "arabic": "بِسۡمِ ",
+        "root": "س م و",
+        "urdu_meaning": " ساتھ نام",
+        "english_meaning": "In (the) name",
+        "lemma": "اسْم",
+        "lughat": "",
+        "grammar": [
+          "P",
+          "N"
+        ]
+      },
+      {
+        "word_id": 2,
+        "arabic": "اللّٰہِ ",
+        "root": "ا ل ه",
+        "urdu_meaning": " اللہ کے",
+        "english_meaning": "(of) Allah,",
+        "lemma": "اللّٰہ",
+        "lughat": "",
+        "grammar": [
+          "PN"
+        ]
+      },
+      {
+        "word_id": 3,
+        "arabic": "الرَّحۡمٰنِ ",
+        "root": "ر ح م",
+        "urdu_meaning": "  جو بڑا مہربان",
+        "english_meaning": "the Most Gracious,",
+        "lemma": "رَحْمٰن",
+        "lughat": "",
+        "grammar": [
+          "DET",
+          "N"
+        ]
+      },
+      {
+        "word_id": 4,
+        "arabic": "الرَّحِیۡمِ",
+        "root": "ر ح م",
+        "urdu_meaning": " بار بار رحم فرمانے والا ہے",
+        "english_meaning": "the Most Merciful.",
+        "lemma": "رَحِيم",
+        "lughat": "",
+        "grammar": [
+          "DET",
+          "N"
+        ]
+      }
+    ]
+  },
+  {
+    "surah_id": 110,
+    "ayah_number": 1,
+    "global_ayah_id": 6323,
+    "urdu_phrase_raw": "اِذَا&جب@جَآءَ&آ جائے@نَصۡرُ&مدد@اللّٰہِ&اللہ کی@وَالۡفَتۡحُ& اور فتح",
+    "english_phrase_raw": "اِذَا&When@جَآءَ&comes@نَصۡرُ&(the) Help@اللّٰہِ&(of) Allah@وَالۡفَتۡحُ&and the Victory,",
+    "words": [
+      {
+        "word_id": 1,
+        "arabic": "اِذَا  ",
+        "root": "اِذَا",
+        "urdu_meaning": "جب",
+        "english_meaning": "When",
+        "lemma": "إِذا",
+        "lughat": "",
+        "grammar": [
+          "T"
+        ]
+      },
+      {
+        "word_id": 2,
+        "arabic": "جَآءَ  ",
+        "root": "ج ي ا",
+        "urdu_meaning": "آ جائے",
+        "english_meaning": "comes",
+        "lemma": "جاءَ",
+        "lughat": "",
+        "grammar": [
+          "V"
+        ]
+      },
+      {
+        "word_id": 3,
+        "arabic": "نَصۡرُ ",
+        "root": "ن ص ر",
+        "urdu_meaning": "مدد",
+        "english_meaning": "(the) Help",
+        "lemma": "نَصْر",
+        "lughat": "",
+        "grammar": [
+          "N"
+        ]
+      },
+      {
+        "word_id": 4,
+        "arabic": "اللّٰہِ  ",
+        "root": "ا ل ه",
+        "urdu_meaning": "اللہ کی",
+        "english_meaning": "(of) Allah",
+        "lemma": "اللّٰہ",
+        "lughat": "",
+        "grammar": [
+          "PN"
+        ]
+      },
+      {
+        "word_id": 5,
+        "arabic": "وَ  الۡفَتۡحُ ۙ﴿۱﴾",
+        "root": "ف ت ح",
+        "urdu_meaning": " اور فتح",
+        "english_meaning": "and the Victory,",
+        "lemma": "فَتْح",
+        "lughat": "",
+        "grammar": [
+          "CONJ",
+          "DET",
+          "N"
+        ]
+      }
+    ]
+  },
+  {
+    "surah_id": 110,
+    "ayah_number": 2,
+    "global_ayah_id": 6324,
+    "urdu_phrase_raw": "وَرَاَیۡتَ&اور آپ دیکھیں@النَّاسَ&لوگوں کو@یَدۡخُلُوۡنَ&وہ داخل ہو رہے ہیں@فِیۡ دِیۡنِ&دین میں@اللّٰہِ&اللہ کے@اَفۡوَاجًا& فوج در فوج",
+    "english_phrase_raw": "وَرَاَیۡتَ&And you see@النَّاسَ&the people@یَدۡخُلُوۡنَ&entering@فِیۡ &into@دِیۡنِ&(the) religion@اللّٰہِ&(of) Allah@اَفۡوَاجًا&(in) multitudes.",
+    "words": [
+      {
+        "word_id": 1,
+        "arabic": "وَ  رَاَیۡتَ ",
+        "root": "ر ا ي",
+        "urdu_meaning": "اور آپ دیکھیں",
+        "english_meaning": "And you see",
+        "lemma": "رَأَى",
+        "lughat": "",
+        "grammar": [
+          "CONJ",
+          "V",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 2,
+        "arabic": "النَّاسَ ",
+        "root": "ن و س",
+        "urdu_meaning": "لوگوں کو",
+        "english_meaning": "the people",
+        "lemma": "ناس",
+        "lughat": "",
+        "grammar": [
+          "DET",
+          "N"
+        ]
+      },
+      {
+        "word_id": 3,
+        "arabic": "یَدۡخُلُوۡنَ ",
+        "root": "د خ ل",
+        "urdu_meaning": "وہ داخل ہو رہے ہیں",
+        "english_meaning": "entering",
+        "lemma": "دَخَلَ",
+        "lughat": "",
+        "grammar": [
+          "V",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 4,
+        "arabic": "فِیۡ  ",
+        "root": "",
+        "urdu_meaning": "میں",
+        "english_meaning": "into",
+        "lemma": "فِي",
+        "lughat": "",
+        "grammar": [
+          "P"
+        ]
+      },
+      {
+        "word_id": 5,
+        "arabic": "دِیۡنِ ",
+        "root": "د ي ن",
+        "urdu_meaning": "دین",
+        "english_meaning": "(the) religion",
+        "lemma": "دِين",
+        "lughat": "",
+        "grammar": [
+          "N"
+        ]
+      },
+      {
+        "word_id": 6,
+        "arabic": "اللّٰہِ  ",
+        "root": "ا ل ه",
+        "urdu_meaning": "اللہ کے",
+        "english_meaning": "(of) Allah",
+        "lemma": "اللّٰہ",
+        "lughat": "",
+        "grammar": [
+          "PN"
+        ]
+      },
+      {
+        "word_id": 7,
+        "arabic": "اَفۡوَاجًا ۙ﴿۲﴾",
+        "root": "ف و ج",
+        "urdu_meaning": " فوج در فوج",
+        "english_meaning": "(in) multitudes.",
+        "lemma": "فَوْج",
+        "lughat": "",
+        "grammar": [
+          "N"
+        ]
+      }
+    ]
+  },
+  {
+    "surah_id": 110,
+    "ayah_number": 3,
+    "global_ayah_id": 6325,
+    "urdu_phrase_raw": "فَسَبِّحۡ&تو تسبیح کیجیے@بِحَمۡدِ&ساتھ حمد کے@رَبِّکَ& اپنے رب کی@وَاسۡتَغۡفِرۡہُ&اور بخشش مانگیے اس سے@اِنَّہٗ& بےشک وہ@کَانَ&ہے وہ@تَوَّابًا&بہت توبہ قبول کرنے والا",
+    "english_phrase_raw": "فَسَبِّحۡ&Then glorify@بِحَمۡدِ&with (the) praises@رَبِّکَ&(of) your Lord@وَاسۡتَغۡفِرۡہُ&and ask His forgiveness.@اِنَّہٗ&Indeed, He@کَانَ&is@تَوَّابًا&Oft-Returning.",
+    "words": [
+      {
+        "word_id": 1,
+        "arabic": "فَسَبِّحۡ  ",
+        "root": "س ب ح",
+        "urdu_meaning": "تو تسبیح کیجیے",
+        "english_meaning": "Then glorify",
+        "lemma": "سَبَّحَ",
+        "lughat": "",
+        "grammar": [
+          "RSLT",
+          "V"
+        ]
+      },
+      {
+        "word_id": 2,
+        "arabic": "بِحَمۡدِ ",
+        "root": "ح م د",
+        "urdu_meaning": "ساتھ حمد کے",
+        "english_meaning": "with (the) praises",
+        "lemma": "حَمْد",
+        "lughat": "",
+        "grammar": [
+          "P",
+          "N"
+        ]
+      },
+      {
+        "word_id": 3,
+        "arabic": "رَبِّکَ ",
+        "root": "ر ب ب",
+        "urdu_meaning": " اپنے رب کی",
+        "english_meaning": "(of) your Lord",
+        "lemma": "رَبّ",
+        "lughat": "",
+        "grammar": [
+          "N",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 4,
+        "arabic": "وَ اسۡتَغۡفِرۡہُ  ؕ ؔ ",
+        "root": "غ ف ر",
+        "urdu_meaning": "اور بخشش مانگیے اس سے",
+        "english_meaning": "and ask His forgiveness.",
+        "lemma": "اسْتَغْف",
+        "lughat": "",
+        "grammar": [
+          "CONJ",
+          "V",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 5,
+        "arabic": "اِنَّہٗ ",
+        "root": "اِنَّ",
+        "urdu_meaning": " بےشک وہ",
+        "english_meaning": "Indeed, He",
+        "lemma": "إِنّ",
+        "lughat": "",
+        "grammar": [
+          "ACC",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 6,
+        "arabic": "کَانَ  ",
+        "root": "ك و ن",
+        "urdu_meaning": "ہے وہ",
+        "english_meaning": "is",
+        "lemma": "كانَ",
+        "lughat": "",
+        "grammar": [
+          "V"
+        ]
+      },
+      {
+        "word_id": 7,
+        "arabic": "تَوَّابًا ٪﴿۳﴾              35",
+        "root": "ت و ب",
+        "urdu_meaning": "بہت توبہ قبول کرنے والا",
+        "english_meaning": "Oft-Returning.",
+        "lemma": "تَوّاب",
+        "lughat": "",
+        "grammar": [
+          "N"
+        ]
+      }
+    ]
+  }
+]

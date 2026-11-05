@@ -1,0 +1,392 @@
+[
+  {
+    "surah_id": 111,
+    "ayah_number": 0,
+    "global_ayah_id": 6326,
+    "urdu_phrase_raw": "بِسۡمِ& ساتھ نام@اللّٰہِ& اللہ کے@الرَّحۡمٰنِ&  جو بڑا مہربان@الرَّحِیۡمِ& بار بار رحم فرمانے والا ہے",
+    "english_phrase_raw": "بِسۡمِ&In (the) name@اللّٰہِ&(of) Allah,@الرَّحۡمٰنِ&the Most Gracious,@الرَّحِیۡمِ&the Most Merciful.",
+    "words": [
+      {
+        "word_id": 1,
+        "arabic": "بِسۡمِ ",
+        "root": "س م و",
+        "urdu_meaning": " ساتھ نام",
+        "english_meaning": "In (the) name",
+        "lemma": "اسْم",
+        "lughat": "",
+        "grammar": [
+          "P",
+          "N"
+        ]
+      },
+      {
+        "word_id": 2,
+        "arabic": "اللّٰہِ ",
+        "root": "ا ل ه",
+        "urdu_meaning": " اللہ کے",
+        "english_meaning": "(of) Allah,",
+        "lemma": "اللّٰہ",
+        "lughat": "",
+        "grammar": [
+          "PN"
+        ]
+      },
+      {
+        "word_id": 3,
+        "arabic": "الرَّحۡمٰنِ ",
+        "root": "ر ح م",
+        "urdu_meaning": "  جو بڑا مہربان",
+        "english_meaning": "the Most Gracious,",
+        "lemma": "رَحْمٰن",
+        "lughat": "",
+        "grammar": [
+          "DET",
+          "N"
+        ]
+      },
+      {
+        "word_id": 4,
+        "arabic": "الرَّحِیۡمِ",
+        "root": "ر ح م",
+        "urdu_meaning": " بار بار رحم فرمانے والا ہے",
+        "english_meaning": "the Most Merciful.",
+        "lemma": "رَحِيم",
+        "lughat": "",
+        "grammar": [
+          "DET",
+          "N"
+        ]
+      }
+    ]
+  },
+  {
+    "surah_id": 111,
+    "ayah_number": 1,
+    "global_ayah_id": 6327,
+    "urdu_phrase_raw": "تَبَّتۡ& ٹوٹ گئے@یَدَاۤ& دونوں ہاتھ@اَبِیۡ لَہَبٍ& ابولہب کے@وَّتَبَّ& اور وہ ہلاک ہوا",
+    "english_phrase_raw": "تَبَّتۡ&Perish@یَدَاۤ&(the) hands@اَبِیۡ لَہَبٍ&(of) Abu Lahab@وَّتَبَّ&and perish he.",
+    "words": [
+      {
+        "word_id": 1,
+        "arabic": "تَبَّتۡ ",
+        "root": "ت ب ب",
+        "urdu_meaning": " ٹوٹ گئے",
+        "english_meaning": "Perish",
+        "lemma": "تَبَّ",
+        "lughat": "",
+        "grammar": [
+          "V"
+        ]
+      },
+      {
+        "word_id": 2,
+        "arabic": "یَدَاۤ  ",
+        "root": "ي د ي",
+        "urdu_meaning": " دونوں ہاتھ",
+        "english_meaning": "(the) hands",
+        "lemma": "يَد",
+        "lughat": "",
+        "grammar": [
+          "N"
+        ]
+      },
+      {
+        "word_id": 3,
+        "arabic": "اَبِیۡ  ",
+        "root": "ا ب و",
+        "urdu_meaning": " ابولہب کے (ابو)",
+        "english_meaning": "(of) Abu Lahab",
+        "lemma": "أَب",
+        "lughat": "",
+        "grammar": [
+          "N"
+        ]
+      },
+      {
+        "word_id": 4,
+        "arabic": "لَہَبٍ ",
+        "root": "ل ه ب",
+        "urdu_meaning": " ابولہب کے (لہب)",
+        "english_meaning": "",
+        "lemma": "لَهَب",
+        "lughat": "",
+        "grammar": [
+          "N"
+        ]
+      },
+      {
+        "word_id": 5,
+        "arabic": "وَّ  تَبَّ ؕ﴿۱﴾",
+        "root": "ت ب ب",
+        "urdu_meaning": " اور وہ ہلاک ہوا",
+        "english_meaning": "and perish he.",
+        "lemma": "تَبَّ",
+        "lughat": "",
+        "grammar": [
+          "CONJ",
+          "V"
+        ]
+      }
+    ]
+  },
+  {
+    "surah_id": 111,
+    "ayah_number": 2,
+    "global_ayah_id": 6328,
+    "urdu_phrase_raw": "مَاۤ&نہ@اَغۡنٰی&کام آیا@عَنۡہُ&اسے@مَالُہٗ&مال اس کا@وَمَا& اور جو@کَسَبَ& اس نے کمایا",
+    "english_phrase_raw": "مَاۤ&Not@اَغۡنٰی&(will) avail@عَنۡہُ&him@مَالُہٗ&his wealth@وَمَا&and what@کَسَبَ&he earned.",
+    "words": [
+      {
+        "word_id": 1,
+        "arabic": "مَاۤ  ",
+        "root": "",
+        "urdu_meaning": "نہ",
+        "english_meaning": "Not",
+        "lemma": "ما",
+        "lughat": "",
+        "grammar": [
+          "NEG"
+        ]
+      },
+      {
+        "word_id": 2,
+        "arabic": "اَغۡنٰی ",
+        "root": "غ ن ي",
+        "urdu_meaning": "کام آیا",
+        "english_meaning": "(will) avail",
+        "lemma": "أَغْنَى",
+        "lughat": "",
+        "grammar": [
+          "V"
+        ]
+      },
+      {
+        "word_id": 3,
+        "arabic": "عَنۡہُ  ",
+        "root": "",
+        "urdu_meaning": "اسے",
+        "english_meaning": "him",
+        "lemma": "عَن",
+        "lughat": "",
+        "grammar": [
+          "P",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 4,
+        "arabic": "مَالُہٗ  ",
+        "root": "م و ل",
+        "urdu_meaning": "مال اس کا",
+        "english_meaning": "his wealth",
+        "lemma": "مال",
+        "lughat": "",
+        "grammar": [
+          "N",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 5,
+        "arabic": "وَ  مَا ",
+        "root": "",
+        "urdu_meaning": " اور جو",
+        "english_meaning": "and what",
+        "lemma": "ما",
+        "lughat": "",
+        "grammar": [
+          "CONJ",
+          "REL"
+        ]
+      },
+      {
+        "word_id": 6,
+        "arabic": "کَسَبَ ؕ﴿۲﴾",
+        "root": "ك س ب",
+        "urdu_meaning": " اس نے کمایا",
+        "english_meaning": "he earned.",
+        "lemma": "كَسَبَ",
+        "lughat": "",
+        "grammar": [
+          "V"
+        ]
+      }
+    ]
+  },
+  {
+    "surah_id": 111,
+    "ayah_number": 3,
+    "global_ayah_id": 6329,
+    "urdu_phrase_raw": "سَیَصۡلٰی&عنقریب وہ جلے گا@نَارًا& آگ میں@ذَاتَ لَہَبٍ& شعلے والی",
+    "english_phrase_raw": "سَیَصۡلٰی&He will be burnt@نَارًا&(in) a Fire@ذَاتَ لَہَبٍ&of Blazing Flames,",
+    "words": [
+      {
+        "word_id": 1,
+        "arabic": "سَیَصۡلٰی ",
+        "root": "ص ل ي",
+        "urdu_meaning": "عنقریب وہ جلے گا",
+        "english_meaning": "He will be burnt",
+        "lemma": "يَصْلَى",
+        "lughat": "",
+        "grammar": [
+          "FUT",
+          "V"
+        ]
+      },
+      {
+        "word_id": 2,
+        "arabic": "نَارًا ",
+        "root": "ن و ر",
+        "urdu_meaning": " آگ میں",
+        "english_meaning": "(in) a Fire",
+        "lemma": "نار",
+        "lughat": "",
+        "grammar": [
+          "N"
+        ]
+      },
+      {
+        "word_id": 3,
+        "arabic": "ذَاتَ  ",
+        "root": "",
+        "urdu_meaning": " شعلے والی ( والی )",
+        "english_meaning": "of Blazing Flames,",
+        "lemma": "ذُو",
+        "lughat": "",
+        "grammar": [
+          "N"
+        ]
+      },
+      {
+        "word_id": 4,
+        "arabic": "لَہَبٍ ۚ﴿ۖ۳﴾",
+        "root": "ل ه ب",
+        "urdu_meaning": " شعلے والی ( شعلے )",
+        "english_meaning": "",
+        "lemma": "لَهَب",
+        "lughat": "",
+        "grammar": [
+          "N"
+        ]
+      }
+    ]
+  },
+  {
+    "surah_id": 111,
+    "ayah_number": 4,
+    "global_ayah_id": 6330,
+    "urdu_phrase_raw": "وَّامۡرَاَتُہٗ& اور اس کی بیوی@حَمَّالَۃَ& اٹھانے والی@الۡحَطَبِ& لکڑی کے گٹھے کو",
+    "english_phrase_raw": "وَّامۡرَاَتُہٗ&And his wife,@حَمَّالَۃَ&(the) carrier@الۡحَطَبِ&(of) firewood,",
+    "words": [
+      {
+        "word_id": 1,
+        "arabic": "وَّ  امۡرَاَتُہٗ ؕ ",
+        "root": "م ر ا",
+        "urdu_meaning": " اور اس کی بیوی",
+        "english_meaning": "And his wife,",
+        "lemma": "امْرَأَت",
+        "lughat": "",
+        "grammar": [
+          "CONJ",
+          "N",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 2,
+        "arabic": "حَمَّالَۃَ  ",
+        "root": "ح م ل",
+        "urdu_meaning": " اٹھانے والی",
+        "english_meaning": "(the) carrier",
+        "lemma": "حَمّالَة",
+        "lughat": "",
+        "grammar": [
+          "N"
+        ]
+      },
+      {
+        "word_id": 3,
+        "arabic": "الۡحَطَبِ ۚ﴿۴﴾",
+        "root": "ح ط ب",
+        "urdu_meaning": " لکڑی کے گٹھے کو",
+        "english_meaning": "(of) firewood,",
+        "lemma": "حَطَب",
+        "lughat": "",
+        "grammar": [
+          "DET",
+          "N"
+        ]
+      }
+    ]
+  },
+  {
+    "surah_id": 111,
+    "ayah_number": 5,
+    "global_ayah_id": 6331,
+    "urdu_phrase_raw": "فِیۡ جِیۡدِہَا&اس کی گردن میں@حَبۡلٌ& رسی@مِّنۡ مَّسَدٍ&بٹی ہوئی",
+    "english_phrase_raw": "فِیۡ &In@جِیۡدِہَا&her neck@حَبۡلٌ&(will be) a rope@مِّنۡ &of@مَّسَدٍ&palm-fiber.",
+    "words": [
+      {
+        "word_id": 1,
+        "arabic": "فِیۡ  ",
+        "root": "",
+        "urdu_meaning": "میں",
+        "english_meaning": "In",
+        "lemma": "فِي",
+        "lughat": "",
+        "grammar": [
+          "P"
+        ]
+      },
+      {
+        "word_id": 2,
+        "arabic": "جِیۡدِہَا ",
+        "root": "ج ي د",
+        "urdu_meaning": "اس کی گردن",
+        "english_meaning": "her neck",
+        "lemma": "جِيد",
+        "lughat": "",
+        "grammar": [
+          "N",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 3,
+        "arabic": "حَبۡلٌ ",
+        "root": "ح ب ل",
+        "urdu_meaning": " رسی",
+        "english_meaning": "(will be) a rope",
+        "lemma": "حَبْل",
+        "lughat": "",
+        "grammar": [
+          "N"
+        ]
+      },
+      {
+        "word_id": 4,
+        "arabic": "مِّنۡ ",
+        "root": "",
+        "urdu_meaning": "سے",
+        "english_meaning": "of",
+        "lemma": "مِن",
+        "lughat": "",
+        "grammar": [
+          "P"
+        ]
+      },
+      {
+        "word_id": 5,
+        "arabic": "مَّسَدٍ ٪﴿۵﴾               36",
+        "root": "م س د",
+        "urdu_meaning": "بٹی ہوئی",
+        "english_meaning": "palm-fiber.",
+        "lemma": "مَسَد",
+        "lughat": "<<اَلْمَسَدُ:>> کھجور کے درخت کی پتے نکالی ہوئی شاخوں کا ریشہ، جسے بٹ کر رسی بنائی جاتی ہے۔ (1)    قرآن پاک میں ہے۔  <<( حَبۡلٌ مِّنۡ مَّسَدٍ )   (۱۱۱۔۵)>>  یعنی کھجور کے پٹھوں سے بٹی ہوئی رسی۔ <<اِمْرَئَ ۃٌ مَّمْسُوْدَۃٌ:>> بٹی ہوئی رسی کی طرح گتھے ہوئے گوشت والی ( اور معتدل قامت)  عورت۔\r\n\r\n",
+        "grammar": [
+          "N"
+        ]
+      }
+    ]
+  }
+]

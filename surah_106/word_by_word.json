@@ -1,0 +1,315 @@
+[
+  {
+    "surah_id": 106,
+    "ayah_number": 0,
+    "global_ayah_id": 6298,
+    "urdu_phrase_raw": "بِسۡمِ& ساتھ نام@اللّٰہِ& اللہ کے@الرَّحۡمٰنِ&  جو بڑا مہربان@الرَّحِیۡمِ& بار بار رحم فرمانے والا ہے",
+    "english_phrase_raw": "بِسۡمِ&In (the) name@اللّٰہِ&(of) Allah,@الرَّحۡمٰنِ&the Most Gracious,@الرَّحِیۡمِ&the Most Merciful.",
+    "words": [
+      {
+        "word_id": 1,
+        "arabic": "بِسۡمِ ",
+        "root": "س م و",
+        "urdu_meaning": " ساتھ نام",
+        "english_meaning": "In (the) name",
+        "lemma": "اسْم",
+        "lughat": "",
+        "grammar": [
+          "P",
+          "N"
+        ]
+      },
+      {
+        "word_id": 2,
+        "arabic": "اللّٰہِ ",
+        "root": "ا ل ه",
+        "urdu_meaning": " اللہ کے",
+        "english_meaning": "(of) Allah,",
+        "lemma": "اللّٰہ",
+        "lughat": "",
+        "grammar": [
+          "PN"
+        ]
+      },
+      {
+        "word_id": 3,
+        "arabic": "الرَّحۡمٰنِ ",
+        "root": "ر ح م",
+        "urdu_meaning": "  جو بڑا مہربان",
+        "english_meaning": "the Most Gracious,",
+        "lemma": "رَحْمٰن",
+        "lughat": "",
+        "grammar": [
+          "DET",
+          "N"
+        ]
+      },
+      {
+        "word_id": 4,
+        "arabic": "الرَّحِیۡمِ",
+        "root": "ر ح م",
+        "urdu_meaning": " بار بار رحم فرمانے والا ہے",
+        "english_meaning": "the Most Merciful.",
+        "lemma": "رَحِيم",
+        "lughat": "",
+        "grammar": [
+          "DET",
+          "N"
+        ]
+      }
+    ]
+  },
+  {
+    "surah_id": 106,
+    "ayah_number": 1,
+    "global_ayah_id": 6299,
+    "urdu_phrase_raw": "لِاِیۡلٰفِ& مانوس کرنے کے لئے@قُرَیۡشٍ& قریش کو",
+    "english_phrase_raw": "لِاِیۡلٰفِ&For (the) familiarity@قُرَیۡشٍ&(of the) Quraish,",
+    "words": [
+      {
+        "word_id": 1,
+        "arabic": "لِاِیۡلٰفِ ",
+        "root": "ا ل ف",
+        "urdu_meaning": " مانوس کرنے کے لئے",
+        "english_meaning": "For (the) familiarity",
+        "lemma": "إِلاف",
+        "lughat": "",
+        "grammar": [
+          "P",
+          "N"
+        ]
+      },
+      {
+        "word_id": 2,
+        "arabic": "قُرَیۡشٍ ۙ﴿۱﴾",
+        "root": "",
+        "urdu_meaning": " قریش کو",
+        "english_meaning": "(of the) Quraish,",
+        "lemma": "قُرَيْش",
+        "lughat": "",
+        "grammar": [
+          "PN"
+        ]
+      }
+    ]
+  },
+  {
+    "surah_id": 106,
+    "ayah_number": 2,
+    "global_ayah_id": 6300,
+    "urdu_phrase_raw": "اٖلٰفِہِمۡ&مانوس کرنا انہیں@رِحۡلَۃَ&سفر سے@الشِّتَآءِ&سردی کے@وَالصَّیۡفِ&اور گرمی کے",
+    "english_phrase_raw": "اٖلٰفِہِمۡ&Their familiarity@رِحۡلَۃَ&(with the) journey@الشِّتَآءِ&(of) winter@وَالصَّیۡفِ&and summer,",
+    "words": [
+      {
+        "word_id": 1,
+        "arabic": "اٖلٰفِہِمۡ  ",
+        "root": "ا ل ف",
+        "urdu_meaning": "مانوس کرنا انہیں",
+        "english_meaning": "Their familiarity",
+        "lemma": "إِلاف",
+        "lughat": "",
+        "grammar": [
+          "N",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 2,
+        "arabic": "رِحۡلَۃَ  ",
+        "root": "ر ح ل",
+        "urdu_meaning": "سفر سے",
+        "english_meaning": "(with the) journey",
+        "lemma": "رِحْلَة",
+        "lughat": "",
+        "grammar": [
+          "N"
+        ]
+      },
+      {
+        "word_id": 3,
+        "arabic": "الشِّتَآءِ  ",
+        "root": "ش ت و",
+        "urdu_meaning": "سردی کے",
+        "english_meaning": "(of) winter",
+        "lemma": "شِتاء",
+        "lughat": "قرآن مجید میں ہے: <<(رِحۡلَۃَ  الشِّتَآءِ  وَ الصَّیۡفِ ) (۱۰۶:۲)>> (یعنی) ان کو جاڑے اور گرمی کے سفر سے مانوس کرنے کے سبب۔ اور <<شَتّٰی>> اور <<اَشْتٰی>> کے معنیٰ کسی جگہ موسم سرما گزارنے یا موسم سرما میں داخل ہونے کے ہیں۔ جیسے <<صَافَ وَاَصَافَ>> کے معنیٰ موسم گرما گزارنے یا موسم گرما میں داخل ہونے کے ہوتے ہیں۔ <<اَلْمَشْتٰی وَالْمَشْتَا>> (جاڑے کا زمانہ) اسم ظرف ہے اور کبھی مصدر بن کر بھی استعمال ہوتا ہے۔ شاعر نے کہا ہے: (1) <<(۲۵۳) نَحْنُ فِی الْمَشْتَاۃِ تَدْعُوْا الْجَفَلٰی>> ہم موسم سرما  یعنی قحط سالی میں <<دعوتِ>> عام دیتے ہیں۔\r\n\r\n",
+        "grammar": [
+          "DET",
+          "N"
+        ]
+      },
+      {
+        "word_id": 4,
+        "arabic": "وَ الصَّیۡفِ ۚ﴿۲﴾",
+        "root": "ص ي ف",
+        "urdu_meaning": "اور گرمی کے",
+        "english_meaning": "and summer,",
+        "lemma": "صَيْف",
+        "lughat": "<<اَلصَّیْفُ:>> گر می کا مو سم یہ <<الشِتَا ئُ>> کے بالمقا بل ہے جس کے معنی سر دی کا مو سم کے ہیں ۔  قرآ ن پا ک میں ہے :  <<(رِحۡلَۃَ  الشِّتَآءِ  وَ الصَّیۡفِ )(۱۰۶۔۲)>> جا ڑے اور گر می کے زما نے کا سفر ۔ اور گر می کے مو سم میں جو با رش ہو اسے بھی <<صَیْفٌ>> کہا جا تا ہے جیسا کہ مو سم بہا ر کی با رش کو ربیع کہتے ہیں ۔ <<صَا فُوْا>> : گر می کے مو سم میں کسی جگہ چلے گئے اور <<اَصَا فُوْا>> مو سم گر ما میں دا خل ہو ئے ۔\r\n\r\n",
+        "grammar": [
+          "CONJ",
+          "DET",
+          "N"
+        ]
+      }
+    ]
+  },
+  {
+    "surah_id": 106,
+    "ayah_number": 3,
+    "global_ayah_id": 6301,
+    "urdu_phrase_raw": "فَلۡیَعۡبُدُوۡا& پس چاہیے کہ وہ عبادت کریں@رَبَّ& رب کی@ہٰذَا&اس@الۡبَیۡتِ&گھر کے",
+    "english_phrase_raw": "فَلۡیَعۡبُدُوۡا&So let them worship@رَبَّ&(the) Lord@ہٰذَا&(of) this@الۡبَیۡتِ&House,",
+    "words": [
+      {
+        "word_id": 1,
+        "arabic": "فَلۡیَعۡبُدُوۡا  ",
+        "root": "ع ب د",
+        "urdu_meaning": " پس چاہیے کہ وہ عبادت کریں",
+        "english_meaning": "So let them worship",
+        "lemma": "عَبَدَ",
+        "lughat": "",
+        "grammar": [
+          "CONJ",
+          "IMPV",
+          "V",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 2,
+        "arabic": "رَبَّ ",
+        "root": "ر ب ب",
+        "urdu_meaning": " رب کی",
+        "english_meaning": "(the) Lord",
+        "lemma": "رَبّ",
+        "lughat": "",
+        "grammar": [
+          "N"
+        ]
+      },
+      {
+        "word_id": 3,
+        "arabic": "ہٰذَا ",
+        "root": "",
+        "urdu_meaning": "اس",
+        "english_meaning": "(of) this",
+        "lemma": "ذا",
+        "lughat": "",
+        "grammar": [
+          "ATT",
+          "DEM"
+        ]
+      },
+      {
+        "word_id": 4,
+        "arabic": "الۡبَیۡتِ ۙ﴿۳﴾",
+        "root": "ب ي ت",
+        "urdu_meaning": "گھر کے",
+        "english_meaning": "House,",
+        "lemma": "بَيْت",
+        "lughat": "",
+        "grammar": [
+          "DET",
+          "N"
+        ]
+      }
+    ]
+  },
+  {
+    "surah_id": 106,
+    "ayah_number": 4,
+    "global_ayah_id": 6302,
+    "urdu_phrase_raw": "الَّذِیۡۤ& جس نے@اَطۡعَمَہُمۡ&کھلایا انہیں@مِّنۡ جُوۡعٍ&بھوک سے@وَّاٰمَنَہُمۡ&اور اس نے امن دیا انہیں@مِّنۡ خَوۡفٍ& خوف سے",
+    "english_phrase_raw": "الَّذِیۡۤ&The One Who@اَطۡعَمَہُمۡ&feeds them@مِّنۡ &from@جُوۡعٍ&(against) hunger@وَّاٰمَنَہُمۡ&and gives them security@مِّنۡ &from@خَوۡفٍ&fear.",
+    "words": [
+      {
+        "word_id": 1,
+        "arabic": "الَّذِیۡۤ  ",
+        "root": "ٱلَّذِى",
+        "urdu_meaning": " جس نے",
+        "english_meaning": "The One Who",
+        "lemma": "الَّذِي",
+        "lughat": "",
+        "grammar": [
+          "REL"
+        ]
+      },
+      {
+        "word_id": 2,
+        "arabic": "اَطۡعَمَہُمۡ  ",
+        "root": "ط ع م",
+        "urdu_meaning": "کھلایا انہیں",
+        "english_meaning": "feeds them",
+        "lemma": "أَطْعَمَ",
+        "lughat": "",
+        "grammar": [
+          "V",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 3,
+        "arabic": "مِّنۡ ",
+        "root": "",
+        "urdu_meaning": "سے",
+        "english_meaning": "from",
+        "lemma": "مِن",
+        "lughat": "",
+        "grammar": [
+          "P"
+        ]
+      },
+      {
+        "word_id": 4,
+        "arabic": "جُوۡعٍ   ۬ ۙ ",
+        "root": "ج و ع",
+        "urdu_meaning": "بھوک",
+        "english_meaning": "(against) hunger",
+        "lemma": "جُوع",
+        "lughat": "",
+        "grammar": [
+          "N"
+        ]
+      },
+      {
+        "word_id": 5,
+        "arabic": "وَّ اٰمَنَہُمۡ ",
+        "root": "ا م ن",
+        "urdu_meaning": "اور اس نے امن دیا انہیں",
+        "english_meaning": "and gives them security",
+        "lemma": "آمَنَ",
+        "lughat": "",
+        "grammar": [
+          "CONJ",
+          "V",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 6,
+        "arabic": "مِّنۡ ",
+        "root": "",
+        "urdu_meaning": "سے",
+        "english_meaning": "from",
+        "lemma": "مِن",
+        "lughat": "",
+        "grammar": [
+          "P"
+        ]
+      },
+      {
+        "word_id": 7,
+        "arabic": "خَوۡفٍ ٪﴿۴﴾               31",
+        "root": "خ و ف",
+        "urdu_meaning": "خوف",
+        "english_meaning": "fear.",
+        "lemma": "خَوْف",
+        "lughat": "",
+        "grammar": [
+          "N"
+        ]
+      }
+    ]
+  }
+]

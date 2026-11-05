@@ -1,0 +1,482 @@
+[
+  {
+    "surah_id": 97,
+    "ayah_number": 0,
+    "global_ayah_id": 6221,
+    "urdu_phrase_raw": "بِسۡمِ& ساتھ نام@اللّٰہِ& اللہ کے@الرَّحۡمٰنِ&  جو بڑا مہربان@الرَّحِیۡمِ& بار بار رحم فرمانے والا ہے",
+    "english_phrase_raw": "بِسۡمِ&In (the) name@اللّٰہِ&(of) Allah,@الرَّحۡمٰنِ&the Most Gracious,@الرَّحِیۡمِ&the Most Merciful.",
+    "words": [
+      {
+        "word_id": 1,
+        "arabic": "بِسۡمِ ",
+        "root": "س م و",
+        "urdu_meaning": " ساتھ نام",
+        "english_meaning": "In (the) name",
+        "lemma": "اسْم",
+        "lughat": "",
+        "grammar": [
+          "P",
+          "N"
+        ]
+      },
+      {
+        "word_id": 2,
+        "arabic": "اللّٰہِ ",
+        "root": "ا ل ه",
+        "urdu_meaning": " اللہ کے",
+        "english_meaning": "(of) Allah,",
+        "lemma": "اللّٰہ",
+        "lughat": "",
+        "grammar": [
+          "PN"
+        ]
+      },
+      {
+        "word_id": 3,
+        "arabic": "الرَّحۡمٰنِ ",
+        "root": "ر ح م",
+        "urdu_meaning": "  جو بڑا مہربان",
+        "english_meaning": "the Most Gracious,",
+        "lemma": "رَحْمٰن",
+        "lughat": "",
+        "grammar": [
+          "DET",
+          "N"
+        ]
+      },
+      {
+        "word_id": 4,
+        "arabic": "الرَّحِیۡمِ",
+        "root": "ر ح م",
+        "urdu_meaning": " بار بار رحم فرمانے والا ہے",
+        "english_meaning": "the Most Merciful.",
+        "lemma": "رَحِيم",
+        "lughat": "",
+        "grammar": [
+          "DET",
+          "N"
+        ]
+      }
+    ]
+  },
+  {
+    "surah_id": 97,
+    "ayah_number": 1,
+    "global_ayah_id": 6222,
+    "urdu_phrase_raw": "اِنَّاۤ&بےشک ہم@اَنۡزَلۡنٰہُ&نازل کیا ہم نے اسے@فِیۡ لَیۡلَۃِ الۡقَدۡرِ& لیلۃ القدر میں",
+    "english_phrase_raw": "اِنَّاۤ&Indeed, We@اَنۡزَلۡنٰہُ&revealed it@فِیۡ &in@لَیۡلَۃِ &(the) Night@الۡقَدۡرِ&(of) Power.",
+    "words": [
+      {
+        "word_id": 1,
+        "arabic": "اِنَّاۤ  ",
+        "root": "اِنَّ",
+        "urdu_meaning": "بےشک ہم",
+        "english_meaning": "Indeed, We",
+        "lemma": "إِنّ",
+        "lughat": "",
+        "grammar": [
+          "ACC",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 2,
+        "arabic": "اَنۡزَلۡنٰہُ  ",
+        "root": "ن ز ل",
+        "urdu_meaning": "نازل کیا ہم نے اسے",
+        "english_meaning": "revealed it",
+        "lemma": "أَنزَلَ",
+        "lughat": "",
+        "grammar": [
+          "V",
+          "PRON",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 3,
+        "arabic": "فِیۡ  ",
+        "root": "",
+        "urdu_meaning": "میں",
+        "english_meaning": "in",
+        "lemma": "فِي",
+        "lughat": "",
+        "grammar": [
+          "P"
+        ]
+      },
+      {
+        "word_id": 4,
+        "arabic": "لَیۡلَۃِ  ",
+        "root": "ل ي ل",
+        "urdu_meaning": "رات",
+        "english_meaning": "(the) Night",
+        "lemma": "لَيْلَة",
+        "lughat": "",
+        "grammar": [
+          "N"
+        ]
+      },
+      {
+        "word_id": 5,
+        "arabic": "الۡقَدۡرِ ۚ﴿ۖ۱﴾",
+        "root": "ق د ر",
+        "urdu_meaning": "عزت والی",
+        "english_meaning": "(of) Power.",
+        "lemma": "قَدْر",
+        "lughat": "",
+        "grammar": [
+          "DET",
+          "N"
+        ]
+      }
+    ]
+  },
+  {
+    "surah_id": 97,
+    "ayah_number": 2,
+    "global_ayah_id": 6223,
+    "urdu_phrase_raw": "وَمَاۤ&اور کیا چیز@اَدۡرٰىکَ&بتائے آپ کو@مَا&کیا ہے@لَیۡلَۃُ الۡقَدۡرِ&لیلۃ القدر",
+    "english_phrase_raw": "وَمَاۤ&And what@اَدۡرٰىکَ&can make you know@مَا&what@لَیۡلَۃُ &(the) Night@الۡقَدۡرِ&(of) Power (is)?",
+    "words": [
+      {
+        "word_id": 1,
+        "arabic": "وَ مَاۤ  ",
+        "root": "",
+        "urdu_meaning": "اور کیا چیز",
+        "english_meaning": "And what",
+        "lemma": "ما",
+        "lughat": "",
+        "grammar": [
+          "CONJ",
+          "INTG"
+        ]
+      },
+      {
+        "word_id": 2,
+        "arabic": "اَدۡرٰىکَ ",
+        "root": "د ر ي",
+        "urdu_meaning": "بتائے آپ کو",
+        "english_meaning": "can make you know",
+        "lemma": "أَدْرَى",
+        "lughat": "",
+        "grammar": [
+          "V",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 3,
+        "arabic": "مَا ",
+        "root": "",
+        "urdu_meaning": "کیا ہے",
+        "english_meaning": "what",
+        "lemma": "ما",
+        "lughat": "",
+        "grammar": [
+          "INTG"
+        ]
+      },
+      {
+        "word_id": 4,
+        "arabic": "لَیۡلَۃُ  ",
+        "root": "ل ي ل",
+        "urdu_meaning": "لیلۃ القدر (رات )",
+        "english_meaning": "(the) Night",
+        "lemma": "لَيْلَة",
+        "lughat": "",
+        "grammar": [
+          "N"
+        ]
+      },
+      {
+        "word_id": 5,
+        "arabic": "الۡقَدۡرِ ؕ﴿۲﴾",
+        "root": "ق د ر",
+        "urdu_meaning": "لیلۃ القدر (قدر )",
+        "english_meaning": "(of) Power (is)?",
+        "lemma": "قَدْر",
+        "lughat": "",
+        "grammar": [
+          "DET",
+          "N"
+        ]
+      }
+    ]
+  },
+  {
+    "surah_id": 97,
+    "ayah_number": 3,
+    "global_ayah_id": 6224,
+    "urdu_phrase_raw": "لَیۡلَۃُ الۡقَدۡرِ& لیلۃ القدر@خَیۡرٌ& بہتر ہے@مِّنۡ اَلۡفِ شَہۡرٍ& ہزار مہینوں سے",
+    "english_phrase_raw": "لَیۡلَۃُ &(The) Night@الۡقَدۡرِ&(of) Power@خَیۡرٌ&(is) better@مِّنۡ &than@اَلۡفِ &a thousand@شَہۡرٍ&month(s).",
+    "words": [
+      {
+        "word_id": 1,
+        "arabic": "لَیۡلَۃُ  ",
+        "root": "ل ي ل",
+        "urdu_meaning": "لیلۃ القدر (رات )",
+        "english_meaning": "(The) Night",
+        "lemma": "لَيْلَة",
+        "lughat": "",
+        "grammar": [
+          "N"
+        ]
+      },
+      {
+        "word_id": 2,
+        "arabic": "الۡقَدۡرِ   ۬ ۙ ",
+        "root": "ق د ر",
+        "urdu_meaning": "لیلۃ القدر (قدر )",
+        "english_meaning": "(of) Power",
+        "lemma": "قَدْر",
+        "lughat": "",
+        "grammar": [
+          "DET",
+          "N"
+        ]
+      },
+      {
+        "word_id": 3,
+        "arabic": "خَیۡرٌ  ",
+        "root": "خ ي ر",
+        "urdu_meaning": " بہتر ہے",
+        "english_meaning": "(is) better",
+        "lemma": "خَيْر",
+        "lughat": "",
+        "grammar": [
+          "N"
+        ]
+      },
+      {
+        "word_id": 4,
+        "arabic": "مِّنۡ  ",
+        "root": "",
+        "urdu_meaning": " سے",
+        "english_meaning": "than",
+        "lemma": "مِن",
+        "lughat": "",
+        "grammar": [
+          "P"
+        ]
+      },
+      {
+        "word_id": 5,
+        "arabic": "اَلۡفِ ",
+        "root": "ا ل ف",
+        "urdu_meaning": "ہزار  ",
+        "english_meaning": "a thousand",
+        "lemma": "أَلْف",
+        "lughat": "",
+        "grammar": [
+          "N"
+        ]
+      },
+      {
+        "word_id": 6,
+        "arabic": "شَہۡرٍ ؕ﴿ؔ۳﴾",
+        "root": "ش ه ر",
+        "urdu_meaning": "مہینوں",
+        "english_meaning": "month(s).",
+        "lemma": "شَهْر",
+        "lughat": "",
+        "grammar": [
+          "N"
+        ]
+      }
+    ]
+  },
+  {
+    "surah_id": 97,
+    "ayah_number": 4,
+    "global_ayah_id": 6225,
+    "urdu_phrase_raw": "تَنَزَّلُ&اترتے ہیں@الۡمَلٰٓئِکَۃُ&فرشتے@وَالرُّوۡحُ&اور روح(جبرائیل)@فِیۡہَا& اس میں@بِاِذۡنِ رَبِّہِمۡ&اپنے رب کے اذن سے@مِنۡ کُلِّ اَمۡرٍ&ہر کام کے لیے",
+    "english_phrase_raw": "تَنَزَّلُ&Descend@الۡمَلٰٓئِکَۃُ&the Angels@وَالرُّوۡحُ&and the Spirit@فِیۡہَا&therein,@بِاِذۡنِ &by (the) permission@رَبِّہِمۡ&(of) their Lord,@مِنۡ &for@کُلِّ &every@اَمۡرٍ&affair,",
+    "words": [
+      {
+        "word_id": 1,
+        "arabic": "تَنَزَّلُ ",
+        "root": "ن ز ل",
+        "urdu_meaning": "اترتے ہیں",
+        "english_meaning": "Descend",
+        "lemma": "تَنَزَّل",
+        "lughat": "",
+        "grammar": [
+          "V"
+        ]
+      },
+      {
+        "word_id": 2,
+        "arabic": "الۡمَلٰٓئِکَۃُ ",
+        "root": "م ل ك",
+        "urdu_meaning": "فرشتے",
+        "english_meaning": "the Angels",
+        "lemma": "مَلَك",
+        "lughat": "",
+        "grammar": [
+          "DET",
+          "N"
+        ]
+      },
+      {
+        "word_id": 3,
+        "arabic": "وَ الرُّوۡحُ  ",
+        "root": "ر و ح",
+        "urdu_meaning": "اور روح(جبرائیل)",
+        "english_meaning": "and the Spirit",
+        "lemma": "رُوح",
+        "lughat": "",
+        "grammar": [
+          "CONJ",
+          "DET",
+          "N"
+        ]
+      },
+      {
+        "word_id": 4,
+        "arabic": "فِیۡہَا ",
+        "root": "",
+        "urdu_meaning": " اس میں",
+        "english_meaning": "therein,",
+        "lemma": "فِي",
+        "lughat": "",
+        "grammar": [
+          "P",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 5,
+        "arabic": "بِاِذۡنِ ",
+        "root": "ا ذ ن",
+        "urdu_meaning": "ساتھ حکم سے",
+        "english_meaning": "by (the) permission",
+        "lemma": "إِذْن",
+        "lughat": "",
+        "grammar": [
+          "P",
+          "N"
+        ]
+      },
+      {
+        "word_id": 6,
+        "arabic": "رَبِّہِمۡ ۚ ",
+        "root": "ر ب ب",
+        "urdu_meaning": "اپنے رب کے",
+        "english_meaning": "(of) their Lord,",
+        "lemma": "رَبّ",
+        "lughat": "",
+        "grammar": [
+          "N",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 7,
+        "arabic": "مِنۡ  ",
+        "root": "",
+        "urdu_meaning": "سے",
+        "english_meaning": "for",
+        "lemma": "مِن",
+        "lughat": "",
+        "grammar": [
+          "P"
+        ]
+      },
+      {
+        "word_id": 8,
+        "arabic": "کُلِّ  ",
+        "root": "ك ل ل",
+        "urdu_meaning": "ہر",
+        "english_meaning": "every",
+        "lemma": "كُلّ",
+        "lughat": "",
+        "grammar": [
+          "N"
+        ]
+      },
+      {
+        "word_id": 9,
+        "arabic": "اَمۡرٍ ۙ﴿ۛ۴﴾",
+        "root": "ا م ر",
+        "urdu_meaning": "حکم",
+        "english_meaning": "affair,",
+        "lemma": "أَمْر",
+        "lughat": "",
+        "grammar": [
+          "N"
+        ]
+      }
+    ]
+  },
+  {
+    "surah_id": 97,
+    "ayah_number": 5,
+    "global_ayah_id": 6226,
+    "urdu_phrase_raw": "سَلٰمٌ&سلامتی ہے@ہِیَ&وہ@حَتّٰی&یہاں تک کہ@مَطۡلَعِ&طلوع ہو جائے @الۡفَجۡرِ&فجر",
+    "english_phrase_raw": "سَلٰمٌ&Peace@ہِیَ&it (is)@حَتّٰی&until@مَطۡلَعِ&(the) emergence@الۡفَجۡرِ&(of) the dawn.",
+    "words": [
+      {
+        "word_id": 1,
+        "arabic": "سَلٰم  ٌ   ۟ ۛ ",
+        "root": "س ل م",
+        "urdu_meaning": "سلامتی ہے",
+        "english_meaning": "Peace",
+        "lemma": "سَلام",
+        "lughat": "",
+        "grammar": [
+          "N"
+        ]
+      },
+      {
+        "word_id": 2,
+        "arabic": "ہِیَ ",
+        "root": "",
+        "urdu_meaning": "وہ",
+        "english_meaning": "it (is)",
+        "lemma": "",
+        "lughat": "",
+        "grammar": [
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 3,
+        "arabic": "حَتّٰی ",
+        "root": "",
+        "urdu_meaning": "یہاں تک کہ",
+        "english_meaning": "until",
+        "lemma": "حَتَّى",
+        "lughat": "",
+        "grammar": [
+          "P"
+        ]
+      },
+      {
+        "word_id": 4,
+        "arabic": "مَطۡلَعِ  ",
+        "root": "ط ل ع",
+        "urdu_meaning": "طلوع ہو جائے ",
+        "english_meaning": "(the) emergence",
+        "lemma": "مَطْلَع",
+        "lughat": "",
+        "grammar": [
+          "N"
+        ]
+      },
+      {
+        "word_id": 5,
+        "arabic": "الۡفَجۡرِ ٪﴿۵﴾ ؓ        22",
+        "root": "ف ج ر",
+        "urdu_meaning": "فجر",
+        "english_meaning": "(of) the dawn.",
+        "lemma": "فَجْر",
+        "lughat": "",
+        "grammar": [
+          "DET",
+          "N"
+        ]
+      }
+    ]
+  }
+]

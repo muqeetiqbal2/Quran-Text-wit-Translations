@@ -1,0 +1,396 @@
+[
+  {
+    "surah_id": 105,
+    "ayah_number": 0,
+    "global_ayah_id": 6292,
+    "urdu_phrase_raw": "بِسۡمِ& ساتھ نام@اللّٰہِ& اللہ کے@الرَّحۡمٰنِ&  جو بڑا مہربان@الرَّحِیۡمِ& بار بار رحم فرمانے والا ہے",
+    "english_phrase_raw": "بِسۡمِ&In (the) name@اللّٰہِ&(of) Allah,@الرَّحۡمٰنِ&the Most Gracious,@الرَّحِیۡمِ&the Most Merciful.",
+    "words": [
+      {
+        "word_id": 1,
+        "arabic": "بِسۡمِ ",
+        "root": "س م و",
+        "urdu_meaning": " ساتھ نام",
+        "english_meaning": "In (the) name",
+        "lemma": "اسْم",
+        "lughat": "",
+        "grammar": [
+          "P",
+          "N"
+        ]
+      },
+      {
+        "word_id": 2,
+        "arabic": "اللّٰہِ ",
+        "root": "ا ل ه",
+        "urdu_meaning": " اللہ کے",
+        "english_meaning": "(of) Allah,",
+        "lemma": "اللّٰہ",
+        "lughat": "",
+        "grammar": [
+          "PN"
+        ]
+      },
+      {
+        "word_id": 3,
+        "arabic": "الرَّحۡمٰنِ ",
+        "root": "ر ح م",
+        "urdu_meaning": "  جو بڑا مہربان",
+        "english_meaning": "the Most Gracious,",
+        "lemma": "رَحْمٰن",
+        "lughat": "",
+        "grammar": [
+          "DET",
+          "N"
+        ]
+      },
+      {
+        "word_id": 4,
+        "arabic": "الرَّحِیۡمِ",
+        "root": "ر ح م",
+        "urdu_meaning": " بار بار رحم فرمانے والا ہے",
+        "english_meaning": "the Most Merciful.",
+        "lemma": "رَحِيم",
+        "lughat": "",
+        "grammar": [
+          "DET",
+          "N"
+        ]
+      }
+    ]
+  },
+  {
+    "surah_id": 105,
+    "ayah_number": 1,
+    "global_ayah_id": 6293,
+    "urdu_phrase_raw": "اَلَمۡ&کیا نہیں@تَرَ&آپ نے دیکھا@کَیۡفَ& کس طرح@فَعَلَ&کیا@رَبُّکَ&اپ کے رب نے@بِاَصۡحٰبِ الۡفِیۡلِ& ہاتھی والوں کے ساتھ",
+    "english_phrase_raw": "اَلَمۡ&Have not@تَرَ&you seen@کَیۡفَ&how@فَعَلَ&dealt@رَبُّکَ&your Lord@بِاَصۡحٰبِ &with (the) Companions@الۡفِیۡلِ&(of the) Elephant?",
+    "words": [
+      {
+        "word_id": 1,
+        "arabic": "اَلَمۡ  ",
+        "root": "",
+        "urdu_meaning": "کیا نہیں",
+        "english_meaning": "Have not",
+        "lemma": "لَم",
+        "lughat": "",
+        "grammar": [
+          "INTG",
+          "NEG"
+        ]
+      },
+      {
+        "word_id": 2,
+        "arabic": "تَرَ ",
+        "root": "ر ا ي",
+        "urdu_meaning": "آپ نے دیکھا",
+        "english_meaning": "you seen",
+        "lemma": "رَأَى",
+        "lughat": "",
+        "grammar": [
+          "V"
+        ]
+      },
+      {
+        "word_id": 3,
+        "arabic": "کَیۡفَ ",
+        "root": "ك ي ف",
+        "urdu_meaning": " کس طرح",
+        "english_meaning": "how",
+        "lemma": "كَيْف",
+        "lughat": "",
+        "grammar": [
+          "INTG"
+        ]
+      },
+      {
+        "word_id": 4,
+        "arabic": "فَعَلَ ",
+        "root": "ف ع ل",
+        "urdu_meaning": "کیا",
+        "english_meaning": "dealt",
+        "lemma": "فَعَلَ",
+        "lughat": "",
+        "grammar": [
+          "V"
+        ]
+      },
+      {
+        "word_id": 5,
+        "arabic": "رَبُّکَ  ",
+        "root": "ر ب ب",
+        "urdu_meaning": "آپ کے رب نے",
+        "english_meaning": "your Lord",
+        "lemma": "رَبّ",
+        "lughat": "",
+        "grammar": [
+          "N",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 6,
+        "arabic": "بِاَصۡحٰبِ ",
+        "root": "ص ح ب",
+        "urdu_meaning": " ہاتھی والوں کے ساتھ ( والوں کے ساتھ )",
+        "english_meaning": "with (the) Companions",
+        "lemma": "أَصْحاب",
+        "lughat": "",
+        "grammar": [
+          "P",
+          "N"
+        ]
+      },
+      {
+        "word_id": 7,
+        "arabic": "الۡفِیۡلِ ؕ﴿۱﴾",
+        "root": "ف ي ل",
+        "urdu_meaning": " ہاتھی والوں کے ساتھ ( ہاتھی )",
+        "english_meaning": "(of the) Elephant?",
+        "lemma": "فِيل",
+        "lughat": "<<اَلْفِیْلُ:>> ہاتھی جمع۔ <<فِیْلَۃٌ وَفُیُوْلٌ>> قرآن پاک میں ہے: <<(اَلَمۡ  تَرَ کَیۡفَ فَعَلَ رَبُّکَ  بِاَصۡحٰبِ الۡفِیۡلِ) (۱۰۵:۱)>> کیا تم نے نہیں دیکھا کہ تمہارے پروردگار نے ہاتھی والوں کے ساتھ کیا کیا۔ <<رَجُلٌ فِیْلُ الرَّأْیِ وَفَالُ الرَأْیِ:>> کمزور رائے آدی۔ <<اَلْمُفَایَلَۃُ:>> ایک قسم کا کھیل جس میں بچے کوئی چیز مٹی میں چھپا دیتے ہیں پھر اس مٹی کو مٹھیاں بھربھر کر تقسیم کرتے ہیں اور دیکھتے ہیں کہ وہ کس کے حصہ میں آتی ہے اور <<فَائِلٌ:>> سرین کے گڑھے یا گوشت کے نیچے ایک رگ کا نام ہے۔\r\n\r\n",
+        "grammar": [
+          "DET",
+          "N"
+        ]
+      }
+    ]
+  },
+  {
+    "surah_id": 105,
+    "ayah_number": 2,
+    "global_ayah_id": 6294,
+    "urdu_phrase_raw": "اَلَمۡ&کیا نہیں@یَجۡعَلۡ&اس کے کر دیا تھا@کَیۡدَہُمۡ& ان کی چال کو@فِیۡ تَضۡلِیۡلٍ&بےکار/اکارت",
+    "english_phrase_raw": "اَلَمۡ&Did not@یَجۡعَلۡ&He make@کَیۡدَہُمۡ&their plan@فِیۡ تَضۡلِیۡلٍ&go astray?",
+    "words": [
+      {
+        "word_id": 1,
+        "arabic": "اَلَمۡ  ",
+        "root": "",
+        "urdu_meaning": "کیا نہیں",
+        "english_meaning": "Did not",
+        "lemma": "لَم",
+        "lughat": "",
+        "grammar": [
+          "INTG",
+          "NEG"
+        ]
+      },
+      {
+        "word_id": 2,
+        "arabic": "یَجۡعَلۡ  ",
+        "root": "ج ع ل",
+        "urdu_meaning": "اس نے کر دیا تھا",
+        "english_meaning": "He make",
+        "lemma": "جَعَلَ",
+        "lughat": "",
+        "grammar": [
+          "V"
+        ]
+      },
+      {
+        "word_id": 3,
+        "arabic": "کَیۡدَہُمۡ ",
+        "root": "ك ي د",
+        "urdu_meaning": " ان کی چال کو",
+        "english_meaning": "their plan",
+        "lemma": "كَيْد",
+        "lughat": "",
+        "grammar": [
+          "N",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 4,
+        "arabic": "فِیۡ  ",
+        "root": "",
+        "urdu_meaning": "میں",
+        "english_meaning": "go astray?",
+        "lemma": "فِي",
+        "lughat": "",
+        "grammar": [
+          "P"
+        ]
+      },
+      {
+        "word_id": 5,
+        "arabic": "تَضۡلِیۡلٍ ۙ﴿۲﴾",
+        "root": "ض ل ل",
+        "urdu_meaning": "بےکار/اکارت",
+        "english_meaning": "",
+        "lemma": "تَضْلِيل",
+        "lughat": "",
+        "grammar": [
+          "N"
+        ]
+      }
+    ]
+  },
+  {
+    "surah_id": 105,
+    "ayah_number": 3,
+    "global_ayah_id": 6295,
+    "urdu_phrase_raw": "وَّاَرۡسَلَ&اور اس نے بھیجے@عَلَیۡہِمۡ&ان پر@طَیۡرًا&پرندے@اَبَابِیۡلَ&جھنڈ کے جھنڈ",
+    "english_phrase_raw": "وَّاَرۡسَلَ&And He sent@عَلَیۡہِمۡ&against them@طَیۡرًا&birds@اَبَابِیۡلَ&(in) flocks.",
+    "words": [
+      {
+        "word_id": 1,
+        "arabic": "وَّ  اَرۡسَلَ ",
+        "root": "ر س ل",
+        "urdu_meaning": "اور اس نے بھیجے",
+        "english_meaning": "And He sent",
+        "lemma": "أَرْسَلَ",
+        "lughat": "",
+        "grammar": [
+          "CONJ",
+          "V"
+        ]
+      },
+      {
+        "word_id": 2,
+        "arabic": "عَلَیۡہِمۡ  ",
+        "root": "",
+        "urdu_meaning": "ان پر",
+        "english_meaning": "against them",
+        "lemma": "عَلَى",
+        "lughat": "",
+        "grammar": [
+          "P",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 3,
+        "arabic": "طَیۡرًا  ",
+        "root": "ط ي ر",
+        "urdu_meaning": "پرندے",
+        "english_meaning": "birds",
+        "lemma": "طَيْر",
+        "lughat": "",
+        "grammar": [
+          "N"
+        ]
+      },
+      {
+        "word_id": 4,
+        "arabic": "اَبَابِیۡلَ ۙ﴿۳﴾",
+        "root": "ا ب ل",
+        "urdu_meaning": "جھنڈ کے جھنڈ",
+        "english_meaning": "(in) flocks.",
+        "lemma": "أَبابِيل",
+        "lughat": "",
+        "grammar": [
+          "ADJ"
+        ]
+      }
+    ]
+  },
+  {
+    "surah_id": 105,
+    "ayah_number": 4,
+    "global_ayah_id": 6296,
+    "urdu_phrase_raw": "تَرۡمِیۡہِمۡ&جو پھینکتے تھے ان پر@بِحِجَارَۃٍ& پتھر@مِّنۡ سِجِّیۡلٍ&کنکر کی (قسم) کے",
+    "english_phrase_raw": "تَرۡمِیۡہِمۡ&Striking them@بِحِجَارَۃٍ&with stones@مِّنۡ &of@سِجِّیۡلٍ&baked clay.",
+    "words": [
+      {
+        "word_id": 1,
+        "arabic": "تَرۡمِیۡہِمۡ  ",
+        "root": "ر م ي",
+        "urdu_meaning": "جو پھینکتے تھے ان پر",
+        "english_meaning": "Striking them",
+        "lemma": "رَمَى",
+        "lughat": "",
+        "grammar": [
+          "V",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 2,
+        "arabic": "بِحِجَارَۃٍ  ",
+        "root": "ح ج ر",
+        "urdu_meaning": "کنکریاں",
+        "english_meaning": "with stones",
+        "lemma": "حِجارَة",
+        "lughat": "",
+        "grammar": [
+          "P",
+          "N"
+        ]
+      },
+      {
+        "word_id": 3,
+        "arabic": "مِّنۡ ",
+        "root": "",
+        "urdu_meaning": "سے",
+        "english_meaning": "of",
+        "lemma": "مِن",
+        "lughat": "",
+        "grammar": [
+          "P"
+        ]
+      },
+      {
+        "word_id": 4,
+        "arabic": "سِجِّیۡلٍ ۪ۙ﴿۴﴾",
+        "root": "س ج ل",
+        "urdu_meaning": "سنگ گل",
+        "english_meaning": "baked clay.",
+        "lemma": "سِجِّيل",
+        "lughat": "",
+        "grammar": [
+          "N"
+        ]
+      }
+    ]
+  },
+  {
+    "surah_id": 105,
+    "ayah_number": 5,
+    "global_ayah_id": 6297,
+    "urdu_phrase_raw": "فَجَعَلَہُمۡ&تو اس نے کر دیا انہیں@کَعَصۡفٍ& بھوسے کی طرح@مَّاۡکُوۡلٍ&کھائے ہوئے",
+    "english_phrase_raw": "فَجَعَلَہُمۡ&Then He made them@کَعَصۡفٍ&like straw@مَّاۡکُوۡلٍ&eaten up.",
+    "words": [
+      {
+        "word_id": 1,
+        "arabic": "فَجَعَلَہُمۡ ",
+        "root": "ج ع ل",
+        "urdu_meaning": "تو اس نے کر دیا انہیں",
+        "english_meaning": "Then He made them",
+        "lemma": "جَعَلَ",
+        "lughat": "",
+        "grammar": [
+          "CONJ",
+          "V",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 2,
+        "arabic": "کَعَصۡفٍ ",
+        "root": "ع ص ف",
+        "urdu_meaning": " بھوسے کی طرح",
+        "english_meaning": "like straw",
+        "lemma": "عَصْف",
+        "lughat": "",
+        "grammar": [
+          "P",
+          "N"
+        ]
+      },
+      {
+        "word_id": 3,
+        "arabic": "مَّاۡکُوۡلٍ ٪﴿۵﴾                  30",
+        "root": "ا ك ل",
+        "urdu_meaning": "کھائے ہوئے",
+        "english_meaning": "eaten up.",
+        "lemma": "مَأْكُول",
+        "lughat": "",
+        "grammar": [
+          "ADJ"
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,273 @@
+[
+  {
+    "surah_id": 103,
+    "ayah_number": 0,
+    "global_ayah_id": 6278,
+    "urdu_phrase_raw": "بِسۡمِ& ساتھ نام@اللّٰہِ& اللہ کے@الرَّحۡمٰنِ&  جو بڑا مہربان@الرَّحِیۡمِ& بار بار رحم فرمانے والا ہے",
+    "english_phrase_raw": "بِسۡمِ&In (the) name@اللّٰہِ&(of) Allah,@الرَّحۡمٰنِ&the Most Gracious,@الرَّحِیۡمِ&the Most Merciful.",
+    "words": [
+      {
+        "word_id": 1,
+        "arabic": "بِسۡمِ ",
+        "root": "س م و",
+        "urdu_meaning": " ساتھ نام",
+        "english_meaning": "In (the) name",
+        "lemma": "اسْم",
+        "lughat": "",
+        "grammar": [
+          "P",
+          "N"
+        ]
+      },
+      {
+        "word_id": 2,
+        "arabic": "اللّٰہِ ",
+        "root": "ا ل ه",
+        "urdu_meaning": " اللہ کے",
+        "english_meaning": "(of) Allah,",
+        "lemma": "اللّٰہ",
+        "lughat": "",
+        "grammar": [
+          "PN"
+        ]
+      },
+      {
+        "word_id": 3,
+        "arabic": "الرَّحۡمٰنِ ",
+        "root": "ر ح م",
+        "urdu_meaning": "  جو بڑا مہربان",
+        "english_meaning": "the Most Gracious,",
+        "lemma": "رَحْمٰن",
+        "lughat": "",
+        "grammar": [
+          "DET",
+          "N"
+        ]
+      },
+      {
+        "word_id": 4,
+        "arabic": "الرَّحِیۡمِ",
+        "root": "ر ح م",
+        "urdu_meaning": " بار بار رحم فرمانے والا ہے",
+        "english_meaning": "the Most Merciful.",
+        "lemma": "رَحِيم",
+        "lughat": "",
+        "grammar": [
+          "DET",
+          "N"
+        ]
+      }
+    ]
+  },
+  {
+    "surah_id": 103,
+    "ayah_number": 1,
+    "global_ayah_id": 6279,
+    "urdu_phrase_raw": "وَالۡعَصۡرِ& قسم ہے زمانے کی",
+    "english_phrase_raw": "وَالۡعَصۡرِ&By the time,",
+    "words": [
+      {
+        "word_id": 1,
+        "arabic": "وَ الۡعَصۡرِ ۙ﴿۱﴾",
+        "root": "ع ص ر",
+        "urdu_meaning": " قسم ہے زمانے کی",
+        "english_meaning": "By the time,",
+        "lemma": "عَصْر",
+        "lughat": "",
+        "grammar": [
+          "P",
+          "DET",
+          "N"
+        ]
+      }
+    ]
+  },
+  {
+    "surah_id": 103,
+    "ayah_number": 2,
+    "global_ayah_id": 6280,
+    "urdu_phrase_raw": "اِنَّ&بےشک@الۡاِنۡسَانَ&انسان@لَفِیۡ خُسۡرٍ&یقیناً خسارے میں ہے",
+    "english_phrase_raw": "اِنَّ&Indeed,@الۡاِنۡسَانَ&mankind@لَفِیۡ &(is) surely, in@خُسۡرٍ&loss,",
+    "words": [
+      {
+        "word_id": 1,
+        "arabic": "اِنَّ  ",
+        "root": "اِنَّ",
+        "urdu_meaning": "بےشک",
+        "english_meaning": "Indeed,",
+        "lemma": "إِنّ",
+        "lughat": "",
+        "grammar": [
+          "ACC"
+        ]
+      },
+      {
+        "word_id": 2,
+        "arabic": "الۡاِنۡسَانَ ",
+        "root": "ا ن س",
+        "urdu_meaning": "انسان",
+        "english_meaning": "mankind",
+        "lemma": "إِنسان",
+        "lughat": "",
+        "grammar": [
+          "DET",
+          "N"
+        ]
+      },
+      {
+        "word_id": 3,
+        "arabic": "لَفِیۡ ",
+        "root": "",
+        "urdu_meaning": "یقیناً میں ہے",
+        "english_meaning": "(is) surely, in",
+        "lemma": "فِي",
+        "lughat": "",
+        "grammar": [
+          "EMPH",
+          "P"
+        ]
+      },
+      {
+        "word_id": 4,
+        "arabic": "خُسۡرٍ ۙ﴿۲﴾",
+        "root": "خ س ر",
+        "urdu_meaning": "خسارے",
+        "english_meaning": "loss,",
+        "lemma": "خُسْر",
+        "lughat": "",
+        "grammar": [
+          "N"
+        ]
+      }
+    ]
+  },
+  {
+    "surah_id": 103,
+    "ayah_number": 3,
+    "global_ayah_id": 6281,
+    "urdu_phrase_raw": "اِلَّا&سوائے@الَّذِیۡنَ& ان لوگوں کے جو@اٰمَنُوۡا& ایمان لائے@وَعَمِلُوا& اور انہوں نے عمل کیے@الصّٰلِحٰتِ& نیک@وَتَوَاصَوۡا& اور ایک دوسرے کو تلقین کی@بِالۡحَقِّ& حق کی@وَتَوَاصَوۡا& اور ایک دوسرے کو تلقین کی@بِالصَّبۡرِ& صبر کی",
+    "english_phrase_raw": "اِلَّا&Except@الَّذِیۡنَ&those who@اٰمَنُوۡا&believe@وَعَمِلُوا&and do@الصّٰلِحٰتِ&righteous deeds@وَتَوَاصَوۡا&and enjoin (each other)@بِالۡحَقِّ&to the truth@وَتَوَاصَوۡا&and enjoin (each other)@بِالصَّبۡرِ&to the patience.",
+    "words": [
+      {
+        "word_id": 1,
+        "arabic": "اِلَّا  ",
+        "root": "اِلَّا",
+        "urdu_meaning": "سوائے",
+        "english_meaning": "Except",
+        "lemma": "إِلّا",
+        "lughat": "",
+        "grammar": [
+          "EXP"
+        ]
+      },
+      {
+        "word_id": 2,
+        "arabic": "الَّذِیۡنَ  ",
+        "root": "ٱلَّذِى",
+        "urdu_meaning": " ان لوگوں کے جو",
+        "english_meaning": "those who",
+        "lemma": "الَّذِي",
+        "lughat": "",
+        "grammar": [
+          "REL"
+        ]
+      },
+      {
+        "word_id": 3,
+        "arabic": "اٰمَنُوۡا ",
+        "root": "ا م ن",
+        "urdu_meaning": " ایمان لائے",
+        "english_meaning": "believe",
+        "lemma": "آمَنَ",
+        "lughat": "",
+        "grammar": [
+          "V",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 4,
+        "arabic": "وَ عَمِلُوا ",
+        "root": "ع م ل",
+        "urdu_meaning": " اور انہوں نے عمل کیے",
+        "english_meaning": "and do",
+        "lemma": "عَمِلَ",
+        "lughat": "",
+        "grammar": [
+          "CONJ",
+          "V",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 5,
+        "arabic": "الصّٰلِحٰتِ ",
+        "root": "ص ل ح",
+        "urdu_meaning": " نیک",
+        "english_meaning": "righteous deeds",
+        "lemma": "صالِحَة",
+        "lughat": "",
+        "grammar": [
+          "DET",
+          "N"
+        ]
+      },
+      {
+        "word_id": 6,
+        "arabic": "وَ تَوَاصَوۡا ",
+        "root": "و ص ي",
+        "urdu_meaning": " اور ایک دوسرے کو تلقین کی",
+        "english_meaning": "and enjoin (each other)",
+        "lemma": "تَواصَ",
+        "lughat": "",
+        "grammar": [
+          "CONJ",
+          "V",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 7,
+        "arabic": "بِالۡحَقِّ   ۬ ۙ  ",
+        "root": "ح ق ق",
+        "urdu_meaning": " حق کی",
+        "english_meaning": "to the truth",
+        "lemma": "حَقّ",
+        "lughat": "",
+        "grammar": [
+          "P",
+          "DET",
+          "N"
+        ]
+      },
+      {
+        "word_id": 8,
+        "arabic": "وَ تَوَاصَوۡا ",
+        "root": "و ص ي",
+        "urdu_meaning": " اور ایک دوسرے کو تلقین کی",
+        "english_meaning": "and enjoin (each other)",
+        "lemma": "تَواصَ",
+        "lughat": "",
+        "grammar": [
+          "CONJ",
+          "V",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 9,
+        "arabic": "بِالصَّبۡرِ ٪﴿۳﴾               28",
+        "root": "ص ب ر",
+        "urdu_meaning": " صبر کی",
+        "english_meaning": "to the patience.",
+        "lemma": "صَبْر",
+        "lughat": "",
+        "grammar": [
+          "P",
+          "DET",
+          "N"
+        ]
+      }
+    ]
+  }
+]
