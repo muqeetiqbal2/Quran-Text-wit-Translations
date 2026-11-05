@@ -1,0 +1,6230 @@
+[
+  {
+    "surah_id": 58,
+    "ayah_number": 0,
+    "global_ayah_id": 5161,
+    "urdu_phrase_raw": "بِسۡمِ& ساتھ نام@اللّٰہِ& اللہ کے@الرَّحۡمٰنِ&  جو بڑا مہربان@الرَّحِیۡمِ& بار بار رحم فرمانے والا ہے",
+    "english_phrase_raw": "بِسۡمِ&In (the) name@اللّٰہِ&(of) Allah,@الرَّحۡمٰنِ&the Most Gracious,@الرَّحِیۡمِ&the Most Merciful.",
+    "words": [
+      {
+        "word_id": 1,
+        "arabic": "بِسۡمِ ",
+        "root": "س م و",
+        "urdu_meaning": " ساتھ نام",
+        "english_meaning": "In (the) name",
+        "lemma": "اسْم",
+        "lughat": "",
+        "grammar": [
+          "P",
+          "N"
+        ]
+      },
+      {
+        "word_id": 2,
+        "arabic": "اللّٰہِ ",
+        "root": "ا ل ه",
+        "urdu_meaning": " اللہ کے",
+        "english_meaning": "(of) Allah,",
+        "lemma": "اللّٰہ",
+        "lughat": "",
+        "grammar": [
+          "PN"
+        ]
+      },
+      {
+        "word_id": 3,
+        "arabic": "الرَّحۡمٰنِ ",
+        "root": "ر ح م",
+        "urdu_meaning": "  جو بڑا مہربان",
+        "english_meaning": "the Most Gracious,",
+        "lemma": "رَحْمٰن",
+        "lughat": "",
+        "grammar": [
+          "DET",
+          "N"
+        ]
+      },
+      {
+        "word_id": 4,
+        "arabic": "الرَّحِیۡمِ",
+        "root": "ر ح م",
+        "urdu_meaning": " بار بار رحم فرمانے والا ہے",
+        "english_meaning": "the Most Merciful.",
+        "lemma": "رَحِيم",
+        "lughat": "",
+        "grammar": [
+          "DET",
+          "N"
+        ]
+      }
+    ]
+  },
+  {
+    "surah_id": 58,
+    "ayah_number": 1,
+    "global_ayah_id": 5162,
+    "urdu_phrase_raw": "قَدۡ&تحقیق@سَمِعَ&سن لی@اللّٰہُ&اللہ نے@قَوۡلَ&بات@الَّتِیۡ&اس عورت کی جو@تُجَادِلُکَ&جھگڑ رہی تھی آپ سے@فِیۡ زَوۡجِہَا& اپنے شوہر کے بارے میں@وَتَشۡتَکِیۡۤ&اور وہ شکایت کر رہی تھی@اِلَی اللّٰہِ&اللہ سے@وَاللّٰہُ&اور اللہ@یَسۡمَعُ&وہ سن رہا تھا@تَحَاوُرَکُمَا&گفتگو تم دونوں کی@اِنَّ&بےشک@اللّٰہَ&اللہ@سَمِیۡعٌۢ&خوب سننے والا ہے@بَصِیۡرٌ&خوب دیکھنے والا ہے",
+    "english_phrase_raw": "قَدۡ&Indeed,@سَمِعَ اللّٰہُ&Allah has heard@قَوۡلَ&(the) speech@الَّتِیۡ&(of one) who@تُجَادِلُکَ&disputes with you@فِیۡ &concerning@زَوۡجِہَا&her husband@وَتَشۡتَکِیۡۤ&and she directs her complaint@اِلَی &to@اللّٰہِ&Allah.@وَاللّٰہُ&And Allah@یَسۡمَعُ&hears@تَحَاوُرَکُمَا&(the) dialogue of both of you.@اِنَّ&Indeed,@اللّٰہَ&Allah@سَمِیۡعٌۢ&(is) All-Hearer,@بَصِیۡرٌ&All-Seer.",
+    "words": [
+      {
+        "word_id": 1,
+        "arabic": "قَدۡ ",
+        "root": "",
+        "urdu_meaning": "تحقیق",
+        "english_meaning": "Indeed,",
+        "lemma": "قَد",
+        "lughat": "",
+        "grammar": [
+          "CERT"
+        ]
+      },
+      {
+        "word_id": 2,
+        "arabic": "سَمِعَ  ",
+        "root": "س م ع",
+        "urdu_meaning": "سن لی",
+        "english_meaning": "Allah has heard",
+        "lemma": "سَمِعَ",
+        "lughat": "",
+        "grammar": [
+          "V"
+        ]
+      },
+      {
+        "word_id": 3,
+        "arabic": "اللّٰہُ  ",
+        "root": "ا ل ه",
+        "urdu_meaning": "اللہ نے",
+        "english_meaning": "",
+        "lemma": "اللّٰہ",
+        "lughat": "",
+        "grammar": [
+          "PN"
+        ]
+      },
+      {
+        "word_id": 4,
+        "arabic": "قَوۡلَ  ",
+        "root": "ق و ل",
+        "urdu_meaning": "بات",
+        "english_meaning": "(the) speech",
+        "lemma": "قَوْل",
+        "lughat": "",
+        "grammar": [
+          "N"
+        ]
+      },
+      {
+        "word_id": 5,
+        "arabic": "الَّتِیۡ ",
+        "root": "ٱلَّذِى",
+        "urdu_meaning": "اس عورت کی جو",
+        "english_meaning": "(of one) who",
+        "lemma": "الَّذِي",
+        "lughat": "",
+        "grammar": [
+          "REL"
+        ]
+      },
+      {
+        "word_id": 6,
+        "arabic": "تُجَادِلُکَ ",
+        "root": "ج د ل",
+        "urdu_meaning": "جھگڑ رہی تھے آپ سے",
+        "english_meaning": "disputes with you",
+        "lemma": "جادَلُ",
+        "lughat": "",
+        "grammar": [
+          "V",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 7,
+        "arabic": "فِیۡ ",
+        "root": "",
+        "urdu_meaning": "۔(بارے) میں",
+        "english_meaning": "concerning",
+        "lemma": "فِي",
+        "lughat": "",
+        "grammar": [
+          "P"
+        ]
+      },
+      {
+        "word_id": 8,
+        "arabic": "زَوۡجِہَا ",
+        "root": "ز و ج",
+        "urdu_meaning": "اپنے خاوند کے",
+        "english_meaning": "her husband",
+        "lemma": "زَوْج",
+        "lughat": "",
+        "grammar": [
+          "N",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 9,
+        "arabic": "وَ تَشۡتَکِیۡۤ  ",
+        "root": "ش ك و",
+        "urdu_meaning": "اور وہ شکایت کر رہی تھی",
+        "english_meaning": "and she directs her complaint",
+        "lemma": "تَشْتَكِ",
+        "lughat": "",
+        "grammar": [
+          "CONJ",
+          "V"
+        ]
+      },
+      {
+        "word_id": 10,
+        "arabic": "اِلَی ",
+        "root": "إِلَىٰ",
+        "urdu_meaning": "طرف",
+        "english_meaning": "to",
+        "lemma": "إِلَى",
+        "lughat": "",
+        "grammar": [
+          "P"
+        ]
+      },
+      {
+        "word_id": 11,
+        "arabic": "اللّٰہِ ٭ۖ ",
+        "root": "ا ل ه",
+        "urdu_meaning": "اللہ کی",
+        "english_meaning": "Allah.",
+        "lemma": "اللّٰہ",
+        "lughat": "",
+        "grammar": [
+          "PN"
+        ]
+      },
+      {
+        "word_id": 12,
+        "arabic": "وَ اللّٰہُ ",
+        "root": "ا ل ه",
+        "urdu_meaning": "اور اللہ",
+        "english_meaning": "And Allah",
+        "lemma": "اللّٰہ",
+        "lughat": "",
+        "grammar": [
+          "CONJ",
+          "PN"
+        ]
+      },
+      {
+        "word_id": 13,
+        "arabic": "یَسۡمَعُ  ",
+        "root": "س م ع",
+        "urdu_meaning": "وہ سن رہا تھا",
+        "english_meaning": "hears",
+        "lemma": "سَمِعَ",
+        "lughat": "",
+        "grammar": [
+          "V"
+        ]
+      },
+      {
+        "word_id": 14,
+        "arabic": "تَحَاوُرَکُمَا ؕ ",
+        "root": "ح و ر",
+        "urdu_meaning": "گفتگو تم دونوں کی",
+        "english_meaning": "(the) dialogue of both of you.",
+        "lemma": "تَحاوُر",
+        "lughat": "",
+        "grammar": [
+          "N",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 15,
+        "arabic": "اِنَّ ",
+        "root": "اِنَّ",
+        "urdu_meaning": "بےشک",
+        "english_meaning": "Indeed,",
+        "lemma": "إِنّ",
+        "lughat": "",
+        "grammar": [
+          "ACC"
+        ]
+      },
+      {
+        "word_id": 16,
+        "arabic": "اللّٰہَ  ",
+        "root": "ا ل ه",
+        "urdu_meaning": "اللہ",
+        "english_meaning": "Allah",
+        "lemma": "اللّٰہ",
+        "lughat": "",
+        "grammar": [
+          "PN"
+        ]
+      },
+      {
+        "word_id": 17,
+        "arabic": "سَمِیۡعٌۢ ",
+        "root": "س م ع",
+        "urdu_meaning": "خوب سننے والا ہے",
+        "english_meaning": "(is) All-Hearer,",
+        "lemma": "سَمِيع",
+        "lughat": "",
+        "grammar": [
+          "ADJ"
+        ]
+      },
+      {
+        "word_id": 18,
+        "arabic": "بَصِیۡرٌ ﴿۱﴾",
+        "root": "ب ص ر",
+        "urdu_meaning": "خوب دیکھنے والا ہے",
+        "english_meaning": "All-Seer.",
+        "lemma": "بَصِير",
+        "lughat": "",
+        "grammar": [
+          "ADJ"
+        ]
+      }
+    ]
+  },
+  {
+    "surah_id": 58,
+    "ayah_number": 2,
+    "global_ayah_id": 5163,
+    "urdu_phrase_raw": "اَلَّذِیۡنَ&وہ لوگ جو@یُظٰہِرُوۡنَ&ظہار کرتے ہیں@مِنۡکُمۡ& تم میں سے@مِّنۡ نِّسَآئِہِمۡ& اپنی بیویوں سے@مَّا&نہیں ہیں@ہُنَّ&وہ@اُمَّہٰتِہِمۡ&مائیں ان کی@اِنۡ&نہیں@اُمَّہٰتُہُمۡ&مائیں ان کی@اِلَّا&مگر@الّٰٓـِٔىۡ &وہ جنہوں نے انہیں@وَلَدۡنَہُمۡ&جنم دیا انہیں@وَاِنَّہُمۡ&اور بےشک وہ@لَیَقُوۡلُوۡنَ&البتہ وہ کہتے ہیں@مُنۡکَرًا&نامعقول/ناپسندیدہ@مِّنَ الۡقَوۡلِ&بات@وَزُوۡرًا&اور جھوٹ@وَاِنَّ&اور بےشک@اللّٰہَ&اللہ@لَعَفُوٌّ&البتہ بہت معاف کرنے والا ہے@غَفُوۡرٌ&بہت بخشنے والا ہے",
+    "english_phrase_raw": "اَلَّذِیۡنَ&Those who@یُظٰہِرُوۡنَ&pronounce zihar@مِنۡکُمۡ&among you@مِّنۡ &from@نِّسَآئِہِمۡ&(to) their wives,@مَّا&not@ہُنَّ&they@اُمَّہٰتِہِمۡ&(are) their mothers.@اِنۡ&Not@اُمَّہٰتُہُمۡ&(are) their mothers@اِلَّا&except@الّٰٓـِٔىۡ &those who@وَلَدۡنَہُمۡ&gave them birth.@وَاِنَّہُمۡ&And indeed, they@لَیَقُوۡلُوۡنَ&surely say@مُنۡکَرًا&an evil@مِّنَ &of@الۡقَوۡلِ&the word@وَزُوۡرًا&and a lie.@وَاِنَّ&But indeed,@اللّٰہَ&Allah@لَعَفُوٌّ&(is) surely, Oft-Pardoning,@غَفُوۡرٌ&Oft-Forgiving.",
+    "words": [
+      {
+        "word_id": 1,
+        "arabic": "اَلَّذِیۡنَ ",
+        "root": "ٱلَّذِى",
+        "urdu_meaning": "وہ لوگ جو",
+        "english_meaning": "Those who",
+        "lemma": "الَّذِي",
+        "lughat": "",
+        "grammar": [
+          "REL"
+        ]
+      },
+      {
+        "word_id": 2,
+        "arabic": "یُظٰہِرُوۡنَ ",
+        "root": "ظ ه ر",
+        "urdu_meaning": "ظہار کرتے ہیں",
+        "english_meaning": "pronounce zihar",
+        "lemma": "ظاهَرُ",
+        "lughat": "",
+        "grammar": [
+          "V",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 3,
+        "arabic": "مِنۡکُمۡ ",
+        "root": "",
+        "urdu_meaning": " تم میں سے",
+        "english_meaning": "among you",
+        "lemma": "مِن",
+        "lughat": "",
+        "grammar": [
+          "P",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 4,
+        "arabic": "مِّنۡ  ",
+        "root": "",
+        "urdu_meaning": "سے",
+        "english_meaning": "from",
+        "lemma": "مِن",
+        "lughat": "",
+        "grammar": [
+          "P"
+        ]
+      },
+      {
+        "word_id": 5,
+        "arabic": "نِّسَآئِہِمۡ ",
+        "root": "ن س و",
+        "urdu_meaning": "اپنی بیویوں",
+        "english_meaning": "(to) their wives,",
+        "lemma": "نِساء",
+        "lughat": "",
+        "grammar": [
+          "N",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 6,
+        "arabic": "مَّا ",
+        "root": "",
+        "urdu_meaning": "نہیں ہیں",
+        "english_meaning": "not",
+        "lemma": "ما",
+        "lughat": "",
+        "grammar": [
+          "NEG"
+        ]
+      },
+      {
+        "word_id": 7,
+        "arabic": "ہُنَّ  ",
+        "root": "",
+        "urdu_meaning": "وہ",
+        "english_meaning": "they",
+        "lemma": "",
+        "lughat": "",
+        "grammar": [
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 8,
+        "arabic": "اُمَّہٰتِہِمۡ ؕ ",
+        "root": "ا م م",
+        "urdu_meaning": "مائیں ان کی",
+        "english_meaning": "(are) their mothers.",
+        "lemma": "أُمّ",
+        "lughat": "",
+        "grammar": [
+          "N",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 9,
+        "arabic": "اِنۡ  ",
+        "root": "",
+        "urdu_meaning": "نہیں",
+        "english_meaning": "Not",
+        "lemma": "إِن",
+        "lughat": "",
+        "grammar": [
+          "NEG"
+        ]
+      },
+      {
+        "word_id": 10,
+        "arabic": "اُمَّہٰتُہُمۡ  ",
+        "root": "ا م م",
+        "urdu_meaning": "مائیں ان کی",
+        "english_meaning": "(are) their mothers",
+        "lemma": "أُمّ",
+        "lughat": "",
+        "grammar": [
+          "N",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 11,
+        "arabic": "اِلَّا ",
+        "root": "اِلَّا",
+        "urdu_meaning": "مگر",
+        "english_meaning": "except",
+        "lemma": "إِلّا",
+        "lughat": "",
+        "grammar": [
+          "RES"
+        ]
+      },
+      {
+        "word_id": 12,
+        "arabic": "الّٰٓـِٔىۡ ",
+        "root": "إِلَىٰ",
+        "urdu_meaning": "وہ جنہوں نے انہیں",
+        "english_meaning": "those who",
+        "lemma": "إِلَى",
+        "lughat": "",
+        "grammar": [
+          "REL"
+        ]
+      },
+      {
+        "word_id": 13,
+        "arabic": "وَلَدۡنَہُمۡ ؕ ",
+        "root": "و ل د",
+        "urdu_meaning": "جنم دیا انہیں",
+        "english_meaning": "gave them birth.",
+        "lemma": "وَلَدَ",
+        "lughat": "",
+        "grammar": [
+          "V",
+          "PRON",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 14,
+        "arabic": "وَ اِنَّہُمۡ  ",
+        "root": "اِنَّ",
+        "urdu_meaning": "اور بےشک وہ",
+        "english_meaning": "And indeed, they",
+        "lemma": "إِنّ",
+        "lughat": "",
+        "grammar": [
+          "CONJ",
+          "ACC",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 15,
+        "arabic": "لَیَقُوۡلُوۡنَ ",
+        "root": "ق و ل",
+        "urdu_meaning": "البتہ وہ کہتے ہیں",
+        "english_meaning": "surely say",
+        "lemma": "قالَ",
+        "lughat": "",
+        "grammar": [
+          "EMPH",
+          "V",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 16,
+        "arabic": "مُنۡکَرًا ",
+        "root": "ن ك ر",
+        "urdu_meaning": "نامعقول/ناپسندیدہ",
+        "english_meaning": "an evil",
+        "lemma": "مُنكَر",
+        "lughat": "",
+        "grammar": [
+          "N"
+        ]
+      },
+      {
+        "word_id": 17,
+        "arabic": "مِّنَ ",
+        "root": "",
+        "urdu_meaning": "سے",
+        "english_meaning": "of",
+        "lemma": "مِن",
+        "lughat": "",
+        "grammar": [
+          "P"
+        ]
+      },
+      {
+        "word_id": 18,
+        "arabic": "الۡقَوۡلِ ",
+        "root": "ق و ل",
+        "urdu_meaning": "بات",
+        "english_meaning": "the word",
+        "lemma": "قَوْل",
+        "lughat": "",
+        "grammar": [
+          "DET",
+          "N"
+        ]
+      },
+      {
+        "word_id": 19,
+        "arabic": "وَ زُوۡرًا ؕ ",
+        "root": "ز و ر",
+        "urdu_meaning": "اور جھوٹ",
+        "english_meaning": "and a lie.",
+        "lemma": "زُور",
+        "lughat": "",
+        "grammar": [
+          "CONJ",
+          "N"
+        ]
+      },
+      {
+        "word_id": 20,
+        "arabic": "وَ اِنَّ ",
+        "root": "اِنَّ",
+        "urdu_meaning": "اور بےشک",
+        "english_meaning": "But indeed,",
+        "lemma": "إِنّ",
+        "lughat": "",
+        "grammar": [
+          "CONJ",
+          "ACC"
+        ]
+      },
+      {
+        "word_id": 21,
+        "arabic": "اللّٰہَ ",
+        "root": "ا ل ه",
+        "urdu_meaning": "اللہ",
+        "english_meaning": "Allah",
+        "lemma": "اللّٰہ",
+        "lughat": "",
+        "grammar": [
+          "PN"
+        ]
+      },
+      {
+        "word_id": 22,
+        "arabic": "لَعَفُوٌّ ",
+        "root": "ع ف و",
+        "urdu_meaning": "البتہ بہت معاف کرنے والا ہے",
+        "english_meaning": "(is) surely, Oft-Pardoning,",
+        "lemma": "عَفُوّ",
+        "lughat": "",
+        "grammar": [
+          "EMPH",
+          "N"
+        ]
+      },
+      {
+        "word_id": 23,
+        "arabic": "غَفُوۡرٌ ﴿۲﴾",
+        "root": "غ ف ر",
+        "urdu_meaning": "بہت بخشنے والا ہے",
+        "english_meaning": "Oft-Forgiving.",
+        "lemma": "غَفُور",
+        "lughat": "",
+        "grammar": [
+          "ADJ"
+        ]
+      }
+    ]
+  },
+  {
+    "surah_id": 58,
+    "ayah_number": 3,
+    "global_ayah_id": 5164,
+    "urdu_phrase_raw": "وَالَّذِیۡنَ&اور وہ لوگ جو@یُظٰہِرُوۡنَ&ظہار کرتے ہیں@مِنۡ نِّسَآئِہِمۡ& اپنی بیویوں سے@ثُمَّ&پھر@یَعُوۡدُوۡنَ&وہ رجوع کرلیتے ہیں@لِمَا&اس سے جو@قَالُوۡا&انہوں نے کہا@فَتَحۡرِیۡرُ& پس آزاد کرنا ہے@رَقَبَۃٍ& ایک گردن کا@مِّنۡ قَبۡلِ& اس سے قبل@اَنۡ&کہ@یَّتَمَآسَّا&وہ دونوں ایک دوسرے کو چھوئیں@ذٰلِکُمۡ&یہ ہے@تُوۡعَظُوۡنَ&تم نصیحت کیے جاتے ہو@بِہٖ&جس کی@وَاللّٰہُ&اور اللہ@بِمَا&اس سے جو@تَعۡمَلُوۡنَ&تم عمل کرتے ہو@خَبِیۡرٌ&خوب باخبر ہے",
+    "english_phrase_raw": "وَالَّذِیۡنَ&And those who@یُظٰہِرُوۡنَ&pronounce zihar@مِنۡ &from@نِّسَآئِہِمۡ&(to) their wives@ثُمَّ&then@یَعُوۡدُوۡنَ&go back@لِمَا&on what@قَالُوۡا&they said,@فَتَحۡرِیۡرُ&then freeing@رَقَبَۃٍ&(of) a slave@مِّنۡ قَبۡلِ&before@اَنۡ&that@یَّتَمَآسَّا&they touch each other.@ذٰلِکُمۡ&That@تُوۡعَظُوۡنَ&you are admonished@بِہٖ&to it.@وَاللّٰہُ&And Allah@بِمَا&of what@تَعۡمَلُوۡنَ&you do@خَبِیۡرٌ&(is) All-Aware.",
+    "words": [
+      {
+        "word_id": 1,
+        "arabic": "وَ الَّذِیۡنَ ",
+        "root": "ٱلَّذِى",
+        "urdu_meaning": "اور وہ لوگ جو",
+        "english_meaning": "And those who",
+        "lemma": "الَّذِي",
+        "lughat": "",
+        "grammar": [
+          "CONJ",
+          "REL"
+        ]
+      },
+      {
+        "word_id": 2,
+        "arabic": "یُظٰہِرُوۡنَ ",
+        "root": "ظ ه ر",
+        "urdu_meaning": "ظہار کرتے ہیں",
+        "english_meaning": "pronounce zihar",
+        "lemma": "ظاهَرُ",
+        "lughat": "",
+        "grammar": [
+          "V",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 3,
+        "arabic": "مِنۡ ",
+        "root": "",
+        "urdu_meaning": "سے",
+        "english_meaning": "from",
+        "lemma": "مِن",
+        "lughat": "",
+        "grammar": [
+          "P"
+        ]
+      },
+      {
+        "word_id": 4,
+        "arabic": "نِّسَآئِہِمۡ ",
+        "root": "ن س و",
+        "urdu_meaning": "اپنی بیویوں",
+        "english_meaning": "(to) their wives",
+        "lemma": "نِساء",
+        "lughat": "",
+        "grammar": [
+          "N",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 5,
+        "arabic": "ثُمَّ ",
+        "root": "",
+        "urdu_meaning": "پھر",
+        "english_meaning": "then",
+        "lemma": "ثُمّ",
+        "lughat": "",
+        "grammar": [
+          "CONJ"
+        ]
+      },
+      {
+        "word_id": 6,
+        "arabic": "یَعُوۡدُوۡنَ ",
+        "root": "ع و د",
+        "urdu_meaning": "وہ رجوع کرلیتے ہیں",
+        "english_meaning": "go back",
+        "lemma": "عادَ",
+        "lughat": "",
+        "grammar": [
+          "V",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 7,
+        "arabic": "لِمَا ",
+        "root": "",
+        "urdu_meaning": "اس سے جو",
+        "english_meaning": "on what",
+        "lemma": "ما",
+        "lughat": "",
+        "grammar": [
+          "P",
+          "REL"
+        ]
+      },
+      {
+        "word_id": 8,
+        "arabic": "قَالُوۡا ",
+        "root": "ق و ل",
+        "urdu_meaning": "انہوں نے کہا",
+        "english_meaning": "they said,",
+        "lemma": "قالَ",
+        "lughat": "",
+        "grammar": [
+          "V",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 9,
+        "arabic": "فَتَحۡرِیۡرُ  ",
+        "root": "ح ر ر",
+        "urdu_meaning": " پس آزاد کرنا ہے",
+        "english_meaning": "then freeing",
+        "lemma": "تَحْرِير",
+        "lughat": "",
+        "grammar": [
+          "REM",
+          "N"
+        ]
+      },
+      {
+        "word_id": 10,
+        "arabic": "رَقَبَۃٍ  ",
+        "root": "ر ق ب",
+        "urdu_meaning": " ایک گردن کا",
+        "english_meaning": "(of) a slave",
+        "lemma": "رَقَبَة",
+        "lughat": "",
+        "grammar": [
+          "N"
+        ]
+      },
+      {
+        "word_id": 11,
+        "arabic": "مِّنۡ ",
+        "root": "",
+        "urdu_meaning": " اس سے قبل (سے)",
+        "english_meaning": "before",
+        "lemma": "مِن",
+        "lughat": "",
+        "grammar": [
+          "P"
+        ]
+      },
+      {
+        "word_id": 12,
+        "arabic": "قَبۡلِ  ",
+        "root": "ق ب ل",
+        "urdu_meaning": " اس سے قبل (پہلے)",
+        "english_meaning": "",
+        "lemma": "قَبْل",
+        "lughat": "",
+        "grammar": [
+          "N"
+        ]
+      },
+      {
+        "word_id": 13,
+        "arabic": "اَنۡ ",
+        "root": "",
+        "urdu_meaning": "کہ",
+        "english_meaning": "that",
+        "lemma": "أَن",
+        "lughat": "",
+        "grammar": [
+          "SUB"
+        ]
+      },
+      {
+        "word_id": 14,
+        "arabic": "یَّتَمَآسَّا ؕ ",
+        "root": "م س س",
+        "urdu_meaning": "وہ دونوں ایک دوسرے کو چھوئیں",
+        "english_meaning": "they touch each other.",
+        "lemma": "يَتَماسّ",
+        "lughat": "",
+        "grammar": [
+          "V",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 15,
+        "arabic": "ذٰلِکُمۡ ",
+        "root": "",
+        "urdu_meaning": "یہ ہے",
+        "english_meaning": "That",
+        "lemma": "ذا",
+        "lughat": "",
+        "grammar": [
+          "DEM",
+          "DIST",
+          "ADDR"
+        ]
+      },
+      {
+        "word_id": 16,
+        "arabic": "تُوۡعَظُوۡنَ ",
+        "root": "و ع ظ",
+        "urdu_meaning": "تم نصیحت کیے جاتے ہو",
+        "english_meaning": "you are admonished",
+        "lemma": "وَعَظْ",
+        "lughat": "",
+        "grammar": [
+          "V",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 17,
+        "arabic": "بِہٖ ؕ ",
+        "root": "",
+        "urdu_meaning": "جس کی",
+        "english_meaning": "to it.",
+        "lemma": "",
+        "lughat": "",
+        "grammar": [
+          "P",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 18,
+        "arabic": "وَ اللّٰہُ  ",
+        "root": "ا ل ه",
+        "urdu_meaning": "اور اللہ",
+        "english_meaning": "And Allah",
+        "lemma": "اللّٰہ",
+        "lughat": "",
+        "grammar": [
+          "CONJ",
+          "PN"
+        ]
+      },
+      {
+        "word_id": 19,
+        "arabic": "بِمَا ",
+        "root": "",
+        "urdu_meaning": "اس سے جو",
+        "english_meaning": "of what",
+        "lemma": "ما",
+        "lughat": "",
+        "grammar": [
+          "P",
+          "REL"
+        ]
+      },
+      {
+        "word_id": 20,
+        "arabic": "تَعۡمَلُوۡنَ  ",
+        "root": "ع م ل",
+        "urdu_meaning": "تم عمل کرتے ہو",
+        "english_meaning": "you do",
+        "lemma": "عَمِلَ",
+        "lughat": "",
+        "grammar": [
+          "V",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 21,
+        "arabic": "خَبِیۡرٌ ﴿۳﴾",
+        "root": "خ ب ر",
+        "urdu_meaning": "خوب باخبر ہے",
+        "english_meaning": "(is) All-Aware.",
+        "lemma": "خَبِير",
+        "lughat": "",
+        "grammar": [
+          "N"
+        ]
+      }
+    ]
+  },
+  {
+    "surah_id": 58,
+    "ayah_number": 4,
+    "global_ayah_id": 5165,
+    "urdu_phrase_raw": "فَمَنۡ&تو جو کوئی@لَّمۡ&نہ@یَجِدۡ&پائے(غلام)@فَصِیَامُ&تو روزے رکھنا ہے@شَہۡرَیۡنِ&دو ماہ کے@مُتَتَابِعَیۡنِ&مسلسل@مِنۡ قَبۡلِ&اس سے قبل@اَنۡ&کہ@یَّتَمَآسَّا&وہ دونوں ایک دوسرے کو چھوئیں@فَمَنۡ&تو جو کوئی@لَّمۡ&نہ@یَسۡتَطِعۡ&استطاعت رکھتا ہو@فَاِطۡعَامُ& تو کھانا کھلانا ہے@سِتِّیۡنَ&ساٹھ@مِسۡکِیۡنًا& مسکینوں کا@ذٰلِکَ&یہ(اس لیے ہے)@لِتُؤۡمِنُوۡا& تاکہ تم ایمان لاؤ@بِاللّٰہِ&اللہ پر@وَرَسُوۡلِہٖ&اور اس کے رسول پر@وَتِلۡکَ&اور یہ@حُدُوۡدُ&حدود ہیں@اللّٰہِ& اللہ کی@وَلِلۡکٰفِرِیۡنَ& اور کافروں کے لیے@عَذَابٌ&عذاب ہے@اَلِیۡمٌ&دردناک",
+    "english_phrase_raw": "فَمَنۡ&Then whoever@لَّمۡ &(does) not@یَجِدۡ&find,@فَصِیَامُ&then fasting@شَہۡرَیۡنِ&(for) two months@مُتَتَابِعَیۡنِ&consecutively@مِنۡ قَبۡلِ&before@اَنۡ&that@یَّتَمَآسَّا&they both touch each other.@فَمَنۡ&But (he) who@لَّمۡ &not@یَسۡتَطِعۡ&is able@فَاِطۡعَامُ&then (the) feeding@سِتِّیۡنَ&(of) sixty@مِسۡکِیۡنًا&needy one(s).@ذٰلِکَ&That -@لِتُؤۡمِنُوۡا&so that you may believe@بِاللّٰہِ&in Allah@وَرَسُوۡلِہٖ&and His Messenger,@وَتِلۡکَ&and these@حُدُوۡدُ&(are the) limits@اللّٰہِ&(of) Allah,@وَلِلۡکٰفِرِیۡنَ&and for the disbelievers@عَذَابٌ&(is) a punishment@اَلِیۡمٌ&painful.",
+    "words": [
+      {
+        "word_id": 1,
+        "arabic": "فَمَنۡ  ",
+        "root": "",
+        "urdu_meaning": "تو جو کوئی",
+        "english_meaning": "Then whoever",
+        "lemma": "مَن",
+        "lughat": "",
+        "grammar": [
+          "REM",
+          "REL"
+        ]
+      },
+      {
+        "word_id": 2,
+        "arabic": "لَّمۡ ",
+        "root": "",
+        "urdu_meaning": "نہ",
+        "english_meaning": "(does) not",
+        "lemma": "لَم",
+        "lughat": "",
+        "grammar": [
+          "NEG"
+        ]
+      },
+      {
+        "word_id": 3,
+        "arabic": "یَجِدۡ ",
+        "root": "و ج د",
+        "urdu_meaning": "پائے(غلام)",
+        "english_meaning": "find,",
+        "lemma": "وَجَدَ",
+        "lughat": "",
+        "grammar": [
+          "V"
+        ]
+      },
+      {
+        "word_id": 4,
+        "arabic": "فَصِیَامُ ",
+        "root": "ص و م",
+        "urdu_meaning": "تو روزے رکھنا ہے",
+        "english_meaning": "then fasting",
+        "lemma": "صِيام",
+        "lughat": "",
+        "grammar": [
+          "REM",
+          "N"
+        ]
+      },
+      {
+        "word_id": 5,
+        "arabic": "شَہۡرَیۡنِ ",
+        "root": "ش ه ر",
+        "urdu_meaning": "دو ماہ کے",
+        "english_meaning": "(for) two months",
+        "lemma": "شَهْر",
+        "lughat": "",
+        "grammar": [
+          "N"
+        ]
+      },
+      {
+        "word_id": 6,
+        "arabic": "مُتَتَابِعَیۡنِ ",
+        "root": "ت ب ع",
+        "urdu_meaning": "مسلسل",
+        "english_meaning": "consecutively",
+        "lemma": "مُتَتَابِعَیۡن",
+        "lughat": "",
+        "grammar": [
+          "ADJ"
+        ]
+      },
+      {
+        "word_id": 7,
+        "arabic": "مِنۡ ",
+        "root": "",
+        "urdu_meaning": " اس سے قبل (سے)",
+        "english_meaning": "before",
+        "lemma": "مِن",
+        "lughat": "",
+        "grammar": [
+          "P"
+        ]
+      },
+      {
+        "word_id": 8,
+        "arabic": "قَبۡلِ ",
+        "root": "ق ب ل",
+        "urdu_meaning": " اس سے قبل (پہلے)",
+        "english_meaning": "",
+        "lemma": "قَبْل",
+        "lughat": "",
+        "grammar": [
+          "N"
+        ]
+      },
+      {
+        "word_id": 9,
+        "arabic": "اَنۡ ",
+        "root": "",
+        "urdu_meaning": "کہ",
+        "english_meaning": "that",
+        "lemma": "أَن",
+        "lughat": "",
+        "grammar": [
+          "SUB"
+        ]
+      },
+      {
+        "word_id": 10,
+        "arabic": "یَّتَمَآسَّا ۚ ",
+        "root": "م س س",
+        "urdu_meaning": "وہ دونوں ایک دوسرے کو چھوئیں",
+        "english_meaning": "they both touch each other.",
+        "lemma": "يَتَماسّ",
+        "lughat": "",
+        "grammar": [
+          "V",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 11,
+        "arabic": "فَمَنۡ ",
+        "root": "",
+        "urdu_meaning": "تو جو کوئی",
+        "english_meaning": "But (he) who",
+        "lemma": "مَن",
+        "lughat": "",
+        "grammar": [
+          "REM",
+          "REL"
+        ]
+      },
+      {
+        "word_id": 12,
+        "arabic": "لَّمۡ  ",
+        "root": "",
+        "urdu_meaning": "نہ",
+        "english_meaning": "not",
+        "lemma": "لَم",
+        "lughat": "",
+        "grammar": [
+          "NEG"
+        ]
+      },
+      {
+        "word_id": 13,
+        "arabic": "یَسۡتَطِعۡ  ",
+        "root": "ط و ع",
+        "urdu_meaning": "استطاعت رکھتا ہو",
+        "english_meaning": "is able",
+        "lemma": "اسْتَطاع",
+        "lughat": "",
+        "grammar": [
+          "V"
+        ]
+      },
+      {
+        "word_id": 14,
+        "arabic": "فَاِطۡعَامُ ",
+        "root": "ط ع م",
+        "urdu_meaning": " تو کھانا کھلانا ہے",
+        "english_meaning": "then (the) feeding",
+        "lemma": "إِطْعام",
+        "lughat": "",
+        "grammar": [
+          "REM",
+          "N"
+        ]
+      },
+      {
+        "word_id": 15,
+        "arabic": "سِتِّیۡنَ ",
+        "root": "س ت ت",
+        "urdu_meaning": "ساٹھ",
+        "english_meaning": "(of) sixty",
+        "lemma": "سِتِّين",
+        "lughat": "",
+        "grammar": [
+          "N"
+        ]
+      },
+      {
+        "word_id": 16,
+        "arabic": "مِسۡکِیۡنًا ؕ ",
+        "root": "س ك ن",
+        "urdu_meaning": " مسکینوں کا",
+        "english_meaning": "needy one(s).",
+        "lemma": "مِسْكِين",
+        "lughat": "",
+        "grammar": [
+          "N"
+        ]
+      },
+      {
+        "word_id": 17,
+        "arabic": "ذٰلِکَ ",
+        "root": "",
+        "urdu_meaning": "یہ(اس لیے ہے)",
+        "english_meaning": "That -",
+        "lemma": "ذا",
+        "lughat": "",
+        "grammar": [
+          "DEM",
+          "DIST",
+          "ADDR"
+        ]
+      },
+      {
+        "word_id": 18,
+        "arabic": "لِتُؤۡمِنُوۡا ",
+        "root": "ا م ن",
+        "urdu_meaning": " تاکہ تم ایمان لاؤ",
+        "english_meaning": "so that you may believe",
+        "lemma": "آمَنَ",
+        "lughat": "",
+        "grammar": [
+          "PRP",
+          "V",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 19,
+        "arabic": "بِاللّٰہِ ",
+        "root": "ا ل ه",
+        "urdu_meaning": "اللہ پر",
+        "english_meaning": "in Allah",
+        "lemma": "اللّٰہ",
+        "lughat": "",
+        "grammar": [
+          "P",
+          "PN"
+        ]
+      },
+      {
+        "word_id": 20,
+        "arabic": "وَ رَسُوۡلِہٖ ؕ  ",
+        "root": "ر س ل",
+        "urdu_meaning": "اور اس کے رسول پر",
+        "english_meaning": "and His Messenger,",
+        "lemma": "رَسُول",
+        "lughat": "",
+        "grammar": [
+          "CONJ",
+          "N",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 21,
+        "arabic": "وَ تِلۡکَ ",
+        "root": "",
+        "urdu_meaning": "اور یہ",
+        "english_meaning": "and these",
+        "lemma": "ذا",
+        "lughat": "",
+        "grammar": [
+          "CONJ",
+          "DEM",
+          "DIST",
+          "ADDR"
+        ]
+      },
+      {
+        "word_id": 22,
+        "arabic": "حُدُوۡدُ ",
+        "root": "ح د د",
+        "urdu_meaning": "حدود ہیں",
+        "english_meaning": "(are the) limits",
+        "lemma": "حُدُود",
+        "lughat": "",
+        "grammar": [
+          "N"
+        ]
+      },
+      {
+        "word_id": 23,
+        "arabic": "اللّٰہِ ؕ ",
+        "root": "ا ل ه",
+        "urdu_meaning": " اللہ کی",
+        "english_meaning": "(of) Allah,",
+        "lemma": "اللّٰہ",
+        "lughat": "",
+        "grammar": [
+          "PN"
+        ]
+      },
+      {
+        "word_id": 24,
+        "arabic": "وَ لِلۡکٰفِرِیۡنَ  ",
+        "root": "ك ف ر",
+        "urdu_meaning": " اور کافروں کے لیے",
+        "english_meaning": "and for the disbelievers",
+        "lemma": "كافِر",
+        "lughat": "",
+        "grammar": [
+          "CONJ",
+          "P",
+          "DET",
+          "N"
+        ]
+      },
+      {
+        "word_id": 25,
+        "arabic": "عَذَابٌ  ",
+        "root": "ع ذ ب",
+        "urdu_meaning": "عذاب ہے",
+        "english_meaning": "(is) a punishment",
+        "lemma": "عَذاب",
+        "lughat": "",
+        "grammar": [
+          "N"
+        ]
+      },
+      {
+        "word_id": 26,
+        "arabic": "اَلِیۡمٌ ﴿۴﴾",
+        "root": "ا ل م",
+        "urdu_meaning": "دردناک",
+        "english_meaning": "painful.",
+        "lemma": "أَلِيم",
+        "lughat": "",
+        "grammar": [
+          "ADJ"
+        ]
+      }
+    ]
+  },
+  {
+    "surah_id": 58,
+    "ayah_number": 5,
+    "global_ayah_id": 5166,
+    "urdu_phrase_raw": "اِنَّ&بےشک@الَّذِیۡنَ&وہ لوگ جو@یُحَآدُّوۡنَ&مخالفت کرتے ہیں@اللّٰہَ&اللہ کی@وَرَسُوۡلَہٗ& اور اس کے رسول کی@کُبِتُوۡا&وہ ذلیل کیے جائیں گے@کَمَا&جیسا کہ@کُبِتَ&ذلیل کیےگئے@الَّذِیۡنَ&وہ لوگ جو@مِنۡ قَبۡلِہِمۡ&ان سے پہلے تھے@وَقَدۡ& اور تحقیق@اَنۡزَلۡنَاۤ&نازل کیں ہم نے@اٰیٰتٍۭ&آیات@بَیِّنٰتٍ&واضح@وَلِلۡکٰفِرِیۡنَ&اور کافروں کے لیے ہے@عَذَابٌ&عذاب@مُّہِیۡنٌ&رسوا کرنے والا",
+    "english_phrase_raw": "اِنَّ&Indeed,@الَّذِیۡنَ&those who@یُحَآدُّوۡنَ&oppose@اللّٰہَ&Allah@وَرَسُوۡلَہٗ&and His Messenger@کُبِتُوۡا&(will) be disgraced@کَمَا&as@کُبِتَ&were disgraced@الَّذِیۡنَ&those@مِنۡ قَبۡلِہِمۡ&before them.@وَقَدۡ&And certainly@اَنۡزَلۡنَاۤ&We have sent down@اٰیٰتٍۭ&Verses@بَیِّنٰتٍ&clear.@وَلِلۡکٰفِرِیۡنَ&And for the disbelievers@عَذَابٌ&(is) a punishment@مُّہِیۡنٌ&humiliating.",
+    "words": [
+      {
+        "word_id": 1,
+        "arabic": "اِنَّ  ",
+        "root": "اِنَّ",
+        "urdu_meaning": "بےشک",
+        "english_meaning": "Indeed,",
+        "lemma": "إِنّ",
+        "lughat": "",
+        "grammar": [
+          "ACC"
+        ]
+      },
+      {
+        "word_id": 2,
+        "arabic": "الَّذِیۡنَ ",
+        "root": "ٱلَّذِى",
+        "urdu_meaning": "وہ لوگ جو",
+        "english_meaning": "those who",
+        "lemma": "الَّذِي",
+        "lughat": "",
+        "grammar": [
+          "REL"
+        ]
+      },
+      {
+        "word_id": 3,
+        "arabic": "یُحَآدُّوۡنَ ",
+        "root": "ح د د",
+        "urdu_meaning": "مخالفت کرتے ہیں",
+        "english_meaning": "oppose",
+        "lemma": "يُحادُّ",
+        "lughat": "",
+        "grammar": [
+          "V",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 4,
+        "arabic": "اللّٰہَ  ",
+        "root": "ا ل ه",
+        "urdu_meaning": "اللہ کی",
+        "english_meaning": "Allah",
+        "lemma": "اللّٰہ",
+        "lughat": "",
+        "grammar": [
+          "PN"
+        ]
+      },
+      {
+        "word_id": 5,
+        "arabic": "وَ رَسُوۡلَہٗ ",
+        "root": "ر س ل",
+        "urdu_meaning": " اور اس کے رسول کی",
+        "english_meaning": "and His Messenger",
+        "lemma": "رَسُول",
+        "lughat": "",
+        "grammar": [
+          "CONJ",
+          "N",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 6,
+        "arabic": "کُبِتُوۡا ",
+        "root": "ك ب ت",
+        "urdu_meaning": "وہ ذلیل کیے جائیں گے",
+        "english_meaning": "(will) be disgraced",
+        "lemma": "كُبِتَ",
+        "lughat": "",
+        "grammar": [
+          "V",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 7,
+        "arabic": "کَمَا ",
+        "root": "",
+        "urdu_meaning": "جیسا کہ",
+        "english_meaning": "as",
+        "lemma": "ما",
+        "lughat": "",
+        "grammar": [
+          "P",
+          "SUB"
+        ]
+      },
+      {
+        "word_id": 8,
+        "arabic": "کُبِتَ ",
+        "root": "ك ب ت",
+        "urdu_meaning": "ذلیل کیےگئے",
+        "english_meaning": "were disgraced",
+        "lemma": "كُبِتَ",
+        "lughat": "",
+        "grammar": [
+          "V"
+        ]
+      },
+      {
+        "word_id": 9,
+        "arabic": "الَّذِیۡنَ ",
+        "root": "ٱلَّذِى",
+        "urdu_meaning": "وہ لوگ جو",
+        "english_meaning": "those",
+        "lemma": "الَّذِي",
+        "lughat": "",
+        "grammar": [
+          "REL"
+        ]
+      },
+      {
+        "word_id": 10,
+        "arabic": "مِنۡ  ",
+        "root": "",
+        "urdu_meaning": "ان سے پہلے تھے ( سے)",
+        "english_meaning": "before them.",
+        "lemma": "مِن",
+        "lughat": "",
+        "grammar": [
+          "P"
+        ]
+      },
+      {
+        "word_id": 11,
+        "arabic": "قَبۡلِہِمۡ ",
+        "root": "ق ب ل",
+        "urdu_meaning": "ان سے پہلے تھے ",
+        "english_meaning": "",
+        "lemma": "قَبْل",
+        "lughat": "",
+        "grammar": [
+          "N",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 12,
+        "arabic": "وَ قَدۡ ",
+        "root": "",
+        "urdu_meaning": " اور تحقیق",
+        "english_meaning": "And certainly",
+        "lemma": "قَد",
+        "lughat": "",
+        "grammar": [
+          "CONJ",
+          "CERT"
+        ]
+      },
+      {
+        "word_id": 13,
+        "arabic": "اَنۡزَلۡنَاۤ  ",
+        "root": "ن ز ل",
+        "urdu_meaning": "نازل کیں ہم نے",
+        "english_meaning": "We have sent down",
+        "lemma": "أَنزَلَ",
+        "lughat": "",
+        "grammar": [
+          "V",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 14,
+        "arabic": "اٰیٰتٍ   ۢ ",
+        "root": "ا ي ي",
+        "urdu_meaning": "آیات",
+        "english_meaning": "Verses",
+        "lemma": "آيَة",
+        "lughat": "",
+        "grammar": [
+          "N"
+        ]
+      },
+      {
+        "word_id": 15,
+        "arabic": "بَیِّنٰتٍ ؕ ",
+        "root": "ب ي ن",
+        "urdu_meaning": "واضح",
+        "english_meaning": "clear.",
+        "lemma": "بَيِّنَة",
+        "lughat": "",
+        "grammar": [
+          "ADJ"
+        ]
+      },
+      {
+        "word_id": 16,
+        "arabic": "وَ لِلۡکٰفِرِیۡنَ ",
+        "root": "ك ف ر",
+        "urdu_meaning": "اور کافروں کے لیے ہے",
+        "english_meaning": "And for the disbelievers",
+        "lemma": "كافِر",
+        "lughat": "",
+        "grammar": [
+          "CONJ",
+          "P",
+          "DET",
+          "N"
+        ]
+      },
+      {
+        "word_id": 17,
+        "arabic": "عَذَابٌ  ",
+        "root": "ع ذ ب",
+        "urdu_meaning": "عذاب",
+        "english_meaning": "(is) a punishment",
+        "lemma": "عَذاب",
+        "lughat": "",
+        "grammar": [
+          "N"
+        ]
+      },
+      {
+        "word_id": 18,
+        "arabic": "مُّہِیۡنٌ ۚ﴿۵﴾",
+        "root": "ه و ن",
+        "urdu_meaning": "رسوا کرنے والا",
+        "english_meaning": "humiliating.",
+        "lemma": "مُهِين",
+        "lughat": "",
+        "grammar": [
+          "ADJ"
+        ]
+      }
+    ]
+  },
+  {
+    "surah_id": 58,
+    "ayah_number": 6,
+    "global_ayah_id": 5167,
+    "urdu_phrase_raw": "یَوۡمَ& جس دن@یَبۡعَثُہُمُ&اٹھائے گا انہیں@اللّٰہُ&اللہ@جَمِیۡعًا&سب کے سب کو@فَیُنَبِّئُہُمۡ&پھر وہ بتائے گا انہیں@بِمَا&وہ جو@عَمِلُوۡا&انہوں نے عمل کیے@اَحۡصٰہُ&گن رکھا ہے اسے@اللّٰہُ&اللہ نے@وَنَسُوۡہُ&جب کہ وہ بھول چکے ہیں اسے@وَاللّٰہُ&اور اللہ@عَلٰی&اوپر@کُلِّ&ہر@شَیۡءٍ&چیز کے@شَہِیۡدٌ&گواہ ہے",
+    "english_phrase_raw": "یَوۡمَ&(On the) Day@یَبۡعَثُہُمُ اللّٰہُ&(when) Allah will raise them@جَمِیۡعًا&all@فَیُنَبِّئُہُمۡ&and inform them@بِمَا&of what@عَمِلُوۡا&they did.@اَحۡصٰہُ اللّٰہُ&Allah has recorded it@وَنَسُوۡہُ&while they forgot it.@وَاللّٰہُ&And Allah@عَلٰی&(is) over@کُلِّ &all@شَیۡءٍ&things@شَہِیۡدٌ&a Witness.",
+    "words": [
+      {
+        "word_id": 1,
+        "arabic": "یَوۡمَ ",
+        "root": "ي و م",
+        "urdu_meaning": " جس دن",
+        "english_meaning": "(On the) Day",
+        "lemma": "يَوْم",
+        "lughat": "",
+        "grammar": [
+          "N"
+        ]
+      },
+      {
+        "word_id": 2,
+        "arabic": "یَبۡعَثُہُمُ ",
+        "root": "ب ع ث",
+        "urdu_meaning": "اٹھائے گا انہیں",
+        "english_meaning": "(when) Allah will raise them",
+        "lemma": "بَعَثَ",
+        "lughat": "",
+        "grammar": [
+          "V",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 3,
+        "arabic": "اللّٰہُ ",
+        "root": "ا ل ه",
+        "urdu_meaning": "اللہ",
+        "english_meaning": "",
+        "lemma": "اللّٰہ",
+        "lughat": "",
+        "grammar": [
+          "PN"
+        ]
+      },
+      {
+        "word_id": 4,
+        "arabic": "جَمِیۡعًا ",
+        "root": "ج م ع",
+        "urdu_meaning": "سب کے سب کو",
+        "english_meaning": "all",
+        "lemma": "جَمِيع",
+        "lughat": "",
+        "grammar": [
+          "N"
+        ]
+      },
+      {
+        "word_id": 5,
+        "arabic": "فَیُنَبِّئُہُمۡ ",
+        "root": "ن ب ا",
+        "urdu_meaning": "پھر وہ بتائے گا انہیں",
+        "english_meaning": "and inform them",
+        "lemma": "نَبَّأَ",
+        "lughat": "",
+        "grammar": [
+          "CONJ",
+          "V",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 6,
+        "arabic": "بِمَا ",
+        "root": "",
+        "urdu_meaning": "وہ جو",
+        "english_meaning": "of what",
+        "lemma": "ما",
+        "lughat": "",
+        "grammar": [
+          "P",
+          "REL"
+        ]
+      },
+      {
+        "word_id": 7,
+        "arabic": "عَمِلُوۡا ؕ ",
+        "root": "ع م ل",
+        "urdu_meaning": "انہوں نے عمل کیے",
+        "english_meaning": "they did.",
+        "lemma": "عَمِلَ",
+        "lughat": "",
+        "grammar": [
+          "V",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 8,
+        "arabic": "اَحۡصٰہُ  ",
+        "root": "ح ص ي",
+        "urdu_meaning": "گن رکھا ہے اسے",
+        "english_meaning": "Allah has recorded it",
+        "lemma": "أَحْصَى",
+        "lughat": "",
+        "grammar": [
+          "V",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 9,
+        "arabic": "اللّٰہُ ",
+        "root": "ا ل ه",
+        "urdu_meaning": "اللہ نے",
+        "english_meaning": "",
+        "lemma": "اللّٰہ",
+        "lughat": "",
+        "grammar": [
+          "PN"
+        ]
+      },
+      {
+        "word_id": 10,
+        "arabic": "وَ نَسُوۡہُ ؕ ",
+        "root": "ن س ي",
+        "urdu_meaning": "جب کہ وہ بھول چکے ہیں اسے",
+        "english_meaning": "while they forgot it.",
+        "lemma": "نَسِيَ",
+        "lughat": "",
+        "grammar": [
+          "CIRC",
+          "V",
+          "PRON",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 11,
+        "arabic": "وَ اللّٰہُ ",
+        "root": "ا ل ه",
+        "urdu_meaning": "اور اللہ",
+        "english_meaning": "And Allah",
+        "lemma": "اللّٰہ",
+        "lughat": "",
+        "grammar": [
+          "CONJ",
+          "PN"
+        ]
+      },
+      {
+        "word_id": 12,
+        "arabic": "عَلٰی ",
+        "root": "",
+        "urdu_meaning": "اوپر",
+        "english_meaning": "(is) over",
+        "lemma": "عَلَى",
+        "lughat": "",
+        "grammar": [
+          "P"
+        ]
+      },
+      {
+        "word_id": 13,
+        "arabic": "کُلِّ  ",
+        "root": "ك ل ل",
+        "urdu_meaning": "ہر",
+        "english_meaning": "all",
+        "lemma": "كُلّ",
+        "lughat": "",
+        "grammar": [
+          "N"
+        ]
+      },
+      {
+        "word_id": 14,
+        "arabic": "شَیۡءٍ ",
+        "root": "ش ي ا",
+        "urdu_meaning": "چیز کے",
+        "english_meaning": "things",
+        "lemma": "شَىْء",
+        "lughat": "",
+        "grammar": [
+          "N"
+        ]
+      },
+      {
+        "word_id": 15,
+        "arabic": "شَہِیۡدٌ ٪﴿۶﴾                  1",
+        "root": "ش ه د",
+        "urdu_meaning": "گواہ ہے",
+        "english_meaning": "a Witness.",
+        "lemma": "شَهِيد",
+        "lughat": "",
+        "grammar": [
+          "ADJ"
+        ]
+      }
+    ]
+  },
+  {
+    "surah_id": 58,
+    "ayah_number": 7,
+    "global_ayah_id": 5168,
+    "urdu_phrase_raw": "اَلَمۡ&کیا نہیں@تَرَ&آپ نے دیکھا@اَنَّ&بےشک@اللّٰہَ&اللہ@یَعۡلَمُ&وہ جانتا ہے@مَا&جو کچھ@فِی السَّمٰوٰتِ&آسمانوں میں ہے@وَمَا&اور جو کچھ@فِی الۡاَرۡضِ&زمین میں ہے@مَا&نہیں@یَکُوۡنُ&ہوتی@مِنۡ نَّجۡوٰی&کوئی سرگوشی@ثَلٰثَۃٍ&تین(لوگوں)کی@اِلَّا&مگر@ہُوَ&وہ@رَابِعُہُمۡ&چوتھا ہے ان کا@وَلَا&اور نہ@خَمۡسَۃٍ&پانچ(لوگوں)کی@اِلَّا&مگر@ہُوَ&وہ@سَادِسُہُمۡ&چھٹا ہے ان کا@وَلَاۤ&اور نہ@اَدۡنٰی&کم@مِنۡ ذٰلِکَ& اس سے@وَلَاۤ&اور نہ@اَکۡثَرَ&زیادہ@اِلَّا&مگر@ہُوَ&وہ@مَعَہُمۡ&ساتھ ہے ان کے@اَیۡنَ مَا&جہاں کہیں@کَانُوۡا&وہ ہوں@ثُمَّ&پھر@یُنَبِّئُہُمۡ&وہ بتائے گا انہیں@بِمَا&جو@عَمِلُوۡا&انہوں نے عمل کیے@یَوۡمَ&دن@الۡقِیٰمَۃِ&قیامت کے@اِنَّ&بےشک@اللّٰہَ&اللہ@بِکُلِّ&ہر@شَیۡءٍ&چیز کو@عَلِیۡمٌ&خوب جاننے والا ہے",
+    "english_phrase_raw": "اَلَمۡ&Do not@تَرَ&you see@اَنَّ&that@اللّٰہَ&Allah@یَعۡلَمُ&knows@مَا&whatever@فِی &(is) in@السَّمٰوٰتِ&the heavens@وَمَا&and whatever@فِی &(is) in@الۡاَرۡضِ&the earth?@مَا&Not@یَکُوۡنُ&there is@مِنۡ &any@نَّجۡوٰی&secret counsel@ثَلٰثَۃٍ&(of) three@اِلَّا&but@ہُوَ&He (is)@رَابِعُہُمۡ&(the) fourth of them,@وَلَا&and not@خَمۡسَۃٍ&five@اِلَّا&but@ہُوَ&He (is)@سَادِسُہُمۡ&(the) sixth of them,@وَلَاۤ&and not@اَدۡنٰی&less@مِنۡ &than@ذٰلِکَ&that@وَلَاۤ&and not@اَکۡثَرَ&more@اِلَّا&but@ہُوَ&He@مَعَہُمۡ&(is) with them@اَیۡنَ مَا&wherever@کَانُوۡا&they are.@ثُمَّ&Then@یُنَبِّئُہُمۡ&He will inform them@بِمَا&of what@عَمِلُوۡا&they did@یَوۡمَ&(on the) Day@الۡقِیٰمَۃِ&(of) the Resurrection@اِنَّ&Indeed,@اللّٰہَ&Allah@بِکُلِّ&of every@شَیۡءٍ&thing@عَلِیۡمٌ&(is) All-Knower.",
+    "words": [
+      {
+        "word_id": 1,
+        "arabic": "اَلَمۡ  ",
+        "root": "",
+        "urdu_meaning": "کیا نہیں",
+        "english_meaning": "Do not",
+        "lemma": "لَم",
+        "lughat": "",
+        "grammar": [
+          "INTG",
+          "NEG"
+        ]
+      },
+      {
+        "word_id": 2,
+        "arabic": "تَرَ ",
+        "root": "ر ا ي",
+        "urdu_meaning": "آپ نے دیکھا",
+        "english_meaning": "you see",
+        "lemma": "رَأَى",
+        "lughat": "",
+        "grammar": [
+          "V"
+        ]
+      },
+      {
+        "word_id": 3,
+        "arabic": "اَنَّ ",
+        "root": "اِنَّ",
+        "urdu_meaning": "بےشک",
+        "english_meaning": "that",
+        "lemma": "أَنّ",
+        "lughat": "",
+        "grammar": [
+          "ACC"
+        ]
+      },
+      {
+        "word_id": 4,
+        "arabic": "اللّٰہَ ",
+        "root": "ا ل ه",
+        "urdu_meaning": "اللہ",
+        "english_meaning": "Allah",
+        "lemma": "اللّٰہ",
+        "lughat": "",
+        "grammar": [
+          "PN"
+        ]
+      },
+      {
+        "word_id": 5,
+        "arabic": "یَعۡلَمُ ",
+        "root": "ع ل م",
+        "urdu_meaning": "وہ جانتا ہے",
+        "english_meaning": "knows",
+        "lemma": "عَلِمَ",
+        "lughat": "",
+        "grammar": [
+          "V"
+        ]
+      },
+      {
+        "word_id": 6,
+        "arabic": "مَا ",
+        "root": "",
+        "urdu_meaning": "جو کچھ",
+        "english_meaning": "whatever",
+        "lemma": "ما",
+        "lughat": "",
+        "grammar": [
+          "REL"
+        ]
+      },
+      {
+        "word_id": 7,
+        "arabic": "فِی ",
+        "root": "",
+        "urdu_meaning": "میں ہے",
+        "english_meaning": "(is) in",
+        "lemma": "فِي",
+        "lughat": "",
+        "grammar": [
+          "P"
+        ]
+      },
+      {
+        "word_id": 8,
+        "arabic": "السَّمٰوٰتِ ",
+        "root": "س م و",
+        "urdu_meaning": "آسمانوں",
+        "english_meaning": "the heavens",
+        "lemma": "سَماء",
+        "lughat": "",
+        "grammar": [
+          "DET",
+          "N"
+        ]
+      },
+      {
+        "word_id": 9,
+        "arabic": "وَ مَا ",
+        "root": "",
+        "urdu_meaning": "اور جو کچھ",
+        "english_meaning": "and whatever",
+        "lemma": "ما",
+        "lughat": "",
+        "grammar": [
+          "CONJ",
+          "REL"
+        ]
+      },
+      {
+        "word_id": 10,
+        "arabic": "فِی ",
+        "root": "",
+        "urdu_meaning": "میں ہے",
+        "english_meaning": "(is) in",
+        "lemma": "فِي",
+        "lughat": "",
+        "grammar": [
+          "P"
+        ]
+      },
+      {
+        "word_id": 11,
+        "arabic": "الۡاَرۡضِ ؕ ",
+        "root": "ا ر ض",
+        "urdu_meaning": "زمین",
+        "english_meaning": "the earth?",
+        "lemma": "أَرْض",
+        "lughat": "",
+        "grammar": [
+          "DET",
+          "N"
+        ]
+      },
+      {
+        "word_id": 12,
+        "arabic": "مَا ",
+        "root": "",
+        "urdu_meaning": "نہیں",
+        "english_meaning": "Not",
+        "lemma": "ما",
+        "lughat": "",
+        "grammar": [
+          "NEG"
+        ]
+      },
+      {
+        "word_id": 13,
+        "arabic": "یَکُوۡنُ ",
+        "root": "ك و ن",
+        "urdu_meaning": "ہوتی",
+        "english_meaning": "there is",
+        "lemma": "كانَ",
+        "lughat": "",
+        "grammar": [
+          "V"
+        ]
+      },
+      {
+        "word_id": 14,
+        "arabic": "مِنۡ ",
+        "root": "",
+        "urdu_meaning": "کوئی",
+        "english_meaning": "any",
+        "lemma": "مِن",
+        "lughat": "",
+        "grammar": [
+          "P"
+        ]
+      },
+      {
+        "word_id": 15,
+        "arabic": "نَّجۡوٰی ",
+        "root": "ن ج و",
+        "urdu_meaning": "سرگوشی",
+        "english_meaning": "secret counsel",
+        "lemma": "نَجْوَى",
+        "lughat": "",
+        "grammar": [
+          "N"
+        ]
+      },
+      {
+        "word_id": 16,
+        "arabic": "ثَلٰثَۃٍ  ",
+        "root": "ث ل ث",
+        "urdu_meaning": "تین(لوگوں)کی",
+        "english_meaning": "(of) three",
+        "lemma": "ثَلاثَة",
+        "lughat": "",
+        "grammar": [
+          "N"
+        ]
+      },
+      {
+        "word_id": 17,
+        "arabic": "اِلَّا ",
+        "root": "اِلَّا",
+        "urdu_meaning": "مگر",
+        "english_meaning": "but",
+        "lemma": "إِلّا",
+        "lughat": "",
+        "grammar": [
+          "RES"
+        ]
+      },
+      {
+        "word_id": 18,
+        "arabic": "ہُوَ  ",
+        "root": "",
+        "urdu_meaning": "وہ",
+        "english_meaning": "He (is)",
+        "lemma": "",
+        "lughat": "",
+        "grammar": [
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 19,
+        "arabic": "رَابِعُہُمۡ ",
+        "root": "ر ب ع",
+        "urdu_meaning": "چوتھا ہے ان کا",
+        "english_meaning": "(the) fourth of them,",
+        "lemma": "رابِع",
+        "lughat": "",
+        "grammar": [
+          "N",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 20,
+        "arabic": "وَ لَا ",
+        "root": "",
+        "urdu_meaning": "اور نہ",
+        "english_meaning": "and not",
+        "lemma": "لا",
+        "lughat": "",
+        "grammar": [
+          "CONJ",
+          "NEG"
+        ]
+      },
+      {
+        "word_id": 21,
+        "arabic": "خَمۡسَۃٍ  ",
+        "root": "خ م س",
+        "urdu_meaning": "پانچ(لوگوں)کی",
+        "english_meaning": "five",
+        "lemma": "خَمْسَة",
+        "lughat": "",
+        "grammar": [
+          "N"
+        ]
+      },
+      {
+        "word_id": 22,
+        "arabic": "اِلَّا ",
+        "root": "اِلَّا",
+        "urdu_meaning": "مگر",
+        "english_meaning": "but",
+        "lemma": "إِلّا",
+        "lughat": "",
+        "grammar": [
+          "RES"
+        ]
+      },
+      {
+        "word_id": 23,
+        "arabic": "ہُوَ ",
+        "root": "",
+        "urdu_meaning": "وہ",
+        "english_meaning": "He (is)",
+        "lemma": "",
+        "lughat": "",
+        "grammar": [
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 24,
+        "arabic": "سَادِسُہُمۡ ",
+        "root": "س د س",
+        "urdu_meaning": "چھٹا ہے ان کا",
+        "english_meaning": "(the) sixth of them,",
+        "lemma": "سادِس",
+        "lughat": "",
+        "grammar": [
+          "N",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 25,
+        "arabic": "وَ لَاۤ  ",
+        "root": "",
+        "urdu_meaning": "اور نہ",
+        "english_meaning": "and not",
+        "lemma": "لا",
+        "lughat": "",
+        "grammar": [
+          "CONJ",
+          "NEG"
+        ]
+      },
+      {
+        "word_id": 26,
+        "arabic": "اَدۡنٰی ",
+        "root": "د ن و",
+        "urdu_meaning": "کم",
+        "english_meaning": "less",
+        "lemma": "أَدْنَى",
+        "lughat": "",
+        "grammar": [
+          "N"
+        ]
+      },
+      {
+        "word_id": 27,
+        "arabic": "مِنۡ ",
+        "root": "",
+        "urdu_meaning": "سے",
+        "english_meaning": "than",
+        "lemma": "مِن",
+        "lughat": "",
+        "grammar": [
+          "P"
+        ]
+      },
+      {
+        "word_id": 28,
+        "arabic": "ذٰلِکَ ",
+        "root": "",
+        "urdu_meaning": "اس",
+        "english_meaning": "that",
+        "lemma": "ذا",
+        "lughat": "",
+        "grammar": [
+          "DEM",
+          "DIST",
+          "ADDR"
+        ]
+      },
+      {
+        "word_id": 29,
+        "arabic": "وَ لَاۤ ",
+        "root": "",
+        "urdu_meaning": "اور نہ",
+        "english_meaning": "and not",
+        "lemma": "لا",
+        "lughat": "",
+        "grammar": [
+          "CONJ",
+          "NEG"
+        ]
+      },
+      {
+        "word_id": 30,
+        "arabic": "اَکۡثَرَ  ",
+        "root": "ك ث ر",
+        "urdu_meaning": "زیادہ",
+        "english_meaning": "more",
+        "lemma": "أَكْثَر",
+        "lughat": "",
+        "grammar": [
+          "N"
+        ]
+      },
+      {
+        "word_id": 31,
+        "arabic": "اِلَّا ",
+        "root": "اِلَّا",
+        "urdu_meaning": "مگر",
+        "english_meaning": "but",
+        "lemma": "إِلّا",
+        "lughat": "",
+        "grammar": [
+          "RES"
+        ]
+      },
+      {
+        "word_id": 32,
+        "arabic": "ہُوَ ",
+        "root": "",
+        "urdu_meaning": "وہ",
+        "english_meaning": "He",
+        "lemma": "",
+        "lughat": "",
+        "grammar": [
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 33,
+        "arabic": "مَعَہُمۡ  ",
+        "root": "",
+        "urdu_meaning": "ساتھ ہے ان کے",
+        "english_meaning": "(is) with them",
+        "lemma": "مَع",
+        "lughat": "",
+        "grammar": [
+          "LOC",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 34,
+        "arabic": "اَیۡنَ ",
+        "root": "",
+        "urdu_meaning": "جہاں",
+        "english_meaning": "wherever",
+        "lemma": "أَيْن",
+        "lughat": "",
+        "grammar": [
+          "INTG"
+        ]
+      },
+      {
+        "word_id": 35,
+        "arabic": "مَا ",
+        "root": "",
+        "urdu_meaning": "کہیں",
+        "english_meaning": "",
+        "lemma": "ما",
+        "lughat": "",
+        "grammar": [
+          "REL"
+        ]
+      },
+      {
+        "word_id": 36,
+        "arabic": "کَانُوۡا ۚ ",
+        "root": "ك و ن",
+        "urdu_meaning": "وہ ہوں",
+        "english_meaning": "they are.",
+        "lemma": "كانَ",
+        "lughat": "",
+        "grammar": [
+          "V",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 37,
+        "arabic": "ثُمَّ  ",
+        "root": "",
+        "urdu_meaning": "پھر",
+        "english_meaning": "Then",
+        "lemma": "ثُمّ",
+        "lughat": "",
+        "grammar": [
+          "CONJ"
+        ]
+      },
+      {
+        "word_id": 38,
+        "arabic": "یُنَبِّئُہُمۡ ",
+        "root": "ن ب ا",
+        "urdu_meaning": "وہ بتائے گا انہیں",
+        "english_meaning": "He will inform them",
+        "lemma": "نَبَّأَ",
+        "lughat": "",
+        "grammar": [
+          "V",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 39,
+        "arabic": "بِمَا ",
+        "root": "",
+        "urdu_meaning": "جو",
+        "english_meaning": "of what",
+        "lemma": "ما",
+        "lughat": "",
+        "grammar": [
+          "P",
+          "REL"
+        ]
+      },
+      {
+        "word_id": 40,
+        "arabic": "عَمِلُوۡا ",
+        "root": "ع م ل",
+        "urdu_meaning": "انہوں نے عمل کیے",
+        "english_meaning": "they did",
+        "lemma": "عَمِلَ",
+        "lughat": "",
+        "grammar": [
+          "V",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 41,
+        "arabic": "یَوۡمَ  ",
+        "root": "ي و م",
+        "urdu_meaning": "دن",
+        "english_meaning": "(on the) Day",
+        "lemma": "يَوْم",
+        "lughat": "",
+        "grammar": [
+          "N"
+        ]
+      },
+      {
+        "word_id": 42,
+        "arabic": "الۡقِیٰمَۃِ ؕ ",
+        "root": "ق و م",
+        "urdu_meaning": "قیامت کے",
+        "english_meaning": "(of) the Resurrection",
+        "lemma": "قِيامَة",
+        "lughat": "",
+        "grammar": [
+          "DET",
+          "N"
+        ]
+      },
+      {
+        "word_id": 43,
+        "arabic": "اِنَّ ",
+        "root": "اِنَّ",
+        "urdu_meaning": "بےشک",
+        "english_meaning": "Indeed,",
+        "lemma": "إِنّ",
+        "lughat": "",
+        "grammar": [
+          "ACC"
+        ]
+      },
+      {
+        "word_id": 44,
+        "arabic": "اللّٰہَ ",
+        "root": "ا ل ه",
+        "urdu_meaning": "اللہ",
+        "english_meaning": "Allah",
+        "lemma": "اللّٰہ",
+        "lughat": "",
+        "grammar": [
+          "PN"
+        ]
+      },
+      {
+        "word_id": 45,
+        "arabic": "بِکُلِّ  ",
+        "root": "ك ل ل",
+        "urdu_meaning": "ہر",
+        "english_meaning": "of every",
+        "lemma": "كُلّ",
+        "lughat": "",
+        "grammar": [
+          "P",
+          "N"
+        ]
+      },
+      {
+        "word_id": 46,
+        "arabic": "شَیۡءٍ ",
+        "root": "ش ي ا",
+        "urdu_meaning": "چیز کو",
+        "english_meaning": "thing",
+        "lemma": "شَىْء",
+        "lughat": "",
+        "grammar": [
+          "N"
+        ]
+      },
+      {
+        "word_id": 47,
+        "arabic": "عَلِیۡمٌ ﴿۷﴾",
+        "root": "ع ل م",
+        "urdu_meaning": "خوب جاننے والا ہے",
+        "english_meaning": "(is) All-Knower.",
+        "lemma": "عَلِيم",
+        "lughat": "",
+        "grammar": [
+          "ADJ"
+        ]
+      }
+    ]
+  },
+  {
+    "surah_id": 58,
+    "ayah_number": 8,
+    "global_ayah_id": 5169,
+    "urdu_phrase_raw": "اَلَمۡ&کیا نہیں@تَرَ&آپ نے دیکھا@اِلَی&طرف@الَّذِیۡنَ&ان لوگوں کے جو@نُہُوۡا&روکے گئے@عَنِ النَّجۡوٰی& سرگوشی سے@ثُمَّ&پھر@یَعُوۡدُوۡنَ&وہ لوٹتے ہیں@لِمَا&طرف اس کے جو@نُہُوۡا&وہ روکے گئے تھے@عَنۡہُ& جس سے@وَیَتَنٰجَوۡنَ&اور وہ باہم سرگوشیاں کرتے ہیں@بِالۡاِثۡمِ&گناہ کی@وَالۡعُدۡوَانِ&اور زیادتی کی@وَمَعۡصِیَتِ الرَّسُوۡلِ&اور رسول کی نافرمانی کی@وَاِذَا&اور جب@جَآءُوۡکَ&وہ آتے ہیں آپ کے پاس@حَیَّوۡکَ&وہ سلام کرتے ہیں آپ کو@بِمَا&ساتھ اس کے جو@لَمۡ&نہیں@یُحَیِّکَ&سلام کہا آپ کو@بِہِ&ساتھ اس کے@اللّٰہُ&اللہ نے@وَیَقُوۡلُوۡنَ&اور وہ کہتے ہیں@فِیۡۤ اَنۡفُسِہِمۡ&اپنے نفسوں سے@لَوۡلَا&کیوں نہ@یُعَذِّبُنَا&عذاب دیتا ہمیں@اللّٰہُ&اللہ@بِمَا&بوجہ اس کے جو@نَقُوۡلُ&ہم کہتے ہیں@حَسۡبُہُمۡ&کافی ہے انہیں@جَہَنَّمُ&جہنم@یَصۡلَوۡنَہَا&وہ جلیں گے اس میں@فَبِئۡسَ&پس کتنی بری ہے@الۡمَصِیۡرُ&لوٹنے کی جگہ",
+    "english_phrase_raw": "اَلَمۡ&Do not@تَرَ&you see@اِلَی&to@الَّذِیۡنَ&those who@نُہُوۡا&were forbidden@عَنِ &from@النَّجۡوٰی&secret counsels,@ثُمَّ&then@یَعُوۡدُوۡنَ&they return@لِمَا&to what@نُہُوۡا&they were forbidden@عَنۡہُ&from it,@وَیَتَنٰجَوۡنَ&and they hold secret counsels@بِالۡاِثۡمِ&for sin@وَالۡعُدۡوَانِ&and aggression@وَمَعۡصِیَتِ &and disobedience@الرَّسُوۡلِ&(to) the Messenger?@وَاِذَا&And when@جَآءُوۡکَ&they come to you,@حَیَّوۡکَ&they greet you@بِمَا&with what@لَمۡ &not@یُحَیِّکَ&greets you@بِہِ&therewith@اللّٰہُ&Allah,@وَیَقُوۡلُوۡنَ&and they say@فِیۡۤ &among@اَنۡفُسِہِمۡ&themselves,@لَوۡلَا&Why (does) not@یُعَذِّبُنَا اللّٰہُ&Allah punish us@بِمَا&for what@نَقُوۡلُ&we say?@حَسۡبُہُمۡ&Sufficient (for) them@جَہَنَّمُ&(is) Hell,@یَصۡلَوۡنَہَا&they will burn in it@فَبِئۡسَ &and worst is@الۡمَصِیۡرُ&the destination.",
+    "words": [
+      {
+        "word_id": 1,
+        "arabic": "اَلَمۡ ",
+        "root": "",
+        "urdu_meaning": "کیا نہیں",
+        "english_meaning": "Do not",
+        "lemma": "لَم",
+        "lughat": "",
+        "grammar": [
+          "INTG",
+          "NEG"
+        ]
+      },
+      {
+        "word_id": 2,
+        "arabic": "تَرَ ",
+        "root": "ر ا ي",
+        "urdu_meaning": "آپ نے دیکھا",
+        "english_meaning": "you see",
+        "lemma": "رَأَى",
+        "lughat": "",
+        "grammar": [
+          "V"
+        ]
+      },
+      {
+        "word_id": 3,
+        "arabic": "اِلَی ",
+        "root": "إِلَىٰ",
+        "urdu_meaning": "طرف",
+        "english_meaning": "to",
+        "lemma": "إِلَى",
+        "lughat": "",
+        "grammar": [
+          "P"
+        ]
+      },
+      {
+        "word_id": 4,
+        "arabic": "الَّذِیۡنَ ",
+        "root": "ٱلَّذِى",
+        "urdu_meaning": "ان لوگوں کے جو",
+        "english_meaning": "those who",
+        "lemma": "الَّذِي",
+        "lughat": "",
+        "grammar": [
+          "REL"
+        ]
+      },
+      {
+        "word_id": 5,
+        "arabic": "نُہُوۡا ",
+        "root": "ن ه ي",
+        "urdu_meaning": "روکے گئے",
+        "english_meaning": "were forbidden",
+        "lemma": "نَهَى",
+        "lughat": "",
+        "grammar": [
+          "V",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 6,
+        "arabic": "عَنِ ",
+        "root": "",
+        "urdu_meaning": "سے",
+        "english_meaning": "from",
+        "lemma": "عَن",
+        "lughat": "",
+        "grammar": [
+          "P"
+        ]
+      },
+      {
+        "word_id": 7,
+        "arabic": "النَّجۡوٰی ",
+        "root": "ن ج و",
+        "urdu_meaning": "سرگوشی",
+        "english_meaning": "secret counsels,",
+        "lemma": "نَجْوَى",
+        "lughat": "",
+        "grammar": [
+          "DET",
+          "N"
+        ]
+      },
+      {
+        "word_id": 8,
+        "arabic": "ثُمَّ ",
+        "root": "",
+        "urdu_meaning": "پھر",
+        "english_meaning": "then",
+        "lemma": "ثُمّ",
+        "lughat": "",
+        "grammar": [
+          "CONJ"
+        ]
+      },
+      {
+        "word_id": 9,
+        "arabic": "یَعُوۡدُوۡنَ ",
+        "root": "ع و د",
+        "urdu_meaning": "وہ لوٹتے ہیں",
+        "english_meaning": "they return",
+        "lemma": "عادَ",
+        "lughat": "",
+        "grammar": [
+          "V",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 10,
+        "arabic": "لِمَا ",
+        "root": "",
+        "urdu_meaning": "طرف اس کے جو",
+        "english_meaning": "to what",
+        "lemma": "ما",
+        "lughat": "",
+        "grammar": [
+          "P",
+          "REL"
+        ]
+      },
+      {
+        "word_id": 11,
+        "arabic": "نُہُوۡا ",
+        "root": "ن ه ي",
+        "urdu_meaning": "وہ روکے گئے تھے",
+        "english_meaning": "they were forbidden",
+        "lemma": "نَهَى",
+        "lughat": "",
+        "grammar": [
+          "V",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 12,
+        "arabic": "عَنۡہُ ",
+        "root": "",
+        "urdu_meaning": " جس سے",
+        "english_meaning": "from it,",
+        "lemma": "عَن",
+        "lughat": "",
+        "grammar": [
+          "P",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 13,
+        "arabic": "وَ یَتَنٰجَوۡنَ ",
+        "root": "ن ج و",
+        "urdu_meaning": "اور وہ باہم سرگوشیاں کرتے ہیں",
+        "english_meaning": "and they hold secret counsels",
+        "lemma": "تَناجَيْ",
+        "lughat": "",
+        "grammar": [
+          "CONJ",
+          "V",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 14,
+        "arabic": "بِالۡاِثۡمِ ",
+        "root": "ا ث م",
+        "urdu_meaning": "گناہ کی",
+        "english_meaning": "for sin",
+        "lemma": "إِثْم",
+        "lughat": "",
+        "grammar": [
+          "P",
+          "DET",
+          "N"
+        ]
+      },
+      {
+        "word_id": 15,
+        "arabic": "وَ الۡعُدۡوَانِ ",
+        "root": "ع د و",
+        "urdu_meaning": "اور زیادتی کی",
+        "english_meaning": "and aggression",
+        "lemma": "عُدْوان",
+        "lughat": "",
+        "grammar": [
+          "CONJ",
+          "DET",
+          "N"
+        ]
+      },
+      {
+        "word_id": 16,
+        "arabic": "وَ مَعۡصِیَتِ ",
+        "root": "ع ص ي",
+        "urdu_meaning": "اور نافرمانی کی",
+        "english_meaning": "and disobedience",
+        "lemma": "مَعْصِيَ",
+        "lughat": "",
+        "grammar": [
+          "CONJ",
+          "N"
+        ]
+      },
+      {
+        "word_id": 17,
+        "arabic": "الرَّسُوۡلِ ۫ ",
+        "root": "ر س ل",
+        "urdu_meaning": "رسول کی",
+        "english_meaning": "(to) the Messenger?",
+        "lemma": "رَسُول",
+        "lughat": "",
+        "grammar": [
+          "DET",
+          "N"
+        ]
+      },
+      {
+        "word_id": 18,
+        "arabic": "وَ اِذَا ",
+        "root": "اِذَا",
+        "urdu_meaning": "اور جب",
+        "english_meaning": "And when",
+        "lemma": "إِذا",
+        "lughat": "",
+        "grammar": [
+          "CONJ",
+          "T"
+        ]
+      },
+      {
+        "word_id": 19,
+        "arabic": "جَآءُوۡکَ ",
+        "root": "ج ي ا",
+        "urdu_meaning": "وہ آتے ہیں آپ کے پاس",
+        "english_meaning": "they come to you,",
+        "lemma": "جاءَ",
+        "lughat": "",
+        "grammar": [
+          "V",
+          "PRON",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 20,
+        "arabic": "حَیَّوۡکَ ",
+        "root": "ح ي ي",
+        "urdu_meaning": "وہ سلام کرتے ہیں آپ کو",
+        "english_meaning": "they greet you",
+        "lemma": "حَيَّ",
+        "lughat": "",
+        "grammar": [
+          "V",
+          "PRON",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 21,
+        "arabic": "بِمَا ",
+        "root": "",
+        "urdu_meaning": "ساتھ اس کے جو",
+        "english_meaning": "with what",
+        "lemma": "ما",
+        "lughat": "",
+        "grammar": [
+          "P",
+          "REL"
+        ]
+      },
+      {
+        "word_id": 22,
+        "arabic": "لَمۡ ",
+        "root": "",
+        "urdu_meaning": "نہیں",
+        "english_meaning": "not",
+        "lemma": "لَم",
+        "lughat": "",
+        "grammar": [
+          "NEG"
+        ]
+      },
+      {
+        "word_id": 23,
+        "arabic": "یُحَیِّکَ ",
+        "root": "ح ي ي",
+        "urdu_meaning": "سلام کہا آپ کو",
+        "english_meaning": "greets you",
+        "lemma": "حَيَّ",
+        "lughat": "",
+        "grammar": [
+          "V",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 24,
+        "arabic": "بِہِ ",
+        "root": "",
+        "urdu_meaning": "ساتھ اس کے",
+        "english_meaning": "therewith",
+        "lemma": "",
+        "lughat": "",
+        "grammar": [
+          "P",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 25,
+        "arabic": "اللّٰہُ ۙ ",
+        "root": "ا ل ه",
+        "urdu_meaning": "اللہ نے",
+        "english_meaning": "Allah,",
+        "lemma": "اللّٰہ",
+        "lughat": "",
+        "grammar": [
+          "PN"
+        ]
+      },
+      {
+        "word_id": 26,
+        "arabic": "وَ یَقُوۡلُوۡنَ  ",
+        "root": "ق و ل",
+        "urdu_meaning": "اور وہ کہتے ہیں",
+        "english_meaning": "and they say",
+        "lemma": "قالَ",
+        "lughat": "",
+        "grammar": [
+          "CONJ",
+          "V",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 27,
+        "arabic": "فِیۡۤ  ",
+        "root": "",
+        "urdu_meaning": "سے",
+        "english_meaning": "among",
+        "lemma": "فِي",
+        "lughat": "",
+        "grammar": [
+          "P"
+        ]
+      },
+      {
+        "word_id": 28,
+        "arabic": "اَنۡفُسِہِمۡ ",
+        "root": "ن ف س",
+        "urdu_meaning": "اپنے نفسوں",
+        "english_meaning": "themselves,",
+        "lemma": "نَفْس",
+        "lughat": "",
+        "grammar": [
+          "N",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 29,
+        "arabic": "لَوۡ  لَا ",
+        "root": "",
+        "urdu_meaning": "کیوں نہ",
+        "english_meaning": "Why (does) not",
+        "lemma": "لَوْلا",
+        "lughat": "",
+        "grammar": [
+          "EXH"
+        ]
+      },
+      {
+        "word_id": 30,
+        "arabic": "یُعَذِّبُنَا ",
+        "root": "ع ذ ب",
+        "urdu_meaning": "عذاب دیتا ہمیں",
+        "english_meaning": "Allah punish us",
+        "lemma": "عَذَّبَ",
+        "lughat": "",
+        "grammar": [
+          "V",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 31,
+        "arabic": "اللّٰہُ  ",
+        "root": "ا ل ه",
+        "urdu_meaning": "اللہ",
+        "english_meaning": "",
+        "lemma": "اللّٰہ",
+        "lughat": "",
+        "grammar": [
+          "PN"
+        ]
+      },
+      {
+        "word_id": 32,
+        "arabic": "بِمَا ",
+        "root": "",
+        "urdu_meaning": "بوجہ اس کے جو",
+        "english_meaning": "for what",
+        "lemma": "ما",
+        "lughat": "",
+        "grammar": [
+          "P",
+          "REL"
+        ]
+      },
+      {
+        "word_id": 33,
+        "arabic": "نَقُوۡلُ ؕ ",
+        "root": "ق و ل",
+        "urdu_meaning": "ہم کہتے ہیں",
+        "english_meaning": "we say?",
+        "lemma": "قالَ",
+        "lughat": "",
+        "grammar": [
+          "V"
+        ]
+      },
+      {
+        "word_id": 34,
+        "arabic": "حَسۡبُہُمۡ  ",
+        "root": "ح س ب",
+        "urdu_meaning": "کافی ہے انہیں",
+        "english_meaning": "Sufficient (for) them",
+        "lemma": "حَسْب",
+        "lughat": "",
+        "grammar": [
+          "N",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 35,
+        "arabic": "جَہَنَّمُ ۚ ",
+        "root": "",
+        "urdu_meaning": "جہنم",
+        "english_meaning": "(is) Hell,",
+        "lemma": "جَهَنَّم",
+        "lughat": "",
+        "grammar": [
+          "PN"
+        ]
+      },
+      {
+        "word_id": 36,
+        "arabic": "یَصۡلَوۡنَہَا ۚ ",
+        "root": "ص ل ي",
+        "urdu_meaning": "وہ جلیں گے اس میں",
+        "english_meaning": "they will burn in it",
+        "lemma": "يَصْلَى",
+        "lughat": "",
+        "grammar": [
+          "V",
+          "PRON",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 37,
+        "arabic": "فَبِئۡسَ ",
+        "root": "ب ا س",
+        "urdu_meaning": "پس کتنی بری ہے",
+        "english_meaning": "and worst is",
+        "lemma": "بِئۡسَ",
+        "lughat": "",
+        "grammar": [
+          "CONJ",
+          "V"
+        ]
+      },
+      {
+        "word_id": 38,
+        "arabic": "الۡمَصِیۡرُ ﴿۸﴾",
+        "root": "ص ي ر",
+        "urdu_meaning": "لوٹنے کی جگہ",
+        "english_meaning": "the destination.",
+        "lemma": "مَصِير",
+        "lughat": "",
+        "grammar": [
+          "DET",
+          "N"
+        ]
+      }
+    ]
+  },
+  {
+    "surah_id": 58,
+    "ayah_number": 9,
+    "global_ayah_id": 5170,
+    "urdu_phrase_raw": "یٰۤاَیُّہَاالَّذِیۡنَ&اے لوگو جو@اٰمَنُوۡۤا&ایمان لائے ہو@اِذَا&جب@تَنَاجَیۡتُمۡ&تم باہم سرگوشیاں کرو@فَلَا&پس نہ@تَتَنَاجَوۡا&تم سرگوشیاں کرو@بِالۡاِثۡمِ&گناہ کی@وَالۡعُدۡوَانِ&اور زیادتی کی@وَمَعۡصِیَتِ  الرَّسُوۡلِ&اور رسول کی نافرمانی کی@وَتَنَاجَوۡا&بلکہ سرگوشی کرو@بِالۡبِرِّ&نیکی کی@وَالتَّقۡوٰی&اور تقوٰی کی@وَاتَّقُوا&اور ڈرو@اللّٰہَ&اللہ سے@الَّذِیۡۤ&وہ جو@اِلَیۡہِ&طرف اسی کے@تُحۡشَرُوۡنَ& تم اکٹھے کیے جاؤ گے",
+    "english_phrase_raw": "یٰۤاَیُّہَا الَّذِیۡنَ اٰمَنُوۡۤا&O you who believe!@اِذَا&When@تَنَاجَیۡتُمۡ&you hold secret counsel@فَلَا&then (do) not@تَتَنَاجَوۡا&hold secret counsel@بِالۡاِثۡمِ&for sin@وَالۡعُدۡوَانِ&and aggression@وَمَعۡصِیَتِ  &and disobedience@الرَّسُوۡلِ&(to) the Messenger,@وَتَنَاجَوۡا&but hold secret counsel@بِالۡبِرِّ&for righteousness@وَالتَّقۡوٰی&and piety.@وَاتَّقُوا&And fear@اللّٰہَ&Allah,@الَّذِیۡۤ&the One Who,@اِلَیۡہِ&to Him@تُحۡشَرُوۡنَ&you will be gathered.",
+    "words": [
+      {
+        "word_id": 1,
+        "arabic": "یٰۤاَیُّہَا ",
+        "root": "",
+        "urdu_meaning": "اے",
+        "english_meaning": "O you who believe!",
+        "lemma": "أَيّ",
+        "lughat": "",
+        "grammar": [
+          "VOC",
+          "N",
+          "ATT"
+        ]
+      },
+      {
+        "word_id": 2,
+        "arabic": "الَّذِیۡنَ ",
+        "root": "ٱلَّذِى",
+        "urdu_meaning": "لوگو",
+        "english_meaning": "",
+        "lemma": "الَّذِي",
+        "lughat": "",
+        "grammar": [
+          "REL"
+        ]
+      },
+      {
+        "word_id": 3,
+        "arabic": "اٰمَنُوۡۤا  ",
+        "root": "ا م ن",
+        "urdu_meaning": "جو ایمان لائے ہو",
+        "english_meaning": "",
+        "lemma": "آمَنَ",
+        "lughat": "",
+        "grammar": [
+          "V",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 4,
+        "arabic": "اِذَا ",
+        "root": "اِذَا",
+        "urdu_meaning": "جب",
+        "english_meaning": "When",
+        "lemma": "إِذا",
+        "lughat": "",
+        "grammar": [
+          "T"
+        ]
+      },
+      {
+        "word_id": 5,
+        "arabic": "تَنَاجَیۡتُمۡ ",
+        "root": "ن ج و",
+        "urdu_meaning": "تم باہم سرگوشیاں کرو",
+        "english_meaning": "you hold secret counsel",
+        "lemma": "تَناجَيْ",
+        "lughat": "",
+        "grammar": [
+          "V",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 6,
+        "arabic": "فَلَا ",
+        "root": "",
+        "urdu_meaning": "پس نہ",
+        "english_meaning": "then (do) not",
+        "lemma": "لا",
+        "lughat": "",
+        "grammar": [
+          "REM",
+          "PRO"
+        ]
+      },
+      {
+        "word_id": 7,
+        "arabic": "تَتَنَاجَوۡا ",
+        "root": "ن ج و",
+        "urdu_meaning": "تم سرگوشیاں کرو",
+        "english_meaning": "hold secret counsel",
+        "lemma": "تَناجَيْ",
+        "lughat": "",
+        "grammar": [
+          "V",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 8,
+        "arabic": "بِالۡاِثۡمِ ",
+        "root": "ا ث م",
+        "urdu_meaning": "گناہ کی",
+        "english_meaning": "for sin",
+        "lemma": "إِثْم",
+        "lughat": "",
+        "grammar": [
+          "P",
+          "DET",
+          "N"
+        ]
+      },
+      {
+        "word_id": 9,
+        "arabic": "وَ الۡعُدۡوَانِ ",
+        "root": "ع د و",
+        "urdu_meaning": "اور زیادتی کی",
+        "english_meaning": "and aggression",
+        "lemma": "عُدْوان",
+        "lughat": "",
+        "grammar": [
+          "CONJ",
+          "DET",
+          "N"
+        ]
+      },
+      {
+        "word_id": 10,
+        "arabic": "وَ مَعۡصِیَتِ ",
+        "root": "ع ص ي",
+        "urdu_meaning": "اور نافرمانی کی",
+        "english_meaning": "and disobedience",
+        "lemma": "مَعْصِيَ",
+        "lughat": "",
+        "grammar": [
+          "CONJ",
+          "N"
+        ]
+      },
+      {
+        "word_id": 11,
+        "arabic": "الرَّسُوۡلِ ",
+        "root": "ر س ل",
+        "urdu_meaning": "رسول کی",
+        "english_meaning": "(to) the Messenger,",
+        "lemma": "رَسُول",
+        "lughat": "",
+        "grammar": [
+          "DET",
+          "N"
+        ]
+      },
+      {
+        "word_id": 12,
+        "arabic": "وَ تَنَاجَوۡا ",
+        "root": "ن ج و",
+        "urdu_meaning": "بلکہ سرگوشی کرو",
+        "english_meaning": "but hold secret counsel",
+        "lemma": "تَناجَيْ",
+        "lughat": "",
+        "grammar": [
+          "CONJ",
+          "V",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 13,
+        "arabic": "بِالۡبِرِّ ",
+        "root": "ب ر ر",
+        "urdu_meaning": "نیکی کی",
+        "english_meaning": "for righteousness",
+        "lemma": "بِرّ",
+        "lughat": "",
+        "grammar": [
+          "P",
+          "DET",
+          "N"
+        ]
+      },
+      {
+        "word_id": 14,
+        "arabic": "وَ التَّقۡوٰی ؕ ",
+        "root": "و ق ي",
+        "urdu_meaning": "اور تقوٰی کی",
+        "english_meaning": "and piety.",
+        "lemma": "تَقْوَى",
+        "lughat": "",
+        "grammar": [
+          "CONJ",
+          "DET",
+          "N"
+        ]
+      },
+      {
+        "word_id": 15,
+        "arabic": "وَ اتَّقُوا ",
+        "root": "و ق ي",
+        "urdu_meaning": "اور ڈرو",
+        "english_meaning": "And fear",
+        "lemma": "اتَّقَى",
+        "lughat": "",
+        "grammar": [
+          "CONJ",
+          "V",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 16,
+        "arabic": "اللّٰہَ  ",
+        "root": "ا ل ه",
+        "urdu_meaning": "اللہ سے",
+        "english_meaning": "Allah,",
+        "lemma": "اللّٰہ",
+        "lughat": "",
+        "grammar": [
+          "PN"
+        ]
+      },
+      {
+        "word_id": 17,
+        "arabic": "الَّذِیۡۤ  ",
+        "root": "ٱلَّذِى",
+        "urdu_meaning": "وہ جو",
+        "english_meaning": "the One Who,",
+        "lemma": "الَّذِي",
+        "lughat": "",
+        "grammar": [
+          "REL"
+        ]
+      },
+      {
+        "word_id": 18,
+        "arabic": "اِلَیۡہِ ",
+        "root": "إِلَىٰ",
+        "urdu_meaning": "طرف اسی کے",
+        "english_meaning": "to Him",
+        "lemma": "إِلَى",
+        "lughat": "",
+        "grammar": [
+          "P",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 19,
+        "arabic": "تُحۡشَرُوۡنَ ﴿۹﴾",
+        "root": "ح ش ر",
+        "urdu_meaning": " تم اکٹھے کیے جاؤ گے",
+        "english_meaning": "you will be gathered.",
+        "lemma": "حَشَرَ",
+        "lughat": "",
+        "grammar": [
+          "V",
+          "PRON"
+        ]
+      }
+    ]
+  },
+  {
+    "surah_id": 58,
+    "ayah_number": 10,
+    "global_ayah_id": 5171,
+    "urdu_phrase_raw": "اِنَّمَا&بےشک@النَّجۡوٰی&سرگوشی@مِنَ الشَّیۡطٰنِ&شیطان کی طرف سے ہے@لِیَحۡزُنَ&تا کہ وہ غمگین کرے@الَّذِیۡنَ&ان کو جو@اٰمَنُوۡا&ایمان لائے@وَلَیۡسَ&حالانکہ نہیں وہ@بِضَآرِّہِمۡ&نقصان دینے والا انہیں@شَیۡئًا&کچھ بھی@اِلَّا&مگر@بِاِذۡنِ اللّٰہِ&اللہ کے اذن سے@وَعَلَی اللّٰہِ&اور اللہ ہی پر@فَلۡیَتَوَکَّلِ&پس چاہیے کہ توکل کریں@الۡمُؤۡمِنُوۡنَ&مومن",
+    "english_phrase_raw": "اِنَّمَا&Only@النَّجۡوٰی&the secret counsels@مِنَ &(are) from@الشَّیۡطٰنِ&the Shaitaan@لِیَحۡزُنَ&that he may grieve@الَّذِیۡنَ&those who@اٰمَنُوۡا&believe,@وَلَیۡسَ&but not@بِضَآرِّہِمۡ&he (can) harm them@شَیۡئًا&(in) anything@اِلَّا&except@بِاِذۡنِ اللّٰہِ&by Allah's permission.@وَعَلَی &And upon@اللّٰہِ&Allah@فَلۡیَتَوَکَّلِ &let put (their) trust@الۡمُؤۡمِنُوۡنَ&the believers.",
+    "words": [
+      {
+        "word_id": 1,
+        "arabic": "اِنَّمَا  ",
+        "root": "اِنَّ",
+        "urdu_meaning": "بےشک",
+        "english_meaning": "Only",
+        "lemma": "ما",
+        "lughat": "",
+        "grammar": [
+          "ACC",
+          "PREV"
+        ]
+      },
+      {
+        "word_id": 2,
+        "arabic": "النَّجۡوٰی ",
+        "root": "ن ج و",
+        "urdu_meaning": "سرگوشی",
+        "english_meaning": "the secret counsels",
+        "lemma": "نَجْوَى",
+        "lughat": "",
+        "grammar": [
+          "DET",
+          "N"
+        ]
+      },
+      {
+        "word_id": 3,
+        "arabic": "مِنَ ",
+        "root": "",
+        "urdu_meaning": "طرف سے ہے",
+        "english_meaning": "(are) from",
+        "lemma": "مِن",
+        "lughat": "",
+        "grammar": [
+          "P"
+        ]
+      },
+      {
+        "word_id": 4,
+        "arabic": "الشَّیۡطٰنِ  ",
+        "root": "ش ط ن",
+        "urdu_meaning": "شیطان کی",
+        "english_meaning": "the Shaitaan",
+        "lemma": "شَيْطان",
+        "lughat": "",
+        "grammar": [
+          "DET",
+          "PN"
+        ]
+      },
+      {
+        "word_id": 5,
+        "arabic": "لِیَحۡزُنَ ",
+        "root": "ح ز ن",
+        "urdu_meaning": "تا کہ وہ غمگین کرے",
+        "english_meaning": "that he may grieve",
+        "lemma": "يَحْزُن",
+        "lughat": "",
+        "grammar": [
+          "PRP",
+          "V"
+        ]
+      },
+      {
+        "word_id": 6,
+        "arabic": "الَّذِیۡنَ  ",
+        "root": "ٱلَّذِى",
+        "urdu_meaning": "ان کو جو",
+        "english_meaning": "those who",
+        "lemma": "الَّذِي",
+        "lughat": "",
+        "grammar": [
+          "REL"
+        ]
+      },
+      {
+        "word_id": 7,
+        "arabic": "اٰمَنُوۡا ",
+        "root": "ا م ن",
+        "urdu_meaning": "ایمان لائے",
+        "english_meaning": "believe,",
+        "lemma": "آمَنَ",
+        "lughat": "",
+        "grammar": [
+          "V",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 8,
+        "arabic": "وَ لَیۡسَ ",
+        "root": "ل ي س",
+        "urdu_meaning": "حالانکہ نہیں وہ",
+        "english_meaning": "but not",
+        "lemma": "لَيْسَ",
+        "lughat": "",
+        "grammar": [
+          "CONJ",
+          "V"
+        ]
+      },
+      {
+        "word_id": 9,
+        "arabic": "بِضَآرِّہِمۡ ",
+        "root": "ض ر ر",
+        "urdu_meaning": "نقصان دینے والا انہیں",
+        "english_meaning": "he (can) harm them",
+        "lemma": "ضارّ",
+        "lughat": "",
+        "grammar": [
+          "P",
+          "N",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 10,
+        "arabic": "شَیۡئًا ",
+        "root": "ش ي ا",
+        "urdu_meaning": "کچھ بھی",
+        "english_meaning": "(in) anything",
+        "lemma": "شَىْء",
+        "lughat": "",
+        "grammar": [
+          "N"
+        ]
+      },
+      {
+        "word_id": 11,
+        "arabic": "اِلَّا ",
+        "root": "اِلَّا",
+        "urdu_meaning": "مگر",
+        "english_meaning": "except",
+        "lemma": "إِلّا",
+        "lughat": "",
+        "grammar": [
+          "RES"
+        ]
+      },
+      {
+        "word_id": 12,
+        "arabic": "بِاِذۡنِ ",
+        "root": "ا ذ ن",
+        "urdu_meaning": "اذن سے",
+        "english_meaning": "by Allah's permission.",
+        "lemma": "إِذْن",
+        "lughat": "",
+        "grammar": [
+          "P",
+          "N"
+        ]
+      },
+      {
+        "word_id": 13,
+        "arabic": "اللّٰہِ ؕ ",
+        "root": "ا ل ه",
+        "urdu_meaning": "اللہ کے",
+        "english_meaning": "",
+        "lemma": "اللّٰہ",
+        "lughat": "",
+        "grammar": [
+          "PN"
+        ]
+      },
+      {
+        "word_id": 14,
+        "arabic": "وَ عَلَی ",
+        "root": "",
+        "urdu_meaning": "اور اوپر",
+        "english_meaning": "And upon",
+        "lemma": "عَلَى",
+        "lughat": "",
+        "grammar": [
+          "CONJ",
+          "P"
+        ]
+      },
+      {
+        "word_id": 15,
+        "arabic": "اللّٰہِ  ",
+        "root": "ا ل ه",
+        "urdu_meaning": "اللہ تعالیٰ کے",
+        "english_meaning": "Allah",
+        "lemma": "اللّٰہ",
+        "lughat": "",
+        "grammar": [
+          "PN"
+        ]
+      },
+      {
+        "word_id": 16,
+        "arabic": "فَلۡیَتَوَکَّلِ ",
+        "root": "و ك ل",
+        "urdu_meaning": "پس چاہیے کہ توکل کریں",
+        "english_meaning": "let put (their) trust",
+        "lemma": "تَوَكَّل",
+        "lughat": "",
+        "grammar": [
+          "REM",
+          "IMPV",
+          "V"
+        ]
+      },
+      {
+        "word_id": 17,
+        "arabic": "الۡمُؤۡمِنُوۡنَ ﴿۱۰﴾",
+        "root": "ا م ن",
+        "urdu_meaning": "مومن",
+        "english_meaning": "the believers.",
+        "lemma": "مُؤْمِن",
+        "lughat": "",
+        "grammar": [
+          "DET",
+          "N"
+        ]
+      }
+    ]
+  },
+  {
+    "surah_id": 58,
+    "ayah_number": 11,
+    "global_ayah_id": 5172,
+    "urdu_phrase_raw": "یٰۤاَیُّہَاالَّذِیۡنَ&اے لوگو جو@اٰمَنُوۡۤا&ایمان لائے ہو@اِذَا&جب@قِیۡلَ&کہا جائے@لَکُمۡ&تم سے@تَفَسَّحُوۡا&کشادگی کرو@فِی الۡمَجٰلِسِ& مجلسوں میں@فَافۡسَحُوۡا&تو کشادگی کیا کرو@یَفۡسَحِ&کشادگی کردے گا@اللّٰہُ&اللہ@لَکُمۡ&تمہارے لیے@وَاِذَا&اور جب@قِیۡلَ&کہا جائے@انۡشُزُوۡا&اٹھ جاؤ@فَانۡشُزُوۡا& تو اٹھ جایا کرو@یَرۡفَعِ&بلند کرتا ہے@اللّٰہُ&اللہ@الَّذِیۡنَ&ان لوگوں کو جو@اٰمَنُوۡا&ایمان لائے@مِنۡکُمۡ&تم میں سے@وَالَّذِیۡنَ&اور وہ جو@اُوۡتُوا&دیئے گئے@الۡعِلۡمَ&علم@دَرَجٰتٍ&درجات میں@وَاللّٰہُ& اور اللہ@بِمَا&اس سے جو@تَعۡمَلُوۡنَ&تم عمل کرتے ہو@خَبِیۡرٌ&خوب باخبر ہے",
+    "english_phrase_raw": "یٰۤاَیُّہَا الَّذِیۡنَ اٰمَنُوۡۤا&O you who believe!@اِذَا&When@قِیۡلَ&it is said@لَکُمۡ&to you@تَفَسَّحُوۡا&Make room,@فِی &in@الۡمَجٰلِسِ&the assemblies@فَافۡسَحُوۡا&then make room,@یَفۡسَحِ اللّٰہُ&Allah will make room@لَکُمۡ&for you.@وَاِذَا&And when@قِیۡلَ&it is said@انۡشُزُوۡا&Rise up,@فَانۡشُزُوۡا&then rise up;@یَرۡفَعِ اللّٰہُ&Allah will raise@الَّذِیۡنَ&those who@اٰمَنُوۡا&believe@مِنۡکُمۡ&among you@وَالَّذِیۡنَ&and those who@اُوۡتُوا&were given@الۡعِلۡمَ&the knowledge,@دَرَجٰتٍ&(in) degrees.@وَاللّٰہُ&And Allah@بِمَا&of what@تَعۡمَلُوۡنَ&you do@خَبِیۡرٌ&(is) All-Aware.",
+    "words": [
+      {
+        "word_id": 1,
+        "arabic": "یٰۤاَیُّہَا ",
+        "root": "",
+        "urdu_meaning": "اے",
+        "english_meaning": "O you who believe!",
+        "lemma": "أَيّ",
+        "lughat": "",
+        "grammar": [
+          "VOC",
+          "N",
+          "ATT"
+        ]
+      },
+      {
+        "word_id": 2,
+        "arabic": "الَّذِیۡنَ  ",
+        "root": "ٱلَّذِى",
+        "urdu_meaning": "لوگو",
+        "english_meaning": "",
+        "lemma": "الَّذِي",
+        "lughat": "",
+        "grammar": [
+          "REL"
+        ]
+      },
+      {
+        "word_id": 3,
+        "arabic": "اٰمَنُوۡۤا  ",
+        "root": "ا م ن",
+        "urdu_meaning": "جو ایمان لائے ہو",
+        "english_meaning": "",
+        "lemma": "آمَنَ",
+        "lughat": "",
+        "grammar": [
+          "V",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 4,
+        "arabic": "اِذَا  ",
+        "root": "اِذَا",
+        "urdu_meaning": "جب",
+        "english_meaning": "When",
+        "lemma": "إِذا",
+        "lughat": "",
+        "grammar": [
+          "T"
+        ]
+      },
+      {
+        "word_id": 5,
+        "arabic": "قِیۡلَ  ",
+        "root": "ق و ل",
+        "urdu_meaning": "کہا جائے",
+        "english_meaning": "it is said",
+        "lemma": "قالَ",
+        "lughat": "",
+        "grammar": [
+          "V"
+        ]
+      },
+      {
+        "word_id": 6,
+        "arabic": "لَکُمۡ ",
+        "root": "",
+        "urdu_meaning": "تم سے",
+        "english_meaning": "to you",
+        "lemma": "",
+        "lughat": "",
+        "grammar": [
+          "P",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 7,
+        "arabic": "تَفَسَّحُوۡا ",
+        "root": "ف س ح",
+        "urdu_meaning": "کشادگی کرو",
+        "english_meaning": "Make room,",
+        "lemma": "تَفَسَّح",
+        "lughat": "<<اَلْفُسْحُ وَالْفَسِیْحُ>> کے معنی وسیع جگہ کے ہیں اور <<تَفَسَّحَ>> کے معنی وسیع ہونے کے۔ چنانچہ محاورہ ہے۔ <<فَسَّحْتُ مَجْلِسَہٗ>> میں نے اس کے لیے محفل میں جگہ کردی تو وہ اس میں کھل کر بیٹھ گیا۔ قرآن میں ہے: <<(یٰۤاَیُّہَا الَّذِیۡنَ  اٰمَنُوۡۤا  اِذَا  قِیۡلَ  لَکُمۡ تَفَسَّحُوۡا فِی  الۡمَجٰلِسِ فَافۡسَحُوۡا یَفۡسَحِ اللّٰہُ  لَکُمۡ) (۵۸:۱۱)>> اے مومنو! جب تم سے کہا چاہے کہ مجلس میں کھل کر بیٹھو تو کھل کر بیٹھ جایا کرو خدا تم کو کشادگی بخشے گا۔ اسی سے <<فَسَّحْتُ لِفُلَانٍ اَنْ یَفْعَلَ کَذَا>> کا محاورہ یہ جس کے معنی <<وَسَّعْتُ لَہٗ کے ہیں ھُوَ فِیْ فُسْحَۃٍ مِنْ ھٰذَا الْاَمْرِ>> وہ اس معاملہ میں آزاد ہے۔\r\n\r\n",
+        "grammar": [
+          "V",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 8,
+        "arabic": "فِی  ",
+        "root": "",
+        "urdu_meaning": "میں",
+        "english_meaning": "in",
+        "lemma": "فِي",
+        "lughat": "",
+        "grammar": [
+          "P"
+        ]
+      },
+      {
+        "word_id": 9,
+        "arabic": "الۡمَجٰلِسِ ",
+        "root": "ج ل س",
+        "urdu_meaning": "مجلسوں",
+        "english_meaning": "the assemblies",
+        "lemma": "مَجالِس",
+        "lughat": "<<اَلْجَلْسُ>>: اس کے اصل معنی سخت زمین کے ہیں۔ اسی لحاظ سے <<نَجْدٌ>> یعنی بلند زمین کو <<جَلْسٌ>> کہا جاتا ہے ایک روایت میں ہے(1)  <<(۶۳)  اَعْطَاھُمُ الْمُعَادِنَ الَْقَبَلِیَّۃ غَوْرِیَّھَا وَجَلْسَھا>> … کہ آنحضرت نے انہیں (ہلال بن حارث)  قَبلیۃ کانیں نشیبی اور بلند سب کی سب (بطور جاگیر)  عطا کردیں۔ اصل میں <<جَلَسَ>> کے معنی انسان کے اپنی مقعد کو سخت زمین پر رکھنے کے ہیں۔ پھر محض بیٹھنے کو <<جُلُوْس>> اور بیٹھنے کی جگہ کو <<مَجْلِسٌ>> کہا جاتا ہے اور <<مَجْلِسٌ>> کی جمع <<مَجَالِسُ>> آتی ہے۔ قرآن پاک میں ہے: <<(اِذَا  قِیۡلَ  لَکُمۡ تَفَسَّحُوۡا فِی  الۡمَجٰلِسِ فَافۡسَحُوۡا یَفۡسَحِ اللّٰہُ  لَکُمۡ)  (۵۸:۱۱)>>  جب تم سے کہا جائے کہ مجلس میں کھل کر بیٹھو تو کھل کر بیٹھا کرو خدا تم کو کشادگی بخشے گا۔\r\n\r\n",
+        "grammar": [
+          "DET",
+          "N"
+        ]
+      },
+      {
+        "word_id": 10,
+        "arabic": "فَافۡسَحُوۡا ",
+        "root": "ف س ح",
+        "urdu_meaning": "تو کشادگی کیا کرو",
+        "english_meaning": "then make room,",
+        "lemma": "يَفْسَحِ",
+        "lughat": "",
+        "grammar": [
+          "REM",
+          "V",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 11,
+        "arabic": "یَفۡسَحِ ",
+        "root": "ف س ح",
+        "urdu_meaning": "کشادگی کردے گا",
+        "english_meaning": "Allah will make room",
+        "lemma": "يَفْسَحِ",
+        "lughat": "",
+        "grammar": [
+          "V"
+        ]
+      },
+      {
+        "word_id": 12,
+        "arabic": "اللّٰہُ  ",
+        "root": "ا ل ه",
+        "urdu_meaning": "اللہ",
+        "english_meaning": "",
+        "lemma": "اللّٰہ",
+        "lughat": "",
+        "grammar": [
+          "PN"
+        ]
+      },
+      {
+        "word_id": 13,
+        "arabic": "لَکُمۡ ۚ ",
+        "root": "",
+        "urdu_meaning": "تمہارے لیے",
+        "english_meaning": "for you.",
+        "lemma": "",
+        "lughat": "",
+        "grammar": [
+          "P",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 14,
+        "arabic": "وَ  اِذَا ",
+        "root": "اِذَا",
+        "urdu_meaning": "اور جب",
+        "english_meaning": "And when",
+        "lemma": "إِذا",
+        "lughat": "",
+        "grammar": [
+          "CONJ",
+          "T"
+        ]
+      },
+      {
+        "word_id": 15,
+        "arabic": "قِیۡلَ ",
+        "root": "ق و ل",
+        "urdu_meaning": "کہا جائے",
+        "english_meaning": "it is said",
+        "lemma": "قالَ",
+        "lughat": "",
+        "grammar": [
+          "V"
+        ]
+      },
+      {
+        "word_id": 16,
+        "arabic": "انۡشُزُوۡا ",
+        "root": "ن ش ز",
+        "urdu_meaning": "اٹھ جاؤ",
+        "english_meaning": "Rise up,",
+        "lemma": "انشُزُ",
+        "lughat": "",
+        "grammar": [
+          "V",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 17,
+        "arabic": "فَانۡشُزُوۡا ",
+        "root": "ن ش ز",
+        "urdu_meaning": " تو اٹھ جایا کرو",
+        "english_meaning": "then rise up;",
+        "lemma": "انشُزُ",
+        "lughat": "",
+        "grammar": [
+          "REM",
+          "V",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 18,
+        "arabic": "یَرۡفَعِ ",
+        "root": "ر ف ع",
+        "urdu_meaning": "بلند کرتا ہے",
+        "english_meaning": "Allah will raise",
+        "lemma": "رَفَعَ",
+        "lughat": "",
+        "grammar": [
+          "V"
+        ]
+      },
+      {
+        "word_id": 19,
+        "arabic": "اللّٰہُ  ",
+        "root": "ا ل ه",
+        "urdu_meaning": "اللہ",
+        "english_meaning": "",
+        "lemma": "اللّٰہ",
+        "lughat": "",
+        "grammar": [
+          "PN"
+        ]
+      },
+      {
+        "word_id": 20,
+        "arabic": "الَّذِیۡنَ ",
+        "root": "ٱلَّذِى",
+        "urdu_meaning": "ان لوگوں کو جو",
+        "english_meaning": "those who",
+        "lemma": "الَّذِي",
+        "lughat": "",
+        "grammar": [
+          "REL"
+        ]
+      },
+      {
+        "word_id": 21,
+        "arabic": "اٰمَنُوۡا ",
+        "root": "ا م ن",
+        "urdu_meaning": "ایمان لائے",
+        "english_meaning": "believe",
+        "lemma": "آمَنَ",
+        "lughat": "",
+        "grammar": [
+          "V",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 22,
+        "arabic": "مِنۡکُمۡ ۙ ",
+        "root": "",
+        "urdu_meaning": "تم میں سے",
+        "english_meaning": "among you",
+        "lemma": "مِن",
+        "lughat": "",
+        "grammar": [
+          "P",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 23,
+        "arabic": "وَ الَّذِیۡنَ  ",
+        "root": "ٱلَّذِى",
+        "urdu_meaning": "اور وہ جو",
+        "english_meaning": "and those who",
+        "lemma": "الَّذِي",
+        "lughat": "",
+        "grammar": [
+          "CONJ",
+          "REL"
+        ]
+      },
+      {
+        "word_id": 24,
+        "arabic": "اُوۡتُوا  ",
+        "root": "ا ت ي",
+        "urdu_meaning": "دیئے گئے",
+        "english_meaning": "were given",
+        "lemma": "آتَى",
+        "lughat": "",
+        "grammar": [
+          "V",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 25,
+        "arabic": "الۡعِلۡمَ ",
+        "root": "ع ل م",
+        "urdu_meaning": "علم",
+        "english_meaning": "the knowledge,",
+        "lemma": "عِلْم",
+        "lughat": "",
+        "grammar": [
+          "DET",
+          "N"
+        ]
+      },
+      {
+        "word_id": 26,
+        "arabic": "دَرَجٰتٍ ؕ ",
+        "root": "د ر ج",
+        "urdu_meaning": "درجات میں",
+        "english_meaning": "(in) degrees.",
+        "lemma": "دَرَجَة",
+        "lughat": "",
+        "grammar": [
+          "N"
+        ]
+      },
+      {
+        "word_id": 27,
+        "arabic": "وَ اللّٰہُ  ",
+        "root": "ا ل ه",
+        "urdu_meaning": " اور اللہ",
+        "english_meaning": "And Allah",
+        "lemma": "اللّٰہ",
+        "lughat": "",
+        "grammar": [
+          "CONJ",
+          "PN"
+        ]
+      },
+      {
+        "word_id": 28,
+        "arabic": "بِمَا ",
+        "root": "",
+        "urdu_meaning": "اس سے جو",
+        "english_meaning": "of what",
+        "lemma": "ما",
+        "lughat": "",
+        "grammar": [
+          "P",
+          "REL"
+        ]
+      },
+      {
+        "word_id": 29,
+        "arabic": "تَعۡمَلُوۡنَ ",
+        "root": "ع م ل",
+        "urdu_meaning": "تم عمل کرتے ہو",
+        "english_meaning": "you do",
+        "lemma": "عَمِلَ",
+        "lughat": "",
+        "grammar": [
+          "V",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 30,
+        "arabic": "خَبِیۡرٌ ﴿۱۱﴾",
+        "root": "خ ب ر",
+        "urdu_meaning": "خوب باخبر ہے",
+        "english_meaning": "(is) All-Aware.",
+        "lemma": "خَبِير",
+        "lughat": "",
+        "grammar": [
+          "N"
+        ]
+      }
+    ]
+  },
+  {
+    "surah_id": 58,
+    "ayah_number": 12,
+    "global_ayah_id": 5173,
+    "urdu_phrase_raw": "یٰۤاَیُّہَا الَّذِیۡنَ&اے لوگو جو@اٰمَنُوۡۤا&ایمان لائے ہو@اِذَا&جب@نَاجَیۡتُمُ&سرگوشی کرو تم@الرَّسُوۡلَ&رسول سے@فَقَدِّمُوۡا&تو پیش کرو@بَیۡنَ& پہلے@یَدَیۡ نَجۡوٰىکُمۡ& اپنی سرگوشی کے@صَدَقَۃً& صدقہ@ذٰلِکَ&یہ@خَیۡرٌ&بہتر ہے@لَّکُمۡ&تمہارے لیے@وَاَطۡہَرُ&اور زیادہ پاکیزہ@فَاِنۡ&پھر اگر@لَّمۡ&نہ@تَجِدُوۡا&تم پاؤ@فَاِنَّ&تو بےشک@اللّٰہَ&اللہ@غَفُوۡرٌ&بہت بخشنے والا ہے@رَّحِیۡمٌ&نہایت رحم کرنے والا ہے",
+    "english_phrase_raw": "یٰۤاَیُّہَا الَّذِیۡنَ اٰمَنُوۡۤا&O you who believe!@اِذَا&When@نَاجَیۡتُمُ&you privately consult@الرَّسُوۡلَ&the Messenger,@فَقَدِّمُوۡا&then offer@بَیۡنَ یَدَیۡ&before@ نَجۡوٰىکُمۡ&your private consultation,@صَدَقَۃً&charity.@ذٰلِکَ&That@خَیۡرٌ&(is) better@لَّکُمۡ&for you@وَاَطۡہَرُ&and purer.@فَاِنۡ&But if@لَّمۡ&not@تَجِدُوۡا&you find,@فَاِنَّ&then indeed,@اللّٰہَ&Allah@غَفُوۡرٌ&(is) Oft-Forgiving,@رَّحِیۡمٌ&Most Merciful.",
+    "words": [
+      {
+        "word_id": 1,
+        "arabic": "یٰۤاَیُّہَا  ",
+        "root": "",
+        "urdu_meaning": "اے",
+        "english_meaning": "O you who believe!",
+        "lemma": "أَيّ",
+        "lughat": "",
+        "grammar": [
+          "VOC",
+          "N",
+          "ATT"
+        ]
+      },
+      {
+        "word_id": 2,
+        "arabic": "الَّذِیۡنَ  ",
+        "root": "ٱلَّذِى",
+        "urdu_meaning": "لوگو",
+        "english_meaning": "",
+        "lemma": "الَّذِي",
+        "lughat": "",
+        "grammar": [
+          "REL"
+        ]
+      },
+      {
+        "word_id": 3,
+        "arabic": "اٰمَنُوۡۤا  ",
+        "root": "ا م ن",
+        "urdu_meaning": "جو ایمان لائے ہو",
+        "english_meaning": "",
+        "lemma": "آمَنَ",
+        "lughat": "",
+        "grammar": [
+          "V",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 4,
+        "arabic": "اِذَا  ",
+        "root": "اِذَا",
+        "urdu_meaning": "جب",
+        "english_meaning": "When",
+        "lemma": "إِذا",
+        "lughat": "",
+        "grammar": [
+          "T"
+        ]
+      },
+      {
+        "word_id": 5,
+        "arabic": "نَاجَیۡتُمُ ",
+        "root": "ن ج و",
+        "urdu_meaning": "سرگوشی کرو تم",
+        "english_meaning": "you privately consult",
+        "lemma": "ناجَيْ",
+        "lughat": "",
+        "grammar": [
+          "V",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 6,
+        "arabic": "الرَّسُوۡلَ  ",
+        "root": "ر س ل",
+        "urdu_meaning": "رسول سے",
+        "english_meaning": "the Messenger,",
+        "lemma": "رَسُول",
+        "lughat": "",
+        "grammar": [
+          "DET",
+          "N"
+        ]
+      },
+      {
+        "word_id": 7,
+        "arabic": "فَقَدِّمُوۡا ",
+        "root": "ق د م",
+        "urdu_meaning": "تو پیش کرو",
+        "english_meaning": "then offer",
+        "lemma": "قَدَّمَ",
+        "lughat": "",
+        "grammar": [
+          "REM",
+          "V",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 8,
+        "arabic": "بَیۡنَ ",
+        "root": "ب ي ن",
+        "urdu_meaning": " پہلے (درمیان)",
+        "english_meaning": "before",
+        "lemma": "بَيْن",
+        "lughat": "",
+        "grammar": [
+          "LOC"
+        ]
+      },
+      {
+        "word_id": 9,
+        "arabic": "یَدَیۡ ",
+        "root": "ي د ي",
+        "urdu_meaning": " پہلے (اس کے ہاتھوں کے )",
+        "english_meaning": "",
+        "lemma": "يَد",
+        "lughat": "",
+        "grammar": [
+          "N"
+        ]
+      },
+      {
+        "word_id": 10,
+        "arabic": "نَجۡوٰىکُمۡ ",
+        "root": "ن ج و",
+        "urdu_meaning": "اپنی سرگوشی سے",
+        "english_meaning": "your private consultation,",
+        "lemma": "نَجْوَى",
+        "lughat": "",
+        "grammar": [
+          "N",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 11,
+        "arabic": "صَدَقَۃً ؕ ",
+        "root": "ص د ق",
+        "urdu_meaning": " صدقہ",
+        "english_meaning": "charity.",
+        "lemma": "صَدَقَة",
+        "lughat": "",
+        "grammar": [
+          "N"
+        ]
+      },
+      {
+        "word_id": 12,
+        "arabic": "ذٰلِکَ ",
+        "root": "",
+        "urdu_meaning": "یہ",
+        "english_meaning": "That",
+        "lemma": "ذا",
+        "lughat": "",
+        "grammar": [
+          "DEM",
+          "DIST",
+          "ADDR"
+        ]
+      },
+      {
+        "word_id": 13,
+        "arabic": "خَیۡرٌ ",
+        "root": "خ ي ر",
+        "urdu_meaning": "بہتر ہے",
+        "english_meaning": "(is) better",
+        "lemma": "خَيْر",
+        "lughat": "",
+        "grammar": [
+          "N"
+        ]
+      },
+      {
+        "word_id": 14,
+        "arabic": "لَّکُمۡ ",
+        "root": "",
+        "urdu_meaning": "تمہارے لیے",
+        "english_meaning": "for you",
+        "lemma": "",
+        "lughat": "",
+        "grammar": [
+          "P",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 15,
+        "arabic": "وَ اَطۡہَرُ ؕ ",
+        "root": "ط ه ر",
+        "urdu_meaning": "اور زیادہ پاکیزہ",
+        "english_meaning": "and purer.",
+        "lemma": "أَطْهَر",
+        "lughat": "",
+        "grammar": [
+          "CONJ",
+          "N"
+        ]
+      },
+      {
+        "word_id": 16,
+        "arabic": "فَاِنۡ ",
+        "root": "",
+        "urdu_meaning": "پھر اگر",
+        "english_meaning": "But if",
+        "lemma": "إِن",
+        "lughat": "",
+        "grammar": [
+          "REM",
+          "COND"
+        ]
+      },
+      {
+        "word_id": 17,
+        "arabic": "لَّمۡ ",
+        "root": "",
+        "urdu_meaning": "نہ",
+        "english_meaning": "not",
+        "lemma": "لَم",
+        "lughat": "",
+        "grammar": [
+          "NEG"
+        ]
+      },
+      {
+        "word_id": 18,
+        "arabic": "تَجِدُوۡا ",
+        "root": "و ج د",
+        "urdu_meaning": "تم پاؤ",
+        "english_meaning": "you find,",
+        "lemma": "وَجَدَ",
+        "lughat": "",
+        "grammar": [
+          "V",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 19,
+        "arabic": "فَاِنَّ ",
+        "root": "اِنَّ",
+        "urdu_meaning": "تو بےشک",
+        "english_meaning": "then indeed,",
+        "lemma": "إِنّ",
+        "lughat": "",
+        "grammar": [
+          "REM",
+          "ACC"
+        ]
+      },
+      {
+        "word_id": 20,
+        "arabic": "اللّٰہَ  ",
+        "root": "ا ل ه",
+        "urdu_meaning": "اللہ",
+        "english_meaning": "Allah",
+        "lemma": "اللّٰہ",
+        "lughat": "",
+        "grammar": [
+          "PN"
+        ]
+      },
+      {
+        "word_id": 21,
+        "arabic": "غَفُوۡرٌ  ",
+        "root": "غ ف ر",
+        "urdu_meaning": "بہت بخشنے والا ہے",
+        "english_meaning": "(is) Oft-Forgiving,",
+        "lemma": "غَفُور",
+        "lughat": "",
+        "grammar": [
+          "ADJ"
+        ]
+      },
+      {
+        "word_id": 22,
+        "arabic": "رَّحِیۡمٌ ﴿۱۲﴾",
+        "root": "ر ح م",
+        "urdu_meaning": "نہایت رحم کرنے والا ہے",
+        "english_meaning": "Most Merciful.",
+        "lemma": "رَحِيم",
+        "lughat": "",
+        "grammar": [
+          "ADJ"
+        ]
+      }
+    ]
+  },
+  {
+    "surah_id": 58,
+    "ayah_number": 13,
+    "global_ayah_id": 5174,
+    "urdu_phrase_raw": "ءَاَشۡفَقۡتُمۡ&کیا ڈر گئے تم@اَنۡ&کہ@تُقَدِّمُوۡا&تم پیش کرو@بَیۡنَ یَدَیۡ&پہلے@نَجۡوٰىکُمۡ&اپنی سرگوشی کے@صَدَقٰتٍ&صدقات@فَاِذۡ&پھر جب@لَمۡ&نہ@تَفۡعَلُوۡا&تم نے کیا@وَتَابَ&اور مہربان ہوا@اللّٰہُ&اللہ@عَلَیۡکُمۡ& تم پر@فَاَقِیۡمُوا&تو قائم کرو@الصَّلٰوۃَ&نماز@وَاٰتُوا&اور ادا کرو@الزَّکٰوۃَ&زکوٰۃ@وَاَطِیۡعُوا&اور اطاعت کرو@اللّٰہَ&اللہ@وَرَسُوۡلَہٗ& اور اس کے رسول کی@وَاللّٰہُ&اور اللہ@خَبِیۡرٌۢ&خوب باخبر ہے@بِمَا&اس سے جو@تَعۡمَلُوۡنَ&تم عمل کرتے ہو",
+    "english_phrase_raw": "ءَاَشۡفَقۡتُمۡ&Are you afraid@اَنۡ&to@تُقَدِّمُوۡا&offer@بَیۡنَ یَدَیۡ&before@نَجۡوٰىکُمۡ&your private consultation@صَدَقٰتٍ&charities?@فَاِذۡ&Then when@لَمۡ تَفۡعَلُوۡا&you do not@وَتَابَ اللّٰہُ&and Allah has forgiven@عَلَیۡکُمۡ&you,@فَاَقِیۡمُوا&then establish@الصَّلٰوۃَ&the prayer@وَاٰتُوا&and give@الزَّکٰوۃَ&the zakah,@وَاَطِیۡعُوا&and obey@اللّٰہَ&Allah@وَرَسُوۡلَہٗ&and His Messenger.@وَاللّٰہُ&And Allah@خَبِیۡرٌۢ&(is) All-Aware@بِمَا&of what@تَعۡمَلُوۡنَ&you do.",
+    "words": [
+      {
+        "word_id": 1,
+        "arabic": "ءَاَشۡفَقۡتُمۡ  ",
+        "root": "ش ف ق",
+        "urdu_meaning": "کیا ڈر گئے تم",
+        "english_meaning": "Are you afraid",
+        "lemma": "أَشْفَقْ",
+        "lughat": "",
+        "grammar": [
+          "INTG",
+          "V",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 2,
+        "arabic": "اَنۡ  ",
+        "root": "",
+        "urdu_meaning": "کہ",
+        "english_meaning": "to",
+        "lemma": "أَن",
+        "lughat": "",
+        "grammar": [
+          "SUB"
+        ]
+      },
+      {
+        "word_id": 3,
+        "arabic": "تُقَدِّمُوۡا ",
+        "root": "ق د م",
+        "urdu_meaning": "تم پیش کرو",
+        "english_meaning": "offer",
+        "lemma": "قَدَّمَ",
+        "lughat": "",
+        "grammar": [
+          "V",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 4,
+        "arabic": "بَیۡنَ ",
+        "root": "ب ي ن",
+        "urdu_meaning": " پہلے (درمیان)",
+        "english_meaning": "before",
+        "lemma": "بَيْن",
+        "lughat": "",
+        "grammar": [
+          "LOC"
+        ]
+      },
+      {
+        "word_id": 5,
+        "arabic": "یَدَیۡ ",
+        "root": "ي د ي",
+        "urdu_meaning": " پہلے (اس کے ہاتھوں کے )",
+        "english_meaning": "",
+        "lemma": "يَد",
+        "lughat": "",
+        "grammar": [
+          "N"
+        ]
+      },
+      {
+        "word_id": 6,
+        "arabic": "نَجۡوٰىکُمۡ ",
+        "root": "ن ج و",
+        "urdu_meaning": "اپنی سرگوشی کے",
+        "english_meaning": "your private consultation",
+        "lemma": "نَجْوَى",
+        "lughat": "",
+        "grammar": [
+          "N",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 7,
+        "arabic": "صَدَقٰتٍ ؕ ",
+        "root": "ص د ق",
+        "urdu_meaning": "صدقات",
+        "english_meaning": "charities?",
+        "lemma": "صَدَقَة",
+        "lughat": "",
+        "grammar": [
+          "N"
+        ]
+      },
+      {
+        "word_id": 8,
+        "arabic": "فَاِذۡ ",
+        "root": "اِذْ",
+        "urdu_meaning": "پھر جب",
+        "english_meaning": "Then when",
+        "lemma": "إِذ",
+        "lughat": "",
+        "grammar": [
+          "REM",
+          "T"
+        ]
+      },
+      {
+        "word_id": 9,
+        "arabic": "لَمۡ ",
+        "root": "",
+        "urdu_meaning": "نہ",
+        "english_meaning": "you do not",
+        "lemma": "لَم",
+        "lughat": "",
+        "grammar": [
+          "NEG"
+        ]
+      },
+      {
+        "word_id": 10,
+        "arabic": "تَفۡعَلُوۡا ",
+        "root": "ف ع ل",
+        "urdu_meaning": "تم نے کیا",
+        "english_meaning": "and Allah has forgiven",
+        "lemma": "فَعَلَ",
+        "lughat": "",
+        "grammar": [
+          "V",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 11,
+        "arabic": "وَ تَابَ ",
+        "root": "ت و ب",
+        "urdu_meaning": "اور مہربان ہوا",
+        "english_meaning": "",
+        "lemma": "تَابَ",
+        "lughat": "",
+        "grammar": [
+          "CONJ",
+          "V"
+        ]
+      },
+      {
+        "word_id": 12,
+        "arabic": "اللّٰہُ  ",
+        "root": "ا ل ه",
+        "urdu_meaning": "اللہ",
+        "english_meaning": "",
+        "lemma": "اللّٰہ",
+        "lughat": "",
+        "grammar": [
+          "PN"
+        ]
+      },
+      {
+        "word_id": 13,
+        "arabic": "عَلَیۡکُمۡ ",
+        "root": "",
+        "urdu_meaning": " تم پر",
+        "english_meaning": "you,",
+        "lemma": "عَلَى",
+        "lughat": "",
+        "grammar": [
+          "P",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 14,
+        "arabic": "فَاَقِیۡمُوا ",
+        "root": "ق و م",
+        "urdu_meaning": "تو قائم کرو",
+        "english_meaning": "then establish",
+        "lemma": "أَقامَ",
+        "lughat": "",
+        "grammar": [
+          "REM",
+          "V",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 15,
+        "arabic": "الصَّلٰوۃَ ",
+        "root": "ص ل و",
+        "urdu_meaning": "نماز",
+        "english_meaning": "the prayer",
+        "lemma": "صَلاة",
+        "lughat": "",
+        "grammar": [
+          "DET",
+          "N"
+        ]
+      },
+      {
+        "word_id": 16,
+        "arabic": "وَ اٰتُوا ",
+        "root": "ا ت ي",
+        "urdu_meaning": "اور ادا کرو",
+        "english_meaning": "and give",
+        "lemma": "آتَى",
+        "lughat": "",
+        "grammar": [
+          "CONJ",
+          "V",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 17,
+        "arabic": "الزَّکٰوۃَ  ",
+        "root": "ز ك و",
+        "urdu_meaning": "زکوٰۃ",
+        "english_meaning": "the zakah,",
+        "lemma": "زَكاة",
+        "lughat": "",
+        "grammar": [
+          "DET",
+          "N"
+        ]
+      },
+      {
+        "word_id": 18,
+        "arabic": "وَ اَطِیۡعُوا ",
+        "root": "ط و ع",
+        "urdu_meaning": "اور اطاعت کرو",
+        "english_meaning": "and obey",
+        "lemma": "أَطاعَ",
+        "lughat": "",
+        "grammar": [
+          "CONJ",
+          "V",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 19,
+        "arabic": "اللّٰہَ  ",
+        "root": "ا ل ه",
+        "urdu_meaning": "اللہ",
+        "english_meaning": "Allah",
+        "lemma": "اللّٰہ",
+        "lughat": "",
+        "grammar": [
+          "PN"
+        ]
+      },
+      {
+        "word_id": 20,
+        "arabic": "وَ رَسُوۡلَہٗ ؕ ",
+        "root": "ر س ل",
+        "urdu_meaning": " اور اس کے رسول کی",
+        "english_meaning": "and His Messenger.",
+        "lemma": "رَسُول",
+        "lughat": "",
+        "grammar": [
+          "CONJ",
+          "N",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 21,
+        "arabic": "وَ اللّٰہُ  ",
+        "root": "ا ل ه",
+        "urdu_meaning": "اور اللہ",
+        "english_meaning": "And Allah",
+        "lemma": "اللّٰہ",
+        "lughat": "",
+        "grammar": [
+          "CONJ",
+          "PN"
+        ]
+      },
+      {
+        "word_id": 22,
+        "arabic": "خَبِیۡرٌۢ  ",
+        "root": "خ ب ر",
+        "urdu_meaning": "خوب باخبر ہے",
+        "english_meaning": "(is) All-Aware",
+        "lemma": "خَبِير",
+        "lughat": "",
+        "grammar": [
+          "ADJ"
+        ]
+      },
+      {
+        "word_id": 23,
+        "arabic": "بِمَا ",
+        "root": "",
+        "urdu_meaning": "اس سے جو",
+        "english_meaning": "of what",
+        "lemma": "ما",
+        "lughat": "",
+        "grammar": [
+          "P",
+          "REL"
+        ]
+      },
+      {
+        "word_id": 24,
+        "arabic": "تَعۡمَلُوۡنَ ﴿٪۱۳﴾                 2",
+        "root": "ع م ل",
+        "urdu_meaning": "تم عمل کرتے ہو",
+        "english_meaning": "you do.",
+        "lemma": "عَمِلَ",
+        "lughat": "",
+        "grammar": [
+          "V",
+          "PRON"
+        ]
+      }
+    ]
+  },
+  {
+    "surah_id": 58,
+    "ayah_number": 14,
+    "global_ayah_id": 5175,
+    "urdu_phrase_raw": "اَلَمۡ&کیا نہیں@تَرَ&آپ نے دیکھا@اِلَی& طرف@الَّذِیۡنَ&ان لوگوں کے جنہوں نے@تَوَلَّوۡا&دوست بنایا@قَوۡمًا&ایک قوم کو@غَضِبَ&غضب ناک ہوا@اللّٰہُ&اللہ@عَلَیۡہِمۡ&ان پر@مَا&نہیں@ہُمۡ&وہ@مِّنۡکُمۡ&تم میں سے@وَلَا&اور نہ@مِنۡہُمۡ&ان میں سے@وَیَحۡلِفُوۡنَ& اور وہ قسمیں کھاتے ہیں@عَلَی الۡکَذِبِ& جھوٹ پر@وَہُمۡ&حالانکہ وہ@یَعۡلَمُوۡنَ&وہ جانتے ہیں",
+    "english_phrase_raw": "اَلَمۡ&Do not@تَرَ&you see@اِلَی&to@الَّذِیۡنَ&those who@تَوَلَّوۡا&take as allies@قَوۡمًا&a people,@غَضِبَ&wrath@اللّٰہُ&(of) Allah@عَلَیۡہِمۡ&(is) upon them?@مَا ہُمۡ&They (are) not@مِّنۡکُمۡ&of you@وَلَا&and not@مِنۡہُمۡ&of them,@وَیَحۡلِفُوۡنَ&and they swear@عَلَی &to@الۡکَذِبِ&the lie@وَہُمۡ&while they@یَعۡلَمُوۡنَ&know.",
+    "words": [
+      {
+        "word_id": 1,
+        "arabic": "اَلَمۡ  ",
+        "root": "",
+        "urdu_meaning": "کیا نہیں",
+        "english_meaning": "Do not",
+        "lemma": "لَم",
+        "lughat": "",
+        "grammar": [
+          "INTG",
+          "NEG"
+        ]
+      },
+      {
+        "word_id": 2,
+        "arabic": "تَرَ  ",
+        "root": "ر ا ي",
+        "urdu_meaning": "آپ نے دیکھا",
+        "english_meaning": "you see",
+        "lemma": "رَأَى",
+        "lughat": "",
+        "grammar": [
+          "V"
+        ]
+      },
+      {
+        "word_id": 3,
+        "arabic": "اِلَی ",
+        "root": "إِلَىٰ",
+        "urdu_meaning": " طرف",
+        "english_meaning": "to",
+        "lemma": "إِلَى",
+        "lughat": "",
+        "grammar": [
+          "P"
+        ]
+      },
+      {
+        "word_id": 4,
+        "arabic": "الَّذِیۡنَ ",
+        "root": "ٱلَّذِى",
+        "urdu_meaning": "ان لوگوں کے جنہوں نے",
+        "english_meaning": "those who",
+        "lemma": "الَّذِي",
+        "lughat": "",
+        "grammar": [
+          "REL"
+        ]
+      },
+      {
+        "word_id": 5,
+        "arabic": "تَوَلَّوۡا ",
+        "root": "و ل ي",
+        "urdu_meaning": "دوست بنایا",
+        "english_meaning": "take as allies",
+        "lemma": "تَوَلَّى",
+        "lughat": "",
+        "grammar": [
+          "V",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 6,
+        "arabic": "قَوۡمًا ",
+        "root": "ق و م",
+        "urdu_meaning": "ایک قوم کو",
+        "english_meaning": "a people,",
+        "lemma": "قَوْم",
+        "lughat": "",
+        "grammar": [
+          "N"
+        ]
+      },
+      {
+        "word_id": 7,
+        "arabic": "غَضِبَ ",
+        "root": "غ ض ب",
+        "urdu_meaning": "غضب ناک ہوا",
+        "english_meaning": "wrath",
+        "lemma": "غَضِبَ",
+        "lughat": "",
+        "grammar": [
+          "V"
+        ]
+      },
+      {
+        "word_id": 8,
+        "arabic": "اللّٰہُ ",
+        "root": "ا ل ه",
+        "urdu_meaning": "اللہ",
+        "english_meaning": "(of) Allah",
+        "lemma": "اللّٰہ",
+        "lughat": "",
+        "grammar": [
+          "PN"
+        ]
+      },
+      {
+        "word_id": 9,
+        "arabic": "عَلَیۡہِمۡ ؕ ",
+        "root": "",
+        "urdu_meaning": "ان پر",
+        "english_meaning": "(is) upon them?",
+        "lemma": "عَلَى",
+        "lughat": "",
+        "grammar": [
+          "P",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 10,
+        "arabic": "مَا ",
+        "root": "",
+        "urdu_meaning": "نہیں",
+        "english_meaning": "They (are) not",
+        "lemma": "ما",
+        "lughat": "",
+        "grammar": [
+          "NEG"
+        ]
+      },
+      {
+        "word_id": 11,
+        "arabic": "ہُمۡ ",
+        "root": "",
+        "urdu_meaning": "وہ",
+        "english_meaning": "",
+        "lemma": "",
+        "lughat": "",
+        "grammar": [
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 12,
+        "arabic": "مِّنۡکُمۡ ",
+        "root": "",
+        "urdu_meaning": "تم میں سے",
+        "english_meaning": "of you",
+        "lemma": "مِن",
+        "lughat": "",
+        "grammar": [
+          "P",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 13,
+        "arabic": "وَ لَا ",
+        "root": "",
+        "urdu_meaning": "اور نہ",
+        "english_meaning": "and not",
+        "lemma": "لا",
+        "lughat": "",
+        "grammar": [
+          "CONJ",
+          "NEG"
+        ]
+      },
+      {
+        "word_id": 14,
+        "arabic": "مِنۡہُمۡ ۙ ",
+        "root": "",
+        "urdu_meaning": "ان میں سے",
+        "english_meaning": "of them,",
+        "lemma": "مِن",
+        "lughat": "",
+        "grammar": [
+          "P",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 15,
+        "arabic": "وَ  یَحۡلِفُوۡنَ ",
+        "root": "ح ل ف",
+        "urdu_meaning": " اور وہ قسمیں کھاتے ہیں",
+        "english_meaning": "and they swear",
+        "lemma": "حَلَفْ",
+        "lughat": "",
+        "grammar": [
+          "CONJ",
+          "V",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 16,
+        "arabic": "عَلَی ",
+        "root": "",
+        "urdu_meaning": "اوپر",
+        "english_meaning": "to",
+        "lemma": "عَلَى",
+        "lughat": "",
+        "grammar": [
+          "P"
+        ]
+      },
+      {
+        "word_id": 17,
+        "arabic": "الۡکَذِبِ ",
+        "root": "ك ذ ب",
+        "urdu_meaning": "جھوٹی بات کے",
+        "english_meaning": "the lie",
+        "lemma": "كَذِب",
+        "lughat": "",
+        "grammar": [
+          "DET",
+          "N"
+        ]
+      },
+      {
+        "word_id": 18,
+        "arabic": "وَ  ہُمۡ ",
+        "root": "",
+        "urdu_meaning": "حالانکہ وہ",
+        "english_meaning": "while they",
+        "lemma": "",
+        "lughat": "",
+        "grammar": [
+          "CIRC",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 19,
+        "arabic": "یَعۡلَمُوۡنَ ﴿۱۴﴾",
+        "root": "ع ل م",
+        "urdu_meaning": "وہ جانتے ہیں",
+        "english_meaning": "know.",
+        "lemma": "عَلِمَ",
+        "lughat": "",
+        "grammar": [
+          "V",
+          "PRON"
+        ]
+      }
+    ]
+  },
+  {
+    "surah_id": 58,
+    "ayah_number": 15,
+    "global_ayah_id": 5176,
+    "urdu_phrase_raw": "اَعَدَّ&تیار کر رکھا ہے@اللّٰہُ&اللہ نے@لَہُمۡ&ان کے لیے@عَذَابًا& عذاب@شَدِیۡدًا&سخت@اِنَّہُمۡ&بےشک وہ@سَآءَ&کتنا برا ہے@مَا&جو@کَانُوۡا&ہیں وہ@یَعۡمَلُوۡنَ& وہ عمل کرتے",
+    "english_phrase_raw": "اَعَدَّ اللّٰہُ&Allah has prepared@لَہُمۡ&for them@عَذَابًا&a punishment@شَدِیۡدًا&severe.@اِنَّہُمۡ&Indeed, they@سَآءَ&evil is@مَا&what@کَانُوۡا&they used to@یَعۡمَلُوۡنَ&do.",
+    "words": [
+      {
+        "word_id": 1,
+        "arabic": "اَعَدَّ ",
+        "root": "ع د د",
+        "urdu_meaning": "تیار کر رکھا ہے",
+        "english_meaning": "Allah has prepared",
+        "lemma": "أَعَدَّ",
+        "lughat": "",
+        "grammar": [
+          "V"
+        ]
+      },
+      {
+        "word_id": 2,
+        "arabic": "اللّٰہُ  ",
+        "root": "ا ل ه",
+        "urdu_meaning": "اللہ نے",
+        "english_meaning": "",
+        "lemma": "اللّٰہ",
+        "lughat": "",
+        "grammar": [
+          "PN"
+        ]
+      },
+      {
+        "word_id": 3,
+        "arabic": "لَہُمۡ ",
+        "root": "",
+        "urdu_meaning": "ان کے لیے",
+        "english_meaning": "for them",
+        "lemma": "",
+        "lughat": "",
+        "grammar": [
+          "P",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 4,
+        "arabic": "عَذَابًا ",
+        "root": "ع ذ ب",
+        "urdu_meaning": " عذاب",
+        "english_meaning": "a punishment",
+        "lemma": "عَذاب",
+        "lughat": "",
+        "grammar": [
+          "N"
+        ]
+      },
+      {
+        "word_id": 5,
+        "arabic": "شَدِیۡدًا ؕ ",
+        "root": "ش د د",
+        "urdu_meaning": "سخت",
+        "english_meaning": "severe.",
+        "lemma": "شَدِيد",
+        "lughat": "",
+        "grammar": [
+          "ADJ"
+        ]
+      },
+      {
+        "word_id": 6,
+        "arabic": "اِنَّہُمۡ ",
+        "root": "اِنَّ",
+        "urdu_meaning": "بےشک وہ",
+        "english_meaning": "Indeed, they",
+        "lemma": "إِنّ",
+        "lughat": "",
+        "grammar": [
+          "ACC",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 7,
+        "arabic": "سَآءَ  ",
+        "root": "س و ا",
+        "urdu_meaning": "کتنا برا ہے",
+        "english_meaning": "evil is",
+        "lemma": "ساءَ",
+        "lughat": "",
+        "grammar": [
+          "V"
+        ]
+      },
+      {
+        "word_id": 8,
+        "arabic": "مَا  ",
+        "root": "",
+        "urdu_meaning": "جو",
+        "english_meaning": "what",
+        "lemma": "ما",
+        "lughat": "",
+        "grammar": [
+          "REL"
+        ]
+      },
+      {
+        "word_id": 9,
+        "arabic": "کَانُوۡا ",
+        "root": "ك و ن",
+        "urdu_meaning": "ہیں وہ",
+        "english_meaning": "they used to",
+        "lemma": "كانَ",
+        "lughat": "",
+        "grammar": [
+          "V",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 10,
+        "arabic": "یَعۡمَلُوۡنَ ﴿۱۵﴾",
+        "root": "ع م ل",
+        "urdu_meaning": " وہ عمل کرتے",
+        "english_meaning": "do.",
+        "lemma": "عَمِلَ",
+        "lughat": "",
+        "grammar": [
+          "V",
+          "PRON"
+        ]
+      }
+    ]
+  },
+  {
+    "surah_id": 58,
+    "ayah_number": 16,
+    "global_ayah_id": 5177,
+    "urdu_phrase_raw": "اِتَّخَذُوۡۤا& انہوں نے بنا لیا@اَیۡمَانَہُمۡ& اپنی قسموں کو@جُنَّۃً& ڈھال@فَصَدُّوۡا&پھر انہوں نے روکا@عَنۡ سَبِیۡلِ اللّٰہِ&اللہ کے راستے سے@فَلَہُمۡ&پس ان کے لیے@عَذَابٌ&عذاب ہے@مُّہِیۡنٌ&رسوا کرنے والا",
+    "english_phrase_raw": "اِتَّخَذُوۡۤا&They have taken@اَیۡمَانَہُمۡ&their oaths@جُنَّۃً&(as) a cover,@فَصَدُّوۡا&so they hinder@عَنۡ &from@سَبِیۡلِ اللّٰہِ&(the) way of Allah,@فَلَہُمۡ&so for them@عَذَابٌ&(is) a punishment@مُّہِیۡنٌ&humiliating.",
+    "words": [
+      {
+        "word_id": 1,
+        "arabic": "اِتَّخَذُوۡۤا  ",
+        "root": "ا خ ذ",
+        "urdu_meaning": " انہوں نے بنا لیا",
+        "english_meaning": "They have taken",
+        "lemma": "اتَّخَذَ",
+        "lughat": "",
+        "grammar": [
+          "V",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 2,
+        "arabic": "اَیۡمَانَہُمۡ ",
+        "root": "ي م ن",
+        "urdu_meaning": " اپنی قسموں کو",
+        "english_meaning": "their oaths",
+        "lemma": "يَمِين",
+        "lughat": "",
+        "grammar": [
+          "N",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 3,
+        "arabic": "جُنَّۃً  ",
+        "root": "ج ن ن",
+        "urdu_meaning": " ڈھال",
+        "english_meaning": "(as) a cover,",
+        "lemma": "جُنَّة",
+        "lughat": "",
+        "grammar": [
+          "N"
+        ]
+      },
+      {
+        "word_id": 4,
+        "arabic": "فَصَدُّوۡا ",
+        "root": "ص د د",
+        "urdu_meaning": "پھر انہوں نے روکا",
+        "english_meaning": "so they hinder",
+        "lemma": "صَدَّ",
+        "lughat": "",
+        "grammar": [
+          "REM",
+          "V",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 5,
+        "arabic": "عَنۡ ",
+        "root": "",
+        "urdu_meaning": "سے",
+        "english_meaning": "from",
+        "lemma": "عَن",
+        "lughat": "",
+        "grammar": [
+          "P"
+        ]
+      },
+      {
+        "word_id": 6,
+        "arabic": "سَبِیۡلِ ",
+        "root": "س ب ل",
+        "urdu_meaning": "راستے",
+        "english_meaning": "(the) way of Allah,",
+        "lemma": "سَبِيل",
+        "lughat": "",
+        "grammar": [
+          "N"
+        ]
+      },
+      {
+        "word_id": 7,
+        "arabic": "اللّٰہِ  ",
+        "root": "ا ل ه",
+        "urdu_meaning": "اللہ کے",
+        "english_meaning": "",
+        "lemma": "اللّٰہ",
+        "lughat": "",
+        "grammar": [
+          "PN"
+        ]
+      },
+      {
+        "word_id": 8,
+        "arabic": "فَلَہُمۡ ",
+        "root": "",
+        "urdu_meaning": "پس ان کے لیے",
+        "english_meaning": "so for them",
+        "lemma": "",
+        "lughat": "",
+        "grammar": [
+          "REM",
+          "P",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 9,
+        "arabic": "عَذَابٌ ",
+        "root": "ع ذ ب",
+        "urdu_meaning": "عذاب ہے",
+        "english_meaning": "(is) a punishment",
+        "lemma": "عَذاب",
+        "lughat": "",
+        "grammar": [
+          "N"
+        ]
+      },
+      {
+        "word_id": 10,
+        "arabic": "مُّہِیۡنٌ ﴿۱۶﴾",
+        "root": "ه و ن",
+        "urdu_meaning": "رسوا کرنے والا",
+        "english_meaning": "humiliating.",
+        "lemma": "مُهِين",
+        "lughat": "",
+        "grammar": [
+          "N"
+        ]
+      }
+    ]
+  },
+  {
+    "surah_id": 58,
+    "ayah_number": 17,
+    "global_ayah_id": 5178,
+    "urdu_phrase_raw": "لَنۡ&ہر گز نہ@تُغۡنِیَ&کام آئیں گے@عَنۡہُمۡ&انہیں@اَمۡوَالُہُمۡ&مال ان کے@وَلَاۤ&اور نہ@اَوۡلَادُہُمۡ&اولاد ان کی@مِّنَ اللّٰہِ&اللہ سے@شَیۡئًا&کچھ بھی@اُولٰٓئِکَ&یہی لوگ ہیں@اَصۡحٰبُ&ساتھی@النَّارِ&آگ کے@ہُمۡ&وہ@فِیۡہَا&اس میں@خٰلِدُوۡنَ&ہمیشہ رہنے والے ہیں",
+    "english_phrase_raw": "لَنۡ&Never@تُغۡنِیَ&will avail@عَنۡہُمۡ&them@اَمۡوَالُہُمۡ&their wealth@وَلَاۤ&and not@اَوۡلَادُہُمۡ&their children@مِّنَ &against@اللّٰہِ&Allah@شَیۡئًا&(in) anything.@اُولٰٓئِکَ&Those@اَصۡحٰبُ &(will be) companions@النَّارِ&(of) the Fire,@ہُمۡ&they,@فِیۡہَا&in it,@خٰلِدُوۡنَ&will abide forever.",
+    "words": [
+      {
+        "word_id": 1,
+        "arabic": "لَنۡ  ",
+        "root": "",
+        "urdu_meaning": "ہر گز نہ",
+        "english_meaning": "Never",
+        "lemma": "لَن",
+        "lughat": "",
+        "grammar": [
+          "NEG"
+        ]
+      },
+      {
+        "word_id": 2,
+        "arabic": "تُغۡنِیَ ",
+        "root": "غ ن ي",
+        "urdu_meaning": "کام آئیں گے",
+        "english_meaning": "will avail",
+        "lemma": "أَغْنَتْ",
+        "lughat": "",
+        "grammar": [
+          "V"
+        ]
+      },
+      {
+        "word_id": 3,
+        "arabic": "عَنۡہُمۡ  ",
+        "root": "",
+        "urdu_meaning": "انہیں",
+        "english_meaning": "them",
+        "lemma": "عَن",
+        "lughat": "",
+        "grammar": [
+          "P",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 4,
+        "arabic": "اَمۡوَالُہُمۡ ",
+        "root": "م و ل",
+        "urdu_meaning": "مال ان کے",
+        "english_meaning": "their wealth",
+        "lemma": "مال",
+        "lughat": "",
+        "grammar": [
+          "N",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 5,
+        "arabic": "وَ لَاۤ  ",
+        "root": "",
+        "urdu_meaning": "اور نہ",
+        "english_meaning": "and not",
+        "lemma": "لا",
+        "lughat": "",
+        "grammar": [
+          "CONJ",
+          "NEG"
+        ]
+      },
+      {
+        "word_id": 6,
+        "arabic": "اَوۡلَادُہُمۡ ",
+        "root": "و ل د",
+        "urdu_meaning": "اولاد ان کی",
+        "english_meaning": "their children",
+        "lemma": "وَلَد",
+        "lughat": "",
+        "grammar": [
+          "N",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 7,
+        "arabic": "مِّنَ ",
+        "root": "",
+        "urdu_meaning": "سے",
+        "english_meaning": "against",
+        "lemma": "مِن",
+        "lughat": "",
+        "grammar": [
+          "P"
+        ]
+      },
+      {
+        "word_id": 8,
+        "arabic": "اللّٰہِ  ",
+        "root": "ا ل ه",
+        "urdu_meaning": "اللہ",
+        "english_meaning": "Allah",
+        "lemma": "اللّٰہ",
+        "lughat": "",
+        "grammar": [
+          "PN"
+        ]
+      },
+      {
+        "word_id": 9,
+        "arabic": "شَیۡئًا ؕ ",
+        "root": "ش ي ا",
+        "urdu_meaning": "کچھ بھی",
+        "english_meaning": "(in) anything.",
+        "lemma": "شَىْء",
+        "lughat": "",
+        "grammar": [
+          "N"
+        ]
+      },
+      {
+        "word_id": 10,
+        "arabic": "اُولٰٓئِکَ ",
+        "root": "",
+        "urdu_meaning": "یہی لوگ ہیں",
+        "english_meaning": "Those",
+        "lemma": "ذا",
+        "lughat": "",
+        "grammar": [
+          "DEM",
+          "ADDR"
+        ]
+      },
+      {
+        "word_id": 11,
+        "arabic": "اَصۡحٰبُ ",
+        "root": "ص ح ب",
+        "urdu_meaning": "ساتھی",
+        "english_meaning": "(will be) companions",
+        "lemma": "أَصْحاب",
+        "lughat": "",
+        "grammar": [
+          "N"
+        ]
+      },
+      {
+        "word_id": 12,
+        "arabic": "النَّارِ ؕ ",
+        "root": "ن و ر",
+        "urdu_meaning": "آگ کے",
+        "english_meaning": "(of) the Fire,",
+        "lemma": "نار",
+        "lughat": "",
+        "grammar": [
+          "DET",
+          "N"
+        ]
+      },
+      {
+        "word_id": 13,
+        "arabic": "ہُمۡ  ",
+        "root": "",
+        "urdu_meaning": "وہ",
+        "english_meaning": "they,",
+        "lemma": "",
+        "lughat": "",
+        "grammar": [
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 14,
+        "arabic": "فِیۡہَا ",
+        "root": "",
+        "urdu_meaning": "اس میں",
+        "english_meaning": "in it,",
+        "lemma": "فِي",
+        "lughat": "",
+        "grammar": [
+          "P",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 15,
+        "arabic": "خٰلِدُوۡنَ ﴿۱۷﴾",
+        "root": "خ ل د",
+        "urdu_meaning": "ہمیشہ رہنے والے ہیں",
+        "english_meaning": "will abide forever.",
+        "lemma": "خالِد",
+        "lughat": "",
+        "grammar": [
+          "N"
+        ]
+      }
+    ]
+  },
+  {
+    "surah_id": 58,
+    "ayah_number": 18,
+    "global_ayah_id": 5179,
+    "urdu_phrase_raw": "یَوۡمَ& جس دن@یَبۡعَثُہُمُ&اٹھائے گا انہیں@اللّٰہُ&اللہ@جَمِیۡعًا& سب کے سب کو@فَیَحۡلِفُوۡنَ&پھر وہ قسمیں کھائیں گے@لَہٗ&اس کے سامنے@کَمَا&جیسا کہ@یَحۡلِفُوۡنَ&وہ قسمیں کھاتےہیں@لَکُمۡ&تمہارے سامنے@وَیَحۡسَبُوۡنَ& اور وہ سمجھتے ہیں@اَنَّہُمۡ&بےشک وہ@عَلٰی&اوپر@شَیۡءٍ&ایک چیز کے ہیں@اَلَاۤ&خبردار@اِنَّہُمۡ&بےشک وہ@ہُمُ&وہی@الۡکٰذِبُوۡنَ&جھوٹے ہیں",
+    "english_phrase_raw": "یَوۡمَ&(On the) Day@یَبۡعَثُہُمُ اللّٰہُ&Allah will raise them@جَمِیۡعًا&all,@فَیَحۡلِفُوۡنَ&then they will swear@لَہٗ&to Him@کَمَا&as@یَحۡلِفُوۡنَ&they swear@لَکُمۡ&to you.@وَیَحۡسَبُوۡنَ&And they think@اَنَّہُمۡ&that they@عَلٰی &(are) on@شَیۡءٍ&something.@اَلَاۤ&No doubt!@اِنَّہُمۡ&Indeed, they@ہُمُ&they@الۡکٰذِبُوۡنَ&(are) the liars.",
+    "words": [
+      {
+        "word_id": 1,
+        "arabic": "یَوۡمَ ",
+        "root": "ي و م",
+        "urdu_meaning": " جس دن",
+        "english_meaning": "(On the) Day",
+        "lemma": "يَوْم",
+        "lughat": "",
+        "grammar": [
+          "N"
+        ]
+      },
+      {
+        "word_id": 2,
+        "arabic": "یَبۡعَثُہُمُ ",
+        "root": "ب ع ث",
+        "urdu_meaning": "اٹھائے گا انہیں",
+        "english_meaning": "Allah will raise them",
+        "lemma": "بَعَثَ",
+        "lughat": "",
+        "grammar": [
+          "V",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 3,
+        "arabic": "اللّٰہُ ",
+        "root": "ا ل ه",
+        "urdu_meaning": "اللہ",
+        "english_meaning": "",
+        "lemma": "اللّٰہ",
+        "lughat": "",
+        "grammar": [
+          "PN"
+        ]
+      },
+      {
+        "word_id": 4,
+        "arabic": "جَمِیۡعًا ",
+        "root": "ج م ع",
+        "urdu_meaning": " سب کے سب کو",
+        "english_meaning": "all,",
+        "lemma": "جَمِيع",
+        "lughat": "",
+        "grammar": [
+          "N"
+        ]
+      },
+      {
+        "word_id": 5,
+        "arabic": "فَیَحۡلِفُوۡنَ ",
+        "root": "ح ل ف",
+        "urdu_meaning": "پھر وہ قسمیں کھائیں گے",
+        "english_meaning": "then they will swear",
+        "lemma": "حَلَفْ",
+        "lughat": "",
+        "grammar": [
+          "REM",
+          "V",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 6,
+        "arabic": "لَہٗ ",
+        "root": "",
+        "urdu_meaning": "اس کے سامنے",
+        "english_meaning": "to Him",
+        "lemma": "",
+        "lughat": "",
+        "grammar": [
+          "P",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 7,
+        "arabic": "کَمَا ",
+        "root": "",
+        "urdu_meaning": "جیسا کہ",
+        "english_meaning": "as",
+        "lemma": "ما",
+        "lughat": "",
+        "grammar": [
+          "P",
+          "SUB"
+        ]
+      },
+      {
+        "word_id": 8,
+        "arabic": "یَحۡلِفُوۡنَ ",
+        "root": "ح ل ف",
+        "urdu_meaning": "وہ قسمیں کھاتےہیں",
+        "english_meaning": "they swear",
+        "lemma": "حَلَفْ",
+        "lughat": "",
+        "grammar": [
+          "V",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 9,
+        "arabic": "لَکُمۡ ",
+        "root": "",
+        "urdu_meaning": "تمہارے سامنے",
+        "english_meaning": "to you.",
+        "lemma": "",
+        "lughat": "",
+        "grammar": [
+          "P",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 10,
+        "arabic": "وَ یَحۡسَبُوۡنَ ",
+        "root": "ح س ب",
+        "urdu_meaning": " اور وہ سمجھتے ہیں",
+        "english_meaning": "And they think",
+        "lemma": "حَسِبَ",
+        "lughat": "",
+        "grammar": [
+          "CONJ",
+          "V",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 11,
+        "arabic": "اَنَّہُمۡ ",
+        "root": "اِنَّ",
+        "urdu_meaning": "بےشک وہ",
+        "english_meaning": "that they",
+        "lemma": "أَنّ",
+        "lughat": "",
+        "grammar": [
+          "ACC",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 12,
+        "arabic": "عَلٰی ",
+        "root": "",
+        "urdu_meaning": "اوپر",
+        "english_meaning": "(are) on",
+        "lemma": "عَلَى",
+        "lughat": "",
+        "grammar": [
+          "P"
+        ]
+      },
+      {
+        "word_id": 13,
+        "arabic": "شَیۡءٍ ؕ ",
+        "root": "ش ي ا",
+        "urdu_meaning": "ایک چیز کے ہیں",
+        "english_meaning": "something.",
+        "lemma": "شَىْء",
+        "lughat": "",
+        "grammar": [
+          "N"
+        ]
+      },
+      {
+        "word_id": 14,
+        "arabic": "اَلَاۤ  ",
+        "root": "",
+        "urdu_meaning": "خبردار",
+        "english_meaning": "No doubt!",
+        "lemma": "أَلا",
+        "lughat": "",
+        "grammar": [
+          "INC"
+        ]
+      },
+      {
+        "word_id": 15,
+        "arabic": "اِنَّہُمۡ ",
+        "root": "اِنَّ",
+        "urdu_meaning": "بےشک وہ",
+        "english_meaning": "Indeed, they",
+        "lemma": "إِنّ",
+        "lughat": "",
+        "grammar": [
+          "ACC",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 16,
+        "arabic": "ہُمُ ",
+        "root": "",
+        "urdu_meaning": "وہی",
+        "english_meaning": "they",
+        "lemma": "",
+        "lughat": "",
+        "grammar": [
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 17,
+        "arabic": "الۡکٰذِبُوۡنَ ﴿۱۸﴾",
+        "root": "ك ذ ب",
+        "urdu_meaning": "جھوٹے ہیں",
+        "english_meaning": "(are) the liars.",
+        "lemma": "كاذِب",
+        "lughat": "",
+        "grammar": [
+          "DET",
+          "N"
+        ]
+      }
+    ]
+  },
+  {
+    "surah_id": 58,
+    "ayah_number": 19,
+    "global_ayah_id": 5180,
+    "urdu_phrase_raw": "اِسۡتَحۡوَذَ&غلبہ پا لیا@عَلَیۡہِمُ&ان پر@الشَّیۡطٰنُ& شیطان نے@فَاَنۡسٰہُمۡ&تو اس نے بھلا دیا انہیں@ذِکۡرَ&ذکر@اللّٰہِ&اللہ کا@اُولٰٓئِکَ&یہی لوگ ہیں@حِزۡبُ&گروہ@الشَّیۡطٰنِ& شیطان کا@اَلَاۤ& خبردار@اِنَّ&بےشک@حِزۡبَ&گروہ@الشَّیۡطٰنِ&شیطان کا@ہُمُ&وہی ہیں@الۡخٰسِرُوۡنَ&جو خسارہ پانے والے ہیں",
+    "english_phrase_raw": "اِسۡتَحۡوَذَ&Has overcome@عَلَیۡہِمُ&them@الشَّیۡطٰنُ&the Shaitaan,@فَاَنۡسٰہُمۡ&so he made them forget@ذِکۡرَ&(the) remembrance@اللّٰہِ&(of) Allah.@اُولٰٓئِکَ&Those@حِزۡبُ&(are the) party@الشَّیۡطٰنِ&(of) the Shaitaan.@اَلَاۤ&No doubt!@اِنَّ&Indeed,@حِزۡبَ&(the) party@الشَّیۡطٰنِ&(of) the Shaitaan,@ہُمُ&they@الۡخٰسِرُوۡنَ&(will be) the losers.",
+    "words": [
+      {
+        "word_id": 1,
+        "arabic": "اِسۡتَحۡوَذَ  ",
+        "root": "ح و ذ",
+        "urdu_meaning": "غلبہ پا لیا",
+        "english_meaning": "Has overcome",
+        "lemma": "اسْتَحْو",
+        "lughat": "",
+        "grammar": [
+          "V"
+        ]
+      },
+      {
+        "word_id": 2,
+        "arabic": "عَلَیۡہِمُ  ",
+        "root": "",
+        "urdu_meaning": "ان پر",
+        "english_meaning": "them",
+        "lemma": "عَلَى",
+        "lughat": "",
+        "grammar": [
+          "P",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 3,
+        "arabic": "الشَّیۡطٰنُ  ",
+        "root": "ش ط ن",
+        "urdu_meaning": " شیطان نے",
+        "english_meaning": "the Shaitaan,",
+        "lemma": "شَيْطان",
+        "lughat": "",
+        "grammar": [
+          "DET",
+          "PN"
+        ]
+      },
+      {
+        "word_id": 4,
+        "arabic": "فَاَنۡسٰہُمۡ ",
+        "root": "ن س ي",
+        "urdu_meaning": "تو اس نے بھلا دیا انہیں",
+        "english_meaning": "so he made them forget",
+        "lemma": "أَنسَى",
+        "lughat": "",
+        "grammar": [
+          "REM",
+          "V",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 5,
+        "arabic": "ذِکۡرَ  ",
+        "root": "ذ ك ر",
+        "urdu_meaning": "ذکر",
+        "english_meaning": "(the) remembrance",
+        "lemma": "ذِكْر",
+        "lughat": "",
+        "grammar": [
+          "N"
+        ]
+      },
+      {
+        "word_id": 6,
+        "arabic": "اللّٰہِ ؕ ",
+        "root": "ا ل ه",
+        "urdu_meaning": "اللہ کا",
+        "english_meaning": "(of) Allah.",
+        "lemma": "اللّٰہ",
+        "lughat": "",
+        "grammar": [
+          "PN"
+        ]
+      },
+      {
+        "word_id": 7,
+        "arabic": "اُولٰٓئِکَ ",
+        "root": "",
+        "urdu_meaning": "یہی لوگ ہیں",
+        "english_meaning": "Those",
+        "lemma": "ذا",
+        "lughat": "",
+        "grammar": [
+          "DEM",
+          "ADDR"
+        ]
+      },
+      {
+        "word_id": 8,
+        "arabic": "حِزۡبُ ",
+        "root": "ح ز ب",
+        "urdu_meaning": "گروہ",
+        "english_meaning": "(are the) party",
+        "lemma": "حِزْب",
+        "lughat": "",
+        "grammar": [
+          "N"
+        ]
+      },
+      {
+        "word_id": 9,
+        "arabic": "الشَّیۡطٰنِ ؕ ",
+        "root": "ش ط ن",
+        "urdu_meaning": " شیطان کا",
+        "english_meaning": "(of) the Shaitaan.",
+        "lemma": "شَيْطان",
+        "lughat": "",
+        "grammar": [
+          "DET",
+          "PN"
+        ]
+      },
+      {
+        "word_id": 10,
+        "arabic": "اَلَاۤ  ",
+        "root": "",
+        "urdu_meaning": " خبردار",
+        "english_meaning": "No doubt!",
+        "lemma": "أَلا",
+        "lughat": "",
+        "grammar": [
+          "INC"
+        ]
+      },
+      {
+        "word_id": 11,
+        "arabic": "اِنَّ  ",
+        "root": "اِنَّ",
+        "urdu_meaning": "بےشک",
+        "english_meaning": "Indeed,",
+        "lemma": "إِنّ",
+        "lughat": "",
+        "grammar": [
+          "ACC"
+        ]
+      },
+      {
+        "word_id": 12,
+        "arabic": "حِزۡبَ  ",
+        "root": "ح ز ب",
+        "urdu_meaning": "گروہ",
+        "english_meaning": "(the) party",
+        "lemma": "حِزْب",
+        "lughat": "",
+        "grammar": [
+          "N"
+        ]
+      },
+      {
+        "word_id": 13,
+        "arabic": "الشَّیۡطٰنِ ",
+        "root": "ش ط ن",
+        "urdu_meaning": "شیطان کا",
+        "english_meaning": "(of) the Shaitaan,",
+        "lemma": "شَيْطان",
+        "lughat": "",
+        "grammar": [
+          "DET",
+          "PN"
+        ]
+      },
+      {
+        "word_id": 14,
+        "arabic": "ہُمُ  ",
+        "root": "",
+        "urdu_meaning": "وہی ہیں",
+        "english_meaning": "they",
+        "lemma": "",
+        "lughat": "",
+        "grammar": [
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 15,
+        "arabic": "الۡخٰسِرُوۡنَ ﴿۱۹﴾",
+        "root": "خ س ر",
+        "urdu_meaning": "جو خسارہ پانے والے ہیں",
+        "english_meaning": "(will be) the losers.",
+        "lemma": "خاسِر",
+        "lughat": "",
+        "grammar": [
+          "DET",
+          "N"
+        ]
+      }
+    ]
+  },
+  {
+    "surah_id": 58,
+    "ayah_number": 20,
+    "global_ayah_id": 5181,
+    "urdu_phrase_raw": "اِنَّ& بےشک@الَّذِیۡنَ&وہ لوگ جو@یُحَآدُّوۡنَ&مخالفت کرتے ہیں@اللّٰہَ&اللہ کی@وَرَسُوۡلَہٗۤ&اور اس کے رسول کی@اُولٰٓئِکَ&یہی لوگ ہیں@فِی الۡاَذَلِّیۡنَ&ذلیل ترین(مخلوق)میں",
+    "english_phrase_raw": "اِنَّ&Indeed,@الَّذِیۡنَ&those who@یُحَآدُّوۡنَ&oppose@اللّٰہَ&Allah@وَرَسُوۡلَہٗۤ&and His Messenger,@اُولٰٓئِکَ&those@فِی &(will be) among@الۡاَذَلِّیۡنَ&the most humiliated.",
+    "words": [
+      {
+        "word_id": 1,
+        "arabic": "اِنَّ  ",
+        "root": "اِنَّ",
+        "urdu_meaning": " بےشک",
+        "english_meaning": "Indeed,",
+        "lemma": "إِنّ",
+        "lughat": "",
+        "grammar": [
+          "ACC"
+        ]
+      },
+      {
+        "word_id": 2,
+        "arabic": "الَّذِیۡنَ ",
+        "root": "ٱلَّذِى",
+        "urdu_meaning": "وہ لوگ جو",
+        "english_meaning": "those who",
+        "lemma": "الَّذِي",
+        "lughat": "",
+        "grammar": [
+          "REL"
+        ]
+      },
+      {
+        "word_id": 3,
+        "arabic": "یُحَآدُّوۡنَ ",
+        "root": "ح د د",
+        "urdu_meaning": "مخالفت کرتے ہیں",
+        "english_meaning": "oppose",
+        "lemma": "يُحادُّ",
+        "lughat": "",
+        "grammar": [
+          "V",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 4,
+        "arabic": "اللّٰہَ ",
+        "root": "ا ل ه",
+        "urdu_meaning": "اللہ کی",
+        "english_meaning": "Allah",
+        "lemma": "اللّٰہ",
+        "lughat": "",
+        "grammar": [
+          "PN"
+        ]
+      },
+      {
+        "word_id": 5,
+        "arabic": "وَ رَسُوۡلَہٗۤ ",
+        "root": "ر س ل",
+        "urdu_meaning": "اور اس کے رسول کی",
+        "english_meaning": "and His Messenger,",
+        "lemma": "رَسُول",
+        "lughat": "",
+        "grammar": [
+          "CONJ",
+          "N",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 6,
+        "arabic": "اُولٰٓئِکَ ",
+        "root": "",
+        "urdu_meaning": "یہی لوگ ہیں",
+        "english_meaning": "those",
+        "lemma": "ذا",
+        "lughat": "",
+        "grammar": [
+          "DEM",
+          "ADDR"
+        ]
+      },
+      {
+        "word_id": 7,
+        "arabic": "فِی  ",
+        "root": "",
+        "urdu_meaning": "میں",
+        "english_meaning": "(will be) among",
+        "lemma": "فِي",
+        "lughat": "",
+        "grammar": [
+          "P"
+        ]
+      },
+      {
+        "word_id": 8,
+        "arabic": "الۡاَذَلِّیۡنَ ﴿۲۰﴾",
+        "root": "ذ ل ل",
+        "urdu_meaning": "ذلیل ترین (مخلوق)",
+        "english_meaning": "the most humiliated.",
+        "lemma": "أَذَلّ",
+        "lughat": "",
+        "grammar": [
+          "DET",
+          "N"
+        ]
+      }
+    ]
+  },
+  {
+    "surah_id": 58,
+    "ayah_number": 21,
+    "global_ayah_id": 5182,
+    "urdu_phrase_raw": "کَتَبَ&لکھ دیا@اللّٰہُ&اللہ نے@لَاَغۡلِبَنَّ&البتہ میں ضرور غالب رہوں گا@اَنَا&میں@وَرُسُلِیۡ&اور میرے رسول@اِنَّ&بےشک@اللّٰہَ&اللہ@قَوِیٌّ&بہت قوت والا ہے@عَزِیۡزٌ&بہت زبردست ہے",
+    "english_phrase_raw": "کَتَبَ اللّٰہُ&Allah has decreed,@لَاَغۡلِبَنَّ&Surely, I will overcome,@اَنَا&I@وَرُسُلِیۡ&and My Messengers.@اِنَّ&Indeed,@اللّٰہَ&Allah@قَوِیٌّ&(is) All-Strong,@عَزِیۡزٌ&All-Mighty.",
+    "words": [
+      {
+        "word_id": 1,
+        "arabic": "کَتَبَ ",
+        "root": "ك ت ب",
+        "urdu_meaning": "لکھ دیا",
+        "english_meaning": "Allah has decreed,",
+        "lemma": "كَتَبَ",
+        "lughat": "",
+        "grammar": [
+          "V"
+        ]
+      },
+      {
+        "word_id": 2,
+        "arabic": "اللّٰہُ  ",
+        "root": "ا ل ه",
+        "urdu_meaning": "اللہ نے",
+        "english_meaning": "",
+        "lemma": "اللّٰہ",
+        "lughat": "",
+        "grammar": [
+          "PN"
+        ]
+      },
+      {
+        "word_id": 3,
+        "arabic": "لَاَغۡلِبَنَّ  ",
+        "root": "غ ل ب",
+        "urdu_meaning": "البتہ میں ضرور غالب رہوں گا",
+        "english_meaning": "Surely, I will overcome,",
+        "lemma": "غَلَبُ",
+        "lughat": "",
+        "grammar": [
+          "EMPH",
+          "V",
+          "EMPH"
+        ]
+      },
+      {
+        "word_id": 4,
+        "arabic": "اَنَا ",
+        "root": "",
+        "urdu_meaning": "میں",
+        "english_meaning": "I",
+        "lemma": "",
+        "lughat": "",
+        "grammar": [
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 5,
+        "arabic": "وَ  رُسُلِیۡ ؕ ",
+        "root": "ر س ل",
+        "urdu_meaning": "اور میرے رسول",
+        "english_meaning": "and My Messengers.",
+        "lemma": "رَسُول",
+        "lughat": "",
+        "grammar": [
+          "CONJ",
+          "N",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 6,
+        "arabic": "اِنَّ ",
+        "root": "اِنَّ",
+        "urdu_meaning": "بےشک",
+        "english_meaning": "Indeed,",
+        "lemma": "إِنّ",
+        "lughat": "",
+        "grammar": [
+          "ACC"
+        ]
+      },
+      {
+        "word_id": 7,
+        "arabic": "اللّٰہَ  ",
+        "root": "ا ل ه",
+        "urdu_meaning": "اللہ",
+        "english_meaning": "Allah",
+        "lemma": "اللّٰہ",
+        "lughat": "",
+        "grammar": [
+          "PN"
+        ]
+      },
+      {
+        "word_id": 8,
+        "arabic": "قَوِیٌّ ",
+        "root": "ق و ي",
+        "urdu_meaning": "بہت قوت والا ہے",
+        "english_meaning": "(is) All-Strong,",
+        "lemma": "قَوِيّ",
+        "lughat": "",
+        "grammar": [
+          "ADJ"
+        ]
+      },
+      {
+        "word_id": 9,
+        "arabic": "عَزِیۡزٌ ﴿۲۱﴾",
+        "root": "ع ز ز",
+        "urdu_meaning": "بہت زبردست ہے",
+        "english_meaning": "All-Mighty.",
+        "lemma": "عَزِيز",
+        "lughat": "",
+        "grammar": [
+          "ADJ"
+        ]
+      }
+    ]
+  },
+  {
+    "surah_id": 58,
+    "ayah_number": 22,
+    "global_ayah_id": 5183,
+    "urdu_phrase_raw": "لَاتَجِدُ&نہ آپ پائیں گے@قَوۡمًا&ان لوگوں کو@یُّؤۡمِنُوۡنَ&جو ایمان رکھتے ہوں@بِاللّٰہِ&اللہ پر@وَالۡیَوۡمِ  الۡاٰخِرِ&اور آخری دن پر@یُوَآدُّوۡنَ&کہ وہ دوستی رکھتے ہوں@مَنۡ&ان سے جنہوں نے@حَآدَّ&مخالفت کی@اللّٰہَ&اللہ کی@وَرَسُوۡلَہٗ& اور اس کے رسول کی@وَلَوۡ&اور اگرچہ@کَانُوۡۤا&ہوں وہ@اٰبَآءَہُمۡ&باپ ان کے@اَوۡ&یا@اَبۡنَآءَہُمۡ&بیٹے ان کے@اَوۡ&یا@اِخۡوَانَہُمۡ&بھائی ان کے@اَوۡ&یا@عَشِیۡرَتَہُمۡ&قبیلہ ان کا@اُولٰٓئِکَ&یہی لوگ ہیں@کَتَبَ&اس نے لکھ دیا@فِیۡ قُلُوۡبِہِمُ& ان کے دلوں میں@الۡاِیۡمَانَ& ایمان@وَاَیَّدَہُمۡ&اور اس نے تائید کی ان کی@بِرُوۡحٍ&ساتھ روح کے@مِّنۡہُ&اپنی طرف سے@وَیُدۡخِلُہُمۡ&اور وہ داخل کرے گا انہیں@جَنّٰتٍ&باغات میں@تَجۡرِیۡ& بہتی ہیں@مِنۡ تَحۡتِہَا&ان کے نیچے سے@الۡاَنۡہٰرُ&نہریں@خٰلِدِیۡنَ&ہمیشہ رہنے والے ہیں@فِیۡہَا&ان میں@رَضِیَ&راضی ہو گیا@اللّٰہُ&اللہ@عَنۡہُمۡ&ان سے@وَرَضُوۡا& اور وہ راضی ہوگئے@عَنۡہُ& اس سے@اُولٰٓئِکَ&یہی لوگ ہیں@حِزۡبُ&گروہ@اللّٰہِ&اللہ کا@اَلَاۤ&خبردار@اِنَّ&بےشک@حِزۡبَ&گروہ@اللّٰہِ&اللہ کا@ہُمُ&وہی ہیں@الۡمُفۡلِحُوۡنَ&جو فلاح پانے والے ہیں",
+    "english_phrase_raw": "لَا تَجِدُ&You will not find@قَوۡمًا&a people@یُّؤۡمِنُوۡنَ&who believe@بِاللّٰہِ&in Allah@وَالۡیَوۡمِ  &and the Day@الۡاٰخِرِ&the Last@یُوَآدُّوۡنَ&loving@مَنۡ&(those) who@حَآدَّ&oppose@اللّٰہَ&Allah@وَرَسُوۡلَہٗ&and His Messenger@وَلَوۡ&even if@کَانُوۡۤا&they were@اٰبَآءَہُمۡ&their fathers@اَوۡ &or@اَبۡنَآءَہُمۡ&their sons@اَوۡ &or@اِخۡوَانَہُمۡ&their brothers@اَوۡ &or@عَشِیۡرَتَہُمۡ&their kindred.@اُولٰٓئِکَ&Those -@کَتَبَ&He has decreed@فِیۡ &within@قُلُوۡبِہِمُ&their hearts@الۡاِیۡمَانَ&faith@وَاَیَّدَہُمۡ&and supported them@بِرُوۡحٍ&with a spirit@مِّنۡہُ&from Him.@وَیُدۡخِلُہُمۡ&And He will admit them@جَنّٰتٍ&(to) Gardens,@تَجۡرِیۡ&flow@مِنۡ &from@تَحۡتِہَا&underneath it@الۡاَنۡہٰرُ&the rivers,@خٰلِدِیۡنَ&will abide forever@فِیۡہَا&in it.@رَضِیَ اللّٰہُ&Allah is pleased@عَنۡہُمۡ&with them,@وَرَضُوۡا&and they are pleased@عَنۡہُ&with Him.@اُولٰٓئِکَ&Those@حِزۡبُ &(are the) party@اللّٰہِ&(of) Allah.@اَلَاۤ&No doubt!@اِنَّ&Indeed,@حِزۡبَ &(the) party@اللّٰہِ&(of) Allah,@ہُمُ&they@الۡمُفۡلِحُوۡنَ&(are) the successful ones.",
+    "words": [
+      {
+        "word_id": 1,
+        "arabic": "لَا ",
+        "root": "",
+        "urdu_meaning": "نہ",
+        "english_meaning": "You will not find",
+        "lemma": "لا",
+        "lughat": "",
+        "grammar": [
+          "NEG"
+        ]
+      },
+      {
+        "word_id": 2,
+        "arabic": "تَجِدُ ",
+        "root": "و ج د",
+        "urdu_meaning": "آپ پائیں گے",
+        "english_meaning": "",
+        "lemma": "وَجَدَ",
+        "lughat": "",
+        "grammar": [
+          "V"
+        ]
+      },
+      {
+        "word_id": 3,
+        "arabic": "قَوۡمًا ",
+        "root": "ق و م",
+        "urdu_meaning": "ان لوگوں کو",
+        "english_meaning": "a people",
+        "lemma": "قَوْم",
+        "lughat": "",
+        "grammar": [
+          "N"
+        ]
+      },
+      {
+        "word_id": 4,
+        "arabic": "یُّؤۡمِنُوۡنَ ",
+        "root": "ا م ن",
+        "urdu_meaning": "جو ایمان رکھتے ہوں",
+        "english_meaning": "who believe",
+        "lemma": "آمَنَ",
+        "lughat": "",
+        "grammar": [
+          "V",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 5,
+        "arabic": "بِاللّٰہِ ",
+        "root": "ا ل ه",
+        "urdu_meaning": "اللہ پر",
+        "english_meaning": "in Allah",
+        "lemma": "اللّٰہ",
+        "lughat": "",
+        "grammar": [
+          "P",
+          "PN"
+        ]
+      },
+      {
+        "word_id": 6,
+        "arabic": "وَ الۡیَوۡمِ ",
+        "root": "ي و م",
+        "urdu_meaning": "اور دن پر",
+        "english_meaning": "and the Day",
+        "lemma": "يَوْم",
+        "lughat": "",
+        "grammar": [
+          "CONJ",
+          "DET",
+          "N"
+        ]
+      },
+      {
+        "word_id": 7,
+        "arabic": "الۡاٰخِرِ  ",
+        "root": "ا خ ر",
+        "urdu_meaning": "آخرت کے",
+        "english_meaning": "the Last",
+        "lemma": "آخِر",
+        "lughat": "",
+        "grammar": [
+          "DET",
+          "N"
+        ]
+      },
+      {
+        "word_id": 8,
+        "arabic": "یُوَآدُّوۡنَ ",
+        "root": "و د د",
+        "urdu_meaning": "کہ وہ دوستی رکھتے ہوں",
+        "english_meaning": "loving",
+        "lemma": "وَدَّ",
+        "lughat": "",
+        "grammar": [
+          "V",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 9,
+        "arabic": "مَنۡ ",
+        "root": "",
+        "urdu_meaning": "ان سے جنہوں نے",
+        "english_meaning": "(those) who",
+        "lemma": "مَن",
+        "lughat": "",
+        "grammar": [
+          "REL"
+        ]
+      },
+      {
+        "word_id": 10,
+        "arabic": "حَآدَّ ",
+        "root": "ح د د",
+        "urdu_meaning": "مخالفت کی",
+        "english_meaning": "oppose",
+        "lemma": "حادَّ",
+        "lughat": "",
+        "grammar": [
+          "V"
+        ]
+      },
+      {
+        "word_id": 11,
+        "arabic": "اللّٰہَ ",
+        "root": "ا ل ه",
+        "urdu_meaning": "اللہ کی",
+        "english_meaning": "Allah",
+        "lemma": "اللّٰہ",
+        "lughat": "",
+        "grammar": [
+          "PN"
+        ]
+      },
+      {
+        "word_id": 12,
+        "arabic": "وَ رَسُوۡلَہٗ  ",
+        "root": "ر س ل",
+        "urdu_meaning": " اور اس کے رسول کی",
+        "english_meaning": "and His Messenger",
+        "lemma": "رَسُول",
+        "lughat": "",
+        "grammar": [
+          "CONJ",
+          "N",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 13,
+        "arabic": "وَ لَوۡ ",
+        "root": "",
+        "urdu_meaning": "اور اگرچہ",
+        "english_meaning": "even if",
+        "lemma": "لَو",
+        "lughat": "",
+        "grammar": [
+          "CONJ",
+          "COND"
+        ]
+      },
+      {
+        "word_id": 14,
+        "arabic": "کَانُوۡۤا  ",
+        "root": "ك و ن",
+        "urdu_meaning": "ہوں وہ",
+        "english_meaning": "they were",
+        "lemma": "كانَ",
+        "lughat": "",
+        "grammar": [
+          "V",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 15,
+        "arabic": "اٰبَآءَہُمۡ  ",
+        "root": "ا ب و",
+        "urdu_meaning": "باپ ان کے",
+        "english_meaning": "their fathers",
+        "lemma": "آباء",
+        "lughat": "",
+        "grammar": [
+          "N",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 16,
+        "arabic": "اَوۡ ",
+        "root": "",
+        "urdu_meaning": "یا",
+        "english_meaning": "or",
+        "lemma": "أَو",
+        "lughat": "",
+        "grammar": [
+          "CONJ"
+        ]
+      },
+      {
+        "word_id": 17,
+        "arabic": "اَبۡنَآءَہُمۡ  ",
+        "root": "ب ن ي",
+        "urdu_meaning": "بیٹے ان کے",
+        "english_meaning": "their sons",
+        "lemma": "ابْن",
+        "lughat": "",
+        "grammar": [
+          "N",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 18,
+        "arabic": "اَوۡ  ",
+        "root": "",
+        "urdu_meaning": "یا",
+        "english_meaning": "or",
+        "lemma": "أَو",
+        "lughat": "",
+        "grammar": [
+          "CONJ"
+        ]
+      },
+      {
+        "word_id": 19,
+        "arabic": "اِخۡوَانَہُمۡ  ",
+        "root": "ا خ و",
+        "urdu_meaning": "بھائی ان کے",
+        "english_meaning": "their brothers",
+        "lemma": "أَخ",
+        "lughat": "",
+        "grammar": [
+          "N",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 20,
+        "arabic": "اَوۡ ",
+        "root": "",
+        "urdu_meaning": "یا",
+        "english_meaning": "or",
+        "lemma": "أَو",
+        "lughat": "",
+        "grammar": [
+          "CONJ"
+        ]
+      },
+      {
+        "word_id": 21,
+        "arabic": "عَشِیۡرَتَہُمۡ ؕ ",
+        "root": "ع ش ر",
+        "urdu_meaning": "قبیلہ ان کا",
+        "english_meaning": "their kindred.",
+        "lemma": "عَشِيرَت",
+        "lughat": "",
+        "grammar": [
+          "N",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 22,
+        "arabic": "اُولٰٓئِکَ  ",
+        "root": "",
+        "urdu_meaning": "یہی لوگ ہیں",
+        "english_meaning": "Those -",
+        "lemma": "ذا",
+        "lughat": "",
+        "grammar": [
+          "DEM",
+          "ADDR"
+        ]
+      },
+      {
+        "word_id": 23,
+        "arabic": "کَتَبَ ",
+        "root": "ك ت ب",
+        "urdu_meaning": "اس نے لکھ دیا",
+        "english_meaning": "He has decreed",
+        "lemma": "كَتَبَ",
+        "lughat": "",
+        "grammar": [
+          "V"
+        ]
+      },
+      {
+        "word_id": 24,
+        "arabic": "فِیۡ ",
+        "root": "",
+        "urdu_meaning": "میں",
+        "english_meaning": "within",
+        "lemma": "فِي",
+        "lughat": "",
+        "grammar": [
+          "P"
+        ]
+      },
+      {
+        "word_id": 25,
+        "arabic": "قُلُوۡبِہِمُ ",
+        "root": "ق ل ب",
+        "urdu_meaning": "ان کے دلوں",
+        "english_meaning": "their hearts",
+        "lemma": "قَلْب",
+        "lughat": "",
+        "grammar": [
+          "N",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 26,
+        "arabic": "الۡاِیۡمَانَ ",
+        "root": "ا م ن",
+        "urdu_meaning": " ایمان",
+        "english_meaning": "faith",
+        "lemma": "إِيمان",
+        "lughat": "",
+        "grammar": [
+          "DET",
+          "N"
+        ]
+      },
+      {
+        "word_id": 27,
+        "arabic": "وَ اَیَّدَہُمۡ  ",
+        "root": "ا ي د",
+        "urdu_meaning": "اور اس نے تائید کی ان کی",
+        "english_meaning": "and supported them",
+        "lemma": "أَيَّدَ",
+        "lughat": "",
+        "grammar": [
+          "CONJ",
+          "V",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 28,
+        "arabic": "بِرُوۡحٍ ",
+        "root": "ر و ح",
+        "urdu_meaning": "ساتھ روح کے",
+        "english_meaning": "with a spirit",
+        "lemma": "رُوح",
+        "lughat": "",
+        "grammar": [
+          "P",
+          "N"
+        ]
+      },
+      {
+        "word_id": 29,
+        "arabic": "مِّنۡہُ ؕ ",
+        "root": "",
+        "urdu_meaning": "اپنی طرف سے",
+        "english_meaning": "from Him.",
+        "lemma": "مِن",
+        "lughat": "",
+        "grammar": [
+          "P",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 30,
+        "arabic": "وَ یُدۡخِلُہُمۡ ",
+        "root": "د خ ل",
+        "urdu_meaning": "اور وہ داخل کرے گا انہیں",
+        "english_meaning": "And He will admit them",
+        "lemma": "أُدْخِلَ",
+        "lughat": "",
+        "grammar": [
+          "CONJ",
+          "V",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 31,
+        "arabic": "جَنّٰتٍ ",
+        "root": "ج ن ن",
+        "urdu_meaning": "باغات میں",
+        "english_meaning": "(to) Gardens,",
+        "lemma": "جَنَّة",
+        "lughat": "",
+        "grammar": [
+          "N"
+        ]
+      },
+      {
+        "word_id": 32,
+        "arabic": "تَجۡرِیۡ ",
+        "root": "ج ر ي",
+        "urdu_meaning": " بہتی ہیں",
+        "english_meaning": "flow",
+        "lemma": "جَرَيْ",
+        "lughat": "",
+        "grammar": [
+          "V"
+        ]
+      },
+      {
+        "word_id": 33,
+        "arabic": "مِنۡ ",
+        "root": "",
+        "urdu_meaning": "سے",
+        "english_meaning": "from",
+        "lemma": "مِن",
+        "lughat": "",
+        "grammar": [
+          "P"
+        ]
+      },
+      {
+        "word_id": 34,
+        "arabic": "تَحۡتِہَا ",
+        "root": "ت ح ت",
+        "urdu_meaning": "ان کے نیچے",
+        "english_meaning": "underneath it",
+        "lemma": "تَحْت",
+        "lughat": "",
+        "grammar": [
+          "N",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 35,
+        "arabic": "الۡاَنۡہٰرُ ",
+        "root": "ن ه ر",
+        "urdu_meaning": "نہریں",
+        "english_meaning": "the rivers,",
+        "lemma": "نَهَر",
+        "lughat": "",
+        "grammar": [
+          "DET",
+          "N"
+        ]
+      },
+      {
+        "word_id": 36,
+        "arabic": "خٰلِدِیۡنَ  ",
+        "root": "خ ل د",
+        "urdu_meaning": "ہمیشہ رہنے والے ہیں",
+        "english_meaning": "will abide forever",
+        "lemma": "خالِد",
+        "lughat": "",
+        "grammar": [
+          "N"
+        ]
+      },
+      {
+        "word_id": 37,
+        "arabic": "فِیۡہَا ؕ ",
+        "root": "",
+        "urdu_meaning": "ان میں",
+        "english_meaning": "in it.",
+        "lemma": "فِي",
+        "lughat": "",
+        "grammar": [
+          "P",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 38,
+        "arabic": "رَضِیَ ",
+        "root": "ر ض و",
+        "urdu_meaning": "راضی ہو گیا",
+        "english_meaning": "Allah is pleased",
+        "lemma": "رَضِيَ",
+        "lughat": "",
+        "grammar": [
+          "V"
+        ]
+      },
+      {
+        "word_id": 39,
+        "arabic": "اللّٰہُ  ",
+        "root": "ا ل ه",
+        "urdu_meaning": "اللہ",
+        "english_meaning": "",
+        "lemma": "اللّٰہ",
+        "lughat": "",
+        "grammar": [
+          "PN"
+        ]
+      },
+      {
+        "word_id": 40,
+        "arabic": "عَنۡہُمۡ ",
+        "root": "",
+        "urdu_meaning": "ان سے",
+        "english_meaning": "with them,",
+        "lemma": "عَن",
+        "lughat": "",
+        "grammar": [
+          "P",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 41,
+        "arabic": "وَ رَضُوۡا ",
+        "root": "ر ض و",
+        "urdu_meaning": " اور وہ راضی ہوگئے",
+        "english_meaning": "and they are pleased",
+        "lemma": "رَضِيَ",
+        "lughat": "",
+        "grammar": [
+          "CONJ",
+          "V",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 42,
+        "arabic": "عَنۡہُ ؕ ",
+        "root": "",
+        "urdu_meaning": " اس سے",
+        "english_meaning": "with Him.",
+        "lemma": "عَن",
+        "lughat": "",
+        "grammar": [
+          "P",
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 43,
+        "arabic": "اُولٰٓئِکَ ",
+        "root": "",
+        "urdu_meaning": "یہی لوگ ہیں",
+        "english_meaning": "Those",
+        "lemma": "ذا",
+        "lughat": "",
+        "grammar": [
+          "DEM",
+          "ADDR"
+        ]
+      },
+      {
+        "word_id": 44,
+        "arabic": "حِزۡبُ ",
+        "root": "ح ز ب",
+        "urdu_meaning": "گروہ",
+        "english_meaning": "(are the) party",
+        "lemma": "حِزْب",
+        "lughat": "",
+        "grammar": [
+          "N"
+        ]
+      },
+      {
+        "word_id": 45,
+        "arabic": "اللّٰہِ ؕ ",
+        "root": "ا ل ه",
+        "urdu_meaning": "اللہ کا",
+        "english_meaning": "(of) Allah.",
+        "lemma": "اللّٰہ",
+        "lughat": "",
+        "grammar": [
+          "PN"
+        ]
+      },
+      {
+        "word_id": 46,
+        "arabic": "اَلَاۤ ",
+        "root": "",
+        "urdu_meaning": "خبردار",
+        "english_meaning": "No doubt!",
+        "lemma": "أَلا",
+        "lughat": "",
+        "grammar": [
+          "INC"
+        ]
+      },
+      {
+        "word_id": 47,
+        "arabic": "اِنَّ  ",
+        "root": "اِنَّ",
+        "urdu_meaning": "بےشک",
+        "english_meaning": "Indeed,",
+        "lemma": "إِنّ",
+        "lughat": "",
+        "grammar": [
+          "ACC"
+        ]
+      },
+      {
+        "word_id": 48,
+        "arabic": "حِزۡبَ ",
+        "root": "ح ز ب",
+        "urdu_meaning": "گروہ",
+        "english_meaning": "(the) party",
+        "lemma": "حِزْب",
+        "lughat": "",
+        "grammar": [
+          "N"
+        ]
+      },
+      {
+        "word_id": 49,
+        "arabic": "اللّٰہِ ",
+        "root": "ا ل ه",
+        "urdu_meaning": "اللہ کا",
+        "english_meaning": "(of) Allah,",
+        "lemma": "اللّٰہ",
+        "lughat": "",
+        "grammar": [
+          "PN"
+        ]
+      },
+      {
+        "word_id": 50,
+        "arabic": "ہُمُ ",
+        "root": "",
+        "urdu_meaning": "وہی ہیں",
+        "english_meaning": "they",
+        "lemma": "",
+        "lughat": "",
+        "grammar": [
+          "PRON"
+        ]
+      },
+      {
+        "word_id": 51,
+        "arabic": "الۡمُفۡلِحُوۡنَ ﴿٪۲۲﴾            3",
+        "root": "ف ل ح",
+        "urdu_meaning": "جو فلاح پانے والے ہیں",
+        "english_meaning": "(are) the successful ones.",
+        "lemma": "مُفْلِح",
+        "lughat": "",
+        "grammar": [
+          "DET",
+          "N"
+        ]
+      }
+    ]
+  }
+]

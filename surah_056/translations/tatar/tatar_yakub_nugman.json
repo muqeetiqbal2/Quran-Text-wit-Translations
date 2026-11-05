@@ -1,0 +1,578 @@
+[
+  {
+    "surah_id": 56,
+    "ayah_number": 1,
+    "global_ayah_id": 4980,
+    "translation": "Әгәр вакыйга булачак кыямәт хәле вакыйга булса,"
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 2,
+    "global_ayah_id": 4981,
+    "translation": "ул кыямәтнең вакыйга булуын ялганлаучы була алмас."
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 3,
+    "global_ayah_id": 4982,
+    "translation": "Ул кыямәт Дөньяда тәкәбберләнеп динсез яшәгән кешеләрне түбән төшерүче вә Аллаһудан куркып түбәнчелек белән тотып яшәгән хак мөэминнәрне бөек дәрәҗәгә күтәрүчедер."
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 4,
+    "global_ayah_id": 4983,
+    "translation": "Әгәр җирне каты хәрәкәтләндерү илә хәрәкәтләндерсә,"
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 5,
+    "global_ayah_id": 4984,
+    "translation": "вә таулар каты тетелү илә тетелсәләр"
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 6,
+    "global_ayah_id": 4985,
+    "translation": "алар чәчелгән тузан кеби булырлар."
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 7,
+    "global_ayah_id": 4986,
+    "translation": "Вә сез өч төрле сыйныф булырсыз."
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 8,
+    "global_ayah_id": 4987,
+    "translation": "Бер сыйныф уң тараф кешеләредер, уң тараф кешеләренең җәннәтләрдә хәлләре ни хуш яхшыдыр."
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 9,
+    "global_ayah_id": 4988,
+    "translation": "Вә икенче сыйныф сул тараф кешеләрдер, сул тараф кешеләрнең хәле җәһәннәмдә ни ямандыр."
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 10,
+    "global_ayah_id": 4989,
+    "translation": "Дәхи бер сыйныф кешеләре яхшылыкта алга чыгучылардыр, ягъни Коръән белән гамәл кылып яхшылыкта һәрвакыт алда булырлар."
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 11,
+    "global_ayah_id": 4990,
+    "translation": "Әнә шул кешеләр Аллаһуга якын вә хөрмәтле"
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 12,
+    "global_ayah_id": 4991,
+    "translation": "Алар нигъмәт белән тулган җәннәтләрдәдер."
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 13,
+    "global_ayah_id": 4992,
+    "translation": "Ул Аллаһуга якын кешеләр әүвәлге кавемнәрдән бер җәмәгатьтер."
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 14,
+    "global_ayah_id": 4993,
+    "translation": "Дәхи соңгы кавемнәрдән аз гына бардыр."
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 15,
+    "global_ayah_id": 4994,
+    "translation": "Алтын көмеш вә җәүһәр белән тукылган диваннарда."
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 16,
+    "global_ayah_id": 4995,
+    "translation": "Бер-берсенә каршы булыр ул диванга таянган хәлләрендә."
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 17,
+    "global_ayah_id": 4996,
+    "translation": "Алар тирәсендә хезмәт белән әйләнерләр мәңге яшь булгучы егетләр."
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 18,
+    "global_ayah_id": 4997,
+    "translation": "Тоткасыз кәсәләр вә борынлы комганнар һәм агып торган эчемлекләр тутырылган кәсәләр белән."
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 19,
+    "global_ayah_id": 4998,
+    "translation": "Ул эчемлекләр эчүдән башлары һич авыртмас һәм исермәсләр."
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 20,
+    "global_ayah_id": 4999,
+    "translation": "Вә алар тели торган җимешләр белән."
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 21,
+    "global_ayah_id": 5000,
+    "translation": "Вә аларның ашарга теләгәне кош итләре белән килерләр."
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 22,
+    "global_ayah_id": 5001,
+    "translation": "Дәхи кара вә зур күзле кызлар белән бергә булырлар."
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 23,
+    "global_ayah_id": 5002,
+    "translation": "Ул кызлар тезелгән энҗе дәнәләре кебиләрдер."
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 24,
+    "global_ayah_id": 5003,
+    "translation": "Бу нигъмәтләр кылган гамәлләренең җәзасыдыр."
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 25,
+    "global_ayah_id": 5004,
+    "translation": "Алар җәннәттә буш сүзләрне вә гөнаһлы сүзләрне ишетмәсләр."
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 26,
+    "global_ayah_id": 5005,
+    "translation": "Мәгәр сәлам бирешкән тавышны гына ишетерләр."
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 27,
+    "global_ayah_id": 5006,
+    "translation": "Инде уң тараф кешеләре – нинди яхшы уң тараф кешеләренең хәле."
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 28,
+    "global_ayah_id": 5007,
+    "translation": "Чәнечкесез сәдер агачлары астында."
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 29,
+    "global_ayah_id": 5008,
+    "translation": "Вә җимешләре астан өскә хәтле тезелгән хуш исле банан агачлары арасында."
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 30,
+    "global_ayah_id": 5009,
+    "translation": "Вә даимән булучы күләгәдә."
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 31,
+    "global_ayah_id": 5010,
+    "translation": "Вә даимән һәр тарафка агып торучы суда."
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 32,
+    "global_ayah_id": 5011,
+    "translation": "Вә бик күп җимешләр эчендә."
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 33,
+    "global_ayah_id": 5012,
+    "translation": "Ул җимешләр киселмәсләр агачтан (бетмәсләр) вә җимешләре җәннәт кешеләре өчен һич тыелмаслар."
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 34,
+    "global_ayah_id": 5013,
+    "translation": "Вә кабартылган йомшак түшәкләрдә булырлар."
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 35,
+    "global_ayah_id": 5014,
+    "translation": "Без аларның дөньядагы хатыннарын икенче итеп халык кылдык."
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 36,
+    "global_ayah_id": 5015,
+    "translation": "Аларны яшь кызлар кылдык."
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 37,
+    "global_ayah_id": 5016,
+    "translation": "Ирләрен сөюче татлы сүзлеләрдер, барчасы да яшьләр, җәннәт кешеләре бар да утыз өч яшьтә булырлар."
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 38,
+    "global_ayah_id": 5017,
+    "translation": "Бу зекер ителгән нәрсәләр уң тараф кешеләре өчен хәзерләнде."
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 39,
+    "global_ayah_id": 5018,
+    "translation": "Ул уң тараф кешеләре әүвәлге кавемнәрдән бер төркем җәмәгатьләрдер."
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 40,
+    "global_ayah_id": 5019,
+    "translation": "Вә соңгы кавемнәрдән бер төркем җәмәгатьтер."
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 41,
+    "global_ayah_id": 5020,
+    "translation": "Вә сул тараф кешеләре, ул сул тарафларның хәле нинди яман, нинди авырдыр."
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 42,
+    "global_ayah_id": 5021,
+    "translation": "Алар эссе җилдә вә кайнар суда."
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 43,
+    "global_ayah_id": 5022,
+    "translation": "Кара төннән булган күләгәдә."
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 44,
+    "global_ayah_id": 5023,
+    "translation": "Ул күләгә салкынча түгел һәм файдалы да түгел."
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 45,
+    "global_ayah_id": 5024,
+    "translation": "Тәхкыйк алар дөньяда вакытта нигъмәт ияләре булып азган иделәр."
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 46,
+    "global_ayah_id": 5025,
+    "translation": "Вә алар олугъ гөнаһка, ягъни ширеккә даимчелек кыла иделәр."
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 47,
+    "global_ayah_id": 5026,
+    "translation": "Дәхи әйтәләр иде: \"Без әгәр үлеп сөяк булсак вә череп туфрак булсак, яңадан терелербезме."
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 48,
+    "global_ayah_id": 5027,
+    "translation": "Дәхи безнең борынгы бабаларыбыз да терелеп кубарылырлармы? Бу эш була торган түгел\", – дип."
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 49,
+    "global_ayah_id": 5028,
+    "translation": "Әйт: \"Әлбәттә, борынгылар да һәм ахыргы кешеләр дә."
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 50,
+    "global_ayah_id": 5029,
+    "translation": "Барчалары да мәгълүм кыямәт көнендәге билгеләнгән урынга җыелырлар."
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 51,
+    "global_ayah_id": 5030,
+    "translation": "Соңра сез азып адашучы ялганчы кешеләрсез."
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 52,
+    "global_ayah_id": 5031,
+    "translation": "Әлбәттә, Заккум агачының ачы вә чәнечкеле җимешләрен ашаучысыз."
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 53,
+    "global_ayah_id": 5032,
+    "translation": "Шул ачы җимешләр илә карыннарыгызны тутыручысыз,"
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 54,
+    "global_ayah_id": 5033,
+    "translation": "вә аның өстенә эчәрсез бик кайнар суны."
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 55,
+    "global_ayah_id": 5034,
+    "translation": "Ул суны бик каты аңкыганлыктан комсызланып (сусаган дөяләр кебек) эчәрсез."
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 56,
+    "global_ayah_id": 5035,
+    "translation": "Бу ачы җимеш белән кайнар су кыямәт көнендәге аларның сыедыр."
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 57,
+    "global_ayah_id": 5036,
+    "translation": "Сезне Без халык кылдык, Безнең тергезеп хөкем итү эшебезне тәсъдыйк кылмассызмы ышанмассызмы?"
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 58,
+    "global_ayah_id": 5037,
+    "translation": "Беләсезме хәбәр бирегез хатыннарыгызның бала ятагына салган суыгызны."
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 59,
+    "global_ayah_id": 5038,
+    "translation": "Кеше итеп халык кылучы сезме, әллә аларны халык кылучы Безме?"
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 60,
+    "global_ayah_id": 5039,
+    "translation": "Без сезнең арагызда үлемне билгеләдек, вә Без гаҗизләнүче, аптыраучы түгелбез."
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 61,
+    "global_ayah_id": 5040,
+    "translation": "Сезне һәлак итеп урыныгызга сездән яхшыракны алыштырырга, вә сезне үзегез белмәгән сурәтләргә алыштырырга гаҗиз түгелме."
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 62,
+    "global_ayah_id": 5041,
+    "translation": "Тәхкыйк сез әүвәлге халык ителүне беләсез бит, һич юктан халык кылдык, шуны уйлап фикерләп карасагызчы!"
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 63,
+    "global_ayah_id": 5042,
+    "translation": "Әгәр белсәгез чәчкән игеннәрегездән хәбәр бирегез!"
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 64,
+    "global_ayah_id": 5043,
+    "translation": "Сезме аларны үстерәсез, әллә Безме үстерүче?"
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 65,
+    "global_ayah_id": 5044,
+    "translation": "Әгәр теләсәк, ул игеннәрне коры кау яки башаксыз коры салам кылыр идек, ул вакытта бик каты кайгыручылардан булыр идегез."
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 66,
+    "global_ayah_id": 5045,
+    "translation": "Вә: \"Гөнаһыбыз сәбәпле җәзаланабыз,"
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 67,
+    "global_ayah_id": 5046,
+    "translation": "Бәлки моннан соң безгә Аллаһуның рәхмәте һич тә булмас инде\", – дияр идегез."
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 68,
+    "global_ayah_id": 5047,
+    "translation": "Әгәр белсәгез, эчә торган суларыгыздан хәбәр бирегез!"
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 69,
+    "global_ayah_id": 5048,
+    "translation": "Ул суны болыттан сез иңдердегезме, әллә ул суны иңдерүче Безме?"
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 70,
+    "global_ayah_id": 5049,
+    "translation": "Әгәр Без теләсәк, ул суны эчәргә яраксыз итеп ачы кылыр идек, сез ни өчен шөкер итмисез?"
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 71,
+    "global_ayah_id": 5050,
+    "translation": "Әйә беләсезме, һәр көнне кабызып файдаланган уттан хәбәр бирегез!"
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 72,
+    "global_ayah_id": 5051,
+    "translation": "Ул утның агачын сез ясадыгызмы, әллә Безме аны бар итүче? Ягъни Ґәрәбстанда үсеп торган яшел агачтан сугып ут чыгаралар."
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 73,
+    "global_ayah_id": 5052,
+    "translation": "Без ул утны халык кылдык ахирәт утын искә төшермәк өчен вә юлда йөрүчеләргә файдаланмак өчен."
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 74,
+    "global_ayah_id": 5053,
+    "translation": "Олугъ булган Раббыңның исеме илә тәсбихләр әйт!"
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 75,
+    "global_ayah_id": 5054,
+    "translation": "Йолдызларның иңгән яки баеган вакытлары илә ант итәмен."
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 76,
+    "global_ayah_id": 5055,
+    "translation": "Тәхкыйк ул ант бик олугъ анттыр, әгәр белсәгез."
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 77,
+    "global_ayah_id": 5056,
+    "translation": "Тәхкыйк Аллаһудан вәхий ителгән нәрсә хөрмәтле Коръәндер."
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 78,
+    "global_ayah_id": 5057,
+    "translation": "Ул Коръән Ләүхүл Мәхфуздагы китапта сакланмыштыр."
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 79,
+    "global_ayah_id": 5058,
+    "translation": "Ул Коръәнне пакь булмаган кеше тотмас, мәгәр тәһарәтле пакь кеше генә тотар."
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 80,
+    "global_ayah_id": 5059,
+    "translation": "Барча галәмнәрне тәрбияләүче Аллаһудан иңдерелмештер."
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 81,
+    "global_ayah_id": 5060,
+    "translation": "Әйә сез ошбу Коръән белән гамәл кылудан ялкауланасызмы, андагы Аллаһ хөкемнәрен җиңелгә саныйсызмы?"
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 82,
+    "global_ayah_id": 5061,
+    "translation": "Тәхкыйк Коръәнне ялганга тотуыгызны үзегезгә өлеш кыласыз. Ягъни һәр нигъмәтне Аллаһудан дип белмисез, бәлки тәбигатьтән һәм үзебездән дисез."
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 83,
+    "global_ayah_id": 5062,
+    "translation": "Әгәр үлемгә хәзерләнгән кешенең җаны бугазына җитсә,"
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 84,
+    "global_ayah_id": 5063,
+    "translation": "сез шул вакытта аңа карап сорарсыз."
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 85,
+    "global_ayah_id": 5064,
+    "translation": "Ул кешенең хәлен белү өчен сезгә караганда Без белем вә кодрәтебез белән аңа якынракбыз, ләкин ул кешегә килгән хәлне сез белмисез һәм күрмисез."
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 86,
+    "global_ayah_id": 5065,
+    "translation": "Әгәр Безнең хозурыбызда хөкем ителми торган булсагыз, ягъни кешенең үлеме Аллаһудан түгел, үләбез дә бетәбез дисәгез."
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 87,
+    "global_ayah_id": 5066,
+    "translation": "Ул кешене үлемнән коткарып дөньяда яшәү өчен кире кайтарыгыз, әгәр Аллаһудан башка эш кыла алабыз дигән сүзегез дөрес булса!"
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 88,
+    "global_ayah_id": 5067,
+    "translation": "Әгәр ул үлгән кеше Аллаһуга якын кешеләрдән булса,"
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 89,
+    "global_ayah_id": 5068,
+    "translation": "аңар рәхәтлек вә хуш исле гөлләр арасында яхшы нигъмәтләр вә нәґим җәннәтедер."
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 90,
+    "global_ayah_id": 5069,
+    "translation": "Әмма уң тараф кешесе булса."
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 91,
+    "global_ayah_id": 5070,
+    "translation": "Сиңа җәннәттәге уң тараф юлдашыңнан сәламдер."
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 92,
+    "global_ayah_id": 5071,
+    "translation": "Әгәр ул үлгән кеше Коръәнне вә пәйгамбәрне ялган диюче адашкан кеше булса,"
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 93,
+    "global_ayah_id": 5072,
+    "translation": "аның сые җәһәннәмнең кайнар суыннандыр."
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 94,
+    "global_ayah_id": 5073,
+    "translation": "Вә җәһәннәм утының яндыруыдыр."
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 95,
+    "global_ayah_id": 5074,
+    "translation": "Тәхкыйк бу зекер ителгән нәрсәләр якын булган хактыр."
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 96,
+    "global_ayah_id": 5075,
+    "translation": "Олугъ булган Раббыңның исемен мактап тәсбих әйт!"
+  }
+]

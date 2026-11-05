@@ -1,0 +1,578 @@
+[
+  {
+    "surah_id": 56,
+    "ayah_number": 1,
+    "global_ayah_id": 4980,
+    "translation": "Чун қиёмат воқеъ шавад,"
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 2,
+    "global_ayah_id": 4981,
+    "translation": "ки дар воқеъ шуданаш ҳеҷ дурӯғ нест,"
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 3,
+    "global_ayah_id": 4982,
+    "translation": "гурӯҳеро пасткунанда аст ва гурӯрҳеро баландкунанда."
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 4,
+    "global_ayah_id": 4983,
+    "translation": "Он гоҳ, ки замин ба сахтӣ биларзад"
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 5,
+    "global_ayah_id": 4984,
+    "translation": "ва кӯҳҳо ба тамом реза-реза шаванд"
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 6,
+    "global_ayah_id": 4985,
+    "translation": "ва чун ғуборе пароканда гарданд,"
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 7,
+    "global_ayah_id": 4986,
+    "translation": "шумо се гурӯҳ бошед:"
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 8,
+    "global_ayah_id": 4987,
+    "translation": "яке аҳли саъодат. Аҳли саъодат чӣ ҳол доранд?"
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 9,
+    "global_ayah_id": 4988,
+    "translation": "Дигар аҳли шақоват (бадбахт). Аҳли шақоват чӣ ҳол доранд?"
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 10,
+    "global_ayah_id": 4989,
+    "translation": "Севумини онҳо, ки пешқадаму пешдаст буданд ва инак пеш раводанд (дар ҷаннат)."
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 11,
+    "global_ayah_id": 4990,
+    "translation": "Инҳо муқаррабонанд (наздиккардашудагонанд)"
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 12,
+    "global_ayah_id": 4991,
+    "translation": "дар биҳиштҳои пурнеъмат."
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 13,
+    "global_ayah_id": 4992,
+    "translation": "Гурӯҳе аз пешиниён"
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 14,
+    "global_ayah_id": 4993,
+    "translation": "ва андаке аз онҳо, ки аз пас омадаанд"
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 15,
+    "global_ayah_id": 4994,
+    "translation": "бар тахтҳои мурассаъ (зарбофт)"
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 16,
+    "global_ayah_id": 4995,
+    "translation": "рӯбарӯи ҳам бар онҳо такя задаанд."
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 17,
+    "global_ayah_id": 4996,
+    "translation": "Писароне ҳамеша ҷавон гирдашон мечарханд"
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 18,
+    "global_ayah_id": 4997,
+    "translation": "бо қадаҳҳову кӯзаҳо ва ҷомҳое аз шаробе, ки дар ҷӯйҳо ҷорист,"
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 19,
+    "global_ayah_id": 4998,
+    "translation": "аз нушиданаш на сардард гиранд ва на беҳуш шаванд."
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 20,
+    "global_ayah_id": 4999,
+    "translation": "Ва меваҳое, ки худ интихоб мекунанд."
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 21,
+    "global_ayah_id": 5000,
+    "translation": "Ва гӯшти парранда, аз ҳар чӣ бихоҳанд,"
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 22,
+    "global_ayah_id": 5001,
+    "translation": "Ва ҳурони дуруштчашм"
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 23,
+    "global_ayah_id": 5002,
+    "translation": "ҳамонанди марворидҳое дар садаф."
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 24,
+    "global_ayah_id": 5003,
+    "translation": "Ҳама ба мукофоти корҳое, ки мекардаанд."
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 25,
+    "global_ayah_id": 5004,
+    "translation": "Дар он ҷо на сухани беҳуда шунаванд ва на гуноҳолуд"
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 26,
+    "global_ayah_id": 5005,
+    "translation": "ҷуз як сухан: «Салом, салом!»"
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 27,
+    "global_ayah_id": 5006,
+    "translation": "Аммо аҳли саъодат, аҳли саъодат чӣ ҳол доранд?"
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 28,
+    "global_ayah_id": 5007,
+    "translation": "Дар зери дарахти сидри бехор"
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 29,
+    "global_ayah_id": 5008,
+    "translation": "ва дарахти музе (банан), ки мевааш бар якдигар чида шуда"
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 30,
+    "global_ayah_id": 5009,
+    "translation": "ва сояе доим"
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 31,
+    "global_ayah_id": 5010,
+    "translation": "ва обе ҷорӣ"
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 32,
+    "global_ayah_id": 5011,
+    "translation": "ва мевае бисёр,"
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 33,
+    "global_ayah_id": 5012,
+    "translation": "ки бепоён ва касро аз он бознадоранд."
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 34,
+    "global_ayah_id": 5013,
+    "translation": "Ва фаршҳои баланд"
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 35,
+    "global_ayah_id": 5014,
+    "translation": "Он занонро Мо биёфаридем, офариданӣ"
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 36,
+    "global_ayah_id": 5015,
+    "translation": "ва душизагон сохтем."
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 37,
+    "global_ayah_id": 5016,
+    "translation": "Маъшуқи ҳамсарони худанд,"
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 38,
+    "global_ayah_id": 5017,
+    "translation": "барои аҳли саъодат,"
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 39,
+    "global_ayah_id": 5018,
+    "translation": "гурӯҳе аз пешиниён"
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 40,
+    "global_ayah_id": 5019,
+    "translation": "ва гурӯҳе, ки аз пас омадаанд."
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 41,
+    "global_ayah_id": 5020,
+    "translation": "Аммо аҳли шақоват, аҳли шақоват (бадбахт) чӣ ҳол доранд?"
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 42,
+    "global_ayah_id": 5021,
+    "translation": "Дар боди гарм ва оби ҷӯшонанд"
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 43,
+    "global_ayah_id": 5022,
+    "translation": "дар сояе аз дуди сиёҳ"
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 44,
+    "global_ayah_id": 5023,
+    "translation": "на сарду на хуш."
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 45,
+    "global_ayah_id": 5024,
+    "translation": "\"Инҳо пеш аз ин дар нозу неъмат буданд."
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 46,
+    "global_ayah_id": 5025,
+    "translation": "ва бар гуноҳони бузург исрор (давом) мекарданд"
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 47,
+    "global_ayah_id": 5026,
+    "translation": "ва мегуфтанд: «Оё замоне, ки мо мурдему хоку устухон шудем, боз ҳам моро зинда мекунанд"
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 48,
+    "global_ayah_id": 5027,
+    "translation": "ё ниёгони моро?»"
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 49,
+    "global_ayah_id": 5028,
+    "translation": "Бигӯ: «Ҳамаро, онон, ки аз ин пеш буданд ва онҳо, ки аз паяшон омада буданд,"
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 50,
+    "global_ayah_id": 5029,
+    "translation": "ҳама дар ваъдагоҳи он рӯзи муъайян хоҳанд буд."
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 51,
+    "global_ayah_id": 5030,
+    "translation": "Он гоҳ шумо, эй гумроҳони дурӯғбароранда,"
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 52,
+    "global_ayah_id": 5031,
+    "translation": "аз дарахтони заққум хоҳед хурд"
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 53,
+    "global_ayah_id": 5032,
+    "translation": "ва шикамҳои худро аз он пур хоҳед кард"
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 54,
+    "global_ayah_id": 5033,
+    "translation": "ва бар болои он оби ҷӯшон хоҳед нушид,"
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 55,
+    "global_ayah_id": 5034,
+    "translation": "чунон менушед, ки шутури ташн, а об менӯшад."
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 56,
+    "global_ayah_id": 5035,
+    "translation": "Ин аст меҳмондориашон дар рӯзи ҷазо."
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 57,
+    "global_ayah_id": 5036,
+    "translation": "Мо шуморо офаридаем, пас чаро тасдиқ намекунед?"
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 58,
+    "global_ayah_id": 5037,
+    "translation": "Оё он маниро, ки мерезед, дидаед?"
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 59,
+    "global_ayah_id": 5038,
+    "translation": "Оё шумо ӯро меофаринед ё Мо офаринандаем?"
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 60,
+    "global_ayah_id": 5039,
+    "translation": "Мо маргро бар шумо, муайян сохтем ва нотавон аз он нестом, ки"
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 61,
+    "global_ayah_id": 5040,
+    "translation": "ба ҷои шумо қавме монанди шумо биёварем ва шуморо ба сурате, ки аз он бехабаред, аз нав биёфаринем."
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 62,
+    "global_ayah_id": 5041,
+    "translation": "Шумо ай офариниши нахуст огоҳед, чаро ба ёдаш наёваред?"
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 63,
+    "global_ayah_id": 5042,
+    "translation": "Оё чизеро, ки мекоред, дидаед?"
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 64,
+    "global_ayah_id": 5043,
+    "translation": "Оё шумо мерӯёнедаш ё Мо рӯёнандаем?"
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 65,
+    "global_ayah_id": 5044,
+    "translation": "Агар мехостем, хошокаш месохтем, то дар ҳайрат бимонед."
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 66,
+    "global_ayah_id": 5045,
+    "translation": "Гӯянд: «Мо зиён кардагонем,"
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 67,
+    "global_ayah_id": 5046,
+    "translation": "мо бенасиб мондагонем»."
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 68,
+    "global_ayah_id": 5047,
+    "translation": "Оё оберо, ки менӯшед, дидаед?"
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 69,
+    "global_ayah_id": 5048,
+    "translation": "Оё шумо онро аз абр фурӯд меоред ё Мо фурӯд орандагонем?."
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 70,
+    "global_ayah_id": 5049,
+    "translation": "Агар мехостем онро талх мегардонидем. Пас чаро шукр намегӯед?"
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 71,
+    "global_ayah_id": 5050,
+    "translation": "Оё он оташро, ки меафрузед дидаед?"
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 72,
+    "global_ayah_id": 5051,
+    "translation": "Оё дарахташро шумо офаридаед ё Мо офаринандаем?"
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 73,
+    "global_ayah_id": 5052,
+    "translation": "Мо онро хушдоре (аз дӯзах) ва барои мусофирони роҳнавард матоъе сохтем."
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 74,
+    "global_ayah_id": 5053,
+    "translation": "Ба номи Парвардигори бузурги худ тасбеҳ гӯй!"
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 75,
+    "global_ayah_id": 5054,
+    "translation": "Пас савганд ба ғурубгоҳи ситорагон!"
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 76,
+    "global_ayah_id": 5055,
+    "translation": "Ва ин савгандест, — агар бидонед, — бузург."
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 77,
+    "global_ayah_id": 5056,
+    "translation": "Албатта ин Қуръонест гиромиқадр"
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 78,
+    "global_ayah_id": 5057,
+    "translation": "дар китобе макнун,"
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 79,
+    "global_ayah_id": 5058,
+    "translation": "ки ҷуз покон даст бар он назананд."
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 80,
+    "global_ayah_id": 5059,
+    "translation": "Нозилшуда аз ҷониби Парвардигори ҷаҳониён аст."
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 81,
+    "global_ayah_id": 5060,
+    "translation": "Оё ин суханро дурӯғ меҳисобед?"
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 82,
+    "global_ayah_id": 5061,
+    "translation": "Ва насиби худро дар дурӯғ ҳисобидани он қарор медиҳед?"
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 83,
+    "global_ayah_id": 5062,
+    "translation": "Пас чаро он гоҳ ки ҷон ба гулӯ расад"
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 84,
+    "global_ayah_id": 5063,
+    "translation": "ва шумо дар ин ҳангом менигаред?"
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 85,
+    "global_ayah_id": 5064,
+    "translation": "Мо аз шумо ба ӯ наздиктарем, вале шумо намебинед."
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 86,
+    "global_ayah_id": 5065,
+    "translation": "Агар қиёматро бовар надоред,"
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 87,
+    "global_ayah_id": 5066,
+    "translation": "агар рост мегӯед, бозаш гардонед! (рӯҳро бар ҷасад)"
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 88,
+    "global_ayah_id": 5067,
+    "translation": "Аммо агар аз муқаррабон (наздикшудагон) бошад."
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 89,
+    "global_ayah_id": 5068,
+    "translation": "барои ӯст осоишу рӯзӣ ва биҳишти пурнеъмат."
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 90,
+    "global_ayah_id": 5069,
+    "translation": "Ва аммо агар аз аҳли саъодат бошад,"
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 91,
+    "global_ayah_id": 5070,
+    "translation": "пас туро аз аҳли саъодат салом аст."
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 92,
+    "global_ayah_id": 5071,
+    "translation": "Ва аммо агар, аз такзибкунандагони (дурӯғ барорандагони) гумроҳ бошад,"
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 93,
+    "global_ayah_id": 5072,
+    "translation": "ба оби ҷӯшон меҳмонаш кунанд"
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 94,
+    "global_ayah_id": 5073,
+    "translation": "ва ба дӯзахаш дароваранд."
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 95,
+    "global_ayah_id": 5074,
+    "translation": "Ин сухан сухане росту яқин аст!"
+  },
+  {
+    "surah_id": 56,
+    "ayah_number": 96,
+    "global_ayah_id": 5075,
+    "translation": "Пас ба номи Парвардигори бузургат тасбеҳ гӯй!"
+  }
+]
