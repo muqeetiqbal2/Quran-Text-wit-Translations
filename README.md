@@ -64,7 +64,7 @@ import 'package:http/http.dart' as http;
 
 Future<Map<String, dynamic>> loadSurah(int surahNumber) async {
   final padded = surahNumber.toString().padLeft(3, '0');
-  final url = 'https://raw.githubusercontent.com/muqeetiqbal2/Quran-Text-wit-Translations/main/surah_$padded/complete.json';
+  final url = 'https://raw.githubusercontent.com/muqeetiqbal2/Quran-Text-with-Translations-And-Tafsirs/main/surah_$padded/complete.json';
   
   final response = await http.get(Uri.parse(url));
   if (response.statusCode == 200) {
@@ -82,7 +82,7 @@ To display available languages and translations to the user:
 ```typescript
 // TypeScript / React / Node.js
 async function getCatalog() {
-  const url = 'https://raw.githubusercontent.com/muqeetiqbal2/Quran-Text-wit-Translations/main/quran_categories.json';
+  const url = 'https://raw.githubusercontent.com/muqeetiqbal2/Quran-Text-with-Translations-And-Tafsirs/main/quran_categories.json';
   const res = await fetch(url);
   const catalog = await res.json();
   console.log(`Available Languages: ${catalog.translations_summary.total_languages}`);
