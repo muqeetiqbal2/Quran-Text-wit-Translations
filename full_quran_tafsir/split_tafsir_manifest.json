@@ -1,0 +1,164 @@
+{
+  "tafseer_tibyan_ul_quran": {
+    "language": "urdu",
+    "parts": [
+      {
+        "part": 1,
+        "filename": "tafseer_tibyan_ul_quran_part1.json",
+        "path": "full_quran_tafsir/urdu/tafseer_tibyan_ul_quran_part1.json",
+        "surah_range": "001-006",
+        "start_surah": 1,
+        "end_surah": 6,
+        "size_mb": 63.11
+      },
+      {
+        "part": 2,
+        "filename": "tafseer_tibyan_ul_quran_part2.json",
+        "path": "full_quran_tafsir/urdu/tafseer_tibyan_ul_quran_part2.json",
+        "surah_range": "007-017",
+        "start_surah": 7,
+        "end_surah": 17,
+        "size_mb": 58.92
+      },
+      {
+        "part": 3,
+        "filename": "tafseer_tibyan_ul_quran_part3.json",
+        "path": "full_quran_tafsir/urdu/tafseer_tibyan_ul_quran_part3.json",
+        "surah_range": "018-035",
+        "start_surah": 18,
+        "end_surah": 35,
+        "size_mb": 60.16
+      },
+      {
+        "part": 4,
+        "filename": "tafseer_tibyan_ul_quran_part4.json",
+        "path": "full_quran_tafsir/urdu/tafseer_tibyan_ul_quran_part4.json",
+        "surah_range": "036-114",
+        "start_surah": 36,
+        "end_surah": 114,
+        "size_mb": 72.2
+      }
+    ],
+    "total_parts": 4
+  },
+  "tafseer_fi_zilal_il_quran": {
+    "language": "urdu",
+    "parts": [
+      {
+        "part": 1,
+        "filename": "tafseer_fi_zilal_il_quran_part1.json",
+        "path": "full_quran_tafsir/urdu/tafseer_fi_zilal_il_quran_part1.json",
+        "surah_range": "001-009",
+        "start_surah": 1,
+        "end_surah": 9,
+        "size_mb": 63.29
+      },
+      {
+        "part": 2,
+        "filename": "tafseer_fi_zilal_il_quran_part2.json",
+        "path": "full_quran_tafsir/urdu/tafseer_fi_zilal_il_quran_part2.json",
+        "surah_range": "010-114",
+        "start_surah": 10,
+        "end_surah": 114,
+        "size_mb": 66.46
+      }
+    ],
+    "total_parts": 2
+  },
+  "tafseer_al_qurtubi": {
+    "language": "arabic",
+    "parts": [
+      {
+        "part": 1,
+        "filename": "tafseer_al_qurtubi_part1.json",
+        "path": "full_quran_tafsir/arabic/tafseer_al_qurtubi_part1.json",
+        "surah_range": "001-015",
+        "start_surah": 1,
+        "end_surah": 15,
+        "size_mb": 57.14
+      },
+      {
+        "part": 2,
+        "filename": "tafseer_al_qurtubi_part2.json",
+        "path": "full_quran_tafsir/arabic/tafseer_al_qurtubi_part2.json",
+        "surah_range": "016-114",
+        "start_surah": 16,
+        "end_surah": 114,
+        "size_mb": 58.31
+      }
+    ],
+    "total_parts": 2
+  },
+  "tafseer_al_waseet_tantawi": {
+    "language": "arabic",
+    "parts": [
+      {
+        "part": 1,
+        "filename": "tafseer_al_waseet_tantawi_part1.json",
+        "path": "full_quran_tafsir/arabic/tafseer_al_waseet_tantawi_part1.json",
+        "surah_range": "001-011",
+        "start_surah": 1,
+        "end_surah": 11,
+        "size_mb": 50.28
+      },
+      {
+        "part": 2,
+        "filename": "tafseer_al_waseet_tantawi_part2.json",
+        "path": "full_quran_tafsir/arabic/tafseer_al_waseet_tantawi_part2.json",
+        "surah_range": "012-114",
+        "start_surah": 12,
+        "end_surah": 114,
+        "size_mb": 52.91
+      }
+    ],
+    "total_parts": 2
+  },
+  "tafseer_maududi_hindi": {
+    "language": "hindi",
+    "parts": [
+      {
+        "part": 1,
+        "filename": "tafseer_maududi_hindi_part1.json",
+        "path": "full_quran_tafsir/hindi/tafseer_maududi_hindi_part1.json",
+        "surah_range": "001-029",
+        "start_surah": 1,
+        "end_surah": 29,
+        "size_mb": 48.36
+      },
+      {
+        "part": 2,
+        "filename": "tafseer_maududi_hindi_part2.json",
+        "path": "full_quran_tafsir/hindi/tafseer_maududi_hindi_part2.json",
+        "surah_range": "030-114",
+        "start_surah": 30,
+        "end_surah": 114,
+        "size_mb": 49.32
+      }
+    ],
+    "total_parts": 2
+  },
+  "tafseer_tadabbur_ul_quran": {
+    "language": "urdu",
+    "parts": [
+      {
+        "part": 1,
+        "filename": "tafseer_tadabbur_ul_quran_part1.json",
+        "path": "full_quran_tafsir/urdu/tafseer_tadabbur_ul_quran_part1.json",
+        "surah_range": "001-019",
+        "start_surah": 1,
+        "end_surah": 19,
+        "size_mb": 46.55
+      },
+      {
+        "part": 2,
+        "filename": "tafseer_tadabbur_ul_quran_part2.json",
+        "path": "full_quran_tafsir/urdu/tafseer_tadabbur_ul_quran_part2.json",
+        "surah_range": "020-114",
+        "start_surah": 20,
+        "end_surah": 114,
+        "size_mb": 48.28
+      }
+    ],
+    "total_parts": 2
+  }
+}
