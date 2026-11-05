@@ -1,0 +1,1364 @@
+[
+  {
+    "surah_id": 26,
+    "ayah_number": 1,
+    "global_ayah_id": 2933,
+    "translation": "T'aa Siin Miim. (T'. S. M.)"
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 2,
+    "global_ayah_id": 2934,
+    "translation": "Hizi ni Aya za Kitabu kinacho bainisha."
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 3,
+    "global_ayah_id": 2935,
+    "translation": "Huenda labda ukajikera nafsi yako kwa kuwa hawawi Waumini."
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 4,
+    "global_ayah_id": 2936,
+    "translation": "Tunge penda tungeli wateremshia kutoka mbinguni Ishara zikanyenyekea shingo zao."
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 5,
+    "global_ayah_id": 2937,
+    "translation": "Wala hauwafikii ukumbusho mpya kutoka kwa Arrahman ila wao hujitenga nao."
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 6,
+    "global_ayah_id": 2938,
+    "translation": "Kwa yakini wamekanusha; kwa hivyo zitakuja wafikia khabari za yale waliyo kuwa wakiyafanyia mzaha."
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 7,
+    "global_ayah_id": 2939,
+    "translation": "Je! Hawakuiona ardhi, mimea mingapi tumeiotesha humo, ya kila namna nzuri?"
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 8,
+    "global_ayah_id": 2940,
+    "translation": "Hakika katika haya zipo Ishara. Lakini wengi wao hawakuwa wenye kuamini."
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 9,
+    "global_ayah_id": 2941,
+    "translation": "Na hakika Mola wako Mlezi ndiye Yeye Mwenye nguvu Mwenye kurehemu."
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 10,
+    "global_ayah_id": 2942,
+    "translation": "Na Mola wako Mlezi, alipo mwita Musa, akamwambia: Fika kwa watu madhaalimu,"
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 11,
+    "global_ayah_id": 2943,
+    "translation": "Watu wa Firauni. Hawaogopi?"
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 12,
+    "global_ayah_id": 2944,
+    "translation": "Akasema: Hakika mimi nachelea wasinikanushe."
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 13,
+    "global_ayah_id": 2945,
+    "translation": "Na kifua changu kina dhiki, na ulimi wangu haukunjuki vyema. Basi mtumie ujumbe Harun."
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 14,
+    "global_ayah_id": 2946,
+    "translation": "Na wao wana kisasi juu yangu, kwa hivyo naogopa wasije kuniuwa."
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 15,
+    "global_ayah_id": 2947,
+    "translation": "Akasema: Siyo hivyo kabisa! Nendeni na miujiza yetu. Hakika Sisi tu pamoja nanyi, tunasikiliza."
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 16,
+    "global_ayah_id": 2948,
+    "translation": "Basi mfikieni Firauni na mwambieni: Hakika sisi ni Mitume wa Mola Mlezi wa walimwengu wote."
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 17,
+    "global_ayah_id": 2949,
+    "translation": "Waachilie Wana wa Israili wende nasi."
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 18,
+    "global_ayah_id": 2950,
+    "translation": "(Firauni) akasema: Sisi hatukukulea wewe utotoni, na ukakaa kwetu katika umri wako miaka mingi?"
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 19,
+    "global_ayah_id": 2951,
+    "translation": "Na ukatenda kitendo chako ulicho tenda, nawe ukawa miongoni mwa wasio na shukrani?"
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 20,
+    "global_ayah_id": 2952,
+    "translation": "(Musa) akasema: Nilitenda hayo hapo nilipo kuwa miongoni mwa wale walio potea."
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 21,
+    "global_ayah_id": 2953,
+    "translation": "Basi nikakukimbieni nilipo kuogopeni, tena Mola wangu Mlezi akanitunukia hukumu, na akanijaalia niwe miongoni mwa Mitume."
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 22,
+    "global_ayah_id": 2954,
+    "translation": "Na hiyo ndiyo neema ya kunisumbulia, na wewe umewatia utumwani Wana wa Israili?"
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 23,
+    "global_ayah_id": 2955,
+    "translation": "Firauni akasema: Na nani huyo Mola Mlezi wa walimwengu wote?"
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 24,
+    "global_ayah_id": 2956,
+    "translation": "Akasema: Ndiye Mola Mlezi wa mbingu na ardhi, na viliomo baina yao, ikiwa nyinyi ni wenye yakini."
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 25,
+    "global_ayah_id": 2957,
+    "translation": "(Firauni) akawaambia walio mzunguka: Hamsikilizi?"
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 26,
+    "global_ayah_id": 2958,
+    "translation": "(Musa) akasema: Ndiye Mola wenu Mlezi, na Mola Mlezi wa baba zenu wa kwanza."
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 27,
+    "global_ayah_id": 2959,
+    "translation": "(Firauni) akasema: Hakika huyu Mtume wenu aliye tumwa kwenu ni mwendawazimu."
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 28,
+    "global_ayah_id": 2960,
+    "translation": "(Musa) akasema: Ndiye Mola Mlezi wa Mashariki na Magharibi na viliomo baina yao, ikiwa nyinyi mnatia akilini."
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 29,
+    "global_ayah_id": 2961,
+    "translation": "(Firauni) akasema: Ukimfuata mungu mwengine asiye kuwa mimi, basi bila ya shaka nitakufunga gerezani."
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 30,
+    "global_ayah_id": 2962,
+    "translation": "Akasema: Je! Ijapo kuwa nitakuletea kitu cha kubainisha wazi?"
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 31,
+    "global_ayah_id": 2963,
+    "translation": "Akasema: Kilete basi, kama wewe ni katika wasemao kweli."
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 32,
+    "global_ayah_id": 2964,
+    "translation": "Basi akaitupa fimbo yake, mara ikawa nyoka wa kuonekana dhaahiri."
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 33,
+    "global_ayah_id": 2965,
+    "translation": "Na akautoa mkono wake, na mara ukawa mweupe kwa watazamao."
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 34,
+    "global_ayah_id": 2966,
+    "translation": "(Firauni) akawaambia waheshimiwa walio mzunguka: Hakika huyu ni mchawi mtaalamu."
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 35,
+    "global_ayah_id": 2967,
+    "translation": "Anataka kukutoeni katika nchi yenu kwa uchawi wake. Basi mna shauri gani?"
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 36,
+    "global_ayah_id": 2968,
+    "translation": "Wakasema: Mpe muda yeye na nduguye na uwatume mijini wapigao mbiu ya mgambo."
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 37,
+    "global_ayah_id": 2969,
+    "translation": "Wakuletee kila mchawi bingwa mtaalamu."
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 38,
+    "global_ayah_id": 2970,
+    "translation": "Basi wakakusanywa wachawi wakati na siku maalumu."
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 39,
+    "global_ayah_id": 2971,
+    "translation": "Na watu wakaambiwa: Je! Mtakusanyika?"
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 40,
+    "global_ayah_id": 2972,
+    "translation": "Huenda tutawafuata wachawi wakiwa wao ndio watakao shinda."
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 41,
+    "global_ayah_id": 2973,
+    "translation": "Basi walipo kuja wachawi wakamwambia Firauni: Je! Tutapata ujira tukiwa sisi ndio tulio shinda?"
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 42,
+    "global_ayah_id": 2974,
+    "translation": "Naam! Na hakika mtakuwa katika watu wa mbele."
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 43,
+    "global_ayah_id": 2975,
+    "translation": "Musa akwaambia: Tupeni mnavyo taka kutupa."
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 44,
+    "global_ayah_id": 2976,
+    "translation": "Basi wakatupa kamba zao na fimbo zao, na wakasema: Kwa nguvu za Firauni hakika sisi hapana shaka ni wenye kushinda."
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 45,
+    "global_ayah_id": 2977,
+    "translation": "Musa tena akatupa fimbo yake, nayo mara ikavimeza walivyo vizua."
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 46,
+    "global_ayah_id": 2978,
+    "translation": "Hapo wachawi walipinduka wakasujudu."
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 47,
+    "global_ayah_id": 2979,
+    "translation": "Wakasema: Tunamuamini Mola Mlezi wa walimwengu wote."
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 48,
+    "global_ayah_id": 2980,
+    "translation": "Mola Mlezi wa Musa na Harun."
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 49,
+    "global_ayah_id": 2981,
+    "translation": "(Firauni) akasema: Je! Mmemuamini kabla sijakuruhusuni? Bila ya shaka yeye basi ndiye mkubwa wenu aliye kufunzeni uchawi. Basi mtakuja jua! Nitakata mikono yenu na miguu yenu kwa kutafautisha. Na nitakubandikeni misalabani nyote."
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 50,
+    "global_ayah_id": 2982,
+    "translation": "Wakasema: Haidhuru, kwani sisi ni wenye kurejea kwa Mola wetu Mlezi."
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 51,
+    "global_ayah_id": 2983,
+    "translation": "Hakika sisi tunatumai Mola wetu Mlezi atatusamehe makosa yetu, kwa kuwa ndio wa kwanza wa kuamini."
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 52,
+    "global_ayah_id": 2984,
+    "translation": "Na tulimuamrisha Musa kwa wahyi: Nenda na waja wangu wakati wa usiku. Kwa hakika mtafuatwa."
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 53,
+    "global_ayah_id": 2985,
+    "translation": "Basi Firauni akawatuma mijini wapiga mbiu za mgambo."
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 54,
+    "global_ayah_id": 2986,
+    "translation": "(Wakieneza): Hakika hawa ni kikundi kidogo."
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 55,
+    "global_ayah_id": 2987,
+    "translation": "Nao wanatuudhi."
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 56,
+    "global_ayah_id": 2988,
+    "translation": "Na sisi ni wengi, wenye kuchukua hadhari."
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 57,
+    "global_ayah_id": 2989,
+    "translation": "Basi tukawatoa katika mabustani na chemchem,"
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 58,
+    "global_ayah_id": 2990,
+    "translation": "Na makhazina, na vyeo vya hishima,"
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 59,
+    "global_ayah_id": 2991,
+    "translation": "Kadhaalika; na tukawarithisha hayo Wana wa Israili."
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 60,
+    "global_ayah_id": 2992,
+    "translation": "Basi wakawafuata lilipo chomoza jua."
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 61,
+    "global_ayah_id": 2993,
+    "translation": "Na yalipo onana majeshi mawili haya, watu wa Musa wakasema: Hakika sisi bila ya shaka tumepatikana!"
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 62,
+    "global_ayah_id": 2994,
+    "translation": "(Musa) akasema: Hasha! Hakika yu pamoja nami Mola wangu Mlezi. Yeye ataniongoa!"
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 63,
+    "global_ayah_id": 2995,
+    "translation": "Tulimletea wahyi Musa tukamwambia: Piga bahari kwa fimbo yako. Basi ikatengana, na kila sehemu ikawa kama mlima mkubwa."
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 64,
+    "global_ayah_id": 2996,
+    "translation": "Na tukawajongeza hapo wale wengine."
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 65,
+    "global_ayah_id": 2997,
+    "translation": "Tukawaokoa Musa na walio kuwa pamoja naye wote."
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 66,
+    "global_ayah_id": 2998,
+    "translation": "Kisha tukawazamisha hao wengine."
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 67,
+    "global_ayah_id": 2999,
+    "translation": "Hakika bila ya shaka katika hayo ipo Ishara; lakini wengi wao si katika wenye kuamini."
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 68,
+    "global_ayah_id": 3000,
+    "translation": "Na kwa hakika Mola wako Mlezi ndiye Mwenye nguvu Mwenye kurehemu."
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 69,
+    "global_ayah_id": 3001,
+    "translation": "Na wasomee khabari za Ibrahim."
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 70,
+    "global_ayah_id": 3002,
+    "translation": "Alipo mwambia baba yake na kaumu yake: Mnaabudu nini?"
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 71,
+    "global_ayah_id": 3003,
+    "translation": "Wakasema: Tunaabudu masanamu, daima tunayanyenyekea."
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 72,
+    "global_ayah_id": 3004,
+    "translation": "Akasema: Je! Yanakusikieni mnapo yaita?"
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 73,
+    "global_ayah_id": 3005,
+    "translation": "Au yanakufaeni, au yanakudhuruni?"
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 74,
+    "global_ayah_id": 3006,
+    "translation": "Wakasema: Bali tumewakuta baba zetu wakifanya hivyo hivyo."
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 75,
+    "global_ayah_id": 3007,
+    "translation": "Je! Mmewaona hawa mnao waabudu-"
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 76,
+    "global_ayah_id": 3008,
+    "translation": "Nyinyi na baba zenu wa zamani?"
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 77,
+    "global_ayah_id": 3009,
+    "translation": "Kwani hakika hao ni adui zangu, isipo kuwa Mola Mlezi wa walimwengu wote."
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 78,
+    "global_ayah_id": 3010,
+    "translation": "Ambaye ndiye aliye niumba, na Yeye ndiye ananiongoa,"
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 79,
+    "global_ayah_id": 3011,
+    "translation": "Na ambaye ndiye ananilisha na kuninywesha."
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 80,
+    "global_ayah_id": 3012,
+    "translation": "Na ninapo ugua ni Yeye ndiye anaye niponesha."
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 81,
+    "global_ayah_id": 3013,
+    "translation": "Na ambaye atanifisha, na kisha atanihuisha."
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 82,
+    "global_ayah_id": 3014,
+    "translation": "Na ambaye ndiye ninaye mtumai kunisamehe makosa yangu Siku ya Malipo."
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 83,
+    "global_ayah_id": 3015,
+    "translation": "Mola wangu Mlezi! Nitunukie hukumu na uniunganishe na watendao mema."
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 84,
+    "global_ayah_id": 3016,
+    "translation": "Na unijaalie nitajwe kwa wema na watu watakao kuja baadaye."
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 85,
+    "global_ayah_id": 3017,
+    "translation": "Na unijaalie katika warithi wa Bustani za neema."
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 86,
+    "global_ayah_id": 3018,
+    "translation": "Na umsamehe baba yangu, kwani hakika alikuwa miongoni mwa wapotovu."
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 87,
+    "global_ayah_id": 3019,
+    "translation": "Wala usinihizi Siku watapo fufuliwa."
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 88,
+    "global_ayah_id": 3020,
+    "translation": "Siku ambayo kwamba mali hayato faa kitu wala wana."
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 89,
+    "global_ayah_id": 3021,
+    "translation": "Isipo kuwa mwenye kumjia Mwenyezi Mungu na moyo safi."
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 90,
+    "global_ayah_id": 3022,
+    "translation": "Na Pepo itasogezwa kwa wachamngu."
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 91,
+    "global_ayah_id": 3023,
+    "translation": "Na Jahannamu itadhihirishwa kwa wapotovu."
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 92,
+    "global_ayah_id": 3024,
+    "translation": "Na wataambiwa: Wako wapi mlio kuwa mkiwaabudu"
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 93,
+    "global_ayah_id": 3025,
+    "translation": "Badala ya Mwenyezi Mungu? Je! Wanakusaidieni, au wanajisaidia wenyewe?"
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 94,
+    "global_ayah_id": 3026,
+    "translation": "Basi watavurumizwa humo wao na hao wakosefu,"
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 95,
+    "global_ayah_id": 3027,
+    "translation": "Na majeshi ya Ibilisi yote."
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 96,
+    "global_ayah_id": 3028,
+    "translation": "Watasema, na hali ya kuwa wanazozana humo:"
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 97,
+    "global_ayah_id": 3029,
+    "translation": "Wallahi! Kwa yakini tulikuwa katika upotovu ulio dhaahiri,"
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 98,
+    "global_ayah_id": 3030,
+    "translation": "Tulipo kufanyeni ni sawa na Mola Mlezi wa walimwengu wote."
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 99,
+    "global_ayah_id": 3031,
+    "translation": "Na hawakutupoteza ila wale wakosefu."
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 100,
+    "global_ayah_id": 3032,
+    "translation": "Basi hatuna waombezi."
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 101,
+    "global_ayah_id": 3033,
+    "translation": "Wala rafiki wa dhati."
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 102,
+    "global_ayah_id": 3034,
+    "translation": "Laiti tungeli pata kurejea tena tungeli kuwa katika Waumini."
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 103,
+    "global_ayah_id": 3035,
+    "translation": "Hakika katika haya ipo Ishara, lakini wengi wao hawakuwa wenye kuamini."
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 104,
+    "global_ayah_id": 3036,
+    "translation": "Na hakika Mola wako Mlezi ndiye Mwenye nguvu Mwenye kurehemu."
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 105,
+    "global_ayah_id": 3037,
+    "translation": "Kaumu ya Nuhu waliwakadhibisha Mitume."
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 106,
+    "global_ayah_id": 3038,
+    "translation": "Alipo waambia ndugu yao, Nuhu: Je! Hamchimngu?"
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 107,
+    "global_ayah_id": 3039,
+    "translation": "Hakika mimi kwenu ni Mtume muaminifu."
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 108,
+    "global_ayah_id": 3040,
+    "translation": "Basi Mcheni Mwenyezi Mungu, na nit'iini mimi."
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 109,
+    "global_ayah_id": 3041,
+    "translation": "Na sikutakini juu yake ujira, kwani ujira wangu hauko ila kwa Mola Mlezi wa walimwengu wote."
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 110,
+    "global_ayah_id": 3042,
+    "translation": "Basi Mcheni Mwenyezi Mungu, na nit'iini mimi."
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 111,
+    "global_ayah_id": 3043,
+    "translation": "Wakasema: Je! Tukuamini wewe, hali wanao kufuata ni watu wa chini?"
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 112,
+    "global_ayah_id": 3044,
+    "translation": "Akasema: Nayajuaje waliyo kuwa wakiyafanya?"
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 113,
+    "global_ayah_id": 3045,
+    "translation": "Hisabu yao haiko ila kwa Mola wao Mlezi, laiti mngeli tambua!"
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 114,
+    "global_ayah_id": 3046,
+    "translation": "Wala mimi si wa kuwafukuza Waumini."
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 115,
+    "global_ayah_id": 3047,
+    "translation": "Mimi si cho chote ila ni Mwonyaji wa dhaahiri shaahiri."
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 116,
+    "global_ayah_id": 3048,
+    "translation": "Wakasema: Ikiwa huachi, ewe Nuhu, bila ya shaka utapigwa mawe."
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 117,
+    "global_ayah_id": 3049,
+    "translation": "Akasema: Mola wangu Mlezi! Hakika watu wangu wamenikanusha."
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 118,
+    "global_ayah_id": 3050,
+    "translation": "Basi hukumu baina yangu na wao kwa hukumu yako, na uniokoe mimi na walio pamoja nami, Waumini."
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 119,
+    "global_ayah_id": 3051,
+    "translation": "Kwa hivyo tukamwokoa yeye na walio kuwa pamoja naye katika marikebu iliyo sheheni."
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 120,
+    "global_ayah_id": 3052,
+    "translation": "Kisha tukawazamisha baadaye walio bakia."
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 121,
+    "global_ayah_id": 3053,
+    "translation": "Hakika katika haya ipo Ishara, lakini si wengi wao walio kuwa Waumini."
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 122,
+    "global_ayah_id": 3054,
+    "translation": "Na hakika Mola wako Mlezi ndiye Yeye Mwenye nguvu Mwenye kurehemu."
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 123,
+    "global_ayah_id": 3055,
+    "translation": "Kina A'd waliwakanusha Mitume."
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 124,
+    "global_ayah_id": 3056,
+    "translation": "Alipo waambia ndugu yao, Hud: Je! Hamchimngu?"
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 125,
+    "global_ayah_id": 3057,
+    "translation": "Hakika mimi kwenu ni Mtume muaminifu."
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 126,
+    "global_ayah_id": 3058,
+    "translation": "Basi mcheni Mwenyezi Mungu, na nit'iini mimi."
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 127,
+    "global_ayah_id": 3059,
+    "translation": "Wala sikutakeni juu yake ujira, kwani ujira wangu hauko ila kwa Mola Mlezi wa walimwengu wote."
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 128,
+    "global_ayah_id": 3060,
+    "translation": "Je! Mnajenga juu ya kila mnyanyuko kumbusho la kufanyia upuuzi?"
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 129,
+    "global_ayah_id": 3061,
+    "translation": "Na mnajenga majengo ya fakhari kama kwamba mtaishi milele!"
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 130,
+    "global_ayah_id": 3062,
+    "translation": "Na mnapo tumia nguvu mnatumia nguvu kwa ujabari."
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 131,
+    "global_ayah_id": 3063,
+    "translation": "Basi mcheni Mwenyezi Mungu, na nit'iini."
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 132,
+    "global_ayah_id": 3064,
+    "translation": "Na mcheni aliye kupeni haya mnayo yajua."
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 133,
+    "global_ayah_id": 3065,
+    "translation": "Amekupeni wanyama wa kufuga na wana."
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 134,
+    "global_ayah_id": 3066,
+    "translation": "Na mabustani na chemchem."
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 135,
+    "global_ayah_id": 3067,
+    "translation": "Hakika mimi ninakukhofieni adhabu ya Siku Kubwa."
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 136,
+    "global_ayah_id": 3068,
+    "translation": "Wakasema: Ni mamoja kwetu, ukitupa mawaidha au hukuwa miongoni mwa watoao mawaidha."
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 137,
+    "global_ayah_id": 3069,
+    "translation": "Haya si chochote ila ni mtindo wa watu wa tokea zamani."
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 138,
+    "global_ayah_id": 3070,
+    "translation": "Wala sisi hatutaadhibiwa."
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 139,
+    "global_ayah_id": 3071,
+    "translation": "Wakamkanusha; nasi tukawaangamiza. Hakika bila ya shaka katika haya ipo Ishara. Lakini hawakuwa wengi wao wenye kuamini."
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 140,
+    "global_ayah_id": 3072,
+    "translation": "Na hakika Mola wako Mlezi ndiye Mwenye nguvu Mwenye kurehemu."
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 141,
+    "global_ayah_id": 3073,
+    "translation": "Kina Thamud waliwakanusha Mitume."
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 142,
+    "global_ayah_id": 3074,
+    "translation": "Alipo waambia ndugu yao Saleh: Je! Hamumchimngu?"
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 143,
+    "global_ayah_id": 3075,
+    "translation": "Hakika mimi kwenu ni Mtume muaminifu."
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 144,
+    "global_ayah_id": 3076,
+    "translation": "Basi mcheni Mwenyezi Mungu, na nit'iini."
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 145,
+    "global_ayah_id": 3077,
+    "translation": "Wala sikutakini ujira juu yake. Ujira wangu hauko ila kwa Mola Mlezi wa walimwengu wote."
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 146,
+    "global_ayah_id": 3078,
+    "translation": "Je! Mtaachwa salama usalimina katika haya yaliyopo hapa?"
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 147,
+    "global_ayah_id": 3079,
+    "translation": "Katika mabustani, na chemchem?"
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 148,
+    "global_ayah_id": 3080,
+    "translation": "Na konde na mitende yenye makole yaliyo wiva."
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 149,
+    "global_ayah_id": 3081,
+    "translation": "Na mnachonga milimani majumba kwa ustadi."
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 150,
+    "global_ayah_id": 3082,
+    "translation": "Basi mcheni Mwenyezi Mungu, na nit'iini mimi."
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 151,
+    "global_ayah_id": 3083,
+    "translation": "Wala msit'ii amri za walio pindukia mipaka,"
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 152,
+    "global_ayah_id": 3084,
+    "translation": "Ambao wanafanya ufisadi katika nchi, wala hawatengenezi."
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 153,
+    "global_ayah_id": 3085,
+    "translation": "Wakasema: Hakika wewe ni miongoni mwa walio rogwa."
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 154,
+    "global_ayah_id": 3086,
+    "translation": "Wewe si chochote ila ni mtu kama sisi. Basi lete Ishara ukiwa wewe ni miongoni mwa wasemao kweli."
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 155,
+    "global_ayah_id": 3087,
+    "translation": "Akasema: Huyu ngamia jike; awe na zamu yake ya kunywa, na nyinyi muwe na zamu yenu ya kunywa katika siku maalumu."
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 156,
+    "global_ayah_id": 3088,
+    "translation": "Wala msimguse kwa uwovu, isije ikakushikeni adhabu ya Siku Kubwa."
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 157,
+    "global_ayah_id": 3089,
+    "translation": "Lakini wakamuuwa, na wakawa wenye kujuta."
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 158,
+    "global_ayah_id": 3090,
+    "translation": "Basi ikawapata adhabu. Hakika katika hayo ipo Ishara. Lakini hawakuwa wengi wao wenye kuamini."
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 159,
+    "global_ayah_id": 3091,
+    "translation": "Na hakika Mola wako Mlezi ndiye Mwenye nguvu Mwenye kurehemu."
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 160,
+    "global_ayah_id": 3092,
+    "translation": "Watu wa Lut'i waliwakanusha Mitume."
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 161,
+    "global_ayah_id": 3093,
+    "translation": "Alipo waambia ndugu yao, Lut'i: Je! Hamumchimngu?"
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 162,
+    "global_ayah_id": 3094,
+    "translation": "Hakika mimi kwenu ni Mtume muaminifu kwenu."
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 163,
+    "global_ayah_id": 3095,
+    "translation": "Basi mcheni Mwenyezi Mungu na nit'iini mimi."
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 164,
+    "global_ayah_id": 3096,
+    "translation": "Wala mimi sikutakini ujira juu yake; ujira wangu hauko ila kwa Mola Mlezi wa walimwengu wote."
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 165,
+    "global_ayah_id": 3097,
+    "translation": "Je! Katika viumbe vyote mnawaingilia wanaume?"
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 166,
+    "global_ayah_id": 3098,
+    "translation": "Na mnaacha alicho kuumbieni Mola wenu Mlezi katika wake zenu? Ama kweli nyinyi ni watu mnao ruka mipaka!"
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 167,
+    "global_ayah_id": 3099,
+    "translation": "Wakasema: Ewe Lut'i! Usipo acha, hapana shaka utakuwa miongoni mwa wanao tolewa mji!"
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 168,
+    "global_ayah_id": 3100,
+    "translation": "Akasema: Hakika mimi ni katika wanao kichukia hichi kitendo chenu."
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 169,
+    "global_ayah_id": 3101,
+    "translation": "Mola wangu Mlezi! Niokoe mimi na ahali zangu na haya wayatendayo."
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 170,
+    "global_ayah_id": 3102,
+    "translation": "Basi tukamwokoa yeye na ahali zake wote,"
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 171,
+    "global_ayah_id": 3103,
+    "translation": "Isipo kuwa kikongwe katika walio kaa nyuma."
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 172,
+    "global_ayah_id": 3104,
+    "translation": "Kisha tukawaangamiza wale wengine."
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 173,
+    "global_ayah_id": 3105,
+    "translation": "Na tukawanyeshea mvua, basi ni ovu mno mvua ya waliyo onywa."
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 174,
+    "global_ayah_id": 3106,
+    "translation": "Hakika katika hayo ipo Ishara. Na hawakuwa wengi wao wenye kuamini."
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 175,
+    "global_ayah_id": 3107,
+    "translation": "Na hakika Mola wako Mlezi bila ya shaka ndiye Mwenye nguvu, Mwenye kurehemu."
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 176,
+    "global_ayah_id": 3108,
+    "translation": "Watu wa Machakani waliwakanusha Mitume."
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 177,
+    "global_ayah_id": 3109,
+    "translation": "Shuaibu alipo waambia: Je! Hamfanyi mkamchamngu?"
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 178,
+    "global_ayah_id": 3110,
+    "translation": "Hakika mimi kwenu ni Mtume muaminifu."
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 179,
+    "global_ayah_id": 3111,
+    "translation": "Basi mcheni Mwenyezi Mungu, na nit'iini mimi."
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 180,
+    "global_ayah_id": 3112,
+    "translation": "Wala sikutakini ujira juu yake. Ujira wangu hauko ila kwa Mola Mlezi wa walimwengu wote."
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 181,
+    "global_ayah_id": 3113,
+    "translation": "Timizeni kipimo sawa sawa, wala msiwe katika wanao punja."
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 182,
+    "global_ayah_id": 3114,
+    "translation": "Na pimeni kwa haki iliyo nyooka;"
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 183,
+    "global_ayah_id": 3115,
+    "translation": "Wala msiwapunje watu vitu vyao, wala msifanye jeuri kwa ufisadi."
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 184,
+    "global_ayah_id": 3116,
+    "translation": "Na mcheni aliye kuumbeni nyinyi na vizazi vilivyo tangulia."
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 185,
+    "global_ayah_id": 3117,
+    "translation": "Wakasema: Hakika wewe ni katika walio rogwa."
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 186,
+    "global_ayah_id": 3118,
+    "translation": "Na wewe si chochote ila ni mtu tu kama sisi, na kwa yakini tunakuona wewe ni katika waongo."
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 187,
+    "global_ayah_id": 3119,
+    "translation": "Hebu tuangushie vipande kutoka mbinguni ikiwa wewe ni miongoni mwa wasemao kweli."
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 188,
+    "global_ayah_id": 3120,
+    "translation": "Akasema: Mola wangu Mlezi anajua zaidi mnayo yatenda."
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 189,
+    "global_ayah_id": 3121,
+    "translation": "Basi walimkanusha, na ikawashika adhabu ya siku ya kivuli. Hakika hiyo ilikuwa adhabu ya siku kubwa."
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 190,
+    "global_ayah_id": 3122,
+    "translation": "Hakika katika hayo ipo Ishara, lakini hawakuwa wengi wao wenye kuamini."
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 191,
+    "global_ayah_id": 3123,
+    "translation": "Na hakika Mola wako Mlezi bila ya shaka ndiye Yeye Mwenye nguvu Mwenye kurehemu."
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 192,
+    "global_ayah_id": 3124,
+    "translation": "Na bila ya shaka hii ni Uteremsho wa Mola Mlezi wa walimwengu wote."
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 193,
+    "global_ayah_id": 3125,
+    "translation": "Ameuteremsha Roho muaminifu,"
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 194,
+    "global_ayah_id": 3126,
+    "translation": "Juu ya moyo wako, ili uwe katika Waonyaji,"
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 195,
+    "global_ayah_id": 3127,
+    "translation": "Kwa ulimi wa Kiarabu ulio wazi."
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 196,
+    "global_ayah_id": 3128,
+    "translation": "Na hakika bila ya shaka haya yamo katika Vitabu vya kale."
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 197,
+    "global_ayah_id": 3129,
+    "translation": "Je! Haikuwa kwao ni Ishara kwamba wanayajua haya wanazuoni wa Wana wa Israili?"
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 198,
+    "global_ayah_id": 3130,
+    "translation": "Na lau kuwa tungeli iteremsha juu ya mmoja wa wasio kuwa Waarabu,"
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 199,
+    "global_ayah_id": 3131,
+    "translation": "Na akawasomea, wasingeli kuwa wenye kuamini."
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 200,
+    "global_ayah_id": 3132,
+    "translation": "Namna hivi tunaingiza katika nyoyo za wakosefu."
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 201,
+    "global_ayah_id": 3133,
+    "translation": "Hawataiamini mpaka waione adhabu chungu."
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 202,
+    "global_ayah_id": 3134,
+    "translation": "Basi itawafikia kwa ghafla, na hali hawana khabari."
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 203,
+    "global_ayah_id": 3135,
+    "translation": "Na watasema: Je, tutapewa muhula?"
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 204,
+    "global_ayah_id": 3136,
+    "translation": "Basi, je, wanaihimiza adhabu yetu?"
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 205,
+    "global_ayah_id": 3137,
+    "translation": "Waonaje kama tukiwastarehesha kwa miaka,"
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 206,
+    "global_ayah_id": 3138,
+    "translation": "Kisha yakawafikia waliyo kuwa wakiahidiwa,"
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 207,
+    "global_ayah_id": 3139,
+    "translation": "Yatawafaa nini yale waliyo stareheshewa?"
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 208,
+    "global_ayah_id": 3140,
+    "translation": "Wala hatukuangamiza mji wo wote ila ulikuwa na waonyaji -"
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 209,
+    "global_ayah_id": 3141,
+    "translation": "Kuwa ni ukumbusho. Wala Sisi hatukuwa wenye kudhulumu."
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 210,
+    "global_ayah_id": 3142,
+    "translation": "Wala Mashet'ani hawakuteremka nayo,"
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 211,
+    "global_ayah_id": 3143,
+    "translation": "Wala haitakiwi kwao, na wala hawawezi."
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 212,
+    "global_ayah_id": 3144,
+    "translation": "Hakika hao wametengwa na kusikia."
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 213,
+    "global_ayah_id": 3145,
+    "translation": "Basi usimwombe mungu mwingine pamoja na Mwenyezi Mungu ukawa miongoni mwa watakao adhibiwa."
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 214,
+    "global_ayah_id": 3146,
+    "translation": "Na uwaonye jamaa zako walio karibu nawe."
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 215,
+    "global_ayah_id": 3147,
+    "translation": "Na watwae kwa upole wanao kufuata miongoni mwa Waumini."
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 216,
+    "global_ayah_id": 3148,
+    "translation": "Na ikiwa watakuasi basi sema: Mimi najitenga mbali na hayo mnayo yatenda."
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 217,
+    "global_ayah_id": 3149,
+    "translation": "Na umtegemee Mtukufu Mwenye nguvu Mwenye kurehemu."
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 218,
+    "global_ayah_id": 3150,
+    "translation": "Ambaye anakuona unapo simama,"
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 219,
+    "global_ayah_id": 3151,
+    "translation": "Na mageuko yako kati ya wanao sujudu."
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 220,
+    "global_ayah_id": 3152,
+    "translation": "Hakika Yeye ndiye Mwenye kusikia Mwenye kujua."
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 221,
+    "global_ayah_id": 3153,
+    "translation": "Je! Nikwambieni nani wanawashukia Mashet'ani?"
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 222,
+    "global_ayah_id": 3154,
+    "translation": "Wanamshukia kila mzushi mkubwa mwingi wa dhambi."
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 223,
+    "global_ayah_id": 3155,
+    "translation": "Wanawapelekea yale wanayo yasikia; na wengi wao ni waongo."
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 224,
+    "global_ayah_id": 3156,
+    "translation": "Na watungaji mashairi ni wapotofu ndio wanawafuata."
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 225,
+    "global_ayah_id": 3157,
+    "translation": "Je! Huwaoni kwamba wao wanatangatanga katika kila bonde?"
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 226,
+    "global_ayah_id": 3158,
+    "translation": "Na kwamba wao husema wasiyo yatenda?"
+  },
+  {
+    "surah_id": 26,
+    "ayah_number": 227,
+    "global_ayah_id": 3159,
+    "translation": "Isipo kuwa wale walio amini, na wakatenda mema, na wakamkumbuka Mwenyezi Mungu kwa wingi, na wakajitetea wanapo dhulumiwa. Na wanao dhulumu watakuja jua mgeuko gani watakao geuka."
+  }
+]
