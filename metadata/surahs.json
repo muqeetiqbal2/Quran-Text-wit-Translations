@@ -1,0 +1,1848 @@
+[
+  {
+    "surah_id": 1,
+    "name_arabic": "الفاتحة",
+    "name_urdu": "سورۃالفاتحہ",
+    "name_english": "Al-Fatihah",
+    "english_meaning": "The Opening",
+    "revelation_type": "Meccan",
+    "revelation_order": 5,
+    "total_verses": 7,
+    "total_rukus": 1,
+    "start_page_15_line": 2,
+    "start_page_16_line": "2",
+    "juz_numbers": [
+      1
+    ]
+  },
+  {
+    "surah_id": 2,
+    "name_arabic": "البقرة",
+    "name_urdu": "سورۃ البقرہ",
+    "name_english": "Al-Baqarah",
+    "english_meaning": "The Cow",
+    "revelation_type": "Medinan",
+    "revelation_order": 87,
+    "total_verses": 286,
+    "total_rukus": 40,
+    "start_page_15_line": 3,
+    "start_page_16_line": "2",
+    "juz_numbers": [
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "surah_id": 3,
+    "name_arabic": "آل عمران",
+    "name_urdu": "سورۃ آل عمران",
+    "name_english": "Ali 'Imran",
+    "english_meaning": "Family of Imran",
+    "revelation_type": "Medinan",
+    "revelation_order": 89,
+    "total_verses": 200,
+    "total_rukus": 20,
+    "start_page_15_line": 51,
+    "start_page_16_line": "46",
+    "juz_numbers": [
+      3,
+      4
+    ]
+  },
+  {
+    "surah_id": 4,
+    "name_arabic": "النساء",
+    "name_urdu": "سورۃ النساء",
+    "name_english": "An-Nisa",
+    "english_meaning": "The Women",
+    "revelation_type": "Medinan",
+    "revelation_order": 92,
+    "total_verses": 176,
+    "total_rukus": 24,
+    "start_page_15_line": 78,
+    "start_page_16_line": "71",
+    "juz_numbers": [
+      4,
+      5,
+      6
+    ]
+  },
+  {
+    "surah_id": 5,
+    "name_arabic": "المائدة",
+    "name_urdu": "سورۃ المائدہ",
+    "name_english": "Al-Ma'idah",
+    "english_meaning": "The Table Spread",
+    "revelation_type": "Medinan",
+    "revelation_order": 112,
+    "total_verses": 120,
+    "total_rukus": 16,
+    "start_page_15_line": 107,
+    "start_page_16_line": "97",
+    "juz_numbers": [
+      6,
+      7
+    ]
+  },
+  {
+    "surah_id": 6,
+    "name_arabic": "الأنعام",
+    "name_urdu": "سورۃ الانعام",
+    "name_english": "Al-An'am",
+    "english_meaning": "The Cattle",
+    "revelation_type": "Meccan",
+    "revelation_order": 55,
+    "total_verses": 165,
+    "total_rukus": 20,
+    "start_page_15_line": 129,
+    "start_page_16_line": "116",
+    "juz_numbers": [
+      7,
+      8
+    ]
+  },
+  {
+    "surah_id": 7,
+    "name_arabic": "الأعراف",
+    "name_urdu": "سورۃ الاعراف",
+    "name_english": "Al-A'raf",
+    "english_meaning": "The Heights",
+    "revelation_type": "Meccan",
+    "revelation_order": 39,
+    "total_verses": 206,
+    "total_rukus": 24,
+    "start_page_15_line": 152,
+    "start_page_16_line": "137",
+    "juz_numbers": [
+      8,
+      9
+    ]
+  },
+  {
+    "surah_id": 8,
+    "name_arabic": "الأنفال",
+    "name_urdu": "سورۃ الانفال",
+    "name_english": "Al-Anfal",
+    "english_meaning": "The Spoils of War",
+    "revelation_type": "Medinan",
+    "revelation_order": 88,
+    "total_verses": 75,
+    "total_rukus": 10,
+    "start_page_15_line": 178,
+    "start_page_16_line": "160",
+    "juz_numbers": [
+      9,
+      10
+    ]
+  },
+  {
+    "surah_id": 9,
+    "name_arabic": "التوبة",
+    "name_urdu": "سورۃ التوبہ",
+    "name_english": "At-Tawbah",
+    "english_meaning": "The Repentance",
+    "revelation_type": "Medinan",
+    "revelation_order": 113,
+    "total_verses": 129,
+    "total_rukus": 16,
+    "start_page_15_line": 188,
+    "start_page_16_line": "169",
+    "juz_numbers": [
+      10,
+      11
+    ]
+  },
+  {
+    "surah_id": 10,
+    "name_arabic": "يونس",
+    "name_urdu": "سورۃیونس",
+    "name_english": "Yunus",
+    "english_meaning": "Jonah",
+    "revelation_type": "Meccan",
+    "revelation_order": 51,
+    "total_verses": 109,
+    "total_rukus": 11,
+    "start_page_15_line": 209,
+    "start_page_16_line": "188",
+    "juz_numbers": [
+      11
+    ]
+  },
+  {
+    "surah_id": 11,
+    "name_arabic": "هود",
+    "name_urdu": "سورۃ ھود",
+    "name_english": "Hud",
+    "english_meaning": "Hud",
+    "revelation_type": "Meccan",
+    "revelation_order": 52,
+    "total_verses": 123,
+    "total_rukus": 10,
+    "start_page_15_line": 222,
+    "start_page_16_line": "200",
+    "juz_numbers": [
+      11,
+      12
+    ]
+  },
+  {
+    "surah_id": 12,
+    "name_arabic": "يوسف",
+    "name_urdu": "سورۃ یوسف",
+    "name_english": "Yusuf",
+    "english_meaning": "Joseph",
+    "revelation_type": "Meccan",
+    "revelation_order": 53,
+    "total_verses": 111,
+    "total_rukus": 12,
+    "start_page_15_line": 236,
+    "start_page_16_line": "213",
+    "juz_numbers": [
+      12,
+      13
+    ]
+  },
+  {
+    "surah_id": 13,
+    "name_arabic": "الرعد",
+    "name_urdu": "سورۃ الرعد",
+    "name_english": "Ar-Ra'd",
+    "english_meaning": "The Thunder",
+    "revelation_type": "Medinan",
+    "revelation_order": 96,
+    "total_verses": 43,
+    "total_rukus": 6,
+    "start_page_15_line": 250,
+    "start_page_16_line": "225",
+    "juz_numbers": [
+      13
+    ]
+  },
+  {
+    "surah_id": 14,
+    "name_arabic": "إبراهيم",
+    "name_urdu": "سورۃ ابراہیم",
+    "name_english": "Ibrahim",
+    "english_meaning": "Abraham",
+    "revelation_type": "Meccan",
+    "revelation_order": 72,
+    "total_verses": 52,
+    "total_rukus": 7,
+    "start_page_15_line": 256,
+    "start_page_16_line": "231",
+    "juz_numbers": [
+      13
+    ]
+  },
+  {
+    "surah_id": 15,
+    "name_arabic": "الحجر",
+    "name_urdu": "سورۃ الحجر",
+    "name_english": "Al-Hijr",
+    "english_meaning": "The Rocky Tract",
+    "revelation_type": "Meccan",
+    "revelation_order": 54,
+    "total_verses": 99,
+    "total_rukus": 6,
+    "start_page_15_line": 262,
+    "start_page_16_line": "236",
+    "juz_numbers": [
+      13,
+      14
+    ]
+  },
+  {
+    "surah_id": 16,
+    "name_arabic": "النحل",
+    "name_urdu": "سورۃ النحل",
+    "name_english": "An-Nahl",
+    "english_meaning": "The Bee",
+    "revelation_type": "Meccan",
+    "revelation_order": 70,
+    "total_verses": 128,
+    "total_rukus": 16,
+    "start_page_15_line": 269,
+    "start_page_16_line": "241",
+    "juz_numbers": [
+      14
+    ]
+  },
+  {
+    "surah_id": 17,
+    "name_arabic": "الإسراء",
+    "name_urdu": "سورۃ الاسراء",
+    "name_english": "Al-Isra",
+    "english_meaning": "The Night Journey",
+    "revelation_type": "Meccan",
+    "revelation_order": 50,
+    "total_verses": 111,
+    "total_rukus": 12,
+    "start_page_15_line": 283,
+    "start_page_16_line": "255",
+    "juz_numbers": [
+      15
+    ]
+  },
+  {
+    "surah_id": 18,
+    "name_arabic": "الكهف",
+    "name_urdu": "سورۃ الکہف",
+    "name_english": "Al-Kahf",
+    "english_meaning": "The Cave",
+    "revelation_type": "Meccan",
+    "revelation_order": 69,
+    "total_verses": 110,
+    "total_rukus": 12,
+    "start_page_15_line": 294,
+    "start_page_16_line": "265",
+    "juz_numbers": [
+      15,
+      16
+    ]
+  },
+  {
+    "surah_id": 19,
+    "name_arabic": "مريم",
+    "name_urdu": "سورۃ مریم",
+    "name_english": "Maryam",
+    "english_meaning": "Mary",
+    "revelation_type": "Meccan",
+    "revelation_order": 44,
+    "total_verses": 98,
+    "total_rukus": 6,
+    "start_page_15_line": 306,
+    "start_page_16_line": "276",
+    "juz_numbers": [
+      16
+    ]
+  },
+  {
+    "surah_id": 20,
+    "name_arabic": "طه",
+    "name_urdu": "سورۃطٰہٰ",
+    "name_english": "Taha",
+    "english_meaning": "Ta-Ha",
+    "revelation_type": "Meccan",
+    "revelation_order": 45,
+    "total_verses": 135,
+    "total_rukus": 8,
+    "start_page_15_line": 313,
+    "start_page_16_line": "282",
+    "juz_numbers": [
+      16
+    ]
+  },
+  {
+    "surah_id": 21,
+    "name_arabic": "الأنبياء",
+    "name_urdu": "سورۃ الانبیاء",
+    "name_english": "Al-Anbiya",
+    "english_meaning": "The Prophets",
+    "revelation_type": "Meccan",
+    "revelation_order": 73,
+    "total_verses": 112,
+    "total_rukus": 7,
+    "start_page_15_line": 323,
+    "start_page_16_line": "291",
+    "juz_numbers": [
+      17
+    ]
+  },
+  {
+    "surah_id": 22,
+    "name_arabic": "الحج",
+    "name_urdu": "سورۃ الحج",
+    "name_english": "Al-Hajj",
+    "english_meaning": "The Pilgrimage",
+    "revelation_type": "Medinan",
+    "revelation_order": 103,
+    "total_verses": 78,
+    "total_rukus": 10,
+    "start_page_15_line": 332,
+    "start_page_16_line": "300",
+    "juz_numbers": [
+      17
+    ]
+  },
+  {
+    "surah_id": 23,
+    "name_arabic": "المؤمنون",
+    "name_urdu": "سورۃ المؤمنون",
+    "name_english": "Al-Mu'minun",
+    "english_meaning": "The Believers",
+    "revelation_type": "Meccan",
+    "revelation_order": 74,
+    "total_verses": 118,
+    "total_rukus": 6,
+    "start_page_15_line": 343,
+    "start_page_16_line": "309",
+    "juz_numbers": [
+      18
+    ]
+  },
+  {
+    "surah_id": 24,
+    "name_arabic": "النور",
+    "name_urdu": "سورۃ النور",
+    "name_english": "An-Nur",
+    "english_meaning": "The Light",
+    "revelation_type": "Medinan",
+    "revelation_order": 102,
+    "total_verses": 64,
+    "total_rukus": 9,
+    "start_page_15_line": 351,
+    "start_page_16_line": "316",
+    "juz_numbers": [
+      18
+    ]
+  },
+  {
+    "surah_id": 25,
+    "name_arabic": "الفرقان",
+    "name_urdu": "سورۃ الفرقان",
+    "name_english": "Al-Furqan",
+    "english_meaning": "The Criterion",
+    "revelation_type": "Meccan",
+    "revelation_order": 42,
+    "total_verses": 77,
+    "total_rukus": 6,
+    "start_page_15_line": 360,
+    "start_page_16_line": "325",
+    "juz_numbers": [
+      18,
+      19
+    ]
+  },
+  {
+    "surah_id": 26,
+    "name_arabic": "الشعراء",
+    "name_urdu": "سورۃ الشعراء",
+    "name_english": "Ash-Shu'ara",
+    "english_meaning": "The Poets",
+    "revelation_type": "Meccan",
+    "revelation_order": 47,
+    "total_verses": 227,
+    "total_rukus": 11,
+    "start_page_15_line": 367,
+    "start_page_16_line": "331",
+    "juz_numbers": [
+      19
+    ]
+  },
+  {
+    "surah_id": 27,
+    "name_arabic": "النمل",
+    "name_urdu": "سورۃ النمل",
+    "name_english": "An-Naml",
+    "english_meaning": "The Ant",
+    "revelation_type": "Meccan",
+    "revelation_order": 48,
+    "total_verses": 93,
+    "total_rukus": 7,
+    "start_page_15_line": 377,
+    "start_page_16_line": "340",
+    "juz_numbers": [
+      19,
+      20
+    ]
+  },
+  {
+    "surah_id": 28,
+    "name_arabic": "القصص",
+    "name_urdu": "سورۃ القصص",
+    "name_english": "Al-Qasas",
+    "english_meaning": "The Stories",
+    "revelation_type": "Meccan",
+    "revelation_order": 49,
+    "total_verses": 88,
+    "total_rukus": 9,
+    "start_page_15_line": 386,
+    "start_page_16_line": "348",
+    "juz_numbers": [
+      20
+    ]
+  },
+  {
+    "surah_id": 29,
+    "name_arabic": "العنكبوت",
+    "name_urdu": "سورۃ العنکبوت",
+    "name_english": "Al-'Ankabut",
+    "english_meaning": "The Spider",
+    "revelation_type": "Meccan",
+    "revelation_order": 85,
+    "total_verses": 69,
+    "total_rukus": 7,
+    "start_page_15_line": 397,
+    "start_page_16_line": "358",
+    "juz_numbers": [
+      20,
+      21
+    ]
+  },
+  {
+    "surah_id": 30,
+    "name_arabic": "الروم",
+    "name_urdu": "سورۃ الروم",
+    "name_english": "Ar-Rum",
+    "english_meaning": "The Romans",
+    "revelation_type": "Meccan",
+    "revelation_order": 84,
+    "total_verses": 60,
+    "total_rukus": 6,
+    "start_page_15_line": 405,
+    "start_page_16_line": "365",
+    "juz_numbers": [
+      21
+    ]
+  },
+  {
+    "surah_id": 31,
+    "name_arabic": "لقمان",
+    "name_urdu": "سورۃ لقمٰن",
+    "name_english": "Luqman",
+    "english_meaning": "Luqman",
+    "revelation_type": "Meccan",
+    "revelation_order": 57,
+    "total_verses": 34,
+    "total_rukus": 4,
+    "start_page_15_line": 412,
+    "start_page_16_line": "371",
+    "juz_numbers": [
+      21
+    ]
+  },
+  {
+    "surah_id": 32,
+    "name_arabic": "السجدة",
+    "name_urdu": "سورۃ السجدۃ",
+    "name_english": "As-Sajdah",
+    "english_meaning": "The Prostration",
+    "revelation_type": "Meccan",
+    "revelation_order": 75,
+    "total_verses": 30,
+    "total_rukus": 3,
+    "start_page_15_line": 416,
+    "start_page_16_line": "374",
+    "juz_numbers": [
+      21
+    ]
+  },
+  {
+    "surah_id": 33,
+    "name_arabic": "الأحزاب",
+    "name_urdu": "سورۃ الاحزاب",
+    "name_english": "Al-Ahzab",
+    "english_meaning": "The Combined Forces",
+    "revelation_type": "Medinan",
+    "revelation_order": 90,
+    "total_verses": 73,
+    "total_rukus": 9,
+    "start_page_15_line": 419,
+    "start_page_16_line": "377",
+    "juz_numbers": [
+      21,
+      22
+    ]
+  },
+  {
+    "surah_id": 34,
+    "name_arabic": "سبأ",
+    "name_urdu": "سورۃ سبا",
+    "name_english": "Saba",
+    "english_meaning": "Sheba",
+    "revelation_type": "Meccan",
+    "revelation_order": 58,
+    "total_verses": 54,
+    "total_rukus": 6,
+    "start_page_15_line": 429,
+    "start_page_16_line": "386",
+    "juz_numbers": [
+      22
+    ]
+  },
+  {
+    "surah_id": 35,
+    "name_arabic": "فاطر",
+    "name_urdu": "سورۃ فاطر",
+    "name_english": "Fatir",
+    "english_meaning": "Originator",
+    "revelation_type": "Meccan",
+    "revelation_order": 43,
+    "total_verses": 45,
+    "total_rukus": 5,
+    "start_page_15_line": 435,
+    "start_page_16_line": "392",
+    "juz_numbers": [
+      22
+    ]
+  },
+  {
+    "surah_id": 36,
+    "name_arabic": "يس",
+    "name_urdu": "سورۃیٰس",
+    "name_english": "Ya-Sin",
+    "english_meaning": "Ya-Sin",
+    "revelation_type": "Meccan",
+    "revelation_order": 41,
+    "total_verses": 83,
+    "total_rukus": 5,
+    "start_page_15_line": 441,
+    "start_page_16_line": "397",
+    "juz_numbers": [
+      22,
+      23
+    ]
+  },
+  {
+    "surah_id": 37,
+    "name_arabic": "الصافات",
+    "name_urdu": "سورۃ الصّفّٰت",
+    "name_english": "As-Saffat",
+    "english_meaning": "Those who set the Ranks",
+    "revelation_type": "Meccan",
+    "revelation_order": 56,
+    "total_verses": 182,
+    "total_rukus": 5,
+    "start_page_15_line": 446,
+    "start_page_16_line": "402",
+    "juz_numbers": [
+      23
+    ]
+  },
+  {
+    "surah_id": 38,
+    "name_arabic": "ص",
+    "name_urdu": "سورۃ صٓ",
+    "name_english": "Sad",
+    "english_meaning": "The Letter 'Saad'",
+    "revelation_type": "Meccan",
+    "revelation_order": 38,
+    "total_verses": 88,
+    "total_rukus": 5,
+    "start_page_15_line": 453,
+    "start_page_16_line": "409",
+    "juz_numbers": [
+      23
+    ]
+  },
+  {
+    "surah_id": 39,
+    "name_arabic": "الزمر",
+    "name_urdu": "سورۃ الزمر",
+    "name_english": "Az-Zumar",
+    "english_meaning": "The Troops",
+    "revelation_type": "Meccan",
+    "revelation_order": 59,
+    "total_verses": 75,
+    "total_rukus": 8,
+    "start_page_15_line": 459,
+    "start_page_16_line": "413",
+    "juz_numbers": [
+      23,
+      24
+    ]
+  },
+  {
+    "surah_id": 40,
+    "name_arabic": "غافر",
+    "name_urdu": "سورۃ المؤمن",
+    "name_english": "Ghafir",
+    "english_meaning": "The Forgiver",
+    "revelation_type": "Meccan",
+    "revelation_order": 60,
+    "total_verses": 85,
+    "total_rukus": 9,
+    "start_page_15_line": 468,
+    "start_page_16_line": "421",
+    "juz_numbers": [
+      24
+    ]
+  },
+  {
+    "surah_id": 41,
+    "name_arabic": "فصلت",
+    "name_urdu": "سورۃ فصّلت",
+    "name_english": "Fussilat",
+    "english_meaning": "Explained in Detail",
+    "revelation_type": "Meccan",
+    "revelation_order": 61,
+    "total_verses": 54,
+    "total_rukus": 6,
+    "start_page_15_line": 478,
+    "start_page_16_line": "430",
+    "juz_numbers": [
+      24,
+      25
+    ]
+  },
+  {
+    "surah_id": 42,
+    "name_arabic": "الشورى",
+    "name_urdu": "سورۃ الشوریٰ",
+    "name_english": "Ash-Shuraa",
+    "english_meaning": "The Consultation",
+    "revelation_type": "Meccan",
+    "revelation_order": 62,
+    "total_verses": 53,
+    "total_rukus": 5,
+    "start_page_15_line": 484,
+    "start_page_16_line": "435",
+    "juz_numbers": [
+      25
+    ]
+  },
+  {
+    "surah_id": 43,
+    "name_arabic": "الزخرف",
+    "name_urdu": "سورۃ الزخرف",
+    "name_english": "Az-Zukhruf",
+    "english_meaning": "The Ornaments of Gold",
+    "revelation_type": "Meccan",
+    "revelation_order": 63,
+    "total_verses": 89,
+    "total_rukus": 7,
+    "start_page_15_line": 490,
+    "start_page_16_line": "441",
+    "juz_numbers": [
+      25
+    ]
+  },
+  {
+    "surah_id": 44,
+    "name_arabic": "الدخان",
+    "name_urdu": "سورۃ الدخان",
+    "name_english": "Ad-Dukhan",
+    "english_meaning": "The Smoke",
+    "revelation_type": "Meccan",
+    "revelation_order": 64,
+    "total_verses": 59,
+    "total_rukus": 3,
+    "start_page_15_line": 496,
+    "start_page_16_line": "447",
+    "juz_numbers": [
+      25
+    ]
+  },
+  {
+    "surah_id": 45,
+    "name_arabic": "الجاثية",
+    "name_urdu": "سورۃ الجاثیہ",
+    "name_english": "Al-Jathiyah",
+    "english_meaning": "The Crouching",
+    "revelation_type": "Meccan",
+    "revelation_order": 65,
+    "total_verses": 37,
+    "total_rukus": 4,
+    "start_page_15_line": 499,
+    "start_page_16_line": "449",
+    "juz_numbers": [
+      25
+    ]
+  },
+  {
+    "surah_id": 46,
+    "name_arabic": "الأحقاف",
+    "name_urdu": "سورۃ الاحقاف",
+    "name_english": "Al-Ahqaf",
+    "english_meaning": "The Wind-Curved Sandhills",
+    "revelation_type": "Meccan",
+    "revelation_order": 66,
+    "total_verses": 35,
+    "total_rukus": 4,
+    "start_page_15_line": 503,
+    "start_page_16_line": "453",
+    "juz_numbers": [
+      26
+    ]
+  },
+  {
+    "surah_id": 47,
+    "name_arabic": "محمد",
+    "name_urdu": "سورۃ محمد",
+    "name_english": "Muhammad",
+    "english_meaning": "Muhammad",
+    "revelation_type": "Medinan",
+    "revelation_order": 95,
+    "total_verses": 38,
+    "total_rukus": 4,
+    "start_page_15_line": 507,
+    "start_page_16_line": "457",
+    "juz_numbers": [
+      26
+    ]
+  },
+  {
+    "surah_id": 48,
+    "name_arabic": "الفتح",
+    "name_urdu": "سورۃ الفتح",
+    "name_english": "Al-Fath",
+    "english_meaning": "The Victory",
+    "revelation_type": "Medinan",
+    "revelation_order": 111,
+    "total_verses": 29,
+    "total_rukus": 4,
+    "start_page_15_line": 512,
+    "start_page_16_line": "461",
+    "juz_numbers": [
+      26
+    ]
+  },
+  {
+    "surah_id": 49,
+    "name_arabic": "الحجرات",
+    "name_urdu": "سورۃ الحجرات",
+    "name_english": "Al-Hujurat",
+    "english_meaning": "The Rooms",
+    "revelation_type": "Medinan",
+    "revelation_order": 106,
+    "total_verses": 18,
+    "total_rukus": 2,
+    "start_page_15_line": 516,
+    "start_page_16_line": "465",
+    "juz_numbers": [
+      26
+    ]
+  },
+  {
+    "surah_id": 50,
+    "name_arabic": "ق",
+    "name_urdu": "سورۃ ق",
+    "name_english": "Qaf",
+    "english_meaning": "The Letter 'Qaf'",
+    "revelation_type": "Meccan",
+    "revelation_order": 34,
+    "total_verses": 45,
+    "total_rukus": 3,
+    "start_page_15_line": 519,
+    "start_page_16_line": "467",
+    "juz_numbers": [
+      26
+    ]
+  },
+  {
+    "surah_id": 51,
+    "name_arabic": "الذاريات",
+    "name_urdu": "سورۃ الذاریات",
+    "name_english": "Adh-Dhariyat",
+    "english_meaning": "The Winnowing Winds",
+    "revelation_type": "Meccan",
+    "revelation_order": 67,
+    "total_verses": 60,
+    "total_rukus": 3,
+    "start_page_15_line": 521,
+    "start_page_16_line": "469",
+    "juz_numbers": [
+      26,
+      27
+    ]
+  },
+  {
+    "surah_id": 52,
+    "name_arabic": "الطور",
+    "name_urdu": "سورۃ الطو ر",
+    "name_english": "At-Tur",
+    "english_meaning": "The Mount",
+    "revelation_type": "Meccan",
+    "revelation_order": 76,
+    "total_verses": 49,
+    "total_rukus": 2,
+    "start_page_15_line": 524,
+    "start_page_16_line": "472",
+    "juz_numbers": [
+      27
+    ]
+  },
+  {
+    "surah_id": 53,
+    "name_arabic": "النجم",
+    "name_urdu": "سورۃ النجم",
+    "name_english": "An-Najm",
+    "english_meaning": "The Star",
+    "revelation_type": "Meccan",
+    "revelation_order": 23,
+    "total_verses": 62,
+    "total_rukus": 3,
+    "start_page_15_line": 527,
+    "start_page_16_line": "474",
+    "juz_numbers": [
+      27
+    ]
+  },
+  {
+    "surah_id": 54,
+    "name_arabic": "القمر",
+    "name_urdu": "سورۃ القمر",
+    "name_english": "Al-Qamar",
+    "english_meaning": "The Moon",
+    "revelation_type": "Meccan",
+    "revelation_order": 37,
+    "total_verses": 55,
+    "total_rukus": 3,
+    "start_page_15_line": 529,
+    "start_page_16_line": "476",
+    "juz_numbers": [
+      27
+    ]
+  },
+  {
+    "surah_id": 55,
+    "name_arabic": "الرحمن",
+    "name_urdu": "سورۃ الرحمن",
+    "name_english": "Ar-Rahman",
+    "english_meaning": "The Beneficent",
+    "revelation_type": "Medinan",
+    "revelation_order": 97,
+    "total_verses": 78,
+    "total_rukus": 3,
+    "start_page_15_line": 532,
+    "start_page_16_line": "479",
+    "juz_numbers": [
+      27
+    ]
+  },
+  {
+    "surah_id": 56,
+    "name_arabic": "الواقعة",
+    "name_urdu": "سورۃ الواقعہ",
+    "name_english": "Al-Waqi'ah",
+    "english_meaning": "The Inevitable",
+    "revelation_type": "Meccan",
+    "revelation_order": 46,
+    "total_verses": 96,
+    "total_rukus": 3,
+    "start_page_15_line": 535,
+    "start_page_16_line": "482",
+    "juz_numbers": [
+      27
+    ]
+  },
+  {
+    "surah_id": 57,
+    "name_arabic": "الحديد",
+    "name_urdu": "سورۃ الحدید",
+    "name_english": "Al-Hadid",
+    "english_meaning": "The Iron",
+    "revelation_type": "Medinan",
+    "revelation_order": 94,
+    "total_verses": 29,
+    "total_rukus": 4,
+    "start_page_15_line": 538,
+    "start_page_16_line": "485",
+    "juz_numbers": [
+      27
+    ]
+  },
+  {
+    "surah_id": 58,
+    "name_arabic": "المجادلة",
+    "name_urdu": "سورۃ المجادلہ",
+    "name_english": "Al-Mujadila",
+    "english_meaning": "The Pleading Woman",
+    "revelation_type": "Medinan",
+    "revelation_order": 105,
+    "total_verses": 22,
+    "total_rukus": 3,
+    "start_page_15_line": 543,
+    "start_page_16_line": "489",
+    "juz_numbers": [
+      28
+    ]
+  },
+  {
+    "surah_id": 59,
+    "name_arabic": "الحشر",
+    "name_urdu": "سورۃ الحشر",
+    "name_english": "Al-Hashr",
+    "english_meaning": "The Exile",
+    "revelation_type": "Medinan",
+    "revelation_order": 101,
+    "total_verses": 24,
+    "total_rukus": 3,
+    "start_page_15_line": 546,
+    "start_page_16_line": "492",
+    "juz_numbers": [
+      28
+    ]
+  },
+  {
+    "surah_id": 60,
+    "name_arabic": "الممتحنة",
+    "name_urdu": "سورۃ الممتحنہ",
+    "name_english": "Al-Mumtahanah",
+    "english_meaning": "She that is to be examined",
+    "revelation_type": "Medinan",
+    "revelation_order": 91,
+    "total_verses": 13,
+    "total_rukus": 2,
+    "start_page_15_line": 550,
+    "start_page_16_line": "496",
+    "juz_numbers": [
+      28
+    ]
+  },
+  {
+    "surah_id": 61,
+    "name_arabic": "الصف",
+    "name_urdu": "سورۃ الصف",
+    "name_english": "As-Saf",
+    "english_meaning": "The Ranks",
+    "revelation_type": "Medinan",
+    "revelation_order": 109,
+    "total_verses": 14,
+    "total_rukus": 2,
+    "start_page_15_line": 552,
+    "start_page_16_line": "498",
+    "juz_numbers": [
+      28
+    ]
+  },
+  {
+    "surah_id": 62,
+    "name_arabic": "الجمعة",
+    "name_urdu": "سورۃ الجمعہ",
+    "name_english": "Al-Jumu'ah",
+    "english_meaning": "The Congregation, Friday",
+    "revelation_type": "Medinan",
+    "revelation_order": 110,
+    "total_verses": 11,
+    "total_rukus": 2,
+    "start_page_15_line": 554,
+    "start_page_16_line": "500",
+    "juz_numbers": [
+      28
+    ]
+  },
+  {
+    "surah_id": 63,
+    "name_arabic": "المنافقون",
+    "name_urdu": "سورۃ المنافقون",
+    "name_english": "Al-Munafiqun",
+    "english_meaning": "The Hypocrites",
+    "revelation_type": "Medinan",
+    "revelation_order": 104,
+    "total_verses": 11,
+    "total_rukus": 2,
+    "start_page_15_line": 555,
+    "start_page_16_line": "502",
+    "juz_numbers": [
+      28
+    ]
+  },
+  {
+    "surah_id": 64,
+    "name_arabic": "التغابن",
+    "name_urdu": "سورۃ التغابن",
+    "name_english": "At-Taghabun",
+    "english_meaning": "The Mutual Disillusion",
+    "revelation_type": "Medinan",
+    "revelation_order": 108,
+    "total_verses": 18,
+    "total_rukus": 2,
+    "start_page_15_line": 557,
+    "start_page_16_line": "503",
+    "juz_numbers": [
+      28
+    ]
+  },
+  {
+    "surah_id": 65,
+    "name_arabic": "الطلاق",
+    "name_urdu": "سورۃ الطلاق",
+    "name_english": "At-Talaq",
+    "english_meaning": "The Divorce",
+    "revelation_type": "Medinan",
+    "revelation_order": 99,
+    "total_verses": 12,
+    "total_rukus": 2,
+    "start_page_15_line": 559,
+    "start_page_16_line": "505",
+    "juz_numbers": [
+      28
+    ]
+  },
+  {
+    "surah_id": 66,
+    "name_arabic": "التحريم",
+    "name_urdu": "سورۃ التحریم",
+    "name_english": "At-Tahrim",
+    "english_meaning": "The Prohibition",
+    "revelation_type": "Medinan",
+    "revelation_order": 107,
+    "total_verses": 12,
+    "total_rukus": 2,
+    "start_page_15_line": 561,
+    "start_page_16_line": "507",
+    "juz_numbers": [
+      28
+    ]
+  },
+  {
+    "surah_id": 67,
+    "name_arabic": "الملك",
+    "name_urdu": "سورۃ الملک",
+    "name_english": "Al-Mulk",
+    "english_meaning": "The Sovereignty",
+    "revelation_type": "Meccan",
+    "revelation_order": 77,
+    "total_verses": 30,
+    "total_rukus": 2,
+    "start_page_15_line": 563,
+    "start_page_16_line": "509",
+    "juz_numbers": [
+      29
+    ]
+  },
+  {
+    "surah_id": 68,
+    "name_arabic": "القلم",
+    "name_urdu": "سورۃ القلم",
+    "name_english": "Al-Qalam",
+    "english_meaning": "The Pen",
+    "revelation_type": "Meccan",
+    "revelation_order": 2,
+    "total_verses": 52,
+    "total_rukus": 2,
+    "start_page_15_line": 565,
+    "start_page_16_line": "511",
+    "juz_numbers": [
+      29
+    ]
+  },
+  {
+    "surah_id": 69,
+    "name_arabic": "الحاقة",
+    "name_urdu": "سورۃ الحاقۃ",
+    "name_english": "Al-Haqqah",
+    "english_meaning": "The Reality",
+    "revelation_type": "Meccan",
+    "revelation_order": 78,
+    "total_verses": 52,
+    "total_rukus": 2,
+    "start_page_15_line": 568,
+    "start_page_16_line": "513",
+    "juz_numbers": [
+      29
+    ]
+  },
+  {
+    "surah_id": 70,
+    "name_arabic": "المعارج",
+    "name_urdu": "سورۃ المعارج",
+    "name_english": "Al-Ma'arij",
+    "english_meaning": "The Ascending Stairways",
+    "revelation_type": "Meccan",
+    "revelation_order": 79,
+    "total_verses": 44,
+    "total_rukus": 2,
+    "start_page_15_line": 570,
+    "start_page_16_line": "515",
+    "juz_numbers": [
+      29
+    ]
+  },
+  {
+    "surah_id": 71,
+    "name_arabic": "نوح",
+    "name_urdu": "سورۃ نوح",
+    "name_english": "Nuh",
+    "english_meaning": "Noah",
+    "revelation_type": "Meccan",
+    "revelation_order": 71,
+    "total_verses": 28,
+    "total_rukus": 2,
+    "start_page_15_line": 572,
+    "start_page_16_line": "517",
+    "juz_numbers": [
+      29
+    ]
+  },
+  {
+    "surah_id": 72,
+    "name_arabic": "الجن",
+    "name_urdu": "سورۃ الجن",
+    "name_english": "Al-Jinn",
+    "english_meaning": "The Jinn",
+    "revelation_type": "Meccan",
+    "revelation_order": 40,
+    "total_verses": 28,
+    "total_rukus": 2,
+    "start_page_15_line": 574,
+    "start_page_16_line": "519",
+    "juz_numbers": [
+      29
+    ]
+  },
+  {
+    "surah_id": 73,
+    "name_arabic": "المزمل",
+    "name_urdu": "سورۃ المزمل",
+    "name_english": "Al-Muzzammil",
+    "english_meaning": "The Enshrouded One",
+    "revelation_type": "Meccan",
+    "revelation_order": 3,
+    "total_verses": 20,
+    "total_rukus": 2,
+    "start_page_15_line": 577,
+    "start_page_16_line": "521",
+    "juz_numbers": [
+      29
+    ]
+  },
+  {
+    "surah_id": 74,
+    "name_arabic": "المدثر",
+    "name_urdu": "سورۃ المدثر",
+    "name_english": "Al-Muddaththir",
+    "english_meaning": "The Cloaked One",
+    "revelation_type": "Meccan",
+    "revelation_order": 4,
+    "total_verses": 56,
+    "total_rukus": 2,
+    "start_page_15_line": 579,
+    "start_page_16_line": "522",
+    "juz_numbers": [
+      29
+    ]
+  },
+  {
+    "surah_id": 75,
+    "name_arabic": "القيامة",
+    "name_urdu": "سورۃ القیامہ",
+    "name_english": "Al-Qiyamah",
+    "english_meaning": "The Resurrection",
+    "revelation_type": "Meccan",
+    "revelation_order": 31,
+    "total_verses": 40,
+    "total_rukus": 2,
+    "start_page_15_line": 581,
+    "start_page_16_line": "524",
+    "juz_numbers": [
+      29
+    ]
+  },
+  {
+    "surah_id": 76,
+    "name_arabic": "الإنسان",
+    "name_urdu": "سورۃ الانسان",
+    "name_english": "Al-Insan",
+    "english_meaning": "The Man",
+    "revelation_type": "Medinan",
+    "revelation_order": 98,
+    "total_verses": 31,
+    "total_rukus": 2,
+    "start_page_15_line": 583,
+    "start_page_16_line": "525",
+    "juz_numbers": [
+      29
+    ]
+  },
+  {
+    "surah_id": 77,
+    "name_arabic": "المرسلات",
+    "name_urdu": "سورۃ المرسلات",
+    "name_english": "Al-Mursalat",
+    "english_meaning": "The Emissaries",
+    "revelation_type": "Meccan",
+    "revelation_order": 33,
+    "total_verses": 50,
+    "total_rukus": 2,
+    "start_page_15_line": 585,
+    "start_page_16_line": "527",
+    "juz_numbers": [
+      29
+    ]
+  },
+  {
+    "surah_id": 78,
+    "name_arabic": "النبأ",
+    "name_urdu": "سورۃ النبا",
+    "name_english": "An-Naba",
+    "english_meaning": "The Tidings",
+    "revelation_type": "Meccan",
+    "revelation_order": 80,
+    "total_verses": 40,
+    "total_rukus": 2,
+    "start_page_15_line": 587,
+    "start_page_16_line": "529",
+    "juz_numbers": [
+      30
+    ]
+  },
+  {
+    "surah_id": 79,
+    "name_arabic": "النازعات",
+    "name_urdu": "سورۃ النازعات",
+    "name_english": "An-Nazi'at",
+    "english_meaning": "Those who drag forth",
+    "revelation_type": "Meccan",
+    "revelation_order": 81,
+    "total_verses": 46,
+    "total_rukus": 2,
+    "start_page_15_line": 588,
+    "start_page_16_line": "530",
+    "juz_numbers": [
+      30
+    ]
+  },
+  {
+    "surah_id": 80,
+    "name_arabic": "عبس",
+    "name_urdu": "سورۃ عبس",
+    "name_english": "'Abasa",
+    "english_meaning": "He Frowned",
+    "revelation_type": "Meccan",
+    "revelation_order": 24,
+    "total_verses": 42,
+    "total_rukus": 1,
+    "start_page_15_line": 590,
+    "start_page_16_line": "531",
+    "juz_numbers": [
+      30
+    ]
+  },
+  {
+    "surah_id": 81,
+    "name_arabic": "التكوير",
+    "name_urdu": "سورۃ التکویر",
+    "name_english": "At-Takwir",
+    "english_meaning": "The Overthrowing",
+    "revelation_type": "Meccan",
+    "revelation_order": 7,
+    "total_verses": 29,
+    "total_rukus": 1,
+    "start_page_15_line": 591,
+    "start_page_16_line": "532",
+    "juz_numbers": [
+      30
+    ]
+  },
+  {
+    "surah_id": 82,
+    "name_arabic": "الانفطار",
+    "name_urdu": "سورۃ الانفطار",
+    "name_english": "Al-Infitar",
+    "english_meaning": "The Cleaving",
+    "revelation_type": "Meccan",
+    "revelation_order": 82,
+    "total_verses": 19,
+    "total_rukus": 1,
+    "start_page_15_line": 592,
+    "start_page_16_line": "533",
+    "juz_numbers": [
+      30
+    ]
+  },
+  {
+    "surah_id": 83,
+    "name_arabic": "المطففين",
+    "name_urdu": "سورۃ المطففین",
+    "name_english": "Al-Mutaffifin",
+    "english_meaning": "The Defrauding",
+    "revelation_type": "Meccan",
+    "revelation_order": 86,
+    "total_verses": 36,
+    "total_rukus": 1,
+    "start_page_15_line": 593,
+    "start_page_16_line": "534",
+    "juz_numbers": [
+      30
+    ]
+  },
+  {
+    "surah_id": 84,
+    "name_arabic": "الانشقاق",
+    "name_urdu": "سورۃ الانشقاق",
+    "name_english": "Al-Inshiqaq",
+    "english_meaning": "The Splitting Asunder",
+    "revelation_type": "Meccan",
+    "revelation_order": 83,
+    "total_verses": 25,
+    "total_rukus": 1,
+    "start_page_15_line": 595,
+    "start_page_16_line": "535",
+    "juz_numbers": [
+      30
+    ]
+  },
+  {
+    "surah_id": 85,
+    "name_arabic": "البروج",
+    "name_urdu": "سورۃ البروج",
+    "name_english": "Al-Buruj",
+    "english_meaning": "The Mansions of the Stars",
+    "revelation_type": "Meccan",
+    "revelation_order": 27,
+    "total_verses": 22,
+    "total_rukus": 1,
+    "start_page_15_line": 596,
+    "start_page_16_line": "536",
+    "juz_numbers": [
+      30
+    ]
+  },
+  {
+    "surah_id": 86,
+    "name_arabic": "الطارق",
+    "name_urdu": "سورۃ الطارق",
+    "name_english": "At-Tariq",
+    "english_meaning": "The Morning Star",
+    "revelation_type": "Meccan",
+    "revelation_order": 36,
+    "total_verses": 17,
+    "total_rukus": 1,
+    "start_page_15_line": 597,
+    "start_page_16_line": "537",
+    "juz_numbers": [
+      30
+    ]
+  },
+  {
+    "surah_id": 87,
+    "name_arabic": "الأعلى",
+    "name_urdu": "سورۃ الاعلیٰ",
+    "name_english": "Al-A'la",
+    "english_meaning": "The Most High",
+    "revelation_type": "Meccan",
+    "revelation_order": 8,
+    "total_verses": 19,
+    "total_rukus": 1,
+    "start_page_15_line": 598,
+    "start_page_16_line": "538",
+    "juz_numbers": [
+      30
+    ]
+  },
+  {
+    "surah_id": 88,
+    "name_arabic": "الغاشية",
+    "name_urdu": "سورۃ الغاشیہ",
+    "name_english": "Al-Ghashiyah",
+    "english_meaning": "The Overwhelming",
+    "revelation_type": "Meccan",
+    "revelation_order": 68,
+    "total_verses": 26,
+    "total_rukus": 1,
+    "start_page_15_line": 598,
+    "start_page_16_line": "538",
+    "juz_numbers": [
+      30
+    ]
+  },
+  {
+    "surah_id": 89,
+    "name_arabic": "الفجر",
+    "name_urdu": "سورۃ الفجر",
+    "name_english": "Al-Fajr",
+    "english_meaning": "The Dawn",
+    "revelation_type": "Meccan",
+    "revelation_order": 10,
+    "total_verses": 30,
+    "total_rukus": 1,
+    "start_page_15_line": 599,
+    "start_page_16_line": "539",
+    "juz_numbers": [
+      30
+    ]
+  },
+  {
+    "surah_id": 90,
+    "name_arabic": "البلد",
+    "name_urdu": "سورۃ البلد",
+    "name_english": "Al-Balad",
+    "english_meaning": "The City",
+    "revelation_type": "Meccan",
+    "revelation_order": 35,
+    "total_verses": 20,
+    "total_rukus": 1,
+    "start_page_15_line": 601,
+    "start_page_16_line": "540",
+    "juz_numbers": [
+      30
+    ]
+  },
+  {
+    "surah_id": 91,
+    "name_arabic": "الشمس",
+    "name_urdu": "سورۃ الشمس",
+    "name_english": "Ash-Shams",
+    "english_meaning": "The Sun",
+    "revelation_type": "Meccan",
+    "revelation_order": 26,
+    "total_verses": 15,
+    "total_rukus": 1,
+    "start_page_15_line": 601,
+    "start_page_16_line": "541",
+    "juz_numbers": [
+      30
+    ]
+  },
+  {
+    "surah_id": 92,
+    "name_arabic": "الليل",
+    "name_urdu": "سورۃ اللیل",
+    "name_english": "Al-Layl",
+    "english_meaning": "The Night",
+    "revelation_type": "Meccan",
+    "revelation_order": 9,
+    "total_verses": 21,
+    "total_rukus": 1,
+    "start_page_15_line": 602,
+    "start_page_16_line": "541",
+    "juz_numbers": [
+      30
+    ]
+  },
+  {
+    "surah_id": 93,
+    "name_arabic": "الضحى",
+    "name_urdu": "سورۃ الضحیٰ",
+    "name_english": "Ad-Duhaa",
+    "english_meaning": "The Morning Hours",
+    "revelation_type": "Meccan",
+    "revelation_order": 11,
+    "total_verses": 11,
+    "total_rukus": 1,
+    "start_page_15_line": 603,
+    "start_page_16_line": "542",
+    "juz_numbers": [
+      30
+    ]
+  },
+  {
+    "surah_id": 94,
+    "name_arabic": "الشرح",
+    "name_urdu": "سورۃ الانشراح",
+    "name_english": "Ash-Sharh",
+    "english_meaning": "The Relief",
+    "revelation_type": "Meccan",
+    "revelation_order": 12,
+    "total_verses": 8,
+    "total_rukus": 1,
+    "start_page_15_line": 603,
+    "start_page_16_line": "542",
+    "juz_numbers": [
+      30
+    ]
+  },
+  {
+    "surah_id": 95,
+    "name_arabic": "التين",
+    "name_urdu": "سورۃ التین",
+    "name_english": "At-Tin",
+    "english_meaning": "The Fig",
+    "revelation_type": "Meccan",
+    "revelation_order": 28,
+    "total_verses": 8,
+    "total_rukus": 1,
+    "start_page_15_line": 604,
+    "start_page_16_line": "543",
+    "juz_numbers": [
+      30
+    ]
+  },
+  {
+    "surah_id": 96,
+    "name_arabic": "العلق",
+    "name_urdu": "سورۃ العلق",
+    "name_english": "Al-'Alaq",
+    "english_meaning": "The Clot",
+    "revelation_type": "Meccan",
+    "revelation_order": 1,
+    "total_verses": 19,
+    "total_rukus": 1,
+    "start_page_15_line": 604,
+    "start_page_16_line": "543",
+    "juz_numbers": [
+      30
+    ]
+  },
+  {
+    "surah_id": 97,
+    "name_arabic": "القدر",
+    "name_urdu": "سورۃ القدر",
+    "name_english": "Al-Qadr",
+    "english_meaning": "The Power",
+    "revelation_type": "Meccan",
+    "revelation_order": 25,
+    "total_verses": 5,
+    "total_rukus": 1,
+    "start_page_15_line": 605,
+    "start_page_16_line": "544",
+    "juz_numbers": [
+      30
+    ]
+  },
+  {
+    "surah_id": 98,
+    "name_arabic": "البينة",
+    "name_urdu": "سورۃ البیّنہ",
+    "name_english": "Al-Bayyinah",
+    "english_meaning": "The Clear Proof",
+    "revelation_type": "Medinan",
+    "revelation_order": 100,
+    "total_verses": 8,
+    "total_rukus": 1,
+    "start_page_15_line": 605,
+    "start_page_16_line": "544",
+    "juz_numbers": [
+      30
+    ]
+  },
+  {
+    "surah_id": 99,
+    "name_arabic": "الزلزلة",
+    "name_urdu": "سورۃ الزلزال",
+    "name_english": "Az-Zalzalah",
+    "english_meaning": "The Earthquake",
+    "revelation_type": "Medinan",
+    "revelation_order": 93,
+    "total_verses": 8,
+    "total_rukus": 1,
+    "start_page_15_line": 606,
+    "start_page_16_line": "545",
+    "juz_numbers": [
+      30
+    ]
+  },
+  {
+    "surah_id": 100,
+    "name_arabic": "العاديات",
+    "name_urdu": "سورۃ العادیات",
+    "name_english": "Al-'Adiyat",
+    "english_meaning": "The Courser",
+    "revelation_type": "Meccan",
+    "revelation_order": 14,
+    "total_verses": 11,
+    "total_rukus": 1,
+    "start_page_15_line": 606,
+    "start_page_16_line": "545",
+    "juz_numbers": [
+      30
+    ]
+  },
+  {
+    "surah_id": 101,
+    "name_arabic": "القارعة",
+    "name_urdu": "سورۃ القارعہ",
+    "name_english": "Al-Qari'ah",
+    "english_meaning": "The Calamity",
+    "revelation_type": "Meccan",
+    "revelation_order": 30,
+    "total_verses": 11,
+    "total_rukus": 1,
+    "start_page_15_line": 607,
+    "start_page_16_line": "545",
+    "juz_numbers": [
+      30
+    ]
+  },
+  {
+    "surah_id": 102,
+    "name_arabic": "التكاثر",
+    "name_urdu": "سورۃ التکاثر",
+    "name_english": "At-Takathur",
+    "english_meaning": "The Rivalry in world increase",
+    "revelation_type": "Meccan",
+    "revelation_order": 16,
+    "total_verses": 8,
+    "total_rukus": 1,
+    "start_page_15_line": 607,
+    "start_page_16_line": "546",
+    "juz_numbers": [
+      30
+    ]
+  },
+  {
+    "surah_id": 103,
+    "name_arabic": "العصر",
+    "name_urdu": "سورۃ العصر",
+    "name_english": "Al-'Asr",
+    "english_meaning": "The Declining Day",
+    "revelation_type": "Meccan",
+    "revelation_order": 13,
+    "total_verses": 3,
+    "total_rukus": 1,
+    "start_page_15_line": 608,
+    "start_page_16_line": "546",
+    "juz_numbers": [
+      30
+    ]
+  },
+  {
+    "surah_id": 104,
+    "name_arabic": "الهمزة",
+    "name_urdu": "سورۃ الہمزہ",
+    "name_english": "Al-Humazah",
+    "english_meaning": "The Traducer",
+    "revelation_type": "Meccan",
+    "revelation_order": 32,
+    "total_verses": 9,
+    "total_rukus": 1,
+    "start_page_15_line": 608,
+    "start_page_16_line": "546",
+    "juz_numbers": [
+      30
+    ]
+  },
+  {
+    "surah_id": 105,
+    "name_arabic": "الفيل",
+    "name_urdu": "سورۃ الفیل",
+    "name_english": "Al-Fil",
+    "english_meaning": "The Elephant",
+    "revelation_type": "Meccan",
+    "revelation_order": 19,
+    "total_verses": 5,
+    "total_rukus": 1,
+    "start_page_15_line": 608,
+    "start_page_16_line": "547",
+    "juz_numbers": [
+      30
+    ]
+  },
+  {
+    "surah_id": 106,
+    "name_arabic": "قريش",
+    "name_urdu": "سورۃ القریش",
+    "name_english": "Quraysh",
+    "english_meaning": "Quraysh",
+    "revelation_type": "Meccan",
+    "revelation_order": 29,
+    "total_verses": 4,
+    "total_rukus": 1,
+    "start_page_15_line": 609,
+    "start_page_16_line": "547",
+    "juz_numbers": [
+      30
+    ]
+  },
+  {
+    "surah_id": 107,
+    "name_arabic": "الماعون",
+    "name_urdu": "سورۃ الماعون",
+    "name_english": "Al-Ma'un",
+    "english_meaning": "The Small kindnesses",
+    "revelation_type": "Meccan",
+    "revelation_order": 17,
+    "total_verses": 7,
+    "total_rukus": 1,
+    "start_page_15_line": 609,
+    "start_page_16_line": "547",
+    "juz_numbers": [
+      30
+    ]
+  },
+  {
+    "surah_id": 108,
+    "name_arabic": "الکوثر",
+    "name_urdu": "سورۃ الکوثر",
+    "name_english": "Al-Kawthar",
+    "english_meaning": "The Abundance",
+    "revelation_type": "Meccan",
+    "revelation_order": 15,
+    "total_verses": 3,
+    "total_rukus": 1,
+    "start_page_15_line": 609,
+    "start_page_16_line": "547",
+    "juz_numbers": [
+      30
+    ]
+  },
+  {
+    "surah_id": 109,
+    "name_arabic": "الكافرون",
+    "name_urdu": "سورۃ الکافرون",
+    "name_english": "Al-Kafirun",
+    "english_meaning": "The Disbelievers",
+    "revelation_type": "Meccan",
+    "revelation_order": 18,
+    "total_verses": 6,
+    "total_rukus": 1,
+    "start_page_15_line": 609,
+    "start_page_16_line": "548",
+    "juz_numbers": [
+      30
+    ]
+  },
+  {
+    "surah_id": 110,
+    "name_arabic": "النصر",
+    "name_urdu": "سورۃ النصر",
+    "name_english": "An-Nasr",
+    "english_meaning": "The Divine Support",
+    "revelation_type": "Medinan",
+    "revelation_order": 114,
+    "total_verses": 3,
+    "total_rukus": 1,
+    "start_page_15_line": 610,
+    "start_page_16_line": "548",
+    "juz_numbers": [
+      30
+    ]
+  },
+  {
+    "surah_id": 111,
+    "name_arabic": "المسد",
+    "name_urdu": "سورۃ اللہب",
+    "name_english": "Al-Masad",
+    "english_meaning": "The Palm Fiber",
+    "revelation_type": "Meccan",
+    "revelation_order": 6,
+    "total_verses": 5,
+    "total_rukus": 1,
+    "start_page_15_line": 610,
+    "start_page_16_line": "548",
+    "juz_numbers": [
+      30
+    ]
+  },
+  {
+    "surah_id": 112,
+    "name_arabic": "الإخلاص",
+    "name_urdu": "سورۃ الاخلاص",
+    "name_english": "Al-Ikhlas",
+    "english_meaning": "The Sincerity",
+    "revelation_type": "Meccan",
+    "revelation_order": 22,
+    "total_verses": 4,
+    "total_rukus": 1,
+    "start_page_15_line": 610,
+    "start_page_16_line": "548",
+    "juz_numbers": [
+      30
+    ]
+  },
+  {
+    "surah_id": 113,
+    "name_arabic": "الفلق",
+    "name_urdu": "سورۃ الفلق",
+    "name_english": "Al-Falaq",
+    "english_meaning": "The Daybreak",
+    "revelation_type": "Meccan",
+    "revelation_order": 20,
+    "total_verses": 5,
+    "total_rukus": 1,
+    "start_page_15_line": 610,
+    "start_page_16_line": "549",
+    "juz_numbers": [
+      30
+    ]
+  },
+  {
+    "surah_id": 114,
+    "name_arabic": "الناس",
+    "name_urdu": "سورۃ الناس",
+    "name_english": "An-Nas",
+    "english_meaning": "Mankind",
+    "revelation_type": "Meccan",
+    "revelation_order": 21,
+    "total_verses": 6,
+    "total_rukus": 1,
+    "start_page_15_line": 610,
+    "start_page_16_line": "549",
+    "juz_numbers": [
+      30
+    ]
+  }
+]

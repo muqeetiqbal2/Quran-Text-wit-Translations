@@ -1,0 +1,1634 @@
+{
+  "module": "quran_categories",
+  "title": "Categorized Index of Quran Arabic Scripts, Translations & Tafseer",
+  "arabic_scripts": [
+    {
+      "script_id": "uthmani",
+      "name": "Uthmani Script (الرسم العثماني)",
+      "full_quran_file": "full_quran_arabic/quran_arabic_uthmani.json",
+      "per_surah_file": "arabic.json"
+    },
+    {
+      "script_id": "tajweed",
+      "name": "Tajweed Script (مصحف التجويد الملون)",
+      "full_quran_file": "full_quran_arabic/quran_arabic_tajweed.json",
+      "per_surah_file": "arabic.json"
+    }
+  ],
+  "translations_summary": {
+    "total_translations": 106,
+    "total_languages": 49,
+    "languages": {
+      "albanian": {
+        "language": "Albanian",
+        "category_slug": "albanian",
+        "total_editions": 2,
+        "editions": [
+          {
+            "file_key": "albanian_hasan_nahi",
+            "scholar": "Hasan Efendi Nahi",
+            "title": "KUR'ANI I MADHËRUAR (SHQIP)",
+            "description": "Authorized and published by Islamic Community of Kosovo & Prishtina.",
+            "full_quran_file": "full_quran_translations/albanian/albanian_hasan_nahi.json",
+            "per_surah_path": "surah_XXX/translations/albanian/albanian_hasan_nahi.json"
+          },
+          {
+            "file_key": "albanian_sherif_ahmeti",
+            "scholar": "Sherif Ahmeti",
+            "title": "KUR'ANI ME PËRKTHIM DHE KOMENTIM NË GJUHËN SHQIPE",
+            "description": "Official Albanian translation authorized and printed by King Fahd Glorious Quran Printing Complex, Madinah.",
+            "full_quran_file": "full_quran_translations/albanian/albanian_sherif_ahmeti.json",
+            "per_surah_path": "surah_XXX/translations/albanian/albanian_sherif_ahmeti.json"
+          }
+        ]
+      },
+      "amharic": {
+        "language": "Amharic",
+        "category_slug": "amharic",
+        "total_editions": 1,
+        "editions": [
+          {
+            "file_key": "amharic_sadiq_habib",
+            "scholar": "Muhammed Sadiq & Muhammed Sani Habib",
+            "title": "የቅዱስ ቁርኣን የአማርኛ ትርጉም (HOLY QURAN IN AMHARIC)",
+            "description": "Official Amharic translation for Ethiopia, verified and printed by King Fahd Quran Printing Complex, Madinah.",
+            "full_quran_file": "full_quran_translations/amharic/amharic_sadiq_habib.json",
+            "per_surah_path": "surah_XXX/translations/amharic/amharic_sadiq_habib.json"
+          }
+        ]
+      },
+      "bengali": {
+        "language": "Bengali",
+        "category_slug": "bengali",
+        "total_editions": 2,
+        "editions": [
+          {
+            "file_key": "bengali_muhiuddin_khan",
+            "scholar": "Maulana Muhiuddin Khan",
+            "title": "পবিত্র কুরআনুল করীম (বাংলা অনুবাদ)",
+            "description": "Official Bengali translation verified by King Fahad Quran Printing Complex",
+            "full_quran_file": "full_quran_translations/bengali/bengali_muhiuddin_khan.json",
+            "per_surah_path": "surah_XXX/translations/bengali/bengali_muhiuddin_khan.json"
+          },
+          {
+            "file_key": "bengali_zohurul_hoque",
+            "scholar": "Dr. Zohurul Hoque",
+            "title": "পবিত্র কুরআনুল কারীম (বঙ্গানুবাদ)",
+            "description": "Authoritative Bengali translation noted for classical linguistic precision.",
+            "full_quran_file": "full_quran_translations/bengali/bengali_zohurul_hoque.json",
+            "per_surah_path": "surah_XXX/translations/bengali/bengali_zohurul_hoque.json"
+          }
+        ]
+      },
+      "berber": {
+        "language": "Berber",
+        "category_slug": "berber",
+        "total_editions": 1,
+        "editions": [
+          {
+            "file_key": "berber_ramdane_at_mensur",
+            "scholar": "Ramdane At Mensur",
+            "title": "LE CORAN EN TAMAZIGHT (TAMAZIGHT KABYLE)",
+            "description": "Authentic Amazigh/Berber translation based on classical tafsir methodology.",
+            "full_quran_file": "full_quran_translations/berber/berber_ramdane_at_mensur.json",
+            "per_surah_path": "surah_XXX/translations/berber/berber_ramdane_at_mensur.json"
+          }
+        ]
+      },
+      "bosnian": {
+        "language": "Bosnian",
+        "category_slug": "bosnian",
+        "total_editions": 3,
+        "editions": [
+          {
+            "file_key": "bosnian_besim_korkut",
+            "scholar": "Besim Korkut",
+            "title": "PREVOD KUR'ANA (BOSANSKI)",
+            "description": "Official standard Bosnian translation",
+            "full_quran_file": "full_quran_translations/bosnian/bosnian_besim_korkut.json",
+            "per_surah_path": "surah_XXX/translations/bosnian/bosnian_besim_korkut.json"
+          },
+          {
+            "file_key": "bosnian_muhamed_mehanovic",
+            "scholar": "Dr. Muhamed Mehanovic",
+            "title": "KUR'AN SA PREVODOM ZNAČENJA NA BOSANSKI JEZIK",
+            "description": "Authentic Bosnian translation grounded in Tafsir Ibn Kathir.",
+            "full_quran_file": "full_quran_translations/bosnian/bosnian_muhamed_mehanovic.json",
+            "per_surah_path": "surah_XXX/translations/bosnian/bosnian_muhamed_mehanovic.json"
+          },
+          {
+            "file_key": "bosnian_mustafa_mlivo",
+            "scholar": "Mustafa Mlivo",
+            "title": "KUR'AN SA PREVODOM (MUSTAFA MLIVO)",
+            "description": "Widely circulated authentic Bosnian translation.",
+            "full_quran_file": "full_quran_translations/bosnian/bosnian_mustafa_mlivo.json",
+            "per_surah_path": "surah_XXX/translations/bosnian/bosnian_mustafa_mlivo.json"
+          }
+        ]
+      },
+      "bulgarian": {
+        "language": "Bulgarian",
+        "category_slug": "bulgarian",
+        "total_editions": 1,
+        "editions": [
+          {
+            "file_key": "bulgarian_tzvetan_theophanov",
+            "scholar": "Prof. Tzvetan Theophanov",
+            "title": "СВЕЩЕНИЯТ КОРАН (ПРЕВОД НА БЪЛГАРСКИ ЕЗИК)",
+            "description": "Official Bulgarian translation approved by the Chief Muftiate of the Muslims in the Republic of Bulgaria.",
+            "full_quran_file": "full_quran_translations/bulgarian/bulgarian_tzvetan_theophanov.json",
+            "per_surah_path": "surah_XXX/translations/bulgarian/bulgarian_tzvetan_theophanov.json"
+          }
+        ]
+      },
+      "burmese": {
+        "language": "Burmese",
+        "category_slug": "burmese",
+        "total_editions": 1,
+        "editions": [
+          {
+            "file_key": "burmese_ghazi_hashim",
+            "scholar": "Ghazi Muhammed Hashim",
+            "title": "မြန်မာဘာသာပြန် ကုရ်အာန်ကျမ်းမြတ် (THE HOLY QURAN IN BURMESE)",
+            "description": "Widely authorized and standard Burmese translation.",
+            "full_quran_file": "full_quran_translations/burmese/burmese_ghazi_hashim.json",
+            "per_surah_path": "surah_XXX/translations/burmese/burmese_ghazi_hashim.json"
+          }
+        ]
+      },
+      "chechen": {
+        "language": "Chechen",
+        "category_slug": "chechen",
+        "total_editions": 1,
+        "editions": [
+          {
+            "file_key": "chechen_magomed_magomedov",
+            "scholar": "Magomed Magomedov",
+            "title": "КЪОРӀАН НОХЧИЙН МАТТАХЬ (THE HOLY QURAN IN CHECHEN)",
+            "description": "Approved by the Spiritual Administration of Muslims of the Chechen Republic (DUM ChR).",
+            "full_quran_file": "full_quran_translations/chechen/chechen_magomed_magomedov.json",
+            "per_surah_path": "surah_XXX/translations/chechen/chechen_magomed_magomedov.json"
+          }
+        ]
+      },
+      "chinese": {
+        "language": "Chinese",
+        "category_slug": "chinese",
+        "total_editions": 1,
+        "editions": [
+          {
+            "file_key": "chinese_muhammad_ma_jian",
+            "scholar": "Muhammad Ma Jian (马坚)",
+            "title": "古兰经 (汉语译文)",
+            "description": "Official Chinese translation approved by King Fahad Quran Printing Complex",
+            "full_quran_file": "full_quran_translations/chinese/chinese_muhammad_ma_jian.json",
+            "per_surah_path": "surah_XXX/translations/chinese/chinese_muhammad_ma_jian.json"
+          }
+        ]
+      },
+      "dutch": {
+        "language": "Dutch",
+        "category_slug": "dutch",
+        "total_editions": 3,
+        "editions": [
+          {
+            "file_key": "dutch_fred_leemhuis",
+            "scholar": "Prof. Dr. Fred Leemhuis",
+            "title": "DE KORAN: EEN WEERGAVE VAN DE BETEKENIS VAN DE ARABISCHE TEKST",
+            "description": "Standard contemporary Dutch academic translation, University of Groningen.",
+            "full_quran_file": "full_quran_translations/dutch/dutch_fred_leemhuis.json",
+            "per_surah_path": "surah_XXX/translations/dutch/dutch_fred_leemhuis.json"
+          },
+          {
+            "file_key": "dutch_salomo_keyzer",
+            "scholar": "Salomo Keyzer",
+            "title": "DE KORAN, VOORAFGEGAAN DOOR HET LEVEN VAN MAHOMET",
+            "description": "Pioneering Dutch translation of the Holy Quran.",
+            "full_quran_file": "full_quran_translations/dutch/dutch_salomo_keyzer.json",
+            "per_surah_path": "surah_XXX/translations/dutch/dutch_salomo_keyzer.json"
+          },
+          {
+            "file_key": "dutch_sofjan_siregar",
+            "scholar": "Sofjan S. Siregar",
+            "title": "DE EDELE KORAN: EEN VERTALING VAN DE BETEKENISSEN",
+            "description": "Published and verified by the Islamic Cultural Center of the Netherlands (ICCN).",
+            "full_quran_file": "full_quran_translations/dutch/dutch_sofjan_siregar.json",
+            "per_surah_path": "surah_XXX/translations/dutch/dutch_sofjan_siregar.json"
+          }
+        ]
+      },
+      "english": {
+        "language": "English",
+        "category_slug": "english",
+        "total_editions": 16,
+        "editions": [
+          {
+            "file_key": "english_abdul_majid_daryabadi",
+            "scholar": "Maulana Abdul Majid Daryabadi",
+            "title": "TAFSIR-UL-QURAN (ENGLISH TRANSLATION)",
+            "description": "Prominent scholarly orthodox English translation",
+            "full_quran_file": "full_quran_translations/english/english_abdul_majid_daryabadi.json",
+            "per_surah_path": "surah_XXX/translations/english/english_abdul_majid_daryabadi.json"
+          },
+          {
+            "file_key": "english_ali_quli_qarai",
+            "scholar": "Ali Quli Qara'i",
+            "title": "THE QUR'AN WITH A PHRASE-BY-PHRASE ENGLISH TRANSLATION",
+            "description": "Renowned phrase-by-phrase academic English translation.",
+            "full_quran_file": "full_quran_translations/english/english_ali_quli_qarai.json",
+            "per_surah_path": "surah_XXX/translations/english/english_ali_quli_qarai.json"
+          },
+          {
+            "file_key": "english_hasan_qaribullah",
+            "scholar": "Hasan al-Fatih Qaribullah & Ahmad Darwish",
+            "title": "THE QURAN: MODERN ENGLISH TRANSLATION",
+            "description": "Scholarly translation from Umm Durman Islamic University.",
+            "full_quran_file": "full_quran_translations/english/english_hasan_qaribullah.json",
+            "per_surah_path": "surah_XXX/translations/english/english_hasan_qaribullah.json"
+          },
+          {
+            "file_key": "english_hilali_khan",
+            "scholar": "Dr. Muhammad Taqi-ud-Din al-Hilali & Dr. Muhammad Muhsin Khan",
+            "title": "THE NOBLE QURAN (ENGLISH)",
+            "description": "Official English translation published and distributed by King Fahd Complex, Madinah",
+            "full_quran_file": "full_quran_translations/english/english_hilali_khan.json",
+            "per_surah_path": "surah_XXX/translations/english/english_hilali_khan.json"
+          },
+          {
+            "file_key": "english_marmaduke_pickthall",
+            "scholar": "Mohammed Marmaduke William Pickthall",
+            "title": "THE MEANING OF THE GLORIOUS KORAN",
+            "description": "First English translation by a Muslim native English speaker, authorized by Al-Azhar",
+            "full_quran_file": "full_quran_translations/english/english_marmaduke_pickthall.json",
+            "per_surah_path": "surah_XXX/translations/english/english_marmaduke_pickthall.json"
+          },
+          {
+            "file_key": "english_maududi",
+            "scholar": "English Maududi",
+            "title": "COMPLETE TRANSLATION",
+            "description": "",
+            "full_quran_file": "full_quran_translations/english/english_maududi.json",
+            "per_surah_path": "surah_XXX/translations/english/english_maududi.json"
+          },
+          {
+            "file_key": "english_mohammad_shakir",
+            "scholar": "Mohammad Habib Shakir",
+            "title": "THE HOLY QUR'AN: ENGLISH TRANSLATION",
+            "description": "Classical English translation widely referenced in Islamic studies.",
+            "full_quran_file": "full_quran_translations/english/english_mohammad_shakir.json",
+            "per_surah_path": "surah_XXX/translations/english/english_mohammad_shakir.json"
+          },
+          {
+            "file_key": "english_muhammad_asad",
+            "scholar": "Muhammad Asad (Leopold Weiss)",
+            "title": "THE MESSAGE OF THE QUR'AN",
+            "description": "Acclaimed intellectual English translation and commentary",
+            "full_quran_file": "full_quran_translations/english/english_muhammad_asad.json",
+            "per_surah_path": "surah_XXX/translations/english/english_muhammad_asad.json"
+          },
+          {
+            "file_key": "english_muhammad_sarwar",
+            "scholar": "Sheikh Muhammad Sarwar",
+            "title": "THE HOLY QURAN: ARABIC TEXT AND ENGLISH TRANSLATION",
+            "description": "Standard lucid English translation published by Islamic Seminary.",
+            "full_quran_file": "full_quran_translations/english/english_muhammad_sarwar.json",
+            "per_surah_path": "surah_XXX/translations/english/english_muhammad_sarwar.json"
+          },
+          {
+            "file_key": "english_safiur_rahman_mubarakpuri",
+            "scholar": "Shaykh Safi-ur-Rahman al-Mubarakpuri",
+            "title": "TAFSIR IBN KATHIR (ABRIDGED) - ENGLISH TRANSLATION",
+            "description": "Darussalam standard translation by the author of Ar-Raheeq Al-Makhtum (The Sealed Nectar).",
+            "full_quran_file": "full_quran_translations/english/english_safiur_rahman_mubarakpuri.json",
+            "per_surah_path": "surah_XXX/translations/english/english_safiur_rahman_mubarakpuri.json"
+          },
+          {
+            "file_key": "english_saheeh",
+            "scholar": "English Saheeh",
+            "title": "COMPLETE TRANSLATION",
+            "description": "",
+            "full_quran_file": "full_quran_translations/english/english_saheeh.json",
+            "per_surah_path": "surah_XXX/translations/english/english_saheeh.json"
+          },
+          {
+            "file_key": "english_talal_itani",
+            "scholar": "Talal Itani",
+            "title": "THE CLEAR QURAN: A THEMATIC ENGLISH TRANSLATION",
+            "description": "Authorized and approved by Al-Azhar Islamic Research Academy, Cairo.",
+            "full_quran_file": "full_quran_translations/english/english_talal_itani.json",
+            "per_surah_path": "surah_XXX/translations/english/english_talal_itani.json"
+          },
+          {
+            "file_key": "english_wahiduddin_khan",
+            "scholar": "English Wahiduddin Khan",
+            "title": "COMPLETE TRANSLATION",
+            "description": "",
+            "full_quran_file": "full_quran_translations/english/english_wahiduddin_khan.json",
+            "per_surah_path": "surah_XXX/translations/english/english_wahiduddin_khan.json"
+          },
+          {
+            "file_key": "english_yusuf_ali",
+            "scholar": "Abdullah Yusuf Ali",
+            "title": "THE HOLY QUR'AN: TEXT, TRANSLATION AND COMMENTARY",
+            "description": "Historic and widely recognized English translation with notes",
+            "full_quran_file": "full_quran_translations/english/english_yusuf_ali.json",
+            "per_surah_path": "surah_XXX/translations/english/english_yusuf_ali.json"
+          },
+          {
+            "file_key": "english_mustafa_khattab",
+            "scholar": "Dr. Mustafa Khattab (The Clear Quran)",
+            "title": "The Clear Quran (A Pure Translation)",
+            "description": "Officially approved by Al-Azhar, noted for clarity, contemporary flow, and fidelity to classical tafsir.",
+            "full_quran_file": "full_quran_translations/english/english_mustafa_khattab.json",
+            "per_surah_path": "surah_XXX/translations/english/english_mustafa_khattab.json"
+          },
+          {
+            "file_key": "english_taqi_usmani",
+            "scholar": "Justice Mufti Muhammad Taqi Usmani",
+            "title": "The Noble Qur'an (English Translation with Explanatory Notes)",
+            "description": "Masterful contemporary English rendering by one of the leading global Islamic jurists and scholars.",
+            "full_quran_file": "full_quran_translations/english/english_taqi_usmani.json",
+            "per_surah_path": "surah_XXX/translations/english/english_taqi_usmani.json"
+          }
+        ]
+      },
+      "french": {
+        "language": "French",
+        "category_slug": "french",
+        "total_editions": 1,
+        "editions": [
+          {
+            "file_key": "french_muhammad_hamidullah",
+            "scholar": "Dr. Muhammad Hamidullah",
+            "title": "LE NOBLE CORAN ET LA TRADUCTION EN LANGUE FRANÇAISE",
+            "description": "Official French translation verified by King Fahad Quran Printing Complex",
+            "full_quran_file": "full_quran_translations/french/french_muhammad_hamidullah.json",
+            "per_surah_path": "surah_XXX/translations/french/french_muhammad_hamidullah.json"
+          }
+        ]
+      },
+      "german": {
+        "language": "German",
+        "category_slug": "german",
+        "total_editions": 1,
+        "editions": [
+          {
+            "file_key": "german_bubenheim_elyas",
+            "scholar": "Frank Bubenheim & Dr. Nadeem Elyas",
+            "title": "DER EDLE QUR'AN UND DIE ÜBERSETZUNG IN DIE DEUTSCHE SPRACHE",
+            "description": "Official German translation approved by King Fahad Quran Printing Complex",
+            "full_quran_file": "full_quran_translations/german/german_bubenheim_elyas.json",
+            "per_surah_path": "surah_XXX/translations/german/german_bubenheim_elyas.json"
+          }
+        ]
+      },
+      "gojri": {
+        "language": "Gojri",
+        "category_slug": "gojri",
+        "total_editions": 1,
+        "editions": [
+          {
+            "file_key": "gojri",
+            "scholar": "Gojri",
+            "title": "COMPLETE TRANSLATION",
+            "description": "",
+            "full_quran_file": "full_quran_translations/gojri/gojri.json",
+            "per_surah_path": "surah_XXX/translations/gojri/gojri.json"
+          }
+        ]
+      },
+      "hausa": {
+        "language": "Hausa",
+        "category_slug": "hausa",
+        "total_editions": 1,
+        "editions": [
+          {
+            "file_key": "hausa_abubakar_gumi",
+            "scholar": "Sheikh Abubakar Mahmoud Gumi",
+            "title": "ALKUR'ANI MAI GIRMA DA KUMA TARJAMAR MA'ANONINSA ZUWA GA HARSHEN HAUSA",
+            "description": "Official Hausa translation published and distributed by King Fahd Glorious Quran Printing Complex, Madinah. King Faisal International Prize laureate.",
+            "full_quran_file": "full_quran_translations/hausa/hausa_abubakar_gumi.json",
+            "per_surah_path": "surah_XXX/translations/hausa/hausa_abubakar_gumi.json"
+          }
+        ]
+      },
+      "hindi": {
+        "language": "Hindi",
+        "category_slug": "hindi",
+        "total_editions": 4,
+        "editions": [
+          {
+            "file_key": "hindi_farooq_khan_nadwi",
+            "scholar": "Dr. Suhel Farooq Khan & Saifur Rahman Nadwi",
+            "title": "क़ुरआन मजीद (हिन्दी अनुवाद)",
+            "description": "Official and widely circulated authentic Hindi translation.",
+            "full_quran_file": "full_quran_translations/hindi/hindi_farooq_khan_nadwi.json",
+            "per_surah_path": "surah_XXX/translations/hindi/hindi_farooq_khan_nadwi.json"
+          },
+          {
+            "file_key": "hindi_muhammad_farooq_khan",
+            "scholar": "Muhammad Farooq Khan & Muhammad Ahmed",
+            "title": "आसान पवित्र क़ुरआन (हिन्दी)",
+            "description": "Renowned Hindi translation published by Maktaba Al-Hasanat.",
+            "full_quran_file": "full_quran_translations/hindi/hindi_muhammad_farooq_khan.json",
+            "per_surah_path": "surah_XXX/translations/hindi/hindi_muhammad_farooq_khan.json"
+          },
+          {
+            "file_key": "hindi_palanpuri",
+            "scholar": "Hindi Palanpuri",
+            "title": "COMPLETE TRANSLATION",
+            "description": "",
+            "full_quran_file": "full_quran_translations/hindi/hindi_palanpuri.json",
+            "per_surah_path": "surah_XXX/translations/hindi/hindi_palanpuri.json"
+          },
+          {
+            "file_key": "hindi_taqi_usmani",
+            "scholar": "Hindi Taqi Usmani",
+            "title": "COMPLETE TRANSLATION",
+            "description": "",
+            "full_quran_file": "full_quran_translations/hindi/hindi_taqi_usmani.json",
+            "per_surah_path": "surah_XXX/translations/hindi/hindi_taqi_usmani.json"
+          }
+        ]
+      },
+      "indonesian": {
+        "language": "Indonesian",
+        "category_slug": "indonesian",
+        "total_editions": 2,
+        "editions": [
+          {
+            "file_key": "indonesian_kemenag",
+            "scholar": "Kementerian Agama Republik Indonesia (Ministry of Religious Affairs)",
+            "title": "AL-QUR'AN DAN TERJEMAHANNYA (BAHASA INDONESIA)",
+            "description": "Official Indonesian translation for 250M+ Muslims",
+            "full_quran_file": "full_quran_translations/indonesian/indonesian_kemenag.json",
+            "per_surah_path": "surah_XXX/translations/indonesian/indonesian_kemenag.json"
+          },
+          {
+            "file_key": "indonesian_quraish_shihab",
+            "scholar": "Prof. Dr. Muhammad Quraish Shihab et al.",
+            "title": "TAFSIR AL-MISHBAH / AL-MUNTAKHAB (BAHASA INDONESIA)",
+            "description": "Leading Indonesian Quranic scholar and former Minister of Religious Affairs.",
+            "full_quran_file": "full_quran_translations/indonesian/indonesian_quraish_shihab.json",
+            "per_surah_path": "surah_XXX/translations/indonesian/indonesian_quraish_shihab.json"
+          }
+        ]
+      },
+      "italian": {
+        "language": "Italian",
+        "category_slug": "italian",
+        "total_editions": 1,
+        "editions": [
+          {
+            "file_key": "italian_hamza_roberto_piccardo",
+            "scholar": "Hamza Roberto Piccardo",
+            "title": "IL NOBILE CORANO (ITALIANO)",
+            "description": "Standard Italian translation approved by UCOII",
+            "full_quran_file": "full_quran_translations/italian/italian_hamza_roberto_piccardo.json",
+            "per_surah_path": "surah_XXX/translations/italian/italian_hamza_roberto_piccardo.json"
+          }
+        ]
+      },
+      "japanese": {
+        "language": "Japanese",
+        "category_slug": "japanese",
+        "total_editions": 1,
+        "editions": [
+          {
+            "file_key": "japanese_ryoichi_umar_mita",
+            "scholar": "Ryoichi Umar Mita (三田了一)",
+            "title": "聖クルアーン日亜対訳注解 (THE HOLY QURAN IN JAPANESE)",
+            "description": "Official Japanese translation reviewed, printed, and distributed worldwide by King Fahd Complex, Madinah.",
+            "full_quran_file": "full_quran_translations/japanese/japanese_ryoichi_umar_mita.json",
+            "per_surah_path": "surah_XXX/translations/japanese/japanese_ryoichi_umar_mita.json"
+          }
+        ]
+      },
+      "korean": {
+        "language": "Korean",
+        "category_slug": "korean",
+        "total_editions": 1,
+        "editions": [
+          {
+            "file_key": "korean_hamed_choi",
+            "scholar": "Dr. Hamed Choi & Korea Muslim Federation",
+            "title": "성 꾸란 의미의 한국어 번역 (THE HOLY QURAN IN KOREAN)",
+            "description": "Official Korean translation verified and published by King Fahd Glorious Quran Printing Complex, Madinah.",
+            "full_quran_file": "full_quran_translations/korean/korean_hamed_choi.json",
+            "per_surah_path": "surah_XXX/translations/korean/korean_hamed_choi.json"
+          }
+        ]
+      },
+      "kurdish": {
+        "language": "Kurdish",
+        "category_slug": "kurdish",
+        "total_editions": 1,
+        "editions": [
+          {
+            "file_key": "kurdish_burhan_muhammad_amin",
+            "scholar": "Burhan Muhammad-Amin",
+            "title": "تەفسیری ئاسان بۆ تێگەیشتنی قورئان (TAFSIRI ASAN)",
+            "description": "Standard Kurdish (Sorani) translation and commentary widely verified across Iraqi Kurdistan.",
+            "full_quran_file": "full_quran_translations/kurdish/kurdish_burhan_muhammad_amin.json",
+            "per_surah_path": "surah_XXX/translations/kurdish/kurdish_burhan_muhammad_amin.json"
+          }
+        ]
+      },
+      "malay": {
+        "language": "Malay",
+        "category_slug": "malay",
+        "total_editions": 1,
+        "editions": [
+          {
+            "file_key": "malay_abdullah_basmeih",
+            "scholar": "Sheikh Abdullah Muhammad Basmeih",
+            "title": "TAFSIR PIMPINAN AR-RAHMAN KEPADA PENGERTIAN AL-QUR'AN",
+            "description": "Official Malaysian translation commissioned by the Prime Minister's Department and approved by JAKIM.",
+            "full_quran_file": "full_quran_translations/malay/malay_abdullah_basmeih.json",
+            "per_surah_path": "surah_XXX/translations/malay/malay_abdullah_basmeih.json"
+          }
+        ]
+      },
+      "malayalam": {
+        "language": "Malayalam",
+        "category_slug": "malayalam",
+        "total_editions": 1,
+        "editions": [
+          {
+            "file_key": "malayalam_cheriyamundam_abdul_hameed",
+            "scholar": "Cheriyamundam Abdul Hameed & Kunhi Mohammed Parappoor",
+            "title": "വിശുദ്ധ ഖുർആൻ സമ്പൂർണ്ണ മലയാള പരിഭാഷ",
+            "description": "King Fahd Glorious Quran Printing Complex official translation for Malayalam speakers.",
+            "full_quran_file": "full_quran_translations/malayalam/malayalam_cheriyamundam_abdul_hameed.json",
+            "per_surah_path": "surah_XXX/translations/malayalam/malayalam_cheriyamundam_abdul_hameed.json"
+          }
+        ]
+      },
+      "marathi": {
+        "language": "Marathi",
+        "category_slug": "marathi",
+        "total_editions": 1,
+        "editions": [
+          {
+            "file_key": "marathi",
+            "scholar": "Marathi",
+            "title": "COMPLETE TRANSLATION",
+            "description": "",
+            "full_quran_file": "full_quran_translations/marathi/marathi.json",
+            "per_surah_path": "surah_XXX/translations/marathi/marathi.json"
+          }
+        ]
+      },
+      "nepali": {
+        "language": "Nepali",
+        "category_slug": "nepali",
+        "total_editions": 1,
+        "editions": [
+          {
+            "file_key": "nepali",
+            "scholar": "Nepali",
+            "title": "COMPLETE TRANSLATION",
+            "description": "",
+            "full_quran_file": "full_quran_translations/nepali/nepali.json",
+            "per_surah_path": "surah_XXX/translations/nepali/nepali.json"
+          }
+        ]
+      },
+      "norwegian": {
+        "language": "Norwegian",
+        "category_slug": "norwegian",
+        "total_editions": 1,
+        "editions": [
+          {
+            "file_key": "norwegian_einar_berg",
+            "scholar": "Einar Berg",
+            "title": "KORANEN PÅ NORSK (THE HOLY QURAN IN NORWEGIAN)",
+            "description": "Standard authoritative Norwegian translation, Universitetsforlaget.",
+            "full_quran_file": "full_quran_translations/norwegian/norwegian_einar_berg.json",
+            "per_surah_path": "surah_XXX/translations/norwegian/norwegian_einar_berg.json"
+          }
+        ]
+      },
+      "pashto": {
+        "language": "Pashto",
+        "category_slug": "pashto",
+        "total_editions": 1,
+        "editions": [
+          {
+            "file_key": "pashto_abdul_wali",
+            "scholar": "Abdul Wali (عبد الولي خان)",
+            "title": "د قرآن کریم پښتو ترجمه",
+            "description": "Authentic Pashto translation",
+            "full_quran_file": "full_quran_translations/pashto/pashto_abdul_wali.json",
+            "per_surah_path": "surah_XXX/translations/pashto/pashto_abdul_wali.json"
+          }
+        ]
+      },
+      "persian": {
+        "language": "Persian",
+        "category_slug": "persian",
+        "total_editions": 5,
+        "editions": [
+          {
+            "file_key": "persian_hussain_ansarian",
+            "scholar": "Sheikh Hussain Ansarian",
+            "title": "ترجمه قرآن کریم (استاد حسین انصاریان)",
+            "description": "Widely acclaimed contemporary Persian translation.",
+            "full_quran_file": "full_quran_translations/persian/persian_hussain_ansarian.json",
+            "per_surah_path": "surah_XXX/translations/persian/persian_hussain_ansarian.json"
+          },
+          {
+            "file_key": "persian_mohammad_mahdi_fooladvand",
+            "scholar": "Mohammad Mahdi Fooladvand (محمد مهدی فولادوند)",
+            "title": "ترجمه قرآن مجید (فارسی)",
+            "description": "Highly authoritative modern Persian translation",
+            "full_quran_file": "full_quran_translations/persian/persian_mohammad_mahdi_fooladvand.json",
+            "per_surah_path": "surah_XXX/translations/persian/persian_mohammad_mahdi_fooladvand.json"
+          },
+          {
+            "file_key": "persian_mohsen_gharaati",
+            "scholar": "Hujjat al-Islam Mohsen Gharaati",
+            "title": "ترجمه و تفسیر نور (حجت‌الاسلام قرائتی)",
+            "description": "Accessible Persian translation and commentary from Tafsir Noor.",
+            "full_quran_file": "full_quran_translations/persian/persian_mohsen_gharaati.json",
+            "per_surah_path": "surah_XXX/translations/persian/persian_mohsen_gharaati.json"
+          },
+          {
+            "file_key": "persian_mostafa_khorramdel",
+            "scholar": "Dr. Mostafa Khorramdel",
+            "title": "تفسیر نور (دکتر مصطفی خرمدل)",
+            "description": "Acclaimed Sunni Kurdish/Persian scholar; comprehensive translation and commentary.",
+            "full_quran_file": "full_quran_translations/persian/persian_mostafa_khorramdel.json",
+            "per_surah_path": "surah_XXX/translations/persian/persian_mostafa_khorramdel.json"
+          },
+          {
+            "file_key": "persian_naser_makarem_shirazi",
+            "scholar": "Grand Ayatollah Naser Makarem Shirazi",
+            "title": "ترجمه قرآن کریم (آیت الله مکارم شیرازی)",
+            "description": "Author of Tafsir Nemouneh; recognized as one of the clearest and most accurate Persian translations.",
+            "full_quran_file": "full_quran_translations/persian/persian_naser_makarem_shirazi.json",
+            "per_surah_path": "surah_XXX/translations/persian/persian_naser_makarem_shirazi.json"
+          }
+        ]
+      },
+      "polish": {
+        "language": "Polish",
+        "category_slug": "polish",
+        "total_editions": 1,
+        "editions": [
+          {
+            "file_key": "polish_jozef_bielawski",
+            "scholar": "Prof. Józef Bielawski",
+            "title": "KORAN (PRZEKŁAD JÓZEFA BIELAWSKIEGO)",
+            "description": "Standard Polish translation published under the auspices of the Polish Academy of Sciences (PAN).",
+            "full_quran_file": "full_quran_translations/polish/polish_jozef_bielawski.json",
+            "per_surah_path": "surah_XXX/translations/polish/polish_jozef_bielawski.json"
+          }
+        ]
+      },
+      "portuguese": {
+        "language": "Portuguese",
+        "category_slug": "portuguese",
+        "total_editions": 1,
+        "editions": [
+          {
+            "file_key": "portuguese_samir_el_hayek",
+            "scholar": "Samir El-Hayek",
+            "title": "O NOBRE ALCORÃO (PORTUGUÊS)",
+            "description": "Standard Portuguese translation",
+            "full_quran_file": "full_quran_translations/portuguese/portuguese_samir_el_hayek.json",
+            "per_surah_path": "surah_XXX/translations/portuguese/portuguese_samir_el_hayek.json"
+          }
+        ]
+      },
+      "punjabi": {
+        "language": "Punjabi",
+        "category_slug": "punjabi",
+        "total_editions": 2,
+        "editions": [
+          {
+            "file_key": "punjabi_gurmukhi",
+            "scholar": "Punjabi Gurmukhi",
+            "title": "COMPLETE TRANSLATION",
+            "description": "",
+            "full_quran_file": "full_quran_translations/punjabi/punjabi_gurmukhi.json",
+            "per_surah_path": "surah_XXX/translations/punjabi/punjabi_gurmukhi.json"
+          },
+          {
+            "file_key": "punjabi_roshan",
+            "scholar": "Punjabi Roshan",
+            "title": "COMPLETE TRANSLATION",
+            "description": "",
+            "full_quran_file": "full_quran_translations/punjabi/punjabi_roshan.json",
+            "per_surah_path": "surah_XXX/translations/punjabi/punjabi_roshan.json"
+          }
+        ]
+      },
+      "roman_urdu": {
+        "language": "Roman Urdu",
+        "category_slug": "roman_urdu",
+        "total_editions": 2,
+        "editions": [
+          {
+            "file_key": "roman_urdu",
+            "scholar": "Roman Urdu",
+            "title": "COMPLETE TRANSLATION",
+            "description": "",
+            "full_quran_file": "full_quran_translations/roman_urdu/roman_urdu.json",
+            "per_surah_path": "surah_XXX/translations/roman_urdu/roman_urdu.json"
+          },
+          {
+            "file_key": "roman_urdu_jalandhri",
+            "scholar": "Roman Urdu Jalandhri",
+            "title": "COMPLETE TRANSLATION",
+            "description": "",
+            "full_quran_file": "full_quran_translations/roman_urdu/roman_urdu_jalandhri.json",
+            "per_surah_path": "surah_XXX/translations/roman_urdu/roman_urdu_jalandhri.json"
+          }
+        ]
+      },
+      "romanian": {
+        "language": "Romanian",
+        "category_slug": "romanian",
+        "total_editions": 1,
+        "editions": [
+          {
+            "file_key": "romanian_george_grigore",
+            "scholar": "Prof. George Grigore",
+            "title": "CORANUL CEL SFÂNT (THE HOLY QURAN IN ROMANIAN)",
+            "description": "Standard authoritative Romanian translation, University of Bucharest.",
+            "full_quran_file": "full_quran_translations/romanian/romanian_george_grigore.json",
+            "per_surah_path": "surah_XXX/translations/romanian/romanian_george_grigore.json"
+          }
+        ]
+      },
+      "russian": {
+        "language": "Russian",
+        "category_slug": "russian",
+        "total_editions": 4,
+        "editions": [
+          {
+            "file_key": "russian_al_muntahab_ministry_egypt",
+            "scholar": "Supreme Council for Islamic Affairs, Ministry of Awqaf, Egypt",
+            "title": "АЛЬ-МУНТАХАБ ФИ ТАФСИР АЛЬ-КУРАН АЛЬ-КАРИМ (НА РУССКОМ ЯЗЫКЕ)",
+            "description": "Official Russian translation and commentary published by the Arab Republic of Egypt.",
+            "full_quran_file": "full_quran_translations/russian/russian_al_muntahab_ministry_egypt.json",
+            "per_surah_path": "surah_XXX/translations/russian/russian_al_muntahab_ministry_egypt.json"
+          },
+          {
+            "file_key": "russian_elmir_kuliev",
+            "scholar": "Elmir Kuliev (Эльмир Кулиев)",
+            "title": "ПЕРЕВОД СМЫСЛОВ СВЯЩЕННОГО КОРАНА НА РУССКИЙ ЯЗЫК",
+            "description": "Official Russian translation approved by King Fahad Quran Printing Complex",
+            "full_quran_file": "full_quran_translations/russian/russian_elmir_kuliev.json",
+            "per_surah_path": "surah_XXX/translations/russian/russian_elmir_kuliev.json"
+          },
+          {
+            "file_key": "russian_magomed_nuri_osmanov",
+            "scholar": "Prof. Magomed-Nuri Osmanovich Osmanov",
+            "title": "КОРАН: ПЕРЕВОД С АРАБСКОГО И КОММЕНТАРИИ",
+            "description": "Institute of Oriental Studies, Russian Academy of Sciences; State Prize of the Russian Federation.",
+            "full_quran_file": "full_quran_translations/russian/russian_magomed_nuri_osmanov.json",
+            "per_surah_path": "surah_XXX/translations/russian/russian_magomed_nuri_osmanov.json"
+          },
+          {
+            "file_key": "russian_valeriya_porokhova",
+            "scholar": "Valeriya (Iman) Porokhova",
+            "title": "КОРАН: ПЕРЕВОД СМЫСЛОВ И КОММЕНТАРИИ",
+            "description": "Poetic translation reviewed, verified, and approved by Al-Azhar Islamic Research Academy, Cairo.",
+            "full_quran_file": "full_quran_translations/russian/russian_valeriya_porokhova.json",
+            "per_surah_path": "surah_XXX/translations/russian/russian_valeriya_porokhova.json"
+          }
+        ]
+      },
+      "sindhi": {
+        "language": "Sindhi",
+        "category_slug": "sindhi",
+        "total_editions": 1,
+        "editions": [
+          {
+            "file_key": "sindhi_taj_mehmood_amroti",
+            "scholar": "Maulana Taj Mehmood Amroti (مولانا تاج محمود امروٽي)",
+            "title": "سنڌي ترجمو قرآن پاڪ",
+            "description": "Standard classical Sindhi translation",
+            "full_quran_file": "full_quran_translations/sindhi/sindhi_taj_mehmood_amroti.json",
+            "per_surah_path": "surah_XXX/translations/sindhi/sindhi_taj_mehmood_amroti.json"
+          }
+        ]
+      },
+      "sinhala": {
+        "language": "Sinhala",
+        "category_slug": "sinhala",
+        "total_editions": 1,
+        "editions": [
+          {
+            "file_key": "sinhala_naseem_ismail",
+            "scholar": "Naseem Ismail & Masoor Maulana, Kaleel",
+            "title": "ශුද්ධ වූ අල් කුර්ආනය (THE HOLY QURAN IN SINHALA)",
+            "description": "Standard authorized Sinhala translation for Sri Lanka.",
+            "full_quran_file": "full_quran_translations/sinhala/sinhala_naseem_ismail.json",
+            "per_surah_path": "surah_XXX/translations/sinhala/sinhala_naseem_ismail.json"
+          }
+        ]
+      },
+      "somali": {
+        "language": "Somali",
+        "category_slug": "somali",
+        "total_editions": 1,
+        "editions": [
+          {
+            "file_key": "somali_mahmud_abduh",
+            "scholar": "Mahmud Muhammad Abduh",
+            "title": "QURAANKA KARIIMKA IYO AF-SOOMAALI",
+            "description": "Official Somali translation authorized and published by King Fahd Glorious Quran Printing Complex, Madinah.",
+            "full_quran_file": "full_quran_translations/somali/somali_mahmud_abduh.json",
+            "per_surah_path": "surah_XXX/translations/somali/somali_mahmud_abduh.json"
+          }
+        ]
+      },
+      "spanish": {
+        "language": "Spanish",
+        "category_slug": "spanish",
+        "total_editions": 3,
+        "editions": [
+          {
+            "file_key": "spanish_isa_garcia",
+            "scholar": "Spanish Isa Garcia",
+            "title": "COMPLETE TRANSLATION",
+            "description": "",
+            "full_quran_file": "full_quran_translations/spanish/spanish_isa_garcia.json",
+            "per_surah_path": "surah_XXX/translations/spanish/spanish_isa_garcia.json"
+          },
+          {
+            "file_key": "spanish_julio_cortes",
+            "scholar": "Julio Cortés",
+            "title": "EL CORÁN (TRADUCCIÓN DE JULIO CORTÉS)",
+            "description": "Standard authoritative Spanish translation, Editora Nacional.",
+            "full_quran_file": "full_quran_translations/spanish/spanish_julio_cortes.json",
+            "per_surah_path": "surah_XXX/translations/spanish/spanish_julio_cortes.json"
+          },
+          {
+            "file_key": "spanish_muhammad_asad",
+            "scholar": "Muhammad Asad & Abdurrasak Pérez",
+            "title": "EL MENSAJE DEL CORÁN (TRADUCCIÓN AL ESPAÑOL)",
+            "description": "Official Spanish translation of Muhammad Asad's monumental English commentary.",
+            "full_quran_file": "full_quran_translations/spanish/spanish_muhammad_asad.json",
+            "per_surah_path": "surah_XXX/translations/spanish/spanish_muhammad_asad.json"
+          }
+        ]
+      },
+      "swahili": {
+        "language": "Swahili",
+        "category_slug": "swahili",
+        "total_editions": 1,
+        "editions": [
+          {
+            "file_key": "swahili_ali_muhsin_al_barwani",
+            "scholar": "Sheikh Ali Muhsin Al-Barwani",
+            "title": "TARJUMA YA QUR'ANI TUKUFU (KISWAHILI)",
+            "description": "Standard Swahili translation across East Africa",
+            "full_quran_file": "full_quran_translations/swahili/swahili_ali_muhsin_al_barwani.json",
+            "per_surah_path": "surah_XXX/translations/swahili/swahili_ali_muhsin_al_barwani.json"
+          }
+        ]
+      },
+      "swedish": {
+        "language": "Swedish",
+        "category_slug": "swedish",
+        "total_editions": 1,
+        "editions": [
+          {
+            "file_key": "swedish_knut_bernstrom",
+            "scholar": "Mohammed Knut Bernström",
+            "title": "KORANENS BUDSKAP (THE HOLY QURAN IN SWEDISH)",
+            "description": "Authorized and approved by Al-Azhar Islamic Research Academy, Cairo. Former Swedish diplomat.",
+            "full_quran_file": "full_quran_translations/swedish/swedish_knut_bernstrom.json",
+            "per_surah_path": "surah_XXX/translations/swedish/swedish_knut_bernstrom.json"
+          }
+        ]
+      },
+      "tajik": {
+        "language": "Tajik",
+        "category_slug": "tajik",
+        "total_editions": 1,
+        "editions": [
+          {
+            "file_key": "tajik_abdolmohammad_ayati",
+            "scholar": "AbdolMohammad Ayati",
+            "title": "ҚУРЪОНИ КАРИМ БО ТАРҶУМАИ ТОҶИКӢ (THE HOLY QURAN IN TAJIK)",
+            "description": "Authentic Tajik Cyrillic translation.",
+            "full_quran_file": "full_quran_translations/tajik/tajik_abdolmohammad_ayati.json",
+            "per_surah_path": "surah_XXX/translations/tajik/tajik_abdolmohammad_ayati.json"
+          }
+        ]
+      },
+      "tamil": {
+        "language": "Tamil",
+        "category_slug": "tamil",
+        "total_editions": 1,
+        "editions": [
+          {
+            "file_key": "tamil_jan_turst",
+            "scholar": "Jan Turst Foundation / Abdul Hameed Baqavi",
+            "title": "திருக்குர்ஆன் தமிழ் மொழிபெயர்ப்பு (THE HOLY QURAN IN TAMIL)",
+            "description": "Authentic and widely recognized standard Tamil translation.",
+            "full_quran_file": "full_quran_translations/tamil/tamil_jan_turst.json",
+            "per_surah_path": "surah_XXX/translations/tamil/tamil_jan_turst.json"
+          }
+        ]
+      },
+      "tatar": {
+        "language": "Tatar",
+        "category_slug": "tatar",
+        "total_editions": 1,
+        "editions": [
+          {
+            "file_key": "tatar_yakub_nugman",
+            "scholar": "Yakub Ibn Nugman",
+            "title": "КОРЪӘН КӘРИМ (ТАТАРЧА ТӘРҖЕМӘ)",
+            "description": "Standard Tatar translation approved by the Spiritual Administration of Muslims of Tatarstan.",
+            "full_quran_file": "full_quran_translations/tatar/tatar_yakub_nugman.json",
+            "per_surah_path": "surah_XXX/translations/tatar/tatar_yakub_nugman.json"
+          }
+        ]
+      },
+      "telugu": {
+        "language": "Telugu",
+        "category_slug": "telugu",
+        "total_editions": 1,
+        "editions": [
+          {
+            "file_key": "telugu",
+            "scholar": "Telugu",
+            "title": "COMPLETE TRANSLATION",
+            "description": "",
+            "full_quran_file": "full_quran_translations/telugu/telugu.json",
+            "per_surah_path": "surah_XXX/translations/telugu/telugu.json"
+          }
+        ]
+      },
+      "thai": {
+        "language": "Thai",
+        "category_slug": "thai",
+        "total_editions": 1,
+        "editions": [
+          {
+            "file_key": "thai_king_fahad",
+            "scholar": "King Fahad Quran Printing Complex Translation Committee",
+            "title": "พระมหาคัมภีร์อัลกุรอานพร้อมความหมายภาษาไทย (THE HOLY QURAN IN THAI)",
+            "description": "Official Thai translation authorized and printed by King Fahd Complex, Madinah.",
+            "full_quran_file": "full_quran_translations/thai/thai_king_fahad.json",
+            "per_surah_path": "surah_XXX/translations/thai/thai_king_fahad.json"
+          }
+        ]
+      },
+      "turkish": {
+        "language": "Turkish",
+        "category_slug": "turkish",
+        "total_editions": 5,
+        "editions": [
+          {
+            "file_key": "turkish_diyanet",
+            "scholar": "T.C. Diyanet İşleri Başkanlığı (Turkish Presidency of Religious Affairs)",
+            "title": "KUR'AN-I KERIM MEALI (TÜRKÇE)",
+            "description": "Official state Turkish translation",
+            "full_quran_file": "full_quran_translations/turkish/turkish_diyanet.json",
+            "per_surah_path": "surah_XXX/translations/turkish/turkish_diyanet.json"
+          },
+          {
+            "file_key": "turkish_diyanet_vakfi",
+            "scholar": "Türkiye Diyanet Vakfı (TDV)",
+            "title": "KUR'AN-I KERIM VE AÇIKLAMALI MEALI",
+            "description": "Official translation published by the Turkish Religious Foundation (TDV).",
+            "full_quran_file": "full_quran_translations/turkish/turkish_diyanet_vakfi.json",
+            "per_surah_path": "surah_XXX/translations/turkish/turkish_diyanet_vakfi.json"
+          },
+          {
+            "file_key": "turkish_elmalili_hamdi_yazir",
+            "scholar": "Elmalılı Muhammed Hamdi Yazır",
+            "title": "HAK DINI KUR'AN DILI",
+            "description": "The most revered classical Turkish Quran translation",
+            "full_quran_file": "full_quran_translations/turkish/turkish_elmalili_hamdi_yazir.json",
+            "per_surah_path": "surah_XXX/translations/turkish/turkish_elmalili_hamdi_yazir.json"
+          },
+          {
+            "file_key": "turkish_suat_yildirim",
+            "scholar": "Prof. Dr. Suat Yıldırım",
+            "title": "KUR'AN-I HAKÎM VE AÇIKLAMALI MEALI",
+            "description": "Prominent contemporary Turkish Quran scholar and professor of Tafsir.",
+            "full_quran_file": "full_quran_translations/turkish/turkish_suat_yildirim.json",
+            "per_surah_path": "surah_XXX/translations/turkish/turkish_suat_yildirim.json"
+          },
+          {
+            "file_key": "turkish_suleyman_ates",
+            "scholar": "Prof. Dr. Süleyman Ateş",
+            "title": "YÜCE KUR'AN'IN ÇAĞDAŞ TEFSIRI VE MEALI",
+            "description": "Former President of the Directorate of Religious Affairs (Diyanet) of Turkey.",
+            "full_quran_file": "full_quran_translations/turkish/turkish_suleyman_ates.json",
+            "per_surah_path": "surah_XXX/translations/turkish/turkish_suleyman_ates.json"
+          }
+        ]
+      },
+      "urdu": {
+        "language": "Urdu",
+        "category_slug": "urdu",
+        "total_editions": 18,
+        "editions": [
+          {
+            "file_key": "urdu_abdul_salam",
+            "scholar": "Urdu Abdul Salam",
+            "title": "COMPLETE TRANSLATION",
+            "description": "",
+            "full_quran_file": "full_quran_translations/urdu/urdu_abdul_salam.json",
+            "per_surah_path": "surah_XXX/translations/urdu/urdu_abdul_salam.json"
+          },
+          {
+            "file_key": "urdu_al_burhan",
+            "scholar": "Urdu Al Burhan",
+            "title": "COMPLETE TRANSLATION",
+            "description": "",
+            "full_quran_file": "full_quran_translations/urdu/urdu_al_burhan.json",
+            "per_surah_path": "surah_XXX/translations/urdu/urdu_al_burhan.json"
+          },
+          {
+            "file_key": "urdu_ashraf_ali_thanvi",
+            "scholar": "Urdu Ashraf Ali Thanvi",
+            "title": "COMPLETE TRANSLATION",
+            "description": "",
+            "full_quran_file": "full_quran_translations/urdu/urdu_ashraf_ali_thanvi.json",
+            "per_surah_path": "surah_XXX/translations/urdu/urdu_ashraf_ali_thanvi.json"
+          },
+          {
+            "file_key": "urdu_bhuttvi",
+            "scholar": "Urdu Bhuttvi",
+            "title": "COMPLETE TRANSLATION",
+            "description": "",
+            "full_quran_file": "full_quran_translations/urdu/urdu_bhuttvi.json",
+            "per_surah_path": "surah_XXX/translations/urdu/urdu_bhuttvi.json"
+          },
+          {
+            "file_key": "urdu_fateh_jalandhari",
+            "scholar": "Urdu Fateh Jalandhari",
+            "title": "COMPLETE TRANSLATION",
+            "description": "",
+            "full_quran_file": "full_quran_translations/urdu/urdu_fateh_jalandhari.json",
+            "per_surah_path": "surah_XXX/translations/urdu/urdu_fateh_jalandhari.json"
+          },
+          {
+            "file_key": "urdu_fi_zilal",
+            "scholar": "Urdu Fi Zilal",
+            "title": "COMPLETE TRANSLATION",
+            "description": "",
+            "full_quran_file": "full_quran_translations/urdu/urdu_fi_zilal.json",
+            "per_surah_path": "surah_XXX/translations/urdu/urdu_fi_zilal.json"
+          },
+          {
+            "file_key": "urdu_junagarhi",
+            "scholar": "Urdu Junagarhi",
+            "title": "COMPLETE TRANSLATION",
+            "description": "",
+            "full_quran_file": "full_quran_translations/urdu/urdu_junagarhi.json",
+            "per_surah_path": "surah_XXX/translations/urdu/urdu_junagarhi.json"
+          },
+          {
+            "file_key": "urdu_kanzul_iman",
+            "scholar": "Urdu Kanzul Iman",
+            "title": "COMPLETE TRANSLATION",
+            "description": "",
+            "full_quran_file": "full_quran_translations/urdu/urdu_kanzul_iman.json",
+            "per_surah_path": "surah_XXX/translations/urdu/urdu_kanzul_iman.json"
+          },
+          {
+            "file_key": "urdu_maududi",
+            "scholar": "Urdu Maududi",
+            "title": "COMPLETE TRANSLATION",
+            "description": "",
+            "full_quran_file": "full_quran_translations/urdu/urdu_maududi.json",
+            "per_surah_path": "surah_XXX/translations/urdu/urdu_maududi.json"
+          },
+          {
+            "file_key": "urdu_muttafiqa",
+            "scholar": "Urdu Muttafiqa",
+            "title": "COMPLETE TRANSLATION",
+            "description": "",
+            "full_quran_file": "full_quran_translations/urdu/urdu_muttafiqa.json",
+            "per_surah_path": "surah_XXX/translations/urdu/urdu_muttafiqa.json"
+          },
+          {
+            "file_key": "urdu_najafi",
+            "scholar": "Urdu Najafi",
+            "title": "COMPLETE TRANSLATION",
+            "description": "",
+            "full_quran_file": "full_quran_translations/urdu/urdu_najafi.json",
+            "per_surah_path": "surah_XXX/translations/urdu/urdu_najafi.json"
+          },
+          {
+            "file_key": "urdu_noor_ul_amin",
+            "scholar": "Urdu Noor Ul Amin",
+            "title": "COMPLETE TRANSLATION",
+            "description": "",
+            "full_quran_file": "full_quran_translations/urdu/urdu_noor_ul_amin.json",
+            "per_surah_path": "surah_XXX/translations/urdu/urdu_noor_ul_amin.json"
+          },
+          {
+            "file_key": "urdu_pir_karam_shah",
+            "scholar": "Urdu Pir Karam Shah",
+            "title": "COMPLETE TRANSLATION",
+            "description": "",
+            "full_quran_file": "full_quran_translations/urdu/urdu_pir_karam_shah.json",
+            "per_surah_path": "surah_XXX/translations/urdu/urdu_pir_karam_shah.json"
+          },
+          {
+            "file_key": "urdu_tahir_ul_qadri",
+            "scholar": "Urdu Tahir Ul Qadri",
+            "title": "COMPLETE TRANSLATION",
+            "description": "",
+            "full_quran_file": "full_quran_translations/urdu/urdu_tahir_ul_qadri.json",
+            "per_surah_path": "surah_XXX/translations/urdu/urdu_tahir_ul_qadri.json"
+          },
+          {
+            "file_key": "urdu_taqi_usmani",
+            "scholar": "Urdu Taqi Usmani",
+            "title": "COMPLETE TRANSLATION",
+            "description": "",
+            "full_quran_file": "full_quran_translations/urdu/urdu_taqi_usmani.json",
+            "per_surah_path": "surah_XXX/translations/urdu/urdu_taqi_usmani.json"
+          },
+          {
+            "file_key": "urdu_tibyan",
+            "scholar": "Urdu Tibyan",
+            "title": "COMPLETE TRANSLATION",
+            "description": "",
+            "full_quran_file": "full_quran_translations/urdu/urdu_tibyan.json",
+            "per_surah_path": "surah_XXX/translations/urdu/urdu_tibyan.json"
+          },
+          {
+            "file_key": "urdu_wahiduddin_khan",
+            "scholar": "Urdu Wahiduddin Khan",
+            "title": "COMPLETE TRANSLATION",
+            "description": "",
+            "full_quran_file": "full_quran_translations/urdu/urdu_wahiduddin_khan.json",
+            "per_surah_path": "surah_XXX/translations/urdu/urdu_wahiduddin_khan.json"
+          },
+          {
+            "file_key": "urdu_mahmud_al_hasan",
+            "scholar": "Shaykh al-Hind Maulana Mahmud al-Hasan (Deoband)",
+            "title": "Tarjuma Shaykh al-Hind (ترجمہ شیخ الہند)",
+            "description": "One of the most authentic, classical, and universally revered Urdu translations of the Holy Quran.",
+            "full_quran_file": "full_quran_translations/urdu/urdu_mahmud_al_hasan.json",
+            "per_surah_path": "surah_XXX/translations/urdu/urdu_mahmud_al_hasan.json"
+          }
+        ]
+      },
+      "uyghur": {
+        "language": "Uyghur",
+        "category_slug": "uyghur",
+        "total_editions": 1,
+        "editions": [
+          {
+            "file_key": "uyghur_muhammad_saleh",
+            "scholar": "Muhammad Saleh Kashgari",
+            "title": "قۇرئان كەرىم ئۇيغۇرچە تەرجىمىسى (THE HOLY QURAN IN UYGHUR)",
+            "description": "Official Uyghur translation authorized and published by King Fahd Glorious Quran Printing Complex, Madinah.",
+            "full_quran_file": "full_quran_translations/uyghur/uyghur_muhammad_saleh.json",
+            "per_surah_path": "surah_XXX/translations/uyghur/uyghur_muhammad_saleh.json"
+          }
+        ]
+      },
+      "uzbek": {
+        "language": "Uzbek",
+        "category_slug": "uzbek",
+        "total_editions": 1,
+        "editions": [
+          {
+            "file_key": "uzbek_muhammad_sodik",
+            "scholar": "Sheikh Muhammad Sodik Muhammad Yusuf",
+            "title": "ТАФСИРИ ҲИЛОЛ (TAFSIRI HILAL - UZBEK)",
+            "description": "Former Grand Mufti of Uzbekistan; most respected Islamic scholar in Central Asia.",
+            "full_quran_file": "full_quran_translations/uzbek/uzbek_muhammad_sodik.json",
+            "per_surah_path": "surah_XXX/translations/uzbek/uzbek_muhammad_sodik.json"
+          }
+        ]
+      }
+    }
+  },
+  "tafsir_summary": {
+    "total_tafsirs": 25,
+    "total_languages": 4,
+    "languages": {
+      "urdu": {
+        "language": "Urdu",
+        "category_slug": "urdu",
+        "total_editions": 12,
+        "editions": [
+          {
+            "file_key": "tafseer_abdul_salam",
+            "scholar": "Abdul Salam",
+            "title": "COMPLETE TAFSEER / COMMENTARY",
+            "description": "",
+            "full_quran_file": "full_quran_tafsir/urdu/tafseer_abdul_salam.json",
+            "per_surah_path": "surah_XXX/tafsir/urdu/tafseer_abdul_salam.json",
+            "is_split": false
+          },
+          {
+            "file_key": "tafseer_ahsan_ul_bayan",
+            "scholar": "Ahsan Ul Bayan",
+            "title": "COMPLETE TAFSEER / COMMENTARY",
+            "description": "",
+            "full_quran_file": "full_quran_tafsir/urdu/tafseer_ahsan_ul_bayan.json",
+            "per_surah_path": "surah_XXX/tafsir/urdu/tafseer_ahsan_ul_bayan.json",
+            "is_split": false
+          },
+          {
+            "file_key": "tafseer_al_burhan",
+            "scholar": "Al Burhan",
+            "title": "COMPLETE TAFSEER / COMMENTARY",
+            "description": "",
+            "full_quran_file": "full_quran_tafsir/urdu/tafseer_al_burhan.json",
+            "per_surah_path": "surah_XXX/tafsir/urdu/tafseer_al_burhan.json",
+            "is_split": false
+          },
+          {
+            "file_key": "tafseer_fi_zilal_il_quran",
+            "scholar": "Fi Zilal Il Quran",
+            "title": "COMPLETE TAFSEER / COMMENTARY",
+            "description": "",
+            "full_quran_file": [
+              "full_quran_tafsir/urdu/tafseer_fi_zilal_il_quran_part1.json",
+              "full_quran_tafsir/urdu/tafseer_fi_zilal_il_quran_part2.json"
+            ],
+            "per_surah_path": "surah_XXX/tafsir/urdu/tafseer_fi_zilal_il_quran.json",
+            "is_split": true,
+            "parts": [
+              {
+                "part": 1,
+                "filename": "tafseer_fi_zilal_il_quran_part1.json",
+                "path": "full_quran_tafsir/urdu/tafseer_fi_zilal_il_quran_part1.json",
+                "surah_range": "001-009",
+                "start_surah": 1,
+                "end_surah": 9,
+                "size_mb": 63.29
+              },
+              {
+                "part": 2,
+                "filename": "tafseer_fi_zilal_il_quran_part2.json",
+                "path": "full_quran_tafsir/urdu/tafseer_fi_zilal_il_quran_part2.json",
+                "surah_range": "010-114",
+                "start_surah": 10,
+                "end_surah": 114,
+                "size_mb": 66.46
+              }
+            ]
+          },
+          {
+            "file_key": "tafseer_ibn_kathir",
+            "scholar": "Ibn Kathir",
+            "title": "COMPLETE TAFSEER / COMMENTARY",
+            "description": "",
+            "full_quran_file": "full_quran_tafsir/urdu/tafseer_ibn_kathir.json",
+            "per_surah_path": "surah_XXX/tafsir/urdu/tafseer_ibn_kathir.json",
+            "is_split": false
+          },
+          {
+            "file_key": "tafseer_maududi_urdu",
+            "scholar": "Maududi Urdu",
+            "title": "COMPLETE TAFSEER / COMMENTARY",
+            "description": "",
+            "full_quran_file": "full_quran_tafsir/urdu/tafseer_maududi_urdu.json",
+            "per_surah_path": "surah_XXX/tafsir/urdu/tafseer_maududi_urdu.json",
+            "is_split": false
+          },
+          {
+            "file_key": "tafseer_tadabbur_ul_quran",
+            "scholar": "Tadabbur Ul Quran",
+            "title": "COMPLETE TAFSEER / COMMENTARY",
+            "description": "",
+            "full_quran_file": [
+              "full_quran_tafsir/urdu/tafseer_tadabbur_ul_quran_part1.json",
+              "full_quran_tafsir/urdu/tafseer_tadabbur_ul_quran_part2.json"
+            ],
+            "per_surah_path": "surah_XXX/tafsir/urdu/tafseer_tadabbur_ul_quran.json",
+            "is_split": true,
+            "parts": [
+              {
+                "part": 1,
+                "filename": "tafseer_tadabbur_ul_quran_part1.json",
+                "path": "full_quran_tafsir/urdu/tafseer_tadabbur_ul_quran_part1.json",
+                "surah_range": "001-019",
+                "start_surah": 1,
+                "end_surah": 19,
+                "size_mb": 46.55
+              },
+              {
+                "part": 2,
+                "filename": "tafseer_tadabbur_ul_quran_part2.json",
+                "path": "full_quran_tafsir/urdu/tafseer_tadabbur_ul_quran_part2.json",
+                "surah_range": "020-114",
+                "start_surah": 20,
+                "end_surah": 114,
+                "size_mb": 48.28
+              }
+            ]
+          },
+          {
+            "file_key": "tafseer_taqi_usmani",
+            "scholar": "Taqi Usmani",
+            "title": "COMPLETE TAFSEER / COMMENTARY",
+            "description": "",
+            "full_quran_file": "full_quran_tafsir/urdu/tafseer_taqi_usmani.json",
+            "per_surah_path": "surah_XXX/tafsir/urdu/tafseer_taqi_usmani.json",
+            "is_split": false
+          },
+          {
+            "file_key": "tafseer_tibyan_ul_quran",
+            "scholar": "Tibyan Ul Quran",
+            "title": "COMPLETE TAFSEER / COMMENTARY",
+            "description": "",
+            "full_quran_file": [
+              "full_quran_tafsir/urdu/tafseer_tibyan_ul_quran_part1.json",
+              "full_quran_tafsir/urdu/tafseer_tibyan_ul_quran_part2.json",
+              "full_quran_tafsir/urdu/tafseer_tibyan_ul_quran_part3.json",
+              "full_quran_tafsir/urdu/tafseer_tibyan_ul_quran_part4.json"
+            ],
+            "per_surah_path": "surah_XXX/tafsir/urdu/tafseer_tibyan_ul_quran.json",
+            "is_split": true,
+            "parts": [
+              {
+                "part": 1,
+                "filename": "tafseer_tibyan_ul_quran_part1.json",
+                "path": "full_quran_tafsir/urdu/tafseer_tibyan_ul_quran_part1.json",
+                "surah_range": "001-006",
+                "start_surah": 1,
+                "end_surah": 6,
+                "size_mb": 63.11
+              },
+              {
+                "part": 2,
+                "filename": "tafseer_tibyan_ul_quran_part2.json",
+                "path": "full_quran_tafsir/urdu/tafseer_tibyan_ul_quran_part2.json",
+                "surah_range": "007-017",
+                "start_surah": 7,
+                "end_surah": 17,
+                "size_mb": 58.92
+              },
+              {
+                "part": 3,
+                "filename": "tafseer_tibyan_ul_quran_part3.json",
+                "path": "full_quran_tafsir/urdu/tafseer_tibyan_ul_quran_part3.json",
+                "surah_range": "018-035",
+                "start_surah": 18,
+                "end_surah": 35,
+                "size_mb": 60.16
+              },
+              {
+                "part": 4,
+                "filename": "tafseer_tibyan_ul_quran_part4.json",
+                "path": "full_quran_tafsir/urdu/tafseer_tibyan_ul_quran_part4.json",
+                "surah_range": "036-114",
+                "start_surah": 36,
+                "end_surah": 114,
+                "size_mb": 72.2
+              }
+            ]
+          },
+          {
+            "file_key": "tafseer_wahiduddin_urdu",
+            "scholar": "Wahiduddin Urdu",
+            "title": "COMPLETE TAFSEER / COMMENTARY",
+            "description": "",
+            "full_quran_file": "full_quran_tafsir/urdu/tafseer_wahiduddin_urdu.json",
+            "per_surah_path": "surah_XXX/tafsir/urdu/tafseer_wahiduddin_urdu.json",
+            "is_split": false
+          },
+          {
+            "file_key": "tafseer_zia_ul_quran",
+            "scholar": "Zia Ul Quran",
+            "title": "COMPLETE TAFSEER / COMMENTARY",
+            "description": "",
+            "full_quran_file": "full_quran_tafsir/urdu/tafseer_zia_ul_quran.json",
+            "per_surah_path": "surah_XXX/tafsir/urdu/tafseer_zia_ul_quran.json",
+            "is_split": false
+          },
+          {
+            "file_key": "tafseer_bayan_ul_quran_dr_israr",
+            "scholar": "Dr. Israr Ahmad",
+            "title": "Bayan-ul-Quran (بیان القرآن - ڈاکٹر اسرار احمد)",
+            "description": "Profound Urdu Quranic commentary emphasizing modern revival, social reform, and contemplation.",
+            "full_quran_file": "full_quran_tafsir/urdu/tafseer_bayan_ul_quran_dr_israr.json",
+            "per_surah_path": "surah_XXX/tafsir/urdu/tafseer_bayan_ul_quran_dr_israr.json",
+            "is_split": false
+          }
+        ]
+      },
+      "arabic": {
+        "language": "Arabic",
+        "category_slug": "arabic",
+        "total_editions": 8,
+        "editions": [
+          {
+            "file_key": "tafseer_al_baghawi",
+            "scholar": "Imam Al-Baghawi (الإمام الحسين بن مسعود البغوي)",
+            "title": "TAFSEER AL-BAGHAWI (معالم التنزيل - تفسير البغوي)",
+            "description": "Esteemed classical Sunni Athari tafsir",
+            "full_quran_file": "full_quran_tafsir/arabic/tafseer_al_baghawi.json",
+            "per_surah_path": "surah_XXX/tafsir/arabic/tafseer_al_baghawi.json",
+            "is_split": false
+          },
+          {
+            "file_key": "tafseer_al_jalalayn",
+            "scholar": "Jalal ad-Din al-Mahalli & Jalal ad-Din as-Suyuti (جلال الدين المحلي وجلال الدين السيوطي)",
+            "title": "TAFSEER AL-JALALAYN (تفسير الجلالين)",
+            "description": "Universal classical benchmark Arabic tafsir taught across Islamic universities",
+            "full_quran_file": "full_quran_tafsir/arabic/tafseer_al_jalalayn.json",
+            "per_surah_path": "surah_XXX/tafsir/arabic/tafseer_al_jalalayn.json",
+            "is_split": false
+          },
+          {
+            "file_key": "tafseer_al_muyassar_king_fahad",
+            "scholar": "King Fahad Quran Printing Complex (مجمع الملك فهد لطباعة المصحف الشريف)",
+            "title": "TAFSEER AL-MUYASSAR (التفسير الميسر)",
+            "description": "Official contemporary concise Arabic tafsir published by King Fahad Complex in Madinah",
+            "full_quran_file": "full_quran_tafsir/arabic/tafseer_al_muyassar_king_fahad.json",
+            "per_surah_path": "surah_XXX/tafsir/arabic/tafseer_al_muyassar_king_fahad.json",
+            "is_split": false
+          },
+          {
+            "file_key": "tafseer_al_qurtubi",
+            "scholar": "Imam Abu 'Abdullah Al-Qurtubi (الإمام القرطبي)",
+            "title": "TAFSEER AL-QURTUBI (الجامع لأحكام القرآن - تفسير القرطبي)",
+            "description": "Monumental legal and linguistic classical tafsir",
+            "full_quran_file": [
+              "full_quran_tafsir/arabic/tafseer_al_qurtubi_part1.json",
+              "full_quran_tafsir/arabic/tafseer_al_qurtubi_part2.json"
+            ],
+            "per_surah_path": "surah_XXX/tafsir/arabic/tafseer_al_qurtubi.json",
+            "is_split": true,
+            "parts": [
+              {
+                "part": 1,
+                "filename": "tafseer_al_qurtubi_part1.json",
+                "path": "full_quran_tafsir/arabic/tafseer_al_qurtubi_part1.json",
+                "surah_range": "001-015",
+                "start_surah": 1,
+                "end_surah": 15,
+                "size_mb": 57.14
+              },
+              {
+                "part": 2,
+                "filename": "tafseer_al_qurtubi_part2.json",
+                "path": "full_quran_tafsir/arabic/tafseer_al_qurtubi_part2.json",
+                "surah_range": "016-114",
+                "start_surah": 16,
+                "end_surah": 114,
+                "size_mb": 58.31
+              }
+            ]
+          },
+          {
+            "file_key": "tafseer_al_waseet_tantawi",
+            "scholar": "Dr. Muhammad Sayyid Tantawi, Grand Imam of Al-Azhar (د. محمد سيد طنطاوي)",
+            "title": "AL-TAFSEER AL-WASEET (التفسير الوسيط)",
+            "description": "Comprehensive modern authoritative Al-Azhar tafsir",
+            "full_quran_file": [
+              "full_quran_tafsir/arabic/tafseer_al_waseet_tantawi_part1.json",
+              "full_quran_tafsir/arabic/tafseer_al_waseet_tantawi_part2.json"
+            ],
+            "per_surah_path": "surah_XXX/tafsir/arabic/tafseer_al_waseet_tantawi.json",
+            "is_split": true,
+            "parts": [
+              {
+                "part": 1,
+                "filename": "tafseer_al_waseet_tantawi_part1.json",
+                "path": "full_quran_tafsir/arabic/tafseer_al_waseet_tantawi_part1.json",
+                "surah_range": "001-011",
+                "start_surah": 1,
+                "end_surah": 11,
+                "size_mb": 50.28
+              },
+              {
+                "part": 2,
+                "filename": "tafseer_al_waseet_tantawi_part2.json",
+                "path": "full_quran_tafsir/arabic/tafseer_al_waseet_tantawi_part2.json",
+                "surah_range": "012-114",
+                "start_surah": 12,
+                "end_surah": 114,
+                "size_mb": 52.91
+              }
+            ]
+          },
+          {
+            "file_key": "tafseer_al_tabari_arabic",
+            "scholar": "Imam Abu Ja'far Muhammad ibn Jarir at-Tabari (839–923 CE)",
+            "title": "Jami' al-Bayan 'an Ta'wil Ay al-Qur'an (جامع البيان عن تأويل آي القرآن)",
+            "description": "The foundational premier classical Tafsir bil-Ma'thur in Islamic history.",
+            "full_quran_file": "full_quran_tafsir/arabic/tafseer_al_tabari_arabic.json",
+            "per_surah_path": "surah_XXX/tafsir/arabic/tafseer_al_tabari_arabic.json",
+            "is_split": false
+          },
+          {
+            "file_key": "tafseer_as_saadi_arabic",
+            "scholar": "Shaykh Abd al-Rahman ibn Nasir as-Sa'di (1889–1956 CE)",
+            "title": "Taysir al-Karim al-Rahman fi Tafsir Kalam al-Mannan (تيسير الكريم الرحمن في تفسير كلام المنان)",
+            "description": "Highly revered, authentic, clear, and comprehensive exegesis in classical contemporary Arabic.",
+            "full_quran_file": "full_quran_tafsir/arabic/tafseer_as_saadi_arabic.json",
+            "per_surah_path": "surah_XXX/tafsir/arabic/tafseer_as_saadi_arabic.json",
+            "is_split": false
+          },
+          {
+            "file_key": "tafseer_ibn_kathir_arabic",
+            "scholar": "Hafiz Imad ad-Din Isma'il ibn Kathir (1300–1373 CE)",
+            "title": "Tafsir al-Qur'an al-'Azim - Arabic Original (تفسير القرآن العظيم)",
+            "description": "Classical Arabic unabridged text of the most widely read Tafsir in the Islamic world.",
+            "full_quran_file": "full_quran_tafsir/arabic/tafseer_ibn_kathir_arabic.json",
+            "per_surah_path": "surah_XXX/tafsir/arabic/tafseer_ibn_kathir_arabic.json",
+            "is_split": false
+          }
+        ]
+      },
+      "hindi": {
+        "language": "Hindi",
+        "category_slug": "hindi",
+        "total_editions": 1,
+        "editions": [
+          {
+            "file_key": "tafseer_maududi_hindi",
+            "scholar": "Maududi Hindi",
+            "title": "COMPLETE TAFSEER / COMMENTARY",
+            "description": "",
+            "full_quran_file": [
+              "full_quran_tafsir/hindi/tafseer_maududi_hindi_part1.json",
+              "full_quran_tafsir/hindi/tafseer_maududi_hindi_part2.json"
+            ],
+            "per_surah_path": "surah_XXX/tafsir/hindi/tafseer_maududi_hindi.json",
+            "is_split": true,
+            "parts": [
+              {
+                "part": 1,
+                "filename": "tafseer_maududi_hindi_part1.json",
+                "path": "full_quran_tafsir/hindi/tafseer_maududi_hindi_part1.json",
+                "surah_range": "001-029",
+                "start_surah": 1,
+                "end_surah": 29,
+                "size_mb": 48.36
+              },
+              {
+                "part": 2,
+                "filename": "tafseer_maududi_hindi_part2.json",
+                "path": "full_quran_tafsir/hindi/tafseer_maududi_hindi_part2.json",
+                "surah_range": "030-114",
+                "start_surah": 30,
+                "end_surah": 114,
+                "size_mb": 49.32
+              }
+            ]
+          }
+        ]
+      },
+      "english": {
+        "language": "English",
+        "category_slug": "english",
+        "total_editions": 4,
+        "editions": [
+          {
+            "file_key": "tafseer_tafheem_english",
+            "scholar": "Tafheem English",
+            "title": "COMPLETE TAFSEER / COMMENTARY",
+            "description": "",
+            "full_quran_file": "full_quran_tafsir/english/tafseer_tafheem_english.json",
+            "per_surah_path": "surah_XXX/tafsir/english/tafseer_tafheem_english.json",
+            "is_split": false
+          },
+          {
+            "file_key": "tafseer_wahiduddin_english",
+            "scholar": "Wahiduddin English",
+            "title": "COMPLETE TAFSEER / COMMENTARY",
+            "description": "",
+            "full_quran_file": "full_quran_tafsir/english/tafseer_wahiduddin_english.json",
+            "per_surah_path": "surah_XXX/tafsir/english/tafseer_wahiduddin_english.json",
+            "is_split": false
+          },
+          {
+            "file_key": "tafseer_ibn_kathir_english",
+            "scholar": "Hafiz Imad ad-Din Isma'il ibn Kathir",
+            "title": "Tafsir Ibn Kathir (Abridged/Unabridged English Commentary)",
+            "description": "Comprehensive English translation of Hafiz Ibn Kathir's renowned exegesis.",
+            "full_quran_file": "full_quran_tafsir/english/tafseer_ibn_kathir_english.json",
+            "per_surah_path": "surah_XXX/tafsir/english/tafseer_ibn_kathir_english.json",
+            "is_split": false
+          },
+          {
+            "file_key": "tafseer_maarif_ul_quran_english",
+            "scholar": "Grand Mufti Muhammad Shafi Usmani (trans. Prof. Muhammad Hasan Askari)",
+            "title": "Ma'ariful Qur'an (Comprehensive English Commentary)",
+            "description": "Renowned 8-volume scholarly Urdu exegesis rendered into English with deep Fiqh and Hadith insights.",
+            "full_quran_file": "full_quran_tafsir/english/tafseer_maarif_ul_quran_english.json",
+            "per_surah_path": "surah_XXX/tafsir/english/tafseer_maarif_ul_quran_english.json",
+            "is_split": false
+          }
+        ]
+      }
+    }
+  },
+  "per_surah_unified_file": "surah_XXX/complete.json",
+  "unified_file_description": "Brings Arabic Uthmani & Tajweed, primary Translations (Urdu, English, Roman Urdu, Hindi), and primary Tafseer (Urdu, English, Arabic) together per Ayah in relevant categories."
+}

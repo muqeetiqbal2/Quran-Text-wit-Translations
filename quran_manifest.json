@@ -1,0 +1,3503 @@
+{
+  "module": "quran_text",
+  "total_surahs": 114,
+  "total_verses": 6236,
+  "total_juz": 30,
+  "total_translations": 106,
+  "total_tafsirs": 25,
+  "arabic_scripts": [
+    {
+      "id": "uthmani",
+      "name": "Uthmani Script (عثماني)",
+      "full_json": "full_quran_arabic/quran_arabic_uthmani.json"
+    },
+    {
+      "id": "tajweed",
+      "name": "Tajweed Color-Coded Script (تجويد)",
+      "full_json": "full_quran_arabic/quran_arabic_tajweed.json"
+    }
+  ],
+  "word_by_word": [
+    {
+      "id": "english",
+      "language": "English",
+      "file": "full_quran_word_by_word/word_by_word_english.json"
+    },
+    {
+      "id": "urdu",
+      "language": "Urdu",
+      "file": "full_quran_word_by_word/word_by_word_urdu.json"
+    },
+    {
+      "id": "hindi",
+      "language": "Hindi",
+      "file": "full_quran_word_by_word/word_by_word_hindi.json"
+    }
+  ],
+  "surahs": [
+    {
+      "surah_id": 1,
+      "name_arabic": "الفاتحة",
+      "name_urdu": "سورۃالفاتحہ",
+      "name_english": "Al-Fatihah",
+      "english_meaning": "The Opening",
+      "revelation_type": "Meccan",
+      "revelation_order": 5,
+      "total_verses": 7,
+      "total_rukus": 1,
+      "start_page_15_line": 2,
+      "start_page_16_line": "2",
+      "juz_numbers": [
+        1
+      ]
+    },
+    {
+      "surah_id": 2,
+      "name_arabic": "البقرة",
+      "name_urdu": "سورۃ البقرہ",
+      "name_english": "Al-Baqarah",
+      "english_meaning": "The Cow",
+      "revelation_type": "Medinan",
+      "revelation_order": 87,
+      "total_verses": 286,
+      "total_rukus": 40,
+      "start_page_15_line": 3,
+      "start_page_16_line": "2",
+      "juz_numbers": [
+        1,
+        2,
+        3
+      ]
+    },
+    {
+      "surah_id": 3,
+      "name_arabic": "آل عمران",
+      "name_urdu": "سورۃ آل عمران",
+      "name_english": "Ali 'Imran",
+      "english_meaning": "Family of Imran",
+      "revelation_type": "Medinan",
+      "revelation_order": 89,
+      "total_verses": 200,
+      "total_rukus": 20,
+      "start_page_15_line": 51,
+      "start_page_16_line": "46",
+      "juz_numbers": [
+        3,
+        4
+      ]
+    },
+    {
+      "surah_id": 4,
+      "name_arabic": "النساء",
+      "name_urdu": "سورۃ النساء",
+      "name_english": "An-Nisa",
+      "english_meaning": "The Women",
+      "revelation_type": "Medinan",
+      "revelation_order": 92,
+      "total_verses": 176,
+      "total_rukus": 24,
+      "start_page_15_line": 78,
+      "start_page_16_line": "71",
+      "juz_numbers": [
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "surah_id": 5,
+      "name_arabic": "المائدة",
+      "name_urdu": "سورۃ المائدہ",
+      "name_english": "Al-Ma'idah",
+      "english_meaning": "The Table Spread",
+      "revelation_type": "Medinan",
+      "revelation_order": 112,
+      "total_verses": 120,
+      "total_rukus": 16,
+      "start_page_15_line": 107,
+      "start_page_16_line": "97",
+      "juz_numbers": [
+        6,
+        7
+      ]
+    },
+    {
+      "surah_id": 6,
+      "name_arabic": "الأنعام",
+      "name_urdu": "سورۃ الانعام",
+      "name_english": "Al-An'am",
+      "english_meaning": "The Cattle",
+      "revelation_type": "Meccan",
+      "revelation_order": 55,
+      "total_verses": 165,
+      "total_rukus": 20,
+      "start_page_15_line": 129,
+      "start_page_16_line": "116",
+      "juz_numbers": [
+        7,
+        8
+      ]
+    },
+    {
+      "surah_id": 7,
+      "name_arabic": "الأعراف",
+      "name_urdu": "سورۃ الاعراف",
+      "name_english": "Al-A'raf",
+      "english_meaning": "The Heights",
+      "revelation_type": "Meccan",
+      "revelation_order": 39,
+      "total_verses": 206,
+      "total_rukus": 24,
+      "start_page_15_line": 152,
+      "start_page_16_line": "137",
+      "juz_numbers": [
+        8,
+        9
+      ]
+    },
+    {
+      "surah_id": 8,
+      "name_arabic": "الأنفال",
+      "name_urdu": "سورۃ الانفال",
+      "name_english": "Al-Anfal",
+      "english_meaning": "The Spoils of War",
+      "revelation_type": "Medinan",
+      "revelation_order": 88,
+      "total_verses": 75,
+      "total_rukus": 10,
+      "start_page_15_line": 178,
+      "start_page_16_line": "160",
+      "juz_numbers": [
+        9,
+        10
+      ]
+    },
+    {
+      "surah_id": 9,
+      "name_arabic": "التوبة",
+      "name_urdu": "سورۃ التوبہ",
+      "name_english": "At-Tawbah",
+      "english_meaning": "The Repentance",
+      "revelation_type": "Medinan",
+      "revelation_order": 113,
+      "total_verses": 129,
+      "total_rukus": 16,
+      "start_page_15_line": 188,
+      "start_page_16_line": "169",
+      "juz_numbers": [
+        10,
+        11
+      ]
+    },
+    {
+      "surah_id": 10,
+      "name_arabic": "يونس",
+      "name_urdu": "سورۃیونس",
+      "name_english": "Yunus",
+      "english_meaning": "Jonah",
+      "revelation_type": "Meccan",
+      "revelation_order": 51,
+      "total_verses": 109,
+      "total_rukus": 11,
+      "start_page_15_line": 209,
+      "start_page_16_line": "188",
+      "juz_numbers": [
+        11
+      ]
+    },
+    {
+      "surah_id": 11,
+      "name_arabic": "هود",
+      "name_urdu": "سورۃ ھود",
+      "name_english": "Hud",
+      "english_meaning": "Hud",
+      "revelation_type": "Meccan",
+      "revelation_order": 52,
+      "total_verses": 123,
+      "total_rukus": 10,
+      "start_page_15_line": 222,
+      "start_page_16_line": "200",
+      "juz_numbers": [
+        11,
+        12
+      ]
+    },
+    {
+      "surah_id": 12,
+      "name_arabic": "يوسف",
+      "name_urdu": "سورۃ یوسف",
+      "name_english": "Yusuf",
+      "english_meaning": "Joseph",
+      "revelation_type": "Meccan",
+      "revelation_order": 53,
+      "total_verses": 111,
+      "total_rukus": 12,
+      "start_page_15_line": 236,
+      "start_page_16_line": "213",
+      "juz_numbers": [
+        12,
+        13
+      ]
+    },
+    {
+      "surah_id": 13,
+      "name_arabic": "الرعد",
+      "name_urdu": "سورۃ الرعد",
+      "name_english": "Ar-Ra'd",
+      "english_meaning": "The Thunder",
+      "revelation_type": "Medinan",
+      "revelation_order": 96,
+      "total_verses": 43,
+      "total_rukus": 6,
+      "start_page_15_line": 250,
+      "start_page_16_line": "225",
+      "juz_numbers": [
+        13
+      ]
+    },
+    {
+      "surah_id": 14,
+      "name_arabic": "إبراهيم",
+      "name_urdu": "سورۃ ابراہیم",
+      "name_english": "Ibrahim",
+      "english_meaning": "Abraham",
+      "revelation_type": "Meccan",
+      "revelation_order": 72,
+      "total_verses": 52,
+      "total_rukus": 7,
+      "start_page_15_line": 256,
+      "start_page_16_line": "231",
+      "juz_numbers": [
+        13
+      ]
+    },
+    {
+      "surah_id": 15,
+      "name_arabic": "الحجر",
+      "name_urdu": "سورۃ الحجر",
+      "name_english": "Al-Hijr",
+      "english_meaning": "The Rocky Tract",
+      "revelation_type": "Meccan",
+      "revelation_order": 54,
+      "total_verses": 99,
+      "total_rukus": 6,
+      "start_page_15_line": 262,
+      "start_page_16_line": "236",
+      "juz_numbers": [
+        13,
+        14
+      ]
+    },
+    {
+      "surah_id": 16,
+      "name_arabic": "النحل",
+      "name_urdu": "سورۃ النحل",
+      "name_english": "An-Nahl",
+      "english_meaning": "The Bee",
+      "revelation_type": "Meccan",
+      "revelation_order": 70,
+      "total_verses": 128,
+      "total_rukus": 16,
+      "start_page_15_line": 269,
+      "start_page_16_line": "241",
+      "juz_numbers": [
+        14
+      ]
+    },
+    {
+      "surah_id": 17,
+      "name_arabic": "الإسراء",
+      "name_urdu": "سورۃ الاسراء",
+      "name_english": "Al-Isra",
+      "english_meaning": "The Night Journey",
+      "revelation_type": "Meccan",
+      "revelation_order": 50,
+      "total_verses": 111,
+      "total_rukus": 12,
+      "start_page_15_line": 283,
+      "start_page_16_line": "255",
+      "juz_numbers": [
+        15
+      ]
+    },
+    {
+      "surah_id": 18,
+      "name_arabic": "الكهف",
+      "name_urdu": "سورۃ الکہف",
+      "name_english": "Al-Kahf",
+      "english_meaning": "The Cave",
+      "revelation_type": "Meccan",
+      "revelation_order": 69,
+      "total_verses": 110,
+      "total_rukus": 12,
+      "start_page_15_line": 294,
+      "start_page_16_line": "265",
+      "juz_numbers": [
+        15,
+        16
+      ]
+    },
+    {
+      "surah_id": 19,
+      "name_arabic": "مريم",
+      "name_urdu": "سورۃ مریم",
+      "name_english": "Maryam",
+      "english_meaning": "Mary",
+      "revelation_type": "Meccan",
+      "revelation_order": 44,
+      "total_verses": 98,
+      "total_rukus": 6,
+      "start_page_15_line": 306,
+      "start_page_16_line": "276",
+      "juz_numbers": [
+        16
+      ]
+    },
+    {
+      "surah_id": 20,
+      "name_arabic": "طه",
+      "name_urdu": "سورۃطٰہٰ",
+      "name_english": "Taha",
+      "english_meaning": "Ta-Ha",
+      "revelation_type": "Meccan",
+      "revelation_order": 45,
+      "total_verses": 135,
+      "total_rukus": 8,
+      "start_page_15_line": 313,
+      "start_page_16_line": "282",
+      "juz_numbers": [
+        16
+      ]
+    },
+    {
+      "surah_id": 21,
+      "name_arabic": "الأنبياء",
+      "name_urdu": "سورۃ الانبیاء",
+      "name_english": "Al-Anbiya",
+      "english_meaning": "The Prophets",
+      "revelation_type": "Meccan",
+      "revelation_order": 73,
+      "total_verses": 112,
+      "total_rukus": 7,
+      "start_page_15_line": 323,
+      "start_page_16_line": "291",
+      "juz_numbers": [
+        17
+      ]
+    },
+    {
+      "surah_id": 22,
+      "name_arabic": "الحج",
+      "name_urdu": "سورۃ الحج",
+      "name_english": "Al-Hajj",
+      "english_meaning": "The Pilgrimage",
+      "revelation_type": "Medinan",
+      "revelation_order": 103,
+      "total_verses": 78,
+      "total_rukus": 10,
+      "start_page_15_line": 332,
+      "start_page_16_line": "300",
+      "juz_numbers": [
+        17
+      ]
+    },
+    {
+      "surah_id": 23,
+      "name_arabic": "المؤمنون",
+      "name_urdu": "سورۃ المؤمنون",
+      "name_english": "Al-Mu'minun",
+      "english_meaning": "The Believers",
+      "revelation_type": "Meccan",
+      "revelation_order": 74,
+      "total_verses": 118,
+      "total_rukus": 6,
+      "start_page_15_line": 343,
+      "start_page_16_line": "309",
+      "juz_numbers": [
+        18
+      ]
+    },
+    {
+      "surah_id": 24,
+      "name_arabic": "النور",
+      "name_urdu": "سورۃ النور",
+      "name_english": "An-Nur",
+      "english_meaning": "The Light",
+      "revelation_type": "Medinan",
+      "revelation_order": 102,
+      "total_verses": 64,
+      "total_rukus": 9,
+      "start_page_15_line": 351,
+      "start_page_16_line": "316",
+      "juz_numbers": [
+        18
+      ]
+    },
+    {
+      "surah_id": 25,
+      "name_arabic": "الفرقان",
+      "name_urdu": "سورۃ الفرقان",
+      "name_english": "Al-Furqan",
+      "english_meaning": "The Criterion",
+      "revelation_type": "Meccan",
+      "revelation_order": 42,
+      "total_verses": 77,
+      "total_rukus": 6,
+      "start_page_15_line": 360,
+      "start_page_16_line": "325",
+      "juz_numbers": [
+        18,
+        19
+      ]
+    },
+    {
+      "surah_id": 26,
+      "name_arabic": "الشعراء",
+      "name_urdu": "سورۃ الشعراء",
+      "name_english": "Ash-Shu'ara",
+      "english_meaning": "The Poets",
+      "revelation_type": "Meccan",
+      "revelation_order": 47,
+      "total_verses": 227,
+      "total_rukus": 11,
+      "start_page_15_line": 367,
+      "start_page_16_line": "331",
+      "juz_numbers": [
+        19
+      ]
+    },
+    {
+      "surah_id": 27,
+      "name_arabic": "النمل",
+      "name_urdu": "سورۃ النمل",
+      "name_english": "An-Naml",
+      "english_meaning": "The Ant",
+      "revelation_type": "Meccan",
+      "revelation_order": 48,
+      "total_verses": 93,
+      "total_rukus": 7,
+      "start_page_15_line": 377,
+      "start_page_16_line": "340",
+      "juz_numbers": [
+        19,
+        20
+      ]
+    },
+    {
+      "surah_id": 28,
+      "name_arabic": "القصص",
+      "name_urdu": "سورۃ القصص",
+      "name_english": "Al-Qasas",
+      "english_meaning": "The Stories",
+      "revelation_type": "Meccan",
+      "revelation_order": 49,
+      "total_verses": 88,
+      "total_rukus": 9,
+      "start_page_15_line": 386,
+      "start_page_16_line": "348",
+      "juz_numbers": [
+        20
+      ]
+    },
+    {
+      "surah_id": 29,
+      "name_arabic": "العنكبوت",
+      "name_urdu": "سورۃ العنکبوت",
+      "name_english": "Al-'Ankabut",
+      "english_meaning": "The Spider",
+      "revelation_type": "Meccan",
+      "revelation_order": 85,
+      "total_verses": 69,
+      "total_rukus": 7,
+      "start_page_15_line": 397,
+      "start_page_16_line": "358",
+      "juz_numbers": [
+        20,
+        21
+      ]
+    },
+    {
+      "surah_id": 30,
+      "name_arabic": "الروم",
+      "name_urdu": "سورۃ الروم",
+      "name_english": "Ar-Rum",
+      "english_meaning": "The Romans",
+      "revelation_type": "Meccan",
+      "revelation_order": 84,
+      "total_verses": 60,
+      "total_rukus": 6,
+      "start_page_15_line": 405,
+      "start_page_16_line": "365",
+      "juz_numbers": [
+        21
+      ]
+    },
+    {
+      "surah_id": 31,
+      "name_arabic": "لقمان",
+      "name_urdu": "سورۃ لقمٰن",
+      "name_english": "Luqman",
+      "english_meaning": "Luqman",
+      "revelation_type": "Meccan",
+      "revelation_order": 57,
+      "total_verses": 34,
+      "total_rukus": 4,
+      "start_page_15_line": 412,
+      "start_page_16_line": "371",
+      "juz_numbers": [
+        21
+      ]
+    },
+    {
+      "surah_id": 32,
+      "name_arabic": "السجدة",
+      "name_urdu": "سورۃ السجدۃ",
+      "name_english": "As-Sajdah",
+      "english_meaning": "The Prostration",
+      "revelation_type": "Meccan",
+      "revelation_order": 75,
+      "total_verses": 30,
+      "total_rukus": 3,
+      "start_page_15_line": 416,
+      "start_page_16_line": "374",
+      "juz_numbers": [
+        21
+      ]
+    },
+    {
+      "surah_id": 33,
+      "name_arabic": "الأحزاب",
+      "name_urdu": "سورۃ الاحزاب",
+      "name_english": "Al-Ahzab",
+      "english_meaning": "The Combined Forces",
+      "revelation_type": "Medinan",
+      "revelation_order": 90,
+      "total_verses": 73,
+      "total_rukus": 9,
+      "start_page_15_line": 419,
+      "start_page_16_line": "377",
+      "juz_numbers": [
+        21,
+        22
+      ]
+    },
+    {
+      "surah_id": 34,
+      "name_arabic": "سبأ",
+      "name_urdu": "سورۃ سبا",
+      "name_english": "Saba",
+      "english_meaning": "Sheba",
+      "revelation_type": "Meccan",
+      "revelation_order": 58,
+      "total_verses": 54,
+      "total_rukus": 6,
+      "start_page_15_line": 429,
+      "start_page_16_line": "386",
+      "juz_numbers": [
+        22
+      ]
+    },
+    {
+      "surah_id": 35,
+      "name_arabic": "فاطر",
+      "name_urdu": "سورۃ فاطر",
+      "name_english": "Fatir",
+      "english_meaning": "Originator",
+      "revelation_type": "Meccan",
+      "revelation_order": 43,
+      "total_verses": 45,
+      "total_rukus": 5,
+      "start_page_15_line": 435,
+      "start_page_16_line": "392",
+      "juz_numbers": [
+        22
+      ]
+    },
+    {
+      "surah_id": 36,
+      "name_arabic": "يس",
+      "name_urdu": "سورۃیٰس",
+      "name_english": "Ya-Sin",
+      "english_meaning": "Ya-Sin",
+      "revelation_type": "Meccan",
+      "revelation_order": 41,
+      "total_verses": 83,
+      "total_rukus": 5,
+      "start_page_15_line": 441,
+      "start_page_16_line": "397",
+      "juz_numbers": [
+        22,
+        23
+      ]
+    },
+    {
+      "surah_id": 37,
+      "name_arabic": "الصافات",
+      "name_urdu": "سورۃ الصّفّٰت",
+      "name_english": "As-Saffat",
+      "english_meaning": "Those who set the Ranks",
+      "revelation_type": "Meccan",
+      "revelation_order": 56,
+      "total_verses": 182,
+      "total_rukus": 5,
+      "start_page_15_line": 446,
+      "start_page_16_line": "402",
+      "juz_numbers": [
+        23
+      ]
+    },
+    {
+      "surah_id": 38,
+      "name_arabic": "ص",
+      "name_urdu": "سورۃ صٓ",
+      "name_english": "Sad",
+      "english_meaning": "The Letter 'Saad'",
+      "revelation_type": "Meccan",
+      "revelation_order": 38,
+      "total_verses": 88,
+      "total_rukus": 5,
+      "start_page_15_line": 453,
+      "start_page_16_line": "409",
+      "juz_numbers": [
+        23
+      ]
+    },
+    {
+      "surah_id": 39,
+      "name_arabic": "الزمر",
+      "name_urdu": "سورۃ الزمر",
+      "name_english": "Az-Zumar",
+      "english_meaning": "The Troops",
+      "revelation_type": "Meccan",
+      "revelation_order": 59,
+      "total_verses": 75,
+      "total_rukus": 8,
+      "start_page_15_line": 459,
+      "start_page_16_line": "413",
+      "juz_numbers": [
+        23,
+        24
+      ]
+    },
+    {
+      "surah_id": 40,
+      "name_arabic": "غافر",
+      "name_urdu": "سورۃ المؤمن",
+      "name_english": "Ghafir",
+      "english_meaning": "The Forgiver",
+      "revelation_type": "Meccan",
+      "revelation_order": 60,
+      "total_verses": 85,
+      "total_rukus": 9,
+      "start_page_15_line": 468,
+      "start_page_16_line": "421",
+      "juz_numbers": [
+        24
+      ]
+    },
+    {
+      "surah_id": 41,
+      "name_arabic": "فصلت",
+      "name_urdu": "سورۃ فصّلت",
+      "name_english": "Fussilat",
+      "english_meaning": "Explained in Detail",
+      "revelation_type": "Meccan",
+      "revelation_order": 61,
+      "total_verses": 54,
+      "total_rukus": 6,
+      "start_page_15_line": 478,
+      "start_page_16_line": "430",
+      "juz_numbers": [
+        24,
+        25
+      ]
+    },
+    {
+      "surah_id": 42,
+      "name_arabic": "الشورى",
+      "name_urdu": "سورۃ الشوریٰ",
+      "name_english": "Ash-Shuraa",
+      "english_meaning": "The Consultation",
+      "revelation_type": "Meccan",
+      "revelation_order": 62,
+      "total_verses": 53,
+      "total_rukus": 5,
+      "start_page_15_line": 484,
+      "start_page_16_line": "435",
+      "juz_numbers": [
+        25
+      ]
+    },
+    {
+      "surah_id": 43,
+      "name_arabic": "الزخرف",
+      "name_urdu": "سورۃ الزخرف",
+      "name_english": "Az-Zukhruf",
+      "english_meaning": "The Ornaments of Gold",
+      "revelation_type": "Meccan",
+      "revelation_order": 63,
+      "total_verses": 89,
+      "total_rukus": 7,
+      "start_page_15_line": 490,
+      "start_page_16_line": "441",
+      "juz_numbers": [
+        25
+      ]
+    },
+    {
+      "surah_id": 44,
+      "name_arabic": "الدخان",
+      "name_urdu": "سورۃ الدخان",
+      "name_english": "Ad-Dukhan",
+      "english_meaning": "The Smoke",
+      "revelation_type": "Meccan",
+      "revelation_order": 64,
+      "total_verses": 59,
+      "total_rukus": 3,
+      "start_page_15_line": 496,
+      "start_page_16_line": "447",
+      "juz_numbers": [
+        25
+      ]
+    },
+    {
+      "surah_id": 45,
+      "name_arabic": "الجاثية",
+      "name_urdu": "سورۃ الجاثیہ",
+      "name_english": "Al-Jathiyah",
+      "english_meaning": "The Crouching",
+      "revelation_type": "Meccan",
+      "revelation_order": 65,
+      "total_verses": 37,
+      "total_rukus": 4,
+      "start_page_15_line": 499,
+      "start_page_16_line": "449",
+      "juz_numbers": [
+        25
+      ]
+    },
+    {
+      "surah_id": 46,
+      "name_arabic": "الأحقاف",
+      "name_urdu": "سورۃ الاحقاف",
+      "name_english": "Al-Ahqaf",
+      "english_meaning": "The Wind-Curved Sandhills",
+      "revelation_type": "Meccan",
+      "revelation_order": 66,
+      "total_verses": 35,
+      "total_rukus": 4,
+      "start_page_15_line": 503,
+      "start_page_16_line": "453",
+      "juz_numbers": [
+        26
+      ]
+    },
+    {
+      "surah_id": 47,
+      "name_arabic": "محمد",
+      "name_urdu": "سورۃ محمد",
+      "name_english": "Muhammad",
+      "english_meaning": "Muhammad",
+      "revelation_type": "Medinan",
+      "revelation_order": 95,
+      "total_verses": 38,
+      "total_rukus": 4,
+      "start_page_15_line": 507,
+      "start_page_16_line": "457",
+      "juz_numbers": [
+        26
+      ]
+    },
+    {
+      "surah_id": 48,
+      "name_arabic": "الفتح",
+      "name_urdu": "سورۃ الفتح",
+      "name_english": "Al-Fath",
+      "english_meaning": "The Victory",
+      "revelation_type": "Medinan",
+      "revelation_order": 111,
+      "total_verses": 29,
+      "total_rukus": 4,
+      "start_page_15_line": 512,
+      "start_page_16_line": "461",
+      "juz_numbers": [
+        26
+      ]
+    },
+    {
+      "surah_id": 49,
+      "name_arabic": "الحجرات",
+      "name_urdu": "سورۃ الحجرات",
+      "name_english": "Al-Hujurat",
+      "english_meaning": "The Rooms",
+      "revelation_type": "Medinan",
+      "revelation_order": 106,
+      "total_verses": 18,
+      "total_rukus": 2,
+      "start_page_15_line": 516,
+      "start_page_16_line": "465",
+      "juz_numbers": [
+        26
+      ]
+    },
+    {
+      "surah_id": 50,
+      "name_arabic": "ق",
+      "name_urdu": "سورۃ ق",
+      "name_english": "Qaf",
+      "english_meaning": "The Letter 'Qaf'",
+      "revelation_type": "Meccan",
+      "revelation_order": 34,
+      "total_verses": 45,
+      "total_rukus": 3,
+      "start_page_15_line": 519,
+      "start_page_16_line": "467",
+      "juz_numbers": [
+        26
+      ]
+    },
+    {
+      "surah_id": 51,
+      "name_arabic": "الذاريات",
+      "name_urdu": "سورۃ الذاریات",
+      "name_english": "Adh-Dhariyat",
+      "english_meaning": "The Winnowing Winds",
+      "revelation_type": "Meccan",
+      "revelation_order": 67,
+      "total_verses": 60,
+      "total_rukus": 3,
+      "start_page_15_line": 521,
+      "start_page_16_line": "469",
+      "juz_numbers": [
+        26,
+        27
+      ]
+    },
+    {
+      "surah_id": 52,
+      "name_arabic": "الطور",
+      "name_urdu": "سورۃ الطو ر",
+      "name_english": "At-Tur",
+      "english_meaning": "The Mount",
+      "revelation_type": "Meccan",
+      "revelation_order": 76,
+      "total_verses": 49,
+      "total_rukus": 2,
+      "start_page_15_line": 524,
+      "start_page_16_line": "472",
+      "juz_numbers": [
+        27
+      ]
+    },
+    {
+      "surah_id": 53,
+      "name_arabic": "النجم",
+      "name_urdu": "سورۃ النجم",
+      "name_english": "An-Najm",
+      "english_meaning": "The Star",
+      "revelation_type": "Meccan",
+      "revelation_order": 23,
+      "total_verses": 62,
+      "total_rukus": 3,
+      "start_page_15_line": 527,
+      "start_page_16_line": "474",
+      "juz_numbers": [
+        27
+      ]
+    },
+    {
+      "surah_id": 54,
+      "name_arabic": "القمر",
+      "name_urdu": "سورۃ القمر",
+      "name_english": "Al-Qamar",
+      "english_meaning": "The Moon",
+      "revelation_type": "Meccan",
+      "revelation_order": 37,
+      "total_verses": 55,
+      "total_rukus": 3,
+      "start_page_15_line": 529,
+      "start_page_16_line": "476",
+      "juz_numbers": [
+        27
+      ]
+    },
+    {
+      "surah_id": 55,
+      "name_arabic": "الرحمن",
+      "name_urdu": "سورۃ الرحمن",
+      "name_english": "Ar-Rahman",
+      "english_meaning": "The Beneficent",
+      "revelation_type": "Medinan",
+      "revelation_order": 97,
+      "total_verses": 78,
+      "total_rukus": 3,
+      "start_page_15_line": 532,
+      "start_page_16_line": "479",
+      "juz_numbers": [
+        27
+      ]
+    },
+    {
+      "surah_id": 56,
+      "name_arabic": "الواقعة",
+      "name_urdu": "سورۃ الواقعہ",
+      "name_english": "Al-Waqi'ah",
+      "english_meaning": "The Inevitable",
+      "revelation_type": "Meccan",
+      "revelation_order": 46,
+      "total_verses": 96,
+      "total_rukus": 3,
+      "start_page_15_line": 535,
+      "start_page_16_line": "482",
+      "juz_numbers": [
+        27
+      ]
+    },
+    {
+      "surah_id": 57,
+      "name_arabic": "الحديد",
+      "name_urdu": "سورۃ الحدید",
+      "name_english": "Al-Hadid",
+      "english_meaning": "The Iron",
+      "revelation_type": "Medinan",
+      "revelation_order": 94,
+      "total_verses": 29,
+      "total_rukus": 4,
+      "start_page_15_line": 538,
+      "start_page_16_line": "485",
+      "juz_numbers": [
+        27
+      ]
+    },
+    {
+      "surah_id": 58,
+      "name_arabic": "المجادلة",
+      "name_urdu": "سورۃ المجادلہ",
+      "name_english": "Al-Mujadila",
+      "english_meaning": "The Pleading Woman",
+      "revelation_type": "Medinan",
+      "revelation_order": 105,
+      "total_verses": 22,
+      "total_rukus": 3,
+      "start_page_15_line": 543,
+      "start_page_16_line": "489",
+      "juz_numbers": [
+        28
+      ]
+    },
+    {
+      "surah_id": 59,
+      "name_arabic": "الحشر",
+      "name_urdu": "سورۃ الحشر",
+      "name_english": "Al-Hashr",
+      "english_meaning": "The Exile",
+      "revelation_type": "Medinan",
+      "revelation_order": 101,
+      "total_verses": 24,
+      "total_rukus": 3,
+      "start_page_15_line": 546,
+      "start_page_16_line": "492",
+      "juz_numbers": [
+        28
+      ]
+    },
+    {
+      "surah_id": 60,
+      "name_arabic": "الممتحنة",
+      "name_urdu": "سورۃ الممتحنہ",
+      "name_english": "Al-Mumtahanah",
+      "english_meaning": "She that is to be examined",
+      "revelation_type": "Medinan",
+      "revelation_order": 91,
+      "total_verses": 13,
+      "total_rukus": 2,
+      "start_page_15_line": 550,
+      "start_page_16_line": "496",
+      "juz_numbers": [
+        28
+      ]
+    },
+    {
+      "surah_id": 61,
+      "name_arabic": "الصف",
+      "name_urdu": "سورۃ الصف",
+      "name_english": "As-Saf",
+      "english_meaning": "The Ranks",
+      "revelation_type": "Medinan",
+      "revelation_order": 109,
+      "total_verses": 14,
+      "total_rukus": 2,
+      "start_page_15_line": 552,
+      "start_page_16_line": "498",
+      "juz_numbers": [
+        28
+      ]
+    },
+    {
+      "surah_id": 62,
+      "name_arabic": "الجمعة",
+      "name_urdu": "سورۃ الجمعہ",
+      "name_english": "Al-Jumu'ah",
+      "english_meaning": "The Congregation, Friday",
+      "revelation_type": "Medinan",
+      "revelation_order": 110,
+      "total_verses": 11,
+      "total_rukus": 2,
+      "start_page_15_line": 554,
+      "start_page_16_line": "500",
+      "juz_numbers": [
+        28
+      ]
+    },
+    {
+      "surah_id": 63,
+      "name_arabic": "المنافقون",
+      "name_urdu": "سورۃ المنافقون",
+      "name_english": "Al-Munafiqun",
+      "english_meaning": "The Hypocrites",
+      "revelation_type": "Medinan",
+      "revelation_order": 104,
+      "total_verses": 11,
+      "total_rukus": 2,
+      "start_page_15_line": 555,
+      "start_page_16_line": "502",
+      "juz_numbers": [
+        28
+      ]
+    },
+    {
+      "surah_id": 64,
+      "name_arabic": "التغابن",
+      "name_urdu": "سورۃ التغابن",
+      "name_english": "At-Taghabun",
+      "english_meaning": "The Mutual Disillusion",
+      "revelation_type": "Medinan",
+      "revelation_order": 108,
+      "total_verses": 18,
+      "total_rukus": 2,
+      "start_page_15_line": 557,
+      "start_page_16_line": "503",
+      "juz_numbers": [
+        28
+      ]
+    },
+    {
+      "surah_id": 65,
+      "name_arabic": "الطلاق",
+      "name_urdu": "سورۃ الطلاق",
+      "name_english": "At-Talaq",
+      "english_meaning": "The Divorce",
+      "revelation_type": "Medinan",
+      "revelation_order": 99,
+      "total_verses": 12,
+      "total_rukus": 2,
+      "start_page_15_line": 559,
+      "start_page_16_line": "505",
+      "juz_numbers": [
+        28
+      ]
+    },
+    {
+      "surah_id": 66,
+      "name_arabic": "التحريم",
+      "name_urdu": "سورۃ التحریم",
+      "name_english": "At-Tahrim",
+      "english_meaning": "The Prohibition",
+      "revelation_type": "Medinan",
+      "revelation_order": 107,
+      "total_verses": 12,
+      "total_rukus": 2,
+      "start_page_15_line": 561,
+      "start_page_16_line": "507",
+      "juz_numbers": [
+        28
+      ]
+    },
+    {
+      "surah_id": 67,
+      "name_arabic": "الملك",
+      "name_urdu": "سورۃ الملک",
+      "name_english": "Al-Mulk",
+      "english_meaning": "The Sovereignty",
+      "revelation_type": "Meccan",
+      "revelation_order": 77,
+      "total_verses": 30,
+      "total_rukus": 2,
+      "start_page_15_line": 563,
+      "start_page_16_line": "509",
+      "juz_numbers": [
+        29
+      ]
+    },
+    {
+      "surah_id": 68,
+      "name_arabic": "القلم",
+      "name_urdu": "سورۃ القلم",
+      "name_english": "Al-Qalam",
+      "english_meaning": "The Pen",
+      "revelation_type": "Meccan",
+      "revelation_order": 2,
+      "total_verses": 52,
+      "total_rukus": 2,
+      "start_page_15_line": 565,
+      "start_page_16_line": "511",
+      "juz_numbers": [
+        29
+      ]
+    },
+    {
+      "surah_id": 69,
+      "name_arabic": "الحاقة",
+      "name_urdu": "سورۃ الحاقۃ",
+      "name_english": "Al-Haqqah",
+      "english_meaning": "The Reality",
+      "revelation_type": "Meccan",
+      "revelation_order": 78,
+      "total_verses": 52,
+      "total_rukus": 2,
+      "start_page_15_line": 568,
+      "start_page_16_line": "513",
+      "juz_numbers": [
+        29
+      ]
+    },
+    {
+      "surah_id": 70,
+      "name_arabic": "المعارج",
+      "name_urdu": "سورۃ المعارج",
+      "name_english": "Al-Ma'arij",
+      "english_meaning": "The Ascending Stairways",
+      "revelation_type": "Meccan",
+      "revelation_order": 79,
+      "total_verses": 44,
+      "total_rukus": 2,
+      "start_page_15_line": 570,
+      "start_page_16_line": "515",
+      "juz_numbers": [
+        29
+      ]
+    },
+    {
+      "surah_id": 71,
+      "name_arabic": "نوح",
+      "name_urdu": "سورۃ نوح",
+      "name_english": "Nuh",
+      "english_meaning": "Noah",
+      "revelation_type": "Meccan",
+      "revelation_order": 71,
+      "total_verses": 28,
+      "total_rukus": 2,
+      "start_page_15_line": 572,
+      "start_page_16_line": "517",
+      "juz_numbers": [
+        29
+      ]
+    },
+    {
+      "surah_id": 72,
+      "name_arabic": "الجن",
+      "name_urdu": "سورۃ الجن",
+      "name_english": "Al-Jinn",
+      "english_meaning": "The Jinn",
+      "revelation_type": "Meccan",
+      "revelation_order": 40,
+      "total_verses": 28,
+      "total_rukus": 2,
+      "start_page_15_line": 574,
+      "start_page_16_line": "519",
+      "juz_numbers": [
+        29
+      ]
+    },
+    {
+      "surah_id": 73,
+      "name_arabic": "المزمل",
+      "name_urdu": "سورۃ المزمل",
+      "name_english": "Al-Muzzammil",
+      "english_meaning": "The Enshrouded One",
+      "revelation_type": "Meccan",
+      "revelation_order": 3,
+      "total_verses": 20,
+      "total_rukus": 2,
+      "start_page_15_line": 577,
+      "start_page_16_line": "521",
+      "juz_numbers": [
+        29
+      ]
+    },
+    {
+      "surah_id": 74,
+      "name_arabic": "المدثر",
+      "name_urdu": "سورۃ المدثر",
+      "name_english": "Al-Muddaththir",
+      "english_meaning": "The Cloaked One",
+      "revelation_type": "Meccan",
+      "revelation_order": 4,
+      "total_verses": 56,
+      "total_rukus": 2,
+      "start_page_15_line": 579,
+      "start_page_16_line": "522",
+      "juz_numbers": [
+        29
+      ]
+    },
+    {
+      "surah_id": 75,
+      "name_arabic": "القيامة",
+      "name_urdu": "سورۃ القیامہ",
+      "name_english": "Al-Qiyamah",
+      "english_meaning": "The Resurrection",
+      "revelation_type": "Meccan",
+      "revelation_order": 31,
+      "total_verses": 40,
+      "total_rukus": 2,
+      "start_page_15_line": 581,
+      "start_page_16_line": "524",
+      "juz_numbers": [
+        29
+      ]
+    },
+    {
+      "surah_id": 76,
+      "name_arabic": "الإنسان",
+      "name_urdu": "سورۃ الانسان",
+      "name_english": "Al-Insan",
+      "english_meaning": "The Man",
+      "revelation_type": "Medinan",
+      "revelation_order": 98,
+      "total_verses": 31,
+      "total_rukus": 2,
+      "start_page_15_line": 583,
+      "start_page_16_line": "525",
+      "juz_numbers": [
+        29
+      ]
+    },
+    {
+      "surah_id": 77,
+      "name_arabic": "المرسلات",
+      "name_urdu": "سورۃ المرسلات",
+      "name_english": "Al-Mursalat",
+      "english_meaning": "The Emissaries",
+      "revelation_type": "Meccan",
+      "revelation_order": 33,
+      "total_verses": 50,
+      "total_rukus": 2,
+      "start_page_15_line": 585,
+      "start_page_16_line": "527",
+      "juz_numbers": [
+        29
+      ]
+    },
+    {
+      "surah_id": 78,
+      "name_arabic": "النبأ",
+      "name_urdu": "سورۃ النبا",
+      "name_english": "An-Naba",
+      "english_meaning": "The Tidings",
+      "revelation_type": "Meccan",
+      "revelation_order": 80,
+      "total_verses": 40,
+      "total_rukus": 2,
+      "start_page_15_line": 587,
+      "start_page_16_line": "529",
+      "juz_numbers": [
+        30
+      ]
+    },
+    {
+      "surah_id": 79,
+      "name_arabic": "النازعات",
+      "name_urdu": "سورۃ النازعات",
+      "name_english": "An-Nazi'at",
+      "english_meaning": "Those who drag forth",
+      "revelation_type": "Meccan",
+      "revelation_order": 81,
+      "total_verses": 46,
+      "total_rukus": 2,
+      "start_page_15_line": 588,
+      "start_page_16_line": "530",
+      "juz_numbers": [
+        30
+      ]
+    },
+    {
+      "surah_id": 80,
+      "name_arabic": "عبس",
+      "name_urdu": "سورۃ عبس",
+      "name_english": "'Abasa",
+      "english_meaning": "He Frowned",
+      "revelation_type": "Meccan",
+      "revelation_order": 24,
+      "total_verses": 42,
+      "total_rukus": 1,
+      "start_page_15_line": 590,
+      "start_page_16_line": "531",
+      "juz_numbers": [
+        30
+      ]
+    },
+    {
+      "surah_id": 81,
+      "name_arabic": "التكوير",
+      "name_urdu": "سورۃ التکویر",
+      "name_english": "At-Takwir",
+      "english_meaning": "The Overthrowing",
+      "revelation_type": "Meccan",
+      "revelation_order": 7,
+      "total_verses": 29,
+      "total_rukus": 1,
+      "start_page_15_line": 591,
+      "start_page_16_line": "532",
+      "juz_numbers": [
+        30
+      ]
+    },
+    {
+      "surah_id": 82,
+      "name_arabic": "الانفطار",
+      "name_urdu": "سورۃ الانفطار",
+      "name_english": "Al-Infitar",
+      "english_meaning": "The Cleaving",
+      "revelation_type": "Meccan",
+      "revelation_order": 82,
+      "total_verses": 19,
+      "total_rukus": 1,
+      "start_page_15_line": 592,
+      "start_page_16_line": "533",
+      "juz_numbers": [
+        30
+      ]
+    },
+    {
+      "surah_id": 83,
+      "name_arabic": "المطففين",
+      "name_urdu": "سورۃ المطففین",
+      "name_english": "Al-Mutaffifin",
+      "english_meaning": "The Defrauding",
+      "revelation_type": "Meccan",
+      "revelation_order": 86,
+      "total_verses": 36,
+      "total_rukus": 1,
+      "start_page_15_line": 593,
+      "start_page_16_line": "534",
+      "juz_numbers": [
+        30
+      ]
+    },
+    {
+      "surah_id": 84,
+      "name_arabic": "الانشقاق",
+      "name_urdu": "سورۃ الانشقاق",
+      "name_english": "Al-Inshiqaq",
+      "english_meaning": "The Splitting Asunder",
+      "revelation_type": "Meccan",
+      "revelation_order": 83,
+      "total_verses": 25,
+      "total_rukus": 1,
+      "start_page_15_line": 595,
+      "start_page_16_line": "535",
+      "juz_numbers": [
+        30
+      ]
+    },
+    {
+      "surah_id": 85,
+      "name_arabic": "البروج",
+      "name_urdu": "سورۃ البروج",
+      "name_english": "Al-Buruj",
+      "english_meaning": "The Mansions of the Stars",
+      "revelation_type": "Meccan",
+      "revelation_order": 27,
+      "total_verses": 22,
+      "total_rukus": 1,
+      "start_page_15_line": 596,
+      "start_page_16_line": "536",
+      "juz_numbers": [
+        30
+      ]
+    },
+    {
+      "surah_id": 86,
+      "name_arabic": "الطارق",
+      "name_urdu": "سورۃ الطارق",
+      "name_english": "At-Tariq",
+      "english_meaning": "The Morning Star",
+      "revelation_type": "Meccan",
+      "revelation_order": 36,
+      "total_verses": 17,
+      "total_rukus": 1,
+      "start_page_15_line": 597,
+      "start_page_16_line": "537",
+      "juz_numbers": [
+        30
+      ]
+    },
+    {
+      "surah_id": 87,
+      "name_arabic": "الأعلى",
+      "name_urdu": "سورۃ الاعلیٰ",
+      "name_english": "Al-A'la",
+      "english_meaning": "The Most High",
+      "revelation_type": "Meccan",
+      "revelation_order": 8,
+      "total_verses": 19,
+      "total_rukus": 1,
+      "start_page_15_line": 598,
+      "start_page_16_line": "538",
+      "juz_numbers": [
+        30
+      ]
+    },
+    {
+      "surah_id": 88,
+      "name_arabic": "الغاشية",
+      "name_urdu": "سورۃ الغاشیہ",
+      "name_english": "Al-Ghashiyah",
+      "english_meaning": "The Overwhelming",
+      "revelation_type": "Meccan",
+      "revelation_order": 68,
+      "total_verses": 26,
+      "total_rukus": 1,
+      "start_page_15_line": 598,
+      "start_page_16_line": "538",
+      "juz_numbers": [
+        30
+      ]
+    },
+    {
+      "surah_id": 89,
+      "name_arabic": "الفجر",
+      "name_urdu": "سورۃ الفجر",
+      "name_english": "Al-Fajr",
+      "english_meaning": "The Dawn",
+      "revelation_type": "Meccan",
+      "revelation_order": 10,
+      "total_verses": 30,
+      "total_rukus": 1,
+      "start_page_15_line": 599,
+      "start_page_16_line": "539",
+      "juz_numbers": [
+        30
+      ]
+    },
+    {
+      "surah_id": 90,
+      "name_arabic": "البلد",
+      "name_urdu": "سورۃ البلد",
+      "name_english": "Al-Balad",
+      "english_meaning": "The City",
+      "revelation_type": "Meccan",
+      "revelation_order": 35,
+      "total_verses": 20,
+      "total_rukus": 1,
+      "start_page_15_line": 601,
+      "start_page_16_line": "540",
+      "juz_numbers": [
+        30
+      ]
+    },
+    {
+      "surah_id": 91,
+      "name_arabic": "الشمس",
+      "name_urdu": "سورۃ الشمس",
+      "name_english": "Ash-Shams",
+      "english_meaning": "The Sun",
+      "revelation_type": "Meccan",
+      "revelation_order": 26,
+      "total_verses": 15,
+      "total_rukus": 1,
+      "start_page_15_line": 601,
+      "start_page_16_line": "541",
+      "juz_numbers": [
+        30
+      ]
+    },
+    {
+      "surah_id": 92,
+      "name_arabic": "الليل",
+      "name_urdu": "سورۃ اللیل",
+      "name_english": "Al-Layl",
+      "english_meaning": "The Night",
+      "revelation_type": "Meccan",
+      "revelation_order": 9,
+      "total_verses": 21,
+      "total_rukus": 1,
+      "start_page_15_line": 602,
+      "start_page_16_line": "541",
+      "juz_numbers": [
+        30
+      ]
+    },
+    {
+      "surah_id": 93,
+      "name_arabic": "الضحى",
+      "name_urdu": "سورۃ الضحیٰ",
+      "name_english": "Ad-Duhaa",
+      "english_meaning": "The Morning Hours",
+      "revelation_type": "Meccan",
+      "revelation_order": 11,
+      "total_verses": 11,
+      "total_rukus": 1,
+      "start_page_15_line": 603,
+      "start_page_16_line": "542",
+      "juz_numbers": [
+        30
+      ]
+    },
+    {
+      "surah_id": 94,
+      "name_arabic": "الشرح",
+      "name_urdu": "سورۃ الانشراح",
+      "name_english": "Ash-Sharh",
+      "english_meaning": "The Relief",
+      "revelation_type": "Meccan",
+      "revelation_order": 12,
+      "total_verses": 8,
+      "total_rukus": 1,
+      "start_page_15_line": 603,
+      "start_page_16_line": "542",
+      "juz_numbers": [
+        30
+      ]
+    },
+    {
+      "surah_id": 95,
+      "name_arabic": "التين",
+      "name_urdu": "سورۃ التین",
+      "name_english": "At-Tin",
+      "english_meaning": "The Fig",
+      "revelation_type": "Meccan",
+      "revelation_order": 28,
+      "total_verses": 8,
+      "total_rukus": 1,
+      "start_page_15_line": 604,
+      "start_page_16_line": "543",
+      "juz_numbers": [
+        30
+      ]
+    },
+    {
+      "surah_id": 96,
+      "name_arabic": "العلق",
+      "name_urdu": "سورۃ العلق",
+      "name_english": "Al-'Alaq",
+      "english_meaning": "The Clot",
+      "revelation_type": "Meccan",
+      "revelation_order": 1,
+      "total_verses": 19,
+      "total_rukus": 1,
+      "start_page_15_line": 604,
+      "start_page_16_line": "543",
+      "juz_numbers": [
+        30
+      ]
+    },
+    {
+      "surah_id": 97,
+      "name_arabic": "القدر",
+      "name_urdu": "سورۃ القدر",
+      "name_english": "Al-Qadr",
+      "english_meaning": "The Power",
+      "revelation_type": "Meccan",
+      "revelation_order": 25,
+      "total_verses": 5,
+      "total_rukus": 1,
+      "start_page_15_line": 605,
+      "start_page_16_line": "544",
+      "juz_numbers": [
+        30
+      ]
+    },
+    {
+      "surah_id": 98,
+      "name_arabic": "البينة",
+      "name_urdu": "سورۃ البیّنہ",
+      "name_english": "Al-Bayyinah",
+      "english_meaning": "The Clear Proof",
+      "revelation_type": "Medinan",
+      "revelation_order": 100,
+      "total_verses": 8,
+      "total_rukus": 1,
+      "start_page_15_line": 605,
+      "start_page_16_line": "544",
+      "juz_numbers": [
+        30
+      ]
+    },
+    {
+      "surah_id": 99,
+      "name_arabic": "الزلزلة",
+      "name_urdu": "سورۃ الزلزال",
+      "name_english": "Az-Zalzalah",
+      "english_meaning": "The Earthquake",
+      "revelation_type": "Medinan",
+      "revelation_order": 93,
+      "total_verses": 8,
+      "total_rukus": 1,
+      "start_page_15_line": 606,
+      "start_page_16_line": "545",
+      "juz_numbers": [
+        30
+      ]
+    },
+    {
+      "surah_id": 100,
+      "name_arabic": "العاديات",
+      "name_urdu": "سورۃ العادیات",
+      "name_english": "Al-'Adiyat",
+      "english_meaning": "The Courser",
+      "revelation_type": "Meccan",
+      "revelation_order": 14,
+      "total_verses": 11,
+      "total_rukus": 1,
+      "start_page_15_line": 606,
+      "start_page_16_line": "545",
+      "juz_numbers": [
+        30
+      ]
+    },
+    {
+      "surah_id": 101,
+      "name_arabic": "القارعة",
+      "name_urdu": "سورۃ القارعہ",
+      "name_english": "Al-Qari'ah",
+      "english_meaning": "The Calamity",
+      "revelation_type": "Meccan",
+      "revelation_order": 30,
+      "total_verses": 11,
+      "total_rukus": 1,
+      "start_page_15_line": 607,
+      "start_page_16_line": "545",
+      "juz_numbers": [
+        30
+      ]
+    },
+    {
+      "surah_id": 102,
+      "name_arabic": "التكاثر",
+      "name_urdu": "سورۃ التکاثر",
+      "name_english": "At-Takathur",
+      "english_meaning": "The Rivalry in world increase",
+      "revelation_type": "Meccan",
+      "revelation_order": 16,
+      "total_verses": 8,
+      "total_rukus": 1,
+      "start_page_15_line": 607,
+      "start_page_16_line": "546",
+      "juz_numbers": [
+        30
+      ]
+    },
+    {
+      "surah_id": 103,
+      "name_arabic": "العصر",
+      "name_urdu": "سورۃ العصر",
+      "name_english": "Al-'Asr",
+      "english_meaning": "The Declining Day",
+      "revelation_type": "Meccan",
+      "revelation_order": 13,
+      "total_verses": 3,
+      "total_rukus": 1,
+      "start_page_15_line": 608,
+      "start_page_16_line": "546",
+      "juz_numbers": [
+        30
+      ]
+    },
+    {
+      "surah_id": 104,
+      "name_arabic": "الهمزة",
+      "name_urdu": "سورۃ الہمزہ",
+      "name_english": "Al-Humazah",
+      "english_meaning": "The Traducer",
+      "revelation_type": "Meccan",
+      "revelation_order": 32,
+      "total_verses": 9,
+      "total_rukus": 1,
+      "start_page_15_line": 608,
+      "start_page_16_line": "546",
+      "juz_numbers": [
+        30
+      ]
+    },
+    {
+      "surah_id": 105,
+      "name_arabic": "الفيل",
+      "name_urdu": "سورۃ الفیل",
+      "name_english": "Al-Fil",
+      "english_meaning": "The Elephant",
+      "revelation_type": "Meccan",
+      "revelation_order": 19,
+      "total_verses": 5,
+      "total_rukus": 1,
+      "start_page_15_line": 608,
+      "start_page_16_line": "547",
+      "juz_numbers": [
+        30
+      ]
+    },
+    {
+      "surah_id": 106,
+      "name_arabic": "قريش",
+      "name_urdu": "سورۃ القریش",
+      "name_english": "Quraysh",
+      "english_meaning": "Quraysh",
+      "revelation_type": "Meccan",
+      "revelation_order": 29,
+      "total_verses": 4,
+      "total_rukus": 1,
+      "start_page_15_line": 609,
+      "start_page_16_line": "547",
+      "juz_numbers": [
+        30
+      ]
+    },
+    {
+      "surah_id": 107,
+      "name_arabic": "الماعون",
+      "name_urdu": "سورۃ الماعون",
+      "name_english": "Al-Ma'un",
+      "english_meaning": "The Small kindnesses",
+      "revelation_type": "Meccan",
+      "revelation_order": 17,
+      "total_verses": 7,
+      "total_rukus": 1,
+      "start_page_15_line": 609,
+      "start_page_16_line": "547",
+      "juz_numbers": [
+        30
+      ]
+    },
+    {
+      "surah_id": 108,
+      "name_arabic": "الکوثر",
+      "name_urdu": "سورۃ الکوثر",
+      "name_english": "Al-Kawthar",
+      "english_meaning": "The Abundance",
+      "revelation_type": "Meccan",
+      "revelation_order": 15,
+      "total_verses": 3,
+      "total_rukus": 1,
+      "start_page_15_line": 609,
+      "start_page_16_line": "547",
+      "juz_numbers": [
+        30
+      ]
+    },
+    {
+      "surah_id": 109,
+      "name_arabic": "الكافرون",
+      "name_urdu": "سورۃ الکافرون",
+      "name_english": "Al-Kafirun",
+      "english_meaning": "The Disbelievers",
+      "revelation_type": "Meccan",
+      "revelation_order": 18,
+      "total_verses": 6,
+      "total_rukus": 1,
+      "start_page_15_line": 609,
+      "start_page_16_line": "548",
+      "juz_numbers": [
+        30
+      ]
+    },
+    {
+      "surah_id": 110,
+      "name_arabic": "النصر",
+      "name_urdu": "سورۃ النصر",
+      "name_english": "An-Nasr",
+      "english_meaning": "The Divine Support",
+      "revelation_type": "Medinan",
+      "revelation_order": 114,
+      "total_verses": 3,
+      "total_rukus": 1,
+      "start_page_15_line": 610,
+      "start_page_16_line": "548",
+      "juz_numbers": [
+        30
+      ]
+    },
+    {
+      "surah_id": 111,
+      "name_arabic": "المسد",
+      "name_urdu": "سورۃ اللہب",
+      "name_english": "Al-Masad",
+      "english_meaning": "The Palm Fiber",
+      "revelation_type": "Meccan",
+      "revelation_order": 6,
+      "total_verses": 5,
+      "total_rukus": 1,
+      "start_page_15_line": 610,
+      "start_page_16_line": "548",
+      "juz_numbers": [
+        30
+      ]
+    },
+    {
+      "surah_id": 112,
+      "name_arabic": "الإخلاص",
+      "name_urdu": "سورۃ الاخلاص",
+      "name_english": "Al-Ikhlas",
+      "english_meaning": "The Sincerity",
+      "revelation_type": "Meccan",
+      "revelation_order": 22,
+      "total_verses": 4,
+      "total_rukus": 1,
+      "start_page_15_line": 610,
+      "start_page_16_line": "548",
+      "juz_numbers": [
+        30
+      ]
+    },
+    {
+      "surah_id": 113,
+      "name_arabic": "الفلق",
+      "name_urdu": "سورۃ الفلق",
+      "name_english": "Al-Falaq",
+      "english_meaning": "The Daybreak",
+      "revelation_type": "Meccan",
+      "revelation_order": 20,
+      "total_verses": 5,
+      "total_rukus": 1,
+      "start_page_15_line": 610,
+      "start_page_16_line": "549",
+      "juz_numbers": [
+        30
+      ]
+    },
+    {
+      "surah_id": 114,
+      "name_arabic": "الناس",
+      "name_urdu": "سورۃ الناس",
+      "name_english": "An-Nas",
+      "english_meaning": "Mankind",
+      "revelation_type": "Meccan",
+      "revelation_order": 21,
+      "total_verses": 6,
+      "total_rukus": 1,
+      "start_page_15_line": 610,
+      "start_page_16_line": "549",
+      "juz_numbers": [
+        30
+      ]
+    }
+  ],
+  "juz_list": [
+    {
+      "juz_number": 1,
+      "name_arabic": "الم",
+      "name_urdu": "آلم",
+      "name_english": "Alif-Lam-Meem",
+      "start_global_id": 1,
+      "end_global_id": 150,
+      "start_surah_id": 1,
+      "end_surah_id": 2
+    },
+    {
+      "juz_number": 2,
+      "name_arabic": "سيقول",
+      "name_urdu": "سیقول",
+      "name_english": "Sayaqool",
+      "start_global_id": 151,
+      "end_global_id": 261,
+      "start_surah_id": 2,
+      "end_surah_id": 2
+    },
+    {
+      "juz_number": 3,
+      "name_arabic": "تلك الرسل",
+      "name_urdu": "تلک الرسل",
+      "name_english": "Tilka-r-Rusul",
+      "start_global_id": 262,
+      "end_global_id": 387,
+      "start_surah_id": 2,
+      "end_surah_id": 3
+    },
+    {
+      "juz_number": 4,
+      "name_arabic": "لن تنالوا",
+      "name_urdu": "لن تنالوا",
+      "name_english": "Lan Tanaaloo",
+      "start_global_id": 388,
+      "end_global_id": 520,
+      "start_surah_id": 3,
+      "end_surah_id": 4
+    },
+    {
+      "juz_number": 5,
+      "name_arabic": "والمحصنات",
+      "name_urdu": "والمحصنات",
+      "name_english": "Wal-Muhsanat",
+      "start_global_id": 521,
+      "end_global_id": 644,
+      "start_surah_id": 4,
+      "end_surah_id": 4
+    },
+    {
+      "juz_number": 6,
+      "name_arabic": "لا يحب الله",
+      "name_urdu": "لا یحب اللہ",
+      "name_english": "La Yuhibbullah",
+      "start_global_id": 645,
+      "end_global_id": 756,
+      "start_surah_id": 4,
+      "end_surah_id": 5
+    },
+    {
+      "juz_number": 7,
+      "name_arabic": "وإذا سمعوا",
+      "name_urdu": "واذا سمعوا",
+      "name_english": "Wa Iza Sami'oo",
+      "start_global_id": 757,
+      "end_global_id": 905,
+      "start_surah_id": 5,
+      "end_surah_id": 6
+    },
+    {
+      "juz_number": 8,
+      "name_arabic": "ولو أننا",
+      "name_urdu": "ولو اننا",
+      "name_english": "Wa Law Annana",
+      "start_global_id": 906,
+      "end_global_id": 1048,
+      "start_surah_id": 6,
+      "end_surah_id": 7
+    },
+    {
+      "juz_number": 9,
+      "name_arabic": "قال الملأ",
+      "name_urdu": "قال الملا",
+      "name_english": "Qal-al-Mala'o",
+      "start_global_id": 1049,
+      "end_global_id": 1208,
+      "start_surah_id": 7,
+      "end_surah_id": 8
+    },
+    {
+      "juz_number": 10,
+      "name_arabic": "واعلموا",
+      "name_urdu": "واعلموا",
+      "name_english": "Wa'lamoo",
+      "start_global_id": 1209,
+      "end_global_id": 1336,
+      "start_surah_id": 8,
+      "end_surah_id": 9
+    },
+    {
+      "juz_number": 11,
+      "name_arabic": "يعتذرون",
+      "name_urdu": "یعتذرون",
+      "name_english": "Ya'taziroon",
+      "start_global_id": 1337,
+      "end_global_id": 1488,
+      "start_surah_id": 9,
+      "end_surah_id": 11
+    },
+    {
+      "juz_number": 12,
+      "name_arabic": "وما من دابة",
+      "name_urdu": "وما من دابة",
+      "name_english": "Wa Mamin Da'abbah",
+      "start_global_id": 1489,
+      "end_global_id": 1659,
+      "start_surah_id": 11,
+      "end_surah_id": 12
+    },
+    {
+      "juz_number": 13,
+      "name_arabic": "وما أبرئ",
+      "name_urdu": "وما ابری",
+      "name_english": "Wa Ma Ubarri'u",
+      "start_global_id": 1660,
+      "end_global_id": 1817,
+      "start_surah_id": 12,
+      "end_surah_id": 15
+    },
+    {
+      "juz_number": 14,
+      "name_arabic": "ربما",
+      "name_urdu": "ربما",
+      "name_english": "Rubama",
+      "start_global_id": 1818,
+      "end_global_id": 2044,
+      "start_surah_id": 15,
+      "end_surah_id": 16
+    },
+    {
+      "juz_number": 15,
+      "name_arabic": "سبحان الذي",
+      "name_urdu": "سبحان الذی",
+      "name_english": "Subhanallazi",
+      "start_global_id": 2045,
+      "end_global_id": 2231,
+      "start_surah_id": 17,
+      "end_surah_id": 18
+    },
+    {
+      "juz_number": 16,
+      "name_arabic": "قال ألم",
+      "name_urdu": "قال الم",
+      "name_english": "Qal Alam",
+      "start_global_id": 2232,
+      "end_global_id": 2502,
+      "start_surah_id": 18,
+      "end_surah_id": 20
+    },
+    {
+      "juz_number": 17,
+      "name_arabic": "اقترب للناس",
+      "name_urdu": "اقترب للناس",
+      "name_english": "Iqtaraba",
+      "start_global_id": 2503,
+      "end_global_id": 2694,
+      "start_surah_id": 21,
+      "end_surah_id": 22
+    },
+    {
+      "juz_number": 18,
+      "name_arabic": "قد أفلح",
+      "name_urdu": "قد افلح",
+      "name_english": "Qad Aflaha",
+      "start_global_id": 2695,
+      "end_global_id": 2899,
+      "start_surah_id": 23,
+      "end_surah_id": 25
+    },
+    {
+      "juz_number": 19,
+      "name_arabic": "وقال الذين",
+      "name_urdu": "وقال الذین",
+      "name_english": "Wa Qalallazina",
+      "start_global_id": 2900,
+      "end_global_id": 3244,
+      "start_surah_id": 25,
+      "end_surah_id": 27
+    },
+    {
+      "juz_number": 20,
+      "name_arabic": "أمن خلق",
+      "name_urdu": "امن خلق",
+      "name_english": "Amman Khalaqa",
+      "start_global_id": 3245,
+      "end_global_id": 3412,
+      "start_surah_id": 27,
+      "end_surah_id": 29
+    },
+    {
+      "juz_number": 21,
+      "name_arabic": "اتل ما أوحي",
+      "name_urdu": "اتل ما اوحی",
+      "name_english": "Utlu Ma Oohiya",
+      "start_global_id": 3413,
+      "end_global_id": 3595,
+      "start_surah_id": 29,
+      "end_surah_id": 33
+    },
+    {
+      "juz_number": 22,
+      "name_arabic": "ومن يقنت",
+      "name_urdu": "ومن یقنت",
+      "name_english": "Wa Man Yaqnut",
+      "start_global_id": 3596,
+      "end_global_id": 3761,
+      "start_surah_id": 33,
+      "end_surah_id": 36
+    },
+    {
+      "juz_number": 23,
+      "name_arabic": "وما لي",
+      "name_urdu": "وما لی",
+      "name_english": "Wa Maliya",
+      "start_global_id": 3762,
+      "end_global_id": 4127,
+      "start_surah_id": 36,
+      "end_surah_id": 39
+    },
+    {
+      "juz_number": 24,
+      "name_arabic": "فمن أظلم",
+      "name_urdu": "فمن اظلم",
+      "name_english": "Faman Azlamu",
+      "start_global_id": 4128,
+      "end_global_id": 4304,
+      "start_surah_id": 39,
+      "end_surah_id": 41
+    },
+    {
+      "juz_number": 25,
+      "name_arabic": "إليه يرد",
+      "name_urdu": "الیہ یرد",
+      "name_english": "Ilayhi Yuraddu",
+      "start_global_id": 4305,
+      "end_global_id": 4554,
+      "start_surah_id": 41,
+      "end_surah_id": 45
+    },
+    {
+      "juz_number": 26,
+      "name_arabic": "حم",
+      "name_urdu": "حم",
+      "name_english": "Ha-Meem",
+      "start_global_id": 4555,
+      "end_global_id": 4755,
+      "start_surah_id": 46,
+      "end_surah_id": 51
+    },
+    {
+      "juz_number": 27,
+      "name_arabic": "قال فما خطبكم",
+      "name_urdu": "قال فما خطبکم",
+      "name_english": "Qala Fama Khatbukum",
+      "start_global_id": 4756,
+      "end_global_id": 5160,
+      "start_surah_id": 51,
+      "end_surah_id": 57
+    },
+    {
+      "juz_number": 28,
+      "name_arabic": "قد سمع الله",
+      "name_urdu": "قد سمع اللہ",
+      "name_english": "Qad Sami'allah",
+      "start_global_id": 5161,
+      "end_global_id": 5306,
+      "start_surah_id": 58,
+      "end_surah_id": 66
+    },
+    {
+      "juz_number": 29,
+      "name_arabic": "تبارك الذي",
+      "name_urdu": "تبارک الذی",
+      "name_english": "Tabarakallazi",
+      "start_global_id": 5307,
+      "end_global_id": 5748,
+      "start_surah_id": 67,
+      "end_surah_id": 77
+    },
+    {
+      "juz_number": 30,
+      "name_arabic": "عم يتساءلون",
+      "name_urdu": "عم یتساءلون",
+      "name_english": "'Amma Yatasa'aloon",
+      "start_global_id": 5749,
+      "end_global_id": 6349,
+      "start_surah_id": 78,
+      "end_surah_id": 114
+    }
+  ],
+  "translations": [
+    {
+      "file_key": "albanian_hasan_nahi",
+      "language": "Albanian",
+      "scholar": "Hasan Efendi Nahi",
+      "title": "KUR'ANI I MADHËRUAR (SHQIP)",
+      "description": "Authorized and published by Islamic Community of Kosovo & Prishtina.",
+      "json_file": "full_quran_translations/albanian/albanian_hasan_nahi.json",
+      "per_surah_path": "surah_XXX/translations/albanian/albanian_hasan_nahi.json",
+      "category_slug": "albanian"
+    },
+    {
+      "file_key": "albanian_sherif_ahmeti",
+      "language": "Albanian",
+      "scholar": "Sherif Ahmeti",
+      "title": "KUR'ANI ME PËRKTHIM DHE KOMENTIM NË GJUHËN SHQIPE",
+      "description": "Official Albanian translation authorized and printed by King Fahd Glorious Quran Printing Complex, Madinah.",
+      "json_file": "full_quran_translations/albanian/albanian_sherif_ahmeti.json",
+      "per_surah_path": "surah_XXX/translations/albanian/albanian_sherif_ahmeti.json",
+      "category_slug": "albanian"
+    },
+    {
+      "file_key": "amharic_sadiq_habib",
+      "language": "Amharic",
+      "scholar": "Muhammed Sadiq & Muhammed Sani Habib",
+      "title": "የቅዱስ ቁርኣን የአማርኛ ትርጉም (HOLY QURAN IN AMHARIC)",
+      "description": "Official Amharic translation for Ethiopia, verified and printed by King Fahd Quran Printing Complex, Madinah.",
+      "json_file": "full_quran_translations/amharic/amharic_sadiq_habib.json",
+      "per_surah_path": "surah_XXX/translations/amharic/amharic_sadiq_habib.json",
+      "category_slug": "amharic"
+    },
+    {
+      "file_key": "bengali_muhiuddin_khan",
+      "language": "Bengali",
+      "scholar": "Maulana Muhiuddin Khan",
+      "title": "পবিত্র কুরআনুল করীম (বাংলা অনুবাদ)",
+      "description": "Official Bengali translation verified by King Fahad Quran Printing Complex",
+      "json_file": "full_quran_translations/bengali/bengali_muhiuddin_khan.json",
+      "per_surah_path": "surah_XXX/translations/bengali/bengali_muhiuddin_khan.json",
+      "category_slug": "bengali"
+    },
+    {
+      "file_key": "bengali_zohurul_hoque",
+      "language": "Bengali",
+      "scholar": "Dr. Zohurul Hoque",
+      "title": "পবিত্র কুরআনুল কারীম (বঙ্গানুবাদ)",
+      "description": "Authoritative Bengali translation noted for classical linguistic precision.",
+      "json_file": "full_quran_translations/bengali/bengali_zohurul_hoque.json",
+      "per_surah_path": "surah_XXX/translations/bengali/bengali_zohurul_hoque.json",
+      "category_slug": "bengali"
+    },
+    {
+      "file_key": "berber_ramdane_at_mensur",
+      "language": "Berber",
+      "scholar": "Ramdane At Mensur",
+      "title": "LE CORAN EN TAMAZIGHT (TAMAZIGHT KABYLE)",
+      "description": "Authentic Amazigh/Berber translation based on classical tafsir methodology.",
+      "json_file": "full_quran_translations/berber/berber_ramdane_at_mensur.json",
+      "per_surah_path": "surah_XXX/translations/berber/berber_ramdane_at_mensur.json",
+      "category_slug": "berber"
+    },
+    {
+      "file_key": "bosnian_besim_korkut",
+      "language": "Bosnian",
+      "scholar": "Besim Korkut",
+      "title": "PREVOD KUR'ANA (BOSANSKI)",
+      "description": "Official standard Bosnian translation",
+      "json_file": "full_quran_translations/bosnian/bosnian_besim_korkut.json",
+      "per_surah_path": "surah_XXX/translations/bosnian/bosnian_besim_korkut.json",
+      "category_slug": "bosnian"
+    },
+    {
+      "file_key": "bosnian_muhamed_mehanovic",
+      "language": "Bosnian",
+      "scholar": "Dr. Muhamed Mehanovic",
+      "title": "KUR'AN SA PREVODOM ZNAČENJA NA BOSANSKI JEZIK",
+      "description": "Authentic Bosnian translation grounded in Tafsir Ibn Kathir.",
+      "json_file": "full_quran_translations/bosnian/bosnian_muhamed_mehanovic.json",
+      "per_surah_path": "surah_XXX/translations/bosnian/bosnian_muhamed_mehanovic.json",
+      "category_slug": "bosnian"
+    },
+    {
+      "file_key": "bosnian_mustafa_mlivo",
+      "language": "Bosnian",
+      "scholar": "Mustafa Mlivo",
+      "title": "KUR'AN SA PREVODOM (MUSTAFA MLIVO)",
+      "description": "Widely circulated authentic Bosnian translation.",
+      "json_file": "full_quran_translations/bosnian/bosnian_mustafa_mlivo.json",
+      "per_surah_path": "surah_XXX/translations/bosnian/bosnian_mustafa_mlivo.json",
+      "category_slug": "bosnian"
+    },
+    {
+      "file_key": "bulgarian_tzvetan_theophanov",
+      "language": "Bulgarian",
+      "scholar": "Prof. Tzvetan Theophanov",
+      "title": "СВЕЩЕНИЯТ КОРАН (ПРЕВОД НА БЪЛГАРСКИ ЕЗИК)",
+      "description": "Official Bulgarian translation approved by the Chief Muftiate of the Muslims in the Republic of Bulgaria.",
+      "json_file": "full_quran_translations/bulgarian/bulgarian_tzvetan_theophanov.json",
+      "per_surah_path": "surah_XXX/translations/bulgarian/bulgarian_tzvetan_theophanov.json",
+      "category_slug": "bulgarian"
+    },
+    {
+      "file_key": "burmese_ghazi_hashim",
+      "language": "Burmese",
+      "scholar": "Ghazi Muhammed Hashim",
+      "title": "မြန်မာဘာသာပြန် ကုရ်အာန်ကျမ်းမြတ် (THE HOLY QURAN IN BURMESE)",
+      "description": "Widely authorized and standard Burmese translation.",
+      "json_file": "full_quran_translations/burmese/burmese_ghazi_hashim.json",
+      "per_surah_path": "surah_XXX/translations/burmese/burmese_ghazi_hashim.json",
+      "category_slug": "burmese"
+    },
+    {
+      "file_key": "chechen_magomed_magomedov",
+      "language": "Chechen",
+      "scholar": "Magomed Magomedov",
+      "title": "КЪОРӀАН НОХЧИЙН МАТТАХЬ (THE HOLY QURAN IN CHECHEN)",
+      "description": "Approved by the Spiritual Administration of Muslims of the Chechen Republic (DUM ChR).",
+      "json_file": "full_quran_translations/chechen/chechen_magomed_magomedov.json",
+      "per_surah_path": "surah_XXX/translations/chechen/chechen_magomed_magomedov.json",
+      "category_slug": "chechen"
+    },
+    {
+      "file_key": "chinese_muhammad_ma_jian",
+      "language": "Chinese",
+      "scholar": "Muhammad Ma Jian (马坚)",
+      "title": "古兰经 (汉语译文)",
+      "description": "Official Chinese translation approved by King Fahad Quran Printing Complex",
+      "json_file": "full_quran_translations/chinese/chinese_muhammad_ma_jian.json",
+      "per_surah_path": "surah_XXX/translations/chinese/chinese_muhammad_ma_jian.json",
+      "category_slug": "chinese"
+    },
+    {
+      "file_key": "dutch_fred_leemhuis",
+      "language": "Dutch",
+      "scholar": "Prof. Dr. Fred Leemhuis",
+      "title": "DE KORAN: EEN WEERGAVE VAN DE BETEKENIS VAN DE ARABISCHE TEKST",
+      "description": "Standard contemporary Dutch academic translation, University of Groningen.",
+      "json_file": "full_quran_translations/dutch/dutch_fred_leemhuis.json",
+      "per_surah_path": "surah_XXX/translations/dutch/dutch_fred_leemhuis.json",
+      "category_slug": "dutch"
+    },
+    {
+      "file_key": "dutch_salomo_keyzer",
+      "language": "Dutch",
+      "scholar": "Salomo Keyzer",
+      "title": "DE KORAN, VOORAFGEGAAN DOOR HET LEVEN VAN MAHOMET",
+      "description": "Pioneering Dutch translation of the Holy Quran.",
+      "json_file": "full_quran_translations/dutch/dutch_salomo_keyzer.json",
+      "per_surah_path": "surah_XXX/translations/dutch/dutch_salomo_keyzer.json",
+      "category_slug": "dutch"
+    },
+    {
+      "file_key": "dutch_sofjan_siregar",
+      "language": "Dutch",
+      "scholar": "Sofjan S. Siregar",
+      "title": "DE EDELE KORAN: EEN VERTALING VAN DE BETEKENISSEN",
+      "description": "Published and verified by the Islamic Cultural Center of the Netherlands (ICCN).",
+      "json_file": "full_quran_translations/dutch/dutch_sofjan_siregar.json",
+      "per_surah_path": "surah_XXX/translations/dutch/dutch_sofjan_siregar.json",
+      "category_slug": "dutch"
+    },
+    {
+      "file_key": "english_abdul_majid_daryabadi",
+      "language": "English",
+      "scholar": "Maulana Abdul Majid Daryabadi",
+      "title": "TAFSIR-UL-QURAN (ENGLISH TRANSLATION)",
+      "description": "Prominent scholarly orthodox English translation",
+      "json_file": "full_quran_translations/english/english_abdul_majid_daryabadi.json",
+      "per_surah_path": "surah_XXX/translations/english/english_abdul_majid_daryabadi.json",
+      "category_slug": "english"
+    },
+    {
+      "file_key": "english_ali_quli_qarai",
+      "language": "English",
+      "scholar": "Ali Quli Qara'i",
+      "title": "THE QUR'AN WITH A PHRASE-BY-PHRASE ENGLISH TRANSLATION",
+      "description": "Renowned phrase-by-phrase academic English translation.",
+      "json_file": "full_quran_translations/english/english_ali_quli_qarai.json",
+      "per_surah_path": "surah_XXX/translations/english/english_ali_quli_qarai.json",
+      "category_slug": "english"
+    },
+    {
+      "file_key": "english_hasan_qaribullah",
+      "language": "English",
+      "scholar": "Hasan al-Fatih Qaribullah & Ahmad Darwish",
+      "title": "THE QURAN: MODERN ENGLISH TRANSLATION",
+      "description": "Scholarly translation from Umm Durman Islamic University.",
+      "json_file": "full_quran_translations/english/english_hasan_qaribullah.json",
+      "per_surah_path": "surah_XXX/translations/english/english_hasan_qaribullah.json",
+      "category_slug": "english"
+    },
+    {
+      "file_key": "english_hilali_khan",
+      "language": "English",
+      "scholar": "Dr. Muhammad Taqi-ud-Din al-Hilali & Dr. Muhammad Muhsin Khan",
+      "title": "THE NOBLE QURAN (ENGLISH)",
+      "description": "Official English translation published and distributed by King Fahd Complex, Madinah",
+      "json_file": "full_quran_translations/english/english_hilali_khan.json",
+      "per_surah_path": "surah_XXX/translations/english/english_hilali_khan.json",
+      "category_slug": "english"
+    },
+    {
+      "file_key": "english_marmaduke_pickthall",
+      "language": "English",
+      "scholar": "Mohammed Marmaduke William Pickthall",
+      "title": "THE MEANING OF THE GLORIOUS KORAN",
+      "description": "First English translation by a Muslim native English speaker, authorized by Al-Azhar",
+      "json_file": "full_quran_translations/english/english_marmaduke_pickthall.json",
+      "per_surah_path": "surah_XXX/translations/english/english_marmaduke_pickthall.json",
+      "category_slug": "english"
+    },
+    {
+      "file_key": "english_maududi",
+      "language": "English",
+      "scholar": "English Maududi",
+      "title": "COMPLETE TRANSLATION",
+      "description": "",
+      "json_file": "full_quran_translations/english/english_maududi.json",
+      "per_surah_path": "surah_XXX/translations/english/english_maududi.json",
+      "category_slug": "english"
+    },
+    {
+      "file_key": "english_mohammad_shakir",
+      "language": "English",
+      "scholar": "Mohammad Habib Shakir",
+      "title": "THE HOLY QUR'AN: ENGLISH TRANSLATION",
+      "description": "Classical English translation widely referenced in Islamic studies.",
+      "json_file": "full_quran_translations/english/english_mohammad_shakir.json",
+      "per_surah_path": "surah_XXX/translations/english/english_mohammad_shakir.json",
+      "category_slug": "english"
+    },
+    {
+      "file_key": "english_muhammad_asad",
+      "language": "English",
+      "scholar": "Muhammad Asad (Leopold Weiss)",
+      "title": "THE MESSAGE OF THE QUR'AN",
+      "description": "Acclaimed intellectual English translation and commentary",
+      "json_file": "full_quran_translations/english/english_muhammad_asad.json",
+      "per_surah_path": "surah_XXX/translations/english/english_muhammad_asad.json",
+      "category_slug": "english"
+    },
+    {
+      "file_key": "english_muhammad_sarwar",
+      "language": "English",
+      "scholar": "Sheikh Muhammad Sarwar",
+      "title": "THE HOLY QURAN: ARABIC TEXT AND ENGLISH TRANSLATION",
+      "description": "Standard lucid English translation published by Islamic Seminary.",
+      "json_file": "full_quran_translations/english/english_muhammad_sarwar.json",
+      "per_surah_path": "surah_XXX/translations/english/english_muhammad_sarwar.json",
+      "category_slug": "english"
+    },
+    {
+      "file_key": "english_safiur_rahman_mubarakpuri",
+      "language": "English",
+      "scholar": "Shaykh Safi-ur-Rahman al-Mubarakpuri",
+      "title": "TAFSIR IBN KATHIR (ABRIDGED) - ENGLISH TRANSLATION",
+      "description": "Darussalam standard translation by the author of Ar-Raheeq Al-Makhtum (The Sealed Nectar).",
+      "json_file": "full_quran_translations/english/english_safiur_rahman_mubarakpuri.json",
+      "per_surah_path": "surah_XXX/translations/english/english_safiur_rahman_mubarakpuri.json",
+      "category_slug": "english"
+    },
+    {
+      "file_key": "english_saheeh",
+      "language": "English",
+      "scholar": "English Saheeh",
+      "title": "COMPLETE TRANSLATION",
+      "description": "",
+      "json_file": "full_quran_translations/english/english_saheeh.json",
+      "per_surah_path": "surah_XXX/translations/english/english_saheeh.json",
+      "category_slug": "english"
+    },
+    {
+      "file_key": "english_talal_itani",
+      "language": "English",
+      "scholar": "Talal Itani",
+      "title": "THE CLEAR QURAN: A THEMATIC ENGLISH TRANSLATION",
+      "description": "Authorized and approved by Al-Azhar Islamic Research Academy, Cairo.",
+      "json_file": "full_quran_translations/english/english_talal_itani.json",
+      "per_surah_path": "surah_XXX/translations/english/english_talal_itani.json",
+      "category_slug": "english"
+    },
+    {
+      "file_key": "english_wahiduddin_khan",
+      "language": "English",
+      "scholar": "English Wahiduddin Khan",
+      "title": "COMPLETE TRANSLATION",
+      "description": "",
+      "json_file": "full_quran_translations/english/english_wahiduddin_khan.json",
+      "per_surah_path": "surah_XXX/translations/english/english_wahiduddin_khan.json",
+      "category_slug": "english"
+    },
+    {
+      "file_key": "english_yusuf_ali",
+      "language": "English",
+      "scholar": "Abdullah Yusuf Ali",
+      "title": "THE HOLY QUR'AN: TEXT, TRANSLATION AND COMMENTARY",
+      "description": "Historic and widely recognized English translation with notes",
+      "json_file": "full_quran_translations/english/english_yusuf_ali.json",
+      "per_surah_path": "surah_XXX/translations/english/english_yusuf_ali.json",
+      "category_slug": "english"
+    },
+    {
+      "file_key": "french_muhammad_hamidullah",
+      "language": "French",
+      "scholar": "Dr. Muhammad Hamidullah",
+      "title": "LE NOBLE CORAN ET LA TRADUCTION EN LANGUE FRANÇAISE",
+      "description": "Official French translation verified by King Fahad Quran Printing Complex",
+      "json_file": "full_quran_translations/french/french_muhammad_hamidullah.json",
+      "per_surah_path": "surah_XXX/translations/french/french_muhammad_hamidullah.json",
+      "category_slug": "french"
+    },
+    {
+      "file_key": "german_bubenheim_elyas",
+      "language": "German",
+      "scholar": "Frank Bubenheim & Dr. Nadeem Elyas",
+      "title": "DER EDLE QUR'AN UND DIE ÜBERSETZUNG IN DIE DEUTSCHE SPRACHE",
+      "description": "Official German translation approved by King Fahad Quran Printing Complex",
+      "json_file": "full_quran_translations/german/german_bubenheim_elyas.json",
+      "per_surah_path": "surah_XXX/translations/german/german_bubenheim_elyas.json",
+      "category_slug": "german"
+    },
+    {
+      "file_key": "gojri",
+      "language": "Gojri",
+      "scholar": "Gojri",
+      "title": "COMPLETE TRANSLATION",
+      "description": "",
+      "json_file": "full_quran_translations/gojri/gojri.json",
+      "per_surah_path": "surah_XXX/translations/gojri/gojri.json",
+      "category_slug": "gojri"
+    },
+    {
+      "file_key": "hausa_abubakar_gumi",
+      "language": "Hausa",
+      "scholar": "Sheikh Abubakar Mahmoud Gumi",
+      "title": "ALKUR'ANI MAI GIRMA DA KUMA TARJAMAR MA'ANONINSA ZUWA GA HARSHEN HAUSA",
+      "description": "Official Hausa translation published and distributed by King Fahd Glorious Quran Printing Complex, Madinah. King Faisal International Prize laureate.",
+      "json_file": "full_quran_translations/hausa/hausa_abubakar_gumi.json",
+      "per_surah_path": "surah_XXX/translations/hausa/hausa_abubakar_gumi.json",
+      "category_slug": "hausa"
+    },
+    {
+      "file_key": "hindi_farooq_khan_nadwi",
+      "language": "Hindi",
+      "scholar": "Dr. Suhel Farooq Khan & Saifur Rahman Nadwi",
+      "title": "क़ुरआन मजीद (हिन्दी अनुवाद)",
+      "description": "Official and widely circulated authentic Hindi translation.",
+      "json_file": "full_quran_translations/hindi/hindi_farooq_khan_nadwi.json",
+      "per_surah_path": "surah_XXX/translations/hindi/hindi_farooq_khan_nadwi.json",
+      "category_slug": "hindi"
+    },
+    {
+      "file_key": "hindi_muhammad_farooq_khan",
+      "language": "Hindi",
+      "scholar": "Muhammad Farooq Khan & Muhammad Ahmed",
+      "title": "आसान पवित्र क़ुरआन (हिन्दी)",
+      "description": "Renowned Hindi translation published by Maktaba Al-Hasanat.",
+      "json_file": "full_quran_translations/hindi/hindi_muhammad_farooq_khan.json",
+      "per_surah_path": "surah_XXX/translations/hindi/hindi_muhammad_farooq_khan.json",
+      "category_slug": "hindi"
+    },
+    {
+      "file_key": "hindi_palanpuri",
+      "language": "Hindi",
+      "scholar": "Hindi Palanpuri",
+      "title": "COMPLETE TRANSLATION",
+      "description": "",
+      "json_file": "full_quran_translations/hindi/hindi_palanpuri.json",
+      "per_surah_path": "surah_XXX/translations/hindi/hindi_palanpuri.json",
+      "category_slug": "hindi"
+    },
+    {
+      "file_key": "hindi_taqi_usmani",
+      "language": "Hindi",
+      "scholar": "Hindi Taqi Usmani",
+      "title": "COMPLETE TRANSLATION",
+      "description": "",
+      "json_file": "full_quran_translations/hindi/hindi_taqi_usmani.json",
+      "per_surah_path": "surah_XXX/translations/hindi/hindi_taqi_usmani.json",
+      "category_slug": "hindi"
+    },
+    {
+      "file_key": "indonesian_kemenag",
+      "language": "Indonesian",
+      "scholar": "Kementerian Agama Republik Indonesia (Ministry of Religious Affairs)",
+      "title": "AL-QUR'AN DAN TERJEMAHANNYA (BAHASA INDONESIA)",
+      "description": "Official Indonesian translation for 250M+ Muslims",
+      "json_file": "full_quran_translations/indonesian/indonesian_kemenag.json",
+      "per_surah_path": "surah_XXX/translations/indonesian/indonesian_kemenag.json",
+      "category_slug": "indonesian"
+    },
+    {
+      "file_key": "indonesian_quraish_shihab",
+      "language": "Indonesian",
+      "scholar": "Prof. Dr. Muhammad Quraish Shihab et al.",
+      "title": "TAFSIR AL-MISHBAH / AL-MUNTAKHAB (BAHASA INDONESIA)",
+      "description": "Leading Indonesian Quranic scholar and former Minister of Religious Affairs.",
+      "json_file": "full_quran_translations/indonesian/indonesian_quraish_shihab.json",
+      "per_surah_path": "surah_XXX/translations/indonesian/indonesian_quraish_shihab.json",
+      "category_slug": "indonesian"
+    },
+    {
+      "file_key": "italian_hamza_roberto_piccardo",
+      "language": "Italian",
+      "scholar": "Hamza Roberto Piccardo",
+      "title": "IL NOBILE CORANO (ITALIANO)",
+      "description": "Standard Italian translation approved by UCOII",
+      "json_file": "full_quran_translations/italian/italian_hamza_roberto_piccardo.json",
+      "per_surah_path": "surah_XXX/translations/italian/italian_hamza_roberto_piccardo.json",
+      "category_slug": "italian"
+    },
+    {
+      "file_key": "japanese_ryoichi_umar_mita",
+      "language": "Japanese",
+      "scholar": "Ryoichi Umar Mita (三田了一)",
+      "title": "聖クルアーン日亜対訳注解 (THE HOLY QURAN IN JAPANESE)",
+      "description": "Official Japanese translation reviewed, printed, and distributed worldwide by King Fahd Complex, Madinah.",
+      "json_file": "full_quran_translations/japanese/japanese_ryoichi_umar_mita.json",
+      "per_surah_path": "surah_XXX/translations/japanese/japanese_ryoichi_umar_mita.json",
+      "category_slug": "japanese"
+    },
+    {
+      "file_key": "korean_hamed_choi",
+      "language": "Korean",
+      "scholar": "Dr. Hamed Choi & Korea Muslim Federation",
+      "title": "성 꾸란 의미의 한국어 번역 (THE HOLY QURAN IN KOREAN)",
+      "description": "Official Korean translation verified and published by King Fahd Glorious Quran Printing Complex, Madinah.",
+      "json_file": "full_quran_translations/korean/korean_hamed_choi.json",
+      "per_surah_path": "surah_XXX/translations/korean/korean_hamed_choi.json",
+      "category_slug": "korean"
+    },
+    {
+      "file_key": "kurdish_burhan_muhammad_amin",
+      "language": "Kurdish",
+      "scholar": "Burhan Muhammad-Amin",
+      "title": "تەفسیری ئاسان بۆ تێگەیشتنی قورئان (TAFSIRI ASAN)",
+      "description": "Standard Kurdish (Sorani) translation and commentary widely verified across Iraqi Kurdistan.",
+      "json_file": "full_quran_translations/kurdish/kurdish_burhan_muhammad_amin.json",
+      "per_surah_path": "surah_XXX/translations/kurdish/kurdish_burhan_muhammad_amin.json",
+      "category_slug": "kurdish"
+    },
+    {
+      "file_key": "malay_abdullah_basmeih",
+      "language": "Malay",
+      "scholar": "Sheikh Abdullah Muhammad Basmeih",
+      "title": "TAFSIR PIMPINAN AR-RAHMAN KEPADA PENGERTIAN AL-QUR'AN",
+      "description": "Official Malaysian translation commissioned by the Prime Minister's Department and approved by JAKIM.",
+      "json_file": "full_quran_translations/malay/malay_abdullah_basmeih.json",
+      "per_surah_path": "surah_XXX/translations/malay/malay_abdullah_basmeih.json",
+      "category_slug": "malay"
+    },
+    {
+      "file_key": "malayalam_cheriyamundam_abdul_hameed",
+      "language": "Malayalam",
+      "scholar": "Cheriyamundam Abdul Hameed & Kunhi Mohammed Parappoor",
+      "title": "വിശുദ്ധ ഖുർആൻ സമ്പൂർണ്ണ മലയാള പരിഭാഷ",
+      "description": "King Fahd Glorious Quran Printing Complex official translation for Malayalam speakers.",
+      "json_file": "full_quran_translations/malayalam/malayalam_cheriyamundam_abdul_hameed.json",
+      "per_surah_path": "surah_XXX/translations/malayalam/malayalam_cheriyamundam_abdul_hameed.json",
+      "category_slug": "malayalam"
+    },
+    {
+      "file_key": "marathi",
+      "language": "Marathi",
+      "scholar": "Marathi",
+      "title": "COMPLETE TRANSLATION",
+      "description": "",
+      "json_file": "full_quran_translations/marathi/marathi.json",
+      "per_surah_path": "surah_XXX/translations/marathi/marathi.json",
+      "category_slug": "marathi"
+    },
+    {
+      "file_key": "nepali",
+      "language": "Nepali",
+      "scholar": "Nepali",
+      "title": "COMPLETE TRANSLATION",
+      "description": "",
+      "json_file": "full_quran_translations/nepali/nepali.json",
+      "per_surah_path": "surah_XXX/translations/nepali/nepali.json",
+      "category_slug": "nepali"
+    },
+    {
+      "file_key": "norwegian_einar_berg",
+      "language": "Norwegian",
+      "scholar": "Einar Berg",
+      "title": "KORANEN PÅ NORSK (THE HOLY QURAN IN NORWEGIAN)",
+      "description": "Standard authoritative Norwegian translation, Universitetsforlaget.",
+      "json_file": "full_quran_translations/norwegian/norwegian_einar_berg.json",
+      "per_surah_path": "surah_XXX/translations/norwegian/norwegian_einar_berg.json",
+      "category_slug": "norwegian"
+    },
+    {
+      "file_key": "pashto_abdul_wali",
+      "language": "Pashto",
+      "scholar": "Abdul Wali (عبد الولي خان)",
+      "title": "د قرآن کریم پښتو ترجمه",
+      "description": "Authentic Pashto translation",
+      "json_file": "full_quran_translations/pashto/pashto_abdul_wali.json",
+      "per_surah_path": "surah_XXX/translations/pashto/pashto_abdul_wali.json",
+      "category_slug": "pashto"
+    },
+    {
+      "file_key": "persian_hussain_ansarian",
+      "language": "Persian",
+      "scholar": "Sheikh Hussain Ansarian",
+      "title": "ترجمه قرآن کریم (استاد حسین انصاریان)",
+      "description": "Widely acclaimed contemporary Persian translation.",
+      "json_file": "full_quran_translations/persian/persian_hussain_ansarian.json",
+      "per_surah_path": "surah_XXX/translations/persian/persian_hussain_ansarian.json",
+      "category_slug": "persian"
+    },
+    {
+      "file_key": "persian_mohammad_mahdi_fooladvand",
+      "language": "Persian",
+      "scholar": "Mohammad Mahdi Fooladvand (محمد مهدی فولادوند)",
+      "title": "ترجمه قرآن مجید (فارسی)",
+      "description": "Highly authoritative modern Persian translation",
+      "json_file": "full_quran_translations/persian/persian_mohammad_mahdi_fooladvand.json",
+      "per_surah_path": "surah_XXX/translations/persian/persian_mohammad_mahdi_fooladvand.json",
+      "category_slug": "persian"
+    },
+    {
+      "file_key": "persian_mohsen_gharaati",
+      "language": "Persian",
+      "scholar": "Hujjat al-Islam Mohsen Gharaati",
+      "title": "ترجمه و تفسیر نور (حجت‌الاسلام قرائتی)",
+      "description": "Accessible Persian translation and commentary from Tafsir Noor.",
+      "json_file": "full_quran_translations/persian/persian_mohsen_gharaati.json",
+      "per_surah_path": "surah_XXX/translations/persian/persian_mohsen_gharaati.json",
+      "category_slug": "persian"
+    },
+    {
+      "file_key": "persian_mostafa_khorramdel",
+      "language": "Persian",
+      "scholar": "Dr. Mostafa Khorramdel",
+      "title": "تفسیر نور (دکتر مصطفی خرمدل)",
+      "description": "Acclaimed Sunni Kurdish/Persian scholar; comprehensive translation and commentary.",
+      "json_file": "full_quran_translations/persian/persian_mostafa_khorramdel.json",
+      "per_surah_path": "surah_XXX/translations/persian/persian_mostafa_khorramdel.json",
+      "category_slug": "persian"
+    },
+    {
+      "file_key": "persian_naser_makarem_shirazi",
+      "language": "Persian",
+      "scholar": "Grand Ayatollah Naser Makarem Shirazi",
+      "title": "ترجمه قرآن کریم (آیت الله مکارم شیرازی)",
+      "description": "Author of Tafsir Nemouneh; recognized as one of the clearest and most accurate Persian translations.",
+      "json_file": "full_quran_translations/persian/persian_naser_makarem_shirazi.json",
+      "per_surah_path": "surah_XXX/translations/persian/persian_naser_makarem_shirazi.json",
+      "category_slug": "persian"
+    },
+    {
+      "file_key": "polish_jozef_bielawski",
+      "language": "Polish",
+      "scholar": "Prof. Józef Bielawski",
+      "title": "KORAN (PRZEKŁAD JÓZEFA BIELAWSKIEGO)",
+      "description": "Standard Polish translation published under the auspices of the Polish Academy of Sciences (PAN).",
+      "json_file": "full_quran_translations/polish/polish_jozef_bielawski.json",
+      "per_surah_path": "surah_XXX/translations/polish/polish_jozef_bielawski.json",
+      "category_slug": "polish"
+    },
+    {
+      "file_key": "portuguese_samir_el_hayek",
+      "language": "Portuguese",
+      "scholar": "Samir El-Hayek",
+      "title": "O NOBRE ALCORÃO (PORTUGUÊS)",
+      "description": "Standard Portuguese translation",
+      "json_file": "full_quran_translations/portuguese/portuguese_samir_el_hayek.json",
+      "per_surah_path": "surah_XXX/translations/portuguese/portuguese_samir_el_hayek.json",
+      "category_slug": "portuguese"
+    },
+    {
+      "file_key": "punjabi_gurmukhi",
+      "language": "Punjabi",
+      "scholar": "Punjabi Gurmukhi",
+      "title": "COMPLETE TRANSLATION",
+      "description": "",
+      "json_file": "full_quran_translations/punjabi/punjabi_gurmukhi.json",
+      "per_surah_path": "surah_XXX/translations/punjabi/punjabi_gurmukhi.json",
+      "category_slug": "punjabi"
+    },
+    {
+      "file_key": "punjabi_roshan",
+      "language": "Punjabi",
+      "scholar": "Punjabi Roshan",
+      "title": "COMPLETE TRANSLATION",
+      "description": "",
+      "json_file": "full_quran_translations/punjabi/punjabi_roshan.json",
+      "per_surah_path": "surah_XXX/translations/punjabi/punjabi_roshan.json",
+      "category_slug": "punjabi"
+    },
+    {
+      "file_key": "roman_urdu",
+      "language": "Roman Urdu",
+      "scholar": "Roman Urdu",
+      "title": "COMPLETE TRANSLATION",
+      "description": "",
+      "json_file": "full_quran_translations/roman_urdu/roman_urdu.json",
+      "per_surah_path": "surah_XXX/translations/roman_urdu/roman_urdu.json",
+      "category_slug": "roman_urdu"
+    },
+    {
+      "file_key": "roman_urdu_jalandhri",
+      "language": "Roman Urdu",
+      "scholar": "Roman Urdu Jalandhri",
+      "title": "COMPLETE TRANSLATION",
+      "description": "",
+      "json_file": "full_quran_translations/roman_urdu/roman_urdu_jalandhri.json",
+      "per_surah_path": "surah_XXX/translations/roman_urdu/roman_urdu_jalandhri.json",
+      "category_slug": "roman_urdu"
+    },
+    {
+      "file_key": "romanian_george_grigore",
+      "language": "Romanian",
+      "scholar": "Prof. George Grigore",
+      "title": "CORANUL CEL SFÂNT (THE HOLY QURAN IN ROMANIAN)",
+      "description": "Standard authoritative Romanian translation, University of Bucharest.",
+      "json_file": "full_quran_translations/romanian/romanian_george_grigore.json",
+      "per_surah_path": "surah_XXX/translations/romanian/romanian_george_grigore.json",
+      "category_slug": "romanian"
+    },
+    {
+      "file_key": "russian_al_muntahab_ministry_egypt",
+      "language": "Russian",
+      "scholar": "Supreme Council for Islamic Affairs, Ministry of Awqaf, Egypt",
+      "title": "АЛЬ-МУНТАХАБ ФИ ТАФСИР АЛЬ-КУРАН АЛЬ-КАРИМ (НА РУССКОМ ЯЗЫКЕ)",
+      "description": "Official Russian translation and commentary published by the Arab Republic of Egypt.",
+      "json_file": "full_quran_translations/russian/russian_al_muntahab_ministry_egypt.json",
+      "per_surah_path": "surah_XXX/translations/russian/russian_al_muntahab_ministry_egypt.json",
+      "category_slug": "russian"
+    },
+    {
+      "file_key": "russian_elmir_kuliev",
+      "language": "Russian",
+      "scholar": "Elmir Kuliev (Эльмир Кулиев)",
+      "title": "ПЕРЕВОД СМЫСЛОВ СВЯЩЕННОГО КОРАНА НА РУССКИЙ ЯЗЫК",
+      "description": "Official Russian translation approved by King Fahad Quran Printing Complex",
+      "json_file": "full_quran_translations/russian/russian_elmir_kuliev.json",
+      "per_surah_path": "surah_XXX/translations/russian/russian_elmir_kuliev.json",
+      "category_slug": "russian"
+    },
+    {
+      "file_key": "russian_magomed_nuri_osmanov",
+      "language": "Russian",
+      "scholar": "Prof. Magomed-Nuri Osmanovich Osmanov",
+      "title": "КОРАН: ПЕРЕВОД С АРАБСКОГО И КОММЕНТАРИИ",
+      "description": "Institute of Oriental Studies, Russian Academy of Sciences; State Prize of the Russian Federation.",
+      "json_file": "full_quran_translations/russian/russian_magomed_nuri_osmanov.json",
+      "per_surah_path": "surah_XXX/translations/russian/russian_magomed_nuri_osmanov.json",
+      "category_slug": "russian"
+    },
+    {
+      "file_key": "russian_valeriya_porokhova",
+      "language": "Russian",
+      "scholar": "Valeriya (Iman) Porokhova",
+      "title": "КОРАН: ПЕРЕВОД СМЫСЛОВ И КОММЕНТАРИИ",
+      "description": "Poetic translation reviewed, verified, and approved by Al-Azhar Islamic Research Academy, Cairo.",
+      "json_file": "full_quran_translations/russian/russian_valeriya_porokhova.json",
+      "per_surah_path": "surah_XXX/translations/russian/russian_valeriya_porokhova.json",
+      "category_slug": "russian"
+    },
+    {
+      "file_key": "sindhi_taj_mehmood_amroti",
+      "language": "Sindhi",
+      "scholar": "Maulana Taj Mehmood Amroti (مولانا تاج محمود امروٽي)",
+      "title": "سنڌي ترجمو قرآن پاڪ",
+      "description": "Standard classical Sindhi translation",
+      "json_file": "full_quran_translations/sindhi/sindhi_taj_mehmood_amroti.json",
+      "per_surah_path": "surah_XXX/translations/sindhi/sindhi_taj_mehmood_amroti.json",
+      "category_slug": "sindhi"
+    },
+    {
+      "file_key": "sinhala_naseem_ismail",
+      "language": "Sinhala",
+      "scholar": "Naseem Ismail & Masoor Maulana, Kaleel",
+      "title": "ශුද්ධ වූ අල් කුර්ආනය (THE HOLY QURAN IN SINHALA)",
+      "description": "Standard authorized Sinhala translation for Sri Lanka.",
+      "json_file": "full_quran_translations/sinhala/sinhala_naseem_ismail.json",
+      "per_surah_path": "surah_XXX/translations/sinhala/sinhala_naseem_ismail.json",
+      "category_slug": "sinhala"
+    },
+    {
+      "file_key": "somali_mahmud_abduh",
+      "language": "Somali",
+      "scholar": "Mahmud Muhammad Abduh",
+      "title": "QURAANKA KARIIMKA IYO AF-SOOMAALI",
+      "description": "Official Somali translation authorized and published by King Fahd Glorious Quran Printing Complex, Madinah.",
+      "json_file": "full_quran_translations/somali/somali_mahmud_abduh.json",
+      "per_surah_path": "surah_XXX/translations/somali/somali_mahmud_abduh.json",
+      "category_slug": "somali"
+    },
+    {
+      "file_key": "spanish_isa_garcia",
+      "language": "Spanish",
+      "scholar": "Spanish Isa Garcia",
+      "title": "COMPLETE TRANSLATION",
+      "description": "",
+      "json_file": "full_quran_translations/spanish/spanish_isa_garcia.json",
+      "per_surah_path": "surah_XXX/translations/spanish/spanish_isa_garcia.json",
+      "category_slug": "spanish"
+    },
+    {
+      "file_key": "spanish_julio_cortes",
+      "language": "Spanish",
+      "scholar": "Julio Cortés",
+      "title": "EL CORÁN (TRADUCCIÓN DE JULIO CORTÉS)",
+      "description": "Standard authoritative Spanish translation, Editora Nacional.",
+      "json_file": "full_quran_translations/spanish/spanish_julio_cortes.json",
+      "per_surah_path": "surah_XXX/translations/spanish/spanish_julio_cortes.json",
+      "category_slug": "spanish"
+    },
+    {
+      "file_key": "spanish_muhammad_asad",
+      "language": "Spanish",
+      "scholar": "Muhammad Asad & Abdurrasak Pérez",
+      "title": "EL MENSAJE DEL CORÁN (TRADUCCIÓN AL ESPAÑOL)",
+      "description": "Official Spanish translation of Muhammad Asad's monumental English commentary.",
+      "json_file": "full_quran_translations/spanish/spanish_muhammad_asad.json",
+      "per_surah_path": "surah_XXX/translations/spanish/spanish_muhammad_asad.json",
+      "category_slug": "spanish"
+    },
+    {
+      "file_key": "swahili_ali_muhsin_al_barwani",
+      "language": "Swahili",
+      "scholar": "Sheikh Ali Muhsin Al-Barwani",
+      "title": "TARJUMA YA QUR'ANI TUKUFU (KISWAHILI)",
+      "description": "Standard Swahili translation across East Africa",
+      "json_file": "full_quran_translations/swahili/swahili_ali_muhsin_al_barwani.json",
+      "per_surah_path": "surah_XXX/translations/swahili/swahili_ali_muhsin_al_barwani.json",
+      "category_slug": "swahili"
+    },
+    {
+      "file_key": "swedish_knut_bernstrom",
+      "language": "Swedish",
+      "scholar": "Mohammed Knut Bernström",
+      "title": "KORANENS BUDSKAP (THE HOLY QURAN IN SWEDISH)",
+      "description": "Authorized and approved by Al-Azhar Islamic Research Academy, Cairo. Former Swedish diplomat.",
+      "json_file": "full_quran_translations/swedish/swedish_knut_bernstrom.json",
+      "per_surah_path": "surah_XXX/translations/swedish/swedish_knut_bernstrom.json",
+      "category_slug": "swedish"
+    },
+    {
+      "file_key": "tajik_abdolmohammad_ayati",
+      "language": "Tajik",
+      "scholar": "AbdolMohammad Ayati",
+      "title": "ҚУРЪОНИ КАРИМ БО ТАРҶУМАИ ТОҶИКӢ (THE HOLY QURAN IN TAJIK)",
+      "description": "Authentic Tajik Cyrillic translation.",
+      "json_file": "full_quran_translations/tajik/tajik_abdolmohammad_ayati.json",
+      "per_surah_path": "surah_XXX/translations/tajik/tajik_abdolmohammad_ayati.json",
+      "category_slug": "tajik"
+    },
+    {
+      "file_key": "tamil_jan_turst",
+      "language": "Tamil",
+      "scholar": "Jan Turst Foundation / Abdul Hameed Baqavi",
+      "title": "திருக்குர்ஆன் தமிழ் மொழிபெயர்ப்பு (THE HOLY QURAN IN TAMIL)",
+      "description": "Authentic and widely recognized standard Tamil translation.",
+      "json_file": "full_quran_translations/tamil/tamil_jan_turst.json",
+      "per_surah_path": "surah_XXX/translations/tamil/tamil_jan_turst.json",
+      "category_slug": "tamil"
+    },
+    {
+      "file_key": "tatar_yakub_nugman",
+      "language": "Tatar",
+      "scholar": "Yakub Ibn Nugman",
+      "title": "КОРЪӘН КӘРИМ (ТАТАРЧА ТӘРҖЕМӘ)",
+      "description": "Standard Tatar translation approved by the Spiritual Administration of Muslims of Tatarstan.",
+      "json_file": "full_quran_translations/tatar/tatar_yakub_nugman.json",
+      "per_surah_path": "surah_XXX/translations/tatar/tatar_yakub_nugman.json",
+      "category_slug": "tatar"
+    },
+    {
+      "file_key": "telugu",
+      "language": "Telugu",
+      "scholar": "Telugu",
+      "title": "COMPLETE TRANSLATION",
+      "description": "",
+      "json_file": "full_quran_translations/telugu/telugu.json",
+      "per_surah_path": "surah_XXX/translations/telugu/telugu.json",
+      "category_slug": "telugu"
+    },
+    {
+      "file_key": "thai_king_fahad",
+      "language": "Thai",
+      "scholar": "King Fahad Quran Printing Complex Translation Committee",
+      "title": "พระมหาคัมภีร์อัลกุรอานพร้อมความหมายภาษาไทย (THE HOLY QURAN IN THAI)",
+      "description": "Official Thai translation authorized and printed by King Fahd Complex, Madinah.",
+      "json_file": "full_quran_translations/thai/thai_king_fahad.json",
+      "per_surah_path": "surah_XXX/translations/thai/thai_king_fahad.json",
+      "category_slug": "thai"
+    },
+    {
+      "file_key": "turkish_diyanet",
+      "language": "Turkish",
+      "scholar": "T.C. Diyanet İşleri Başkanlığı (Turkish Presidency of Religious Affairs)",
+      "title": "KUR'AN-I KERIM MEALI (TÜRKÇE)",
+      "description": "Official state Turkish translation",
+      "json_file": "full_quran_translations/turkish/turkish_diyanet.json",
+      "per_surah_path": "surah_XXX/translations/turkish/turkish_diyanet.json",
+      "category_slug": "turkish"
+    },
+    {
+      "file_key": "turkish_diyanet_vakfi",
+      "language": "Turkish",
+      "scholar": "Türkiye Diyanet Vakfı (TDV)",
+      "title": "KUR'AN-I KERIM VE AÇIKLAMALI MEALI",
+      "description": "Official translation published by the Turkish Religious Foundation (TDV).",
+      "json_file": "full_quran_translations/turkish/turkish_diyanet_vakfi.json",
+      "per_surah_path": "surah_XXX/translations/turkish/turkish_diyanet_vakfi.json",
+      "category_slug": "turkish"
+    },
+    {
+      "file_key": "turkish_elmalili_hamdi_yazir",
+      "language": "Turkish",
+      "scholar": "Elmalılı Muhammed Hamdi Yazır",
+      "title": "HAK DINI KUR'AN DILI",
+      "description": "The most revered classical Turkish Quran translation",
+      "json_file": "full_quran_translations/turkish/turkish_elmalili_hamdi_yazir.json",
+      "per_surah_path": "surah_XXX/translations/turkish/turkish_elmalili_hamdi_yazir.json",
+      "category_slug": "turkish"
+    },
+    {
+      "file_key": "turkish_suat_yildirim",
+      "language": "Turkish",
+      "scholar": "Prof. Dr. Suat Yıldırım",
+      "title": "KUR'AN-I HAKÎM VE AÇIKLAMALI MEALI",
+      "description": "Prominent contemporary Turkish Quran scholar and professor of Tafsir.",
+      "json_file": "full_quran_translations/turkish/turkish_suat_yildirim.json",
+      "per_surah_path": "surah_XXX/translations/turkish/turkish_suat_yildirim.json",
+      "category_slug": "turkish"
+    },
+    {
+      "file_key": "turkish_suleyman_ates",
+      "language": "Turkish",
+      "scholar": "Prof. Dr. Süleyman Ateş",
+      "title": "YÜCE KUR'AN'IN ÇAĞDAŞ TEFSIRI VE MEALI",
+      "description": "Former President of the Directorate of Religious Affairs (Diyanet) of Turkey.",
+      "json_file": "full_quran_translations/turkish/turkish_suleyman_ates.json",
+      "per_surah_path": "surah_XXX/translations/turkish/turkish_suleyman_ates.json",
+      "category_slug": "turkish"
+    },
+    {
+      "file_key": "urdu_abdul_salam",
+      "language": "Urdu",
+      "scholar": "Urdu Abdul Salam",
+      "title": "COMPLETE TRANSLATION",
+      "description": "",
+      "json_file": "full_quran_translations/urdu/urdu_abdul_salam.json",
+      "per_surah_path": "surah_XXX/translations/urdu/urdu_abdul_salam.json",
+      "category_slug": "urdu"
+    },
+    {
+      "file_key": "urdu_al_burhan",
+      "language": "Urdu",
+      "scholar": "Urdu Al Burhan",
+      "title": "COMPLETE TRANSLATION",
+      "description": "",
+      "json_file": "full_quran_translations/urdu/urdu_al_burhan.json",
+      "per_surah_path": "surah_XXX/translations/urdu/urdu_al_burhan.json",
+      "category_slug": "urdu"
+    },
+    {
+      "file_key": "urdu_ashraf_ali_thanvi",
+      "language": "Urdu",
+      "scholar": "Urdu Ashraf Ali Thanvi",
+      "title": "COMPLETE TRANSLATION",
+      "description": "",
+      "json_file": "full_quran_translations/urdu/urdu_ashraf_ali_thanvi.json",
+      "per_surah_path": "surah_XXX/translations/urdu/urdu_ashraf_ali_thanvi.json",
+      "category_slug": "urdu"
+    },
+    {
+      "file_key": "urdu_bhuttvi",
+      "language": "Urdu",
+      "scholar": "Urdu Bhuttvi",
+      "title": "COMPLETE TRANSLATION",
+      "description": "",
+      "json_file": "full_quran_translations/urdu/urdu_bhuttvi.json",
+      "per_surah_path": "surah_XXX/translations/urdu/urdu_bhuttvi.json",
+      "category_slug": "urdu"
+    },
+    {
+      "file_key": "urdu_fateh_jalandhari",
+      "language": "Urdu",
+      "scholar": "Urdu Fateh Jalandhari",
+      "title": "COMPLETE TRANSLATION",
+      "description": "",
+      "json_file": "full_quran_translations/urdu/urdu_fateh_jalandhari.json",
+      "per_surah_path": "surah_XXX/translations/urdu/urdu_fateh_jalandhari.json",
+      "category_slug": "urdu"
+    },
+    {
+      "file_key": "urdu_fi_zilal",
+      "language": "Urdu",
+      "scholar": "Urdu Fi Zilal",
+      "title": "COMPLETE TRANSLATION",
+      "description": "",
+      "json_file": "full_quran_translations/urdu/urdu_fi_zilal.json",
+      "per_surah_path": "surah_XXX/translations/urdu/urdu_fi_zilal.json",
+      "category_slug": "urdu"
+    },
+    {
+      "file_key": "urdu_junagarhi",
+      "language": "Urdu",
+      "scholar": "Urdu Junagarhi",
+      "title": "COMPLETE TRANSLATION",
+      "description": "",
+      "json_file": "full_quran_translations/urdu/urdu_junagarhi.json",
+      "per_surah_path": "surah_XXX/translations/urdu/urdu_junagarhi.json",
+      "category_slug": "urdu"
+    },
+    {
+      "file_key": "urdu_kanzul_iman",
+      "language": "Urdu",
+      "scholar": "Urdu Kanzul Iman",
+      "title": "COMPLETE TRANSLATION",
+      "description": "",
+      "json_file": "full_quran_translations/urdu/urdu_kanzul_iman.json",
+      "per_surah_path": "surah_XXX/translations/urdu/urdu_kanzul_iman.json",
+      "category_slug": "urdu"
+    },
+    {
+      "file_key": "urdu_maududi",
+      "language": "Urdu",
+      "scholar": "Urdu Maududi",
+      "title": "COMPLETE TRANSLATION",
+      "description": "",
+      "json_file": "full_quran_translations/urdu/urdu_maududi.json",
+      "per_surah_path": "surah_XXX/translations/urdu/urdu_maududi.json",
+      "category_slug": "urdu"
+    },
+    {
+      "file_key": "urdu_muttafiqa",
+      "language": "Urdu",
+      "scholar": "Urdu Muttafiqa",
+      "title": "COMPLETE TRANSLATION",
+      "description": "",
+      "json_file": "full_quran_translations/urdu/urdu_muttafiqa.json",
+      "per_surah_path": "surah_XXX/translations/urdu/urdu_muttafiqa.json",
+      "category_slug": "urdu"
+    },
+    {
+      "file_key": "urdu_najafi",
+      "language": "Urdu",
+      "scholar": "Urdu Najafi",
+      "title": "COMPLETE TRANSLATION",
+      "description": "",
+      "json_file": "full_quran_translations/urdu/urdu_najafi.json",
+      "per_surah_path": "surah_XXX/translations/urdu/urdu_najafi.json",
+      "category_slug": "urdu"
+    },
+    {
+      "file_key": "urdu_noor_ul_amin",
+      "language": "Urdu",
+      "scholar": "Urdu Noor Ul Amin",
+      "title": "COMPLETE TRANSLATION",
+      "description": "",
+      "json_file": "full_quran_translations/urdu/urdu_noor_ul_amin.json",
+      "per_surah_path": "surah_XXX/translations/urdu/urdu_noor_ul_amin.json",
+      "category_slug": "urdu"
+    },
+    {
+      "file_key": "urdu_pir_karam_shah",
+      "language": "Urdu",
+      "scholar": "Urdu Pir Karam Shah",
+      "title": "COMPLETE TRANSLATION",
+      "description": "",
+      "json_file": "full_quran_translations/urdu/urdu_pir_karam_shah.json",
+      "per_surah_path": "surah_XXX/translations/urdu/urdu_pir_karam_shah.json",
+      "category_slug": "urdu"
+    },
+    {
+      "file_key": "urdu_tahir_ul_qadri",
+      "language": "Urdu",
+      "scholar": "Urdu Tahir Ul Qadri",
+      "title": "COMPLETE TRANSLATION",
+      "description": "",
+      "json_file": "full_quran_translations/urdu/urdu_tahir_ul_qadri.json",
+      "per_surah_path": "surah_XXX/translations/urdu/urdu_tahir_ul_qadri.json",
+      "category_slug": "urdu"
+    },
+    {
+      "file_key": "urdu_taqi_usmani",
+      "language": "Urdu",
+      "scholar": "Urdu Taqi Usmani",
+      "title": "COMPLETE TRANSLATION",
+      "description": "",
+      "json_file": "full_quran_translations/urdu/urdu_taqi_usmani.json",
+      "per_surah_path": "surah_XXX/translations/urdu/urdu_taqi_usmani.json",
+      "category_slug": "urdu"
+    },
+    {
+      "file_key": "urdu_tibyan",
+      "language": "Urdu",
+      "scholar": "Urdu Tibyan",
+      "title": "COMPLETE TRANSLATION",
+      "description": "",
+      "json_file": "full_quran_translations/urdu/urdu_tibyan.json",
+      "per_surah_path": "surah_XXX/translations/urdu/urdu_tibyan.json",
+      "category_slug": "urdu"
+    },
+    {
+      "file_key": "urdu_wahiduddin_khan",
+      "language": "Urdu",
+      "scholar": "Urdu Wahiduddin Khan",
+      "title": "COMPLETE TRANSLATION",
+      "description": "",
+      "json_file": "full_quran_translations/urdu/urdu_wahiduddin_khan.json",
+      "per_surah_path": "surah_XXX/translations/urdu/urdu_wahiduddin_khan.json",
+      "category_slug": "urdu"
+    },
+    {
+      "file_key": "uyghur_muhammad_saleh",
+      "language": "Uyghur",
+      "scholar": "Muhammad Saleh Kashgari",
+      "title": "قۇرئان كەرىم ئۇيغۇرچە تەرجىمىسى (THE HOLY QURAN IN UYGHUR)",
+      "description": "Official Uyghur translation authorized and published by King Fahd Glorious Quran Printing Complex, Madinah.",
+      "json_file": "full_quran_translations/uyghur/uyghur_muhammad_saleh.json",
+      "per_surah_path": "surah_XXX/translations/uyghur/uyghur_muhammad_saleh.json",
+      "category_slug": "uyghur"
+    },
+    {
+      "file_key": "uzbek_muhammad_sodik",
+      "language": "Uzbek",
+      "scholar": "Sheikh Muhammad Sodik Muhammad Yusuf",
+      "title": "ТАФСИРИ ҲИЛОЛ (TAFSIRI HILAL - UZBEK)",
+      "description": "Former Grand Mufti of Uzbekistan; most respected Islamic scholar in Central Asia.",
+      "json_file": "full_quran_translations/uzbek/uzbek_muhammad_sodik.json",
+      "per_surah_path": "surah_XXX/translations/uzbek/uzbek_muhammad_sodik.json",
+      "category_slug": "uzbek"
+    },
+    {
+      "file_key": "english_mustafa_khattab",
+      "language": "English",
+      "scholar": "Dr. Mustafa Khattab (The Clear Quran)",
+      "title": "The Clear Quran (A Pure Translation)",
+      "description": "Officially approved by Al-Azhar, noted for clarity, contemporary flow, and fidelity to classical tafsir.",
+      "json_file": "full_quran_translations/english/english_mustafa_khattab.json",
+      "per_surah_path": "surah_XXX/translations/english/english_mustafa_khattab.json",
+      "category_slug": "english"
+    },
+    {
+      "file_key": "english_taqi_usmani",
+      "language": "English",
+      "scholar": "Justice Mufti Muhammad Taqi Usmani",
+      "title": "The Noble Qur'an (English Translation with Explanatory Notes)",
+      "description": "Masterful contemporary English rendering by one of the leading global Islamic jurists and scholars.",
+      "json_file": "full_quran_translations/english/english_taqi_usmani.json",
+      "per_surah_path": "surah_XXX/translations/english/english_taqi_usmani.json",
+      "category_slug": "english"
+    },
+    {
+      "file_key": "urdu_mahmud_al_hasan",
+      "language": "Urdu",
+      "scholar": "Shaykh al-Hind Maulana Mahmud al-Hasan (Deoband)",
+      "title": "Tarjuma Shaykh al-Hind (ترجمہ شیخ الہند)",
+      "description": "One of the most authentic, classical, and universally revered Urdu translations of the Holy Quran.",
+      "json_file": "full_quran_translations/urdu/urdu_mahmud_al_hasan.json",
+      "per_surah_path": "surah_XXX/translations/urdu/urdu_mahmud_al_hasan.json",
+      "category_slug": "urdu"
+    }
+  ],
+  "tafsirs": [
+    {
+      "file_key": "tafseer_abdul_salam",
+      "language": "Urdu",
+      "scholar": "Abdul Salam",
+      "title": "COMPLETE TAFSEER / COMMENTARY",
+      "description": "",
+      "json_file": "full_quran_tafsir/urdu/tafseer_abdul_salam.json",
+      "per_surah_path": "surah_XXX/tafsir/urdu/tafseer_abdul_salam.json",
+      "category_slug": "urdu"
+    },
+    {
+      "file_key": "tafseer_ahsan_ul_bayan",
+      "language": "Urdu",
+      "scholar": "Ahsan Ul Bayan",
+      "title": "COMPLETE TAFSEER / COMMENTARY",
+      "description": "",
+      "json_file": "full_quran_tafsir/urdu/tafseer_ahsan_ul_bayan.json",
+      "per_surah_path": "surah_XXX/tafsir/urdu/tafseer_ahsan_ul_bayan.json",
+      "category_slug": "urdu"
+    },
+    {
+      "file_key": "tafseer_al_baghawi",
+      "language": "Arabic",
+      "scholar": "Imam Al-Baghawi (الإمام الحسين بن مسعود البغوي)",
+      "title": "TAFSEER AL-BAGHAWI (معالم التنزيل - تفسير البغوي)",
+      "description": "Esteemed classical Sunni Athari tafsir",
+      "json_file": "full_quran_tafsir/arabic/tafseer_al_baghawi.json",
+      "per_surah_path": "surah_XXX/tafsir/arabic/tafseer_al_baghawi.json",
+      "category_slug": "arabic"
+    },
+    {
+      "file_key": "tafseer_al_burhan",
+      "language": "Urdu",
+      "scholar": "Al Burhan",
+      "title": "COMPLETE TAFSEER / COMMENTARY",
+      "description": "",
+      "json_file": "full_quran_tafsir/urdu/tafseer_al_burhan.json",
+      "per_surah_path": "surah_XXX/tafsir/urdu/tafseer_al_burhan.json",
+      "category_slug": "urdu"
+    },
+    {
+      "file_key": "tafseer_al_jalalayn",
+      "language": "Arabic",
+      "scholar": "Jalal ad-Din al-Mahalli & Jalal ad-Din as-Suyuti (جلال الدين المحلي وجلال الدين السيوطي)",
+      "title": "TAFSEER AL-JALALAYN (تفسير الجلالين)",
+      "description": "Universal classical benchmark Arabic tafsir taught across Islamic universities",
+      "json_file": "full_quran_tafsir/arabic/tafseer_al_jalalayn.json",
+      "per_surah_path": "surah_XXX/tafsir/arabic/tafseer_al_jalalayn.json",
+      "category_slug": "arabic"
+    },
+    {
+      "file_key": "tafseer_al_muyassar_king_fahad",
+      "language": "Arabic",
+      "scholar": "King Fahad Quran Printing Complex (مجمع الملك فهد لطباعة المصحف الشريف)",
+      "title": "TAFSEER AL-MUYASSAR (التفسير الميسر)",
+      "description": "Official contemporary concise Arabic tafsir published by King Fahad Complex in Madinah",
+      "json_file": "full_quran_tafsir/arabic/tafseer_al_muyassar_king_fahad.json",
+      "per_surah_path": "surah_XXX/tafsir/arabic/tafseer_al_muyassar_king_fahad.json",
+      "category_slug": "arabic"
+    },
+    {
+      "file_key": "tafseer_al_qurtubi",
+      "language": "Arabic",
+      "scholar": "Imam Abu 'Abdullah Al-Qurtubi (الإمام القرطبي)",
+      "title": "TAFSEER AL-QURTUBI (الجامع لأحكام القرآن - تفسير القرطبي)",
+      "description": "Monumental legal and linguistic classical tafsir",
+      "json_file": "full_quran_tafsir/arabic/tafseer_al_qurtubi.json",
+      "per_surah_path": "surah_XXX/tafsir/arabic/tafseer_al_qurtubi.json",
+      "category_slug": "arabic"
+    },
+    {
+      "file_key": "tafseer_al_waseet_tantawi",
+      "language": "Arabic",
+      "scholar": "Dr. Muhammad Sayyid Tantawi, Grand Imam of Al-Azhar (د. محمد سيد طنطاوي)",
+      "title": "AL-TAFSEER AL-WASEET (التفسير الوسيط)",
+      "description": "Comprehensive modern authoritative Al-Azhar tafsir",
+      "json_file": "full_quran_tafsir/arabic/tafseer_al_waseet_tantawi.json",
+      "per_surah_path": "surah_XXX/tafsir/arabic/tafseer_al_waseet_tantawi.json",
+      "category_slug": "arabic"
+    },
+    {
+      "file_key": "tafseer_fi_zilal_il_quran",
+      "language": "Urdu",
+      "scholar": "Fi Zilal Il Quran",
+      "title": "COMPLETE TAFSEER / COMMENTARY",
+      "description": "",
+      "json_file": "full_quran_tafsir/urdu/tafseer_fi_zilal_il_quran.json",
+      "per_surah_path": "surah_XXX/tafsir/urdu/tafseer_fi_zilal_il_quran.json",
+      "category_slug": "urdu"
+    },
+    {
+      "file_key": "tafseer_ibn_kathir",
+      "language": "Urdu",
+      "scholar": "Ibn Kathir",
+      "title": "COMPLETE TAFSEER / COMMENTARY",
+      "description": "",
+      "json_file": "full_quran_tafsir/urdu/tafseer_ibn_kathir.json",
+      "per_surah_path": "surah_XXX/tafsir/urdu/tafseer_ibn_kathir.json",
+      "category_slug": "urdu"
+    },
+    {
+      "file_key": "tafseer_maududi_hindi",
+      "language": "Hindi",
+      "scholar": "Maududi Hindi",
+      "title": "COMPLETE TAFSEER / COMMENTARY",
+      "description": "",
+      "json_file": "full_quran_tafsir/hindi/tafseer_maududi_hindi.json",
+      "per_surah_path": "surah_XXX/tafsir/hindi/tafseer_maududi_hindi.json",
+      "category_slug": "hindi"
+    },
+    {
+      "file_key": "tafseer_maududi_urdu",
+      "language": "Urdu",
+      "scholar": "Maududi Urdu",
+      "title": "COMPLETE TAFSEER / COMMENTARY",
+      "description": "",
+      "json_file": "full_quran_tafsir/urdu/tafseer_maududi_urdu.json",
+      "per_surah_path": "surah_XXX/tafsir/urdu/tafseer_maududi_urdu.json",
+      "category_slug": "urdu"
+    },
+    {
+      "file_key": "tafseer_tadabbur_ul_quran",
+      "language": "Urdu",
+      "scholar": "Tadabbur Ul Quran",
+      "title": "COMPLETE TAFSEER / COMMENTARY",
+      "description": "",
+      "json_file": "full_quran_tafsir/urdu/tafseer_tadabbur_ul_quran.json",
+      "per_surah_path": "surah_XXX/tafsir/urdu/tafseer_tadabbur_ul_quran.json",
+      "category_slug": "urdu"
+    },
+    {
+      "file_key": "tafseer_tafheem_english",
+      "language": "English",
+      "scholar": "Tafheem English",
+      "title": "COMPLETE TAFSEER / COMMENTARY",
+      "description": "",
+      "json_file": "full_quran_tafsir/english/tafseer_tafheem_english.json",
+      "per_surah_path": "surah_XXX/tafsir/english/tafseer_tafheem_english.json",
+      "category_slug": "english"
+    },
+    {
+      "file_key": "tafseer_taqi_usmani",
+      "language": "Urdu",
+      "scholar": "Taqi Usmani",
+      "title": "COMPLETE TAFSEER / COMMENTARY",
+      "description": "",
+      "json_file": "full_quran_tafsir/urdu/tafseer_taqi_usmani.json",
+      "per_surah_path": "surah_XXX/tafsir/urdu/tafseer_taqi_usmani.json",
+      "category_slug": "urdu"
+    },
+    {
+      "file_key": "tafseer_tibyan_ul_quran",
+      "language": "Urdu",
+      "scholar": "Tibyan Ul Quran",
+      "title": "COMPLETE TAFSEER / COMMENTARY",
+      "description": "",
+      "json_file": "full_quran_tafsir/urdu/tafseer_tibyan_ul_quran.json",
+      "per_surah_path": "surah_XXX/tafsir/urdu/tafseer_tibyan_ul_quran.json",
+      "category_slug": "urdu"
+    },
+    {
+      "file_key": "tafseer_wahiduddin_english",
+      "language": "English",
+      "scholar": "Wahiduddin English",
+      "title": "COMPLETE TAFSEER / COMMENTARY",
+      "description": "",
+      "json_file": "full_quran_tafsir/english/tafseer_wahiduddin_english.json",
+      "per_surah_path": "surah_XXX/tafsir/english/tafseer_wahiduddin_english.json",
+      "category_slug": "english"
+    },
+    {
+      "file_key": "tafseer_wahiduddin_urdu",
+      "language": "Urdu",
+      "scholar": "Wahiduddin Urdu",
+      "title": "COMPLETE TAFSEER / COMMENTARY",
+      "description": "",
+      "json_file": "full_quran_tafsir/urdu/tafseer_wahiduddin_urdu.json",
+      "per_surah_path": "surah_XXX/tafsir/urdu/tafseer_wahiduddin_urdu.json",
+      "category_slug": "urdu"
+    },
+    {
+      "file_key": "tafseer_zia_ul_quran",
+      "language": "Urdu",
+      "scholar": "Zia Ul Quran",
+      "title": "COMPLETE TAFSEER / COMMENTARY",
+      "description": "",
+      "json_file": "full_quran_tafsir/urdu/tafseer_zia_ul_quran.json",
+      "per_surah_path": "surah_XXX/tafsir/urdu/tafseer_zia_ul_quran.json",
+      "category_slug": "urdu"
+    },
+    {
+      "file_key": "tafseer_al_tabari_arabic",
+      "language": "Arabic",
+      "scholar": "Imam Abu Ja'far Muhammad ibn Jarir at-Tabari (839–923 CE)",
+      "title": "Jami' al-Bayan 'an Ta'wil Ay al-Qur'an (جامع البيان عن تأويل آي القرآن)",
+      "description": "The foundational premier classical Tafsir bil-Ma'thur in Islamic history.",
+      "json_file": "full_quran_tafsir/arabic/tafseer_al_tabari_arabic.json",
+      "per_surah_path": "surah_XXX/tafsir/arabic/tafseer_al_tabari_arabic.json",
+      "category_slug": "arabic"
+    },
+    {
+      "file_key": "tafseer_as_saadi_arabic",
+      "language": "Arabic",
+      "scholar": "Shaykh Abd al-Rahman ibn Nasir as-Sa'di (1889–1956 CE)",
+      "title": "Taysir al-Karim al-Rahman fi Tafsir Kalam al-Mannan (تيسير الكريم الرحمن في تفسير كلام المنان)",
+      "description": "Highly revered, authentic, clear, and comprehensive exegesis in classical contemporary Arabic.",
+      "json_file": "full_quran_tafsir/arabic/tafseer_as_saadi_arabic.json",
+      "per_surah_path": "surah_XXX/tafsir/arabic/tafseer_as_saadi_arabic.json",
+      "category_slug": "arabic"
+    },
+    {
+      "file_key": "tafseer_ibn_kathir_arabic",
+      "language": "Arabic",
+      "scholar": "Hafiz Imad ad-Din Isma'il ibn Kathir (1300–1373 CE)",
+      "title": "Tafsir al-Qur'an al-'Azim - Arabic Original (تفسير القرآن العظيم)",
+      "description": "Classical Arabic unabridged text of the most widely read Tafsir in the Islamic world.",
+      "json_file": "full_quran_tafsir/arabic/tafseer_ibn_kathir_arabic.json",
+      "per_surah_path": "surah_XXX/tafsir/arabic/tafseer_ibn_kathir_arabic.json",
+      "category_slug": "arabic"
+    },
+    {
+      "file_key": "tafseer_ibn_kathir_english",
+      "language": "English",
+      "scholar": "Hafiz Imad ad-Din Isma'il ibn Kathir",
+      "title": "Tafsir Ibn Kathir (Abridged/Unabridged English Commentary)",
+      "description": "Comprehensive English translation of Hafiz Ibn Kathir's renowned exegesis.",
+      "json_file": "full_quran_tafsir/english/tafseer_ibn_kathir_english.json",
+      "per_surah_path": "surah_XXX/tafsir/english/tafseer_ibn_kathir_english.json",
+      "category_slug": "english"
+    },
+    {
+      "file_key": "tafseer_maarif_ul_quran_english",
+      "language": "English",
+      "scholar": "Grand Mufti Muhammad Shafi Usmani (trans. Prof. Muhammad Hasan Askari)",
+      "title": "Ma'ariful Qur'an (Comprehensive English Commentary)",
+      "description": "Renowned 8-volume scholarly Urdu exegesis rendered into English with deep Fiqh and Hadith insights.",
+      "json_file": "full_quran_tafsir/english/tafseer_maarif_ul_quran_english.json",
+      "per_surah_path": "surah_XXX/tafsir/english/tafseer_maarif_ul_quran_english.json",
+      "category_slug": "english"
+    },
+    {
+      "file_key": "tafseer_bayan_ul_quran_dr_israr",
+      "language": "Urdu",
+      "scholar": "Dr. Israr Ahmad",
+      "title": "Bayan-ul-Quran (بیان القرآن - ڈاکٹر اسرار احمد)",
+      "description": "Profound Urdu Quranic commentary emphasizing modern revival, social reform, and contemplation.",
+      "json_file": "full_quran_tafsir/urdu/tafseer_bayan_ul_quran_dr_israr.json",
+      "per_surah_path": "surah_XXX/tafsir/urdu/tafseer_bayan_ul_quran_dr_israr.json",
+      "category_slug": "urdu"
+    }
+  ],
+  "categories_index": "quran_categories.json",
+  "per_surah_complete_file": "complete.json"
+}

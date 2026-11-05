@@ -1,0 +1,302 @@
+[
+  {
+    "juz_number": 1,
+    "name_arabic": "الم",
+    "name_urdu": "آلم",
+    "name_english": "Alif-Lam-Meem",
+    "start_global_id": 1,
+    "end_global_id": 150,
+    "start_surah_id": 1,
+    "end_surah_id": 2
+  },
+  {
+    "juz_number": 2,
+    "name_arabic": "سيقول",
+    "name_urdu": "سیقول",
+    "name_english": "Sayaqool",
+    "start_global_id": 151,
+    "end_global_id": 261,
+    "start_surah_id": 2,
+    "end_surah_id": 2
+  },
+  {
+    "juz_number": 3,
+    "name_arabic": "تلك الرسل",
+    "name_urdu": "تلک الرسل",
+    "name_english": "Tilka-r-Rusul",
+    "start_global_id": 262,
+    "end_global_id": 387,
+    "start_surah_id": 2,
+    "end_surah_id": 3
+  },
+  {
+    "juz_number": 4,
+    "name_arabic": "لن تنالوا",
+    "name_urdu": "لن تنالوا",
+    "name_english": "Lan Tanaaloo",
+    "start_global_id": 388,
+    "end_global_id": 520,
+    "start_surah_id": 3,
+    "end_surah_id": 4
+  },
+  {
+    "juz_number": 5,
+    "name_arabic": "والمحصنات",
+    "name_urdu": "والمحصنات",
+    "name_english": "Wal-Muhsanat",
+    "start_global_id": 521,
+    "end_global_id": 644,
+    "start_surah_id": 4,
+    "end_surah_id": 4
+  },
+  {
+    "juz_number": 6,
+    "name_arabic": "لا يحب الله",
+    "name_urdu": "لا یحب اللہ",
+    "name_english": "La Yuhibbullah",
+    "start_global_id": 645,
+    "end_global_id": 756,
+    "start_surah_id": 4,
+    "end_surah_id": 5
+  },
+  {
+    "juz_number": 7,
+    "name_arabic": "وإذا سمعوا",
+    "name_urdu": "واذا سمعوا",
+    "name_english": "Wa Iza Sami'oo",
+    "start_global_id": 757,
+    "end_global_id": 905,
+    "start_surah_id": 5,
+    "end_surah_id": 6
+  },
+  {
+    "juz_number": 8,
+    "name_arabic": "ولو أننا",
+    "name_urdu": "ولو اننا",
+    "name_english": "Wa Law Annana",
+    "start_global_id": 906,
+    "end_global_id": 1048,
+    "start_surah_id": 6,
+    "end_surah_id": 7
+  },
+  {
+    "juz_number": 9,
+    "name_arabic": "قال الملأ",
+    "name_urdu": "قال الملا",
+    "name_english": "Qal-al-Mala'o",
+    "start_global_id": 1049,
+    "end_global_id": 1208,
+    "start_surah_id": 7,
+    "end_surah_id": 8
+  },
+  {
+    "juz_number": 10,
+    "name_arabic": "واعلموا",
+    "name_urdu": "واعلموا",
+    "name_english": "Wa'lamoo",
+    "start_global_id": 1209,
+    "end_global_id": 1336,
+    "start_surah_id": 8,
+    "end_surah_id": 9
+  },
+  {
+    "juz_number": 11,
+    "name_arabic": "يعتذرون",
+    "name_urdu": "یعتذرون",
+    "name_english": "Ya'taziroon",
+    "start_global_id": 1337,
+    "end_global_id": 1488,
+    "start_surah_id": 9,
+    "end_surah_id": 11
+  },
+  {
+    "juz_number": 12,
+    "name_arabic": "وما من دابة",
+    "name_urdu": "وما من دابة",
+    "name_english": "Wa Mamin Da'abbah",
+    "start_global_id": 1489,
+    "end_global_id": 1659,
+    "start_surah_id": 11,
+    "end_surah_id": 12
+  },
+  {
+    "juz_number": 13,
+    "name_arabic": "وما أبرئ",
+    "name_urdu": "وما ابری",
+    "name_english": "Wa Ma Ubarri'u",
+    "start_global_id": 1660,
+    "end_global_id": 1817,
+    "start_surah_id": 12,
+    "end_surah_id": 15
+  },
+  {
+    "juz_number": 14,
+    "name_arabic": "ربما",
+    "name_urdu": "ربما",
+    "name_english": "Rubama",
+    "start_global_id": 1818,
+    "end_global_id": 2044,
+    "start_surah_id": 15,
+    "end_surah_id": 16
+  },
+  {
+    "juz_number": 15,
+    "name_arabic": "سبحان الذي",
+    "name_urdu": "سبحان الذی",
+    "name_english": "Subhanallazi",
+    "start_global_id": 2045,
+    "end_global_id": 2231,
+    "start_surah_id": 17,
+    "end_surah_id": 18
+  },
+  {
+    "juz_number": 16,
+    "name_arabic": "قال ألم",
+    "name_urdu": "قال الم",
+    "name_english": "Qal Alam",
+    "start_global_id": 2232,
+    "end_global_id": 2502,
+    "start_surah_id": 18,
+    "end_surah_id": 20
+  },
+  {
+    "juz_number": 17,
+    "name_arabic": "اقترب للناس",
+    "name_urdu": "اقترب للناس",
+    "name_english": "Iqtaraba",
+    "start_global_id": 2503,
+    "end_global_id": 2694,
+    "start_surah_id": 21,
+    "end_surah_id": 22
+  },
+  {
+    "juz_number": 18,
+    "name_arabic": "قد أفلح",
+    "name_urdu": "قد افلح",
+    "name_english": "Qad Aflaha",
+    "start_global_id": 2695,
+    "end_global_id": 2899,
+    "start_surah_id": 23,
+    "end_surah_id": 25
+  },
+  {
+    "juz_number": 19,
+    "name_arabic": "وقال الذين",
+    "name_urdu": "وقال الذین",
+    "name_english": "Wa Qalallazina",
+    "start_global_id": 2900,
+    "end_global_id": 3244,
+    "start_surah_id": 25,
+    "end_surah_id": 27
+  },
+  {
+    "juz_number": 20,
+    "name_arabic": "أمن خلق",
+    "name_urdu": "امن خلق",
+    "name_english": "Amman Khalaqa",
+    "start_global_id": 3245,
+    "end_global_id": 3412,
+    "start_surah_id": 27,
+    "end_surah_id": 29
+  },
+  {
+    "juz_number": 21,
+    "name_arabic": "اتل ما أوحي",
+    "name_urdu": "اتل ما اوحی",
+    "name_english": "Utlu Ma Oohiya",
+    "start_global_id": 3413,
+    "end_global_id": 3595,
+    "start_surah_id": 29,
+    "end_surah_id": 33
+  },
+  {
+    "juz_number": 22,
+    "name_arabic": "ومن يقنت",
+    "name_urdu": "ومن یقنت",
+    "name_english": "Wa Man Yaqnut",
+    "start_global_id": 3596,
+    "end_global_id": 3761,
+    "start_surah_id": 33,
+    "end_surah_id": 36
+  },
+  {
+    "juz_number": 23,
+    "name_arabic": "وما لي",
+    "name_urdu": "وما لی",
+    "name_english": "Wa Maliya",
+    "start_global_id": 3762,
+    "end_global_id": 4127,
+    "start_surah_id": 36,
+    "end_surah_id": 39
+  },
+  {
+    "juz_number": 24,
+    "name_arabic": "فمن أظلم",
+    "name_urdu": "فمن اظلم",
+    "name_english": "Faman Azlamu",
+    "start_global_id": 4128,
+    "end_global_id": 4304,
+    "start_surah_id": 39,
+    "end_surah_id": 41
+  },
+  {
+    "juz_number": 25,
+    "name_arabic": "إليه يرد",
+    "name_urdu": "الیہ یرد",
+    "name_english": "Ilayhi Yuraddu",
+    "start_global_id": 4305,
+    "end_global_id": 4554,
+    "start_surah_id": 41,
+    "end_surah_id": 45
+  },
+  {
+    "juz_number": 26,
+    "name_arabic": "حم",
+    "name_urdu": "حم",
+    "name_english": "Ha-Meem",
+    "start_global_id": 4555,
+    "end_global_id": 4755,
+    "start_surah_id": 46,
+    "end_surah_id": 51
+  },
+  {
+    "juz_number": 27,
+    "name_arabic": "قال فما خطبكم",
+    "name_urdu": "قال فما خطبکم",
+    "name_english": "Qala Fama Khatbukum",
+    "start_global_id": 4756,
+    "end_global_id": 5160,
+    "start_surah_id": 51,
+    "end_surah_id": 57
+  },
+  {
+    "juz_number": 28,
+    "name_arabic": "قد سمع الله",
+    "name_urdu": "قد سمع اللہ",
+    "name_english": "Qad Sami'allah",
+    "start_global_id": 5161,
+    "end_global_id": 5306,
+    "start_surah_id": 58,
+    "end_surah_id": 66
+  },
+  {
+    "juz_number": 29,
+    "name_arabic": "تبارك الذي",
+    "name_urdu": "تبارک الذی",
+    "name_english": "Tabarakallazi",
+    "start_global_id": 5307,
+    "end_global_id": 5748,
+    "start_surah_id": 67,
+    "end_surah_id": 77
+  },
+  {
+    "juz_number": 30,
+    "name_arabic": "عم يتساءلون",
+    "name_urdu": "عم یتساءلون",
+    "name_english": "'Amma Yatasa'aloon",
+    "start_global_id": 5749,
+    "end_global_id": 6349,
+    "start_surah_id": 78,
+    "end_surah_id": 114
+  }
+]
